@@ -20,6 +20,8 @@ Use a library prefix to filter by library. For example, `ri:fa:book`, `ri:im:use
 
 Read below for more information.
 
+> Loving it? **[Rate it here!](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-icons-snippets&ssr=false#review-details)**
+
 ## 📚 Supported languages (file extensions)
 - JavaScript (.js)
 - JavaScript React (.jsx)

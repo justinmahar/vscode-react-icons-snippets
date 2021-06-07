@@ -1,0 +1,390 @@
+{
+  "name": "react-icons-snippets",
+  "displayName": "React-Icons Snippets",
+  "description": "Code snippets for React-Icons 👏",
+  "version": "1.0.0",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#330814",
+    "theme": "dark"
+  },
+  "publisher": "justinmahar",
+  "keywords": [
+    "react-icons",
+    "snippets",
+    "react",
+    "icons",
+    "ant design icons",
+    "bootstrap icons",
+    "boxicons",
+    "devicons",
+    "feather",
+    "flat color icons",
+    "font awesome",
+    "game icons",
+    "github octicons icons",
+    "grommet-icons",
+    "grommet icons",
+    "heroicons",
+    "icomoon",
+    "ionicons",
+    "material design icons",
+    "remix icon",
+    "simple icons",
+    "typicons",
+    "vs code icons",
+    "weather icons",
+    "css.gg"
+  ],
+  "homepage": "https://github.com/justinmahar/vscode-react-icons-snippets/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinmahar/vscode-react-icons-snippets.git"
+  },
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/ant-design-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/ant-design-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/ant-design-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/ant-design-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/bootstrap.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/bootstrap.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/bootstrap.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/bootstrap.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/box-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/box-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/box-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/box-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/css-gg.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/css-gg.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/css-gg.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/css-gg.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/devicons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/devicons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/devicons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/devicons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/feather.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/feather.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/feather.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/feather.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/flat-color-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/flat-color-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/flat-color-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/flat-color-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/font-awesome.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/font-awesome.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/font-awesome.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/font-awesome.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/game-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/game-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/game-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/game-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/github-octicons-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/github-octicons-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/github-octicons-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/github-octicons-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/grommet-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/grommet-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/grommet-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/grommet-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/heroicons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/heroicons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/heroicons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/heroicons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/ico-moon.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/ico-moon.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/ico-moon.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/ico-moon.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/ionicons-4.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/ionicons-4.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/ionicons-4.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/ionicons-4.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/ionicons-5.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/ionicons-5.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/ionicons-5.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/ionicons-5.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/material-design-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/material-design-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/material-design-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/material-design-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/remix-icon.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/remix-icon.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/remix-icon.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/remix-icon.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/simple-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/simple-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/simple-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/simple-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/typicons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/typicons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/typicons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/typicons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/vs-code-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/vs-code-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/vs-code-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/vs-code-icons.code-snippets"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/weather-icons.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/weather-icons.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/weather-icons.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/weather-icons.code-snippets"
+      }
+    ]
+  }
+}

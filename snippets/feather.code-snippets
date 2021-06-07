@@ -1,0 +1,4577 @@
+{
+  "Import FiActivity (Feather)": {
+    "prefix": "ri:fi:import:activity",
+    "body": "import { FiActivity } from 'react-icons/fi';",
+    "description": "Import FiActivity Feather icon from react-icons"
+  },
+  "Import FiActivity (Feather) from all-files": {
+    "prefix": "ri:fi:import:activity:all-files",
+    "body": "import { FiActivity } from '@react-icons/all-files/fi/FiActivity';",
+    "description": "Import FiActivity Feather icon from @react-icons/all-files/fi/FiActivity"
+  },
+  "FiActivity (Feather)": {
+    "prefix": "ri:fi:activity",
+    "body": "<FiActivity />",
+    "description": "FiActivity Feather icon"
+  },
+
+  "Import FiAirplay (Feather)": {
+    "prefix": "ri:fi:import:airplay",
+    "body": "import { FiAirplay } from 'react-icons/fi';",
+    "description": "Import FiAirplay Feather icon from react-icons"
+  },
+  "Import FiAirplay (Feather) from all-files": {
+    "prefix": "ri:fi:import:airplay:all-files",
+    "body": "import { FiAirplay } from '@react-icons/all-files/fi/FiAirplay';",
+    "description": "Import FiAirplay Feather icon from @react-icons/all-files/fi/FiAirplay"
+  },
+  "FiAirplay (Feather)": {
+    "prefix": "ri:fi:airplay",
+    "body": "<FiAirplay />",
+    "description": "FiAirplay Feather icon"
+  },
+
+  "Import FiAlertCircle (Feather)": {
+    "prefix": "ri:fi:import:alert-circle",
+    "body": "import { FiAlertCircle } from 'react-icons/fi';",
+    "description": "Import FiAlertCircle Feather icon from react-icons"
+  },
+  "Import FiAlertCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:alert-circle:all-files",
+    "body": "import { FiAlertCircle } from '@react-icons/all-files/fi/FiAlertCircle';",
+    "description": "Import FiAlertCircle Feather icon from @react-icons/all-files/fi/FiAlertCircle"
+  },
+  "FiAlertCircle (Feather)": {
+    "prefix": "ri:fi:alert-circle",
+    "body": "<FiAlertCircle />",
+    "description": "FiAlertCircle Feather icon"
+  },
+
+  "Import FiAlertOctagon (Feather)": {
+    "prefix": "ri:fi:import:alert-octagon",
+    "body": "import { FiAlertOctagon } from 'react-icons/fi';",
+    "description": "Import FiAlertOctagon Feather icon from react-icons"
+  },
+  "Import FiAlertOctagon (Feather) from all-files": {
+    "prefix": "ri:fi:import:alert-octagon:all-files",
+    "body": "import { FiAlertOctagon } from '@react-icons/all-files/fi/FiAlertOctagon';",
+    "description": "Import FiAlertOctagon Feather icon from @react-icons/all-files/fi/FiAlertOctagon"
+  },
+  "FiAlertOctagon (Feather)": {
+    "prefix": "ri:fi:alert-octagon",
+    "body": "<FiAlertOctagon />",
+    "description": "FiAlertOctagon Feather icon"
+  },
+
+  "Import FiAlertTriangle (Feather)": {
+    "prefix": "ri:fi:import:alert-triangle",
+    "body": "import { FiAlertTriangle } from 'react-icons/fi';",
+    "description": "Import FiAlertTriangle Feather icon from react-icons"
+  },
+  "Import FiAlertTriangle (Feather) from all-files": {
+    "prefix": "ri:fi:import:alert-triangle:all-files",
+    "body": "import { FiAlertTriangle } from '@react-icons/all-files/fi/FiAlertTriangle';",
+    "description": "Import FiAlertTriangle Feather icon from @react-icons/all-files/fi/FiAlertTriangle"
+  },
+  "FiAlertTriangle (Feather)": {
+    "prefix": "ri:fi:alert-triangle",
+    "body": "<FiAlertTriangle />",
+    "description": "FiAlertTriangle Feather icon"
+  },
+
+  "Import FiAlignCenter (Feather)": {
+    "prefix": "ri:fi:import:align-center",
+    "body": "import { FiAlignCenter } from 'react-icons/fi';",
+    "description": "Import FiAlignCenter Feather icon from react-icons"
+  },
+  "Import FiAlignCenter (Feather) from all-files": {
+    "prefix": "ri:fi:import:align-center:all-files",
+    "body": "import { FiAlignCenter } from '@react-icons/all-files/fi/FiAlignCenter';",
+    "description": "Import FiAlignCenter Feather icon from @react-icons/all-files/fi/FiAlignCenter"
+  },
+  "FiAlignCenter (Feather)": {
+    "prefix": "ri:fi:align-center",
+    "body": "<FiAlignCenter />",
+    "description": "FiAlignCenter Feather icon"
+  },
+
+  "Import FiAlignJustify (Feather)": {
+    "prefix": "ri:fi:import:align-justify",
+    "body": "import { FiAlignJustify } from 'react-icons/fi';",
+    "description": "Import FiAlignJustify Feather icon from react-icons"
+  },
+  "Import FiAlignJustify (Feather) from all-files": {
+    "prefix": "ri:fi:import:align-justify:all-files",
+    "body": "import { FiAlignJustify } from '@react-icons/all-files/fi/FiAlignJustify';",
+    "description": "Import FiAlignJustify Feather icon from @react-icons/all-files/fi/FiAlignJustify"
+  },
+  "FiAlignJustify (Feather)": {
+    "prefix": "ri:fi:align-justify",
+    "body": "<FiAlignJustify />",
+    "description": "FiAlignJustify Feather icon"
+  },
+
+  "Import FiAlignLeft (Feather)": {
+    "prefix": "ri:fi:import:align-left",
+    "body": "import { FiAlignLeft } from 'react-icons/fi';",
+    "description": "Import FiAlignLeft Feather icon from react-icons"
+  },
+  "Import FiAlignLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:align-left:all-files",
+    "body": "import { FiAlignLeft } from '@react-icons/all-files/fi/FiAlignLeft';",
+    "description": "Import FiAlignLeft Feather icon from @react-icons/all-files/fi/FiAlignLeft"
+  },
+  "FiAlignLeft (Feather)": {
+    "prefix": "ri:fi:align-left",
+    "body": "<FiAlignLeft />",
+    "description": "FiAlignLeft Feather icon"
+  },
+
+  "Import FiAlignRight (Feather)": {
+    "prefix": "ri:fi:import:align-right",
+    "body": "import { FiAlignRight } from 'react-icons/fi';",
+    "description": "Import FiAlignRight Feather icon from react-icons"
+  },
+  "Import FiAlignRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:align-right:all-files",
+    "body": "import { FiAlignRight } from '@react-icons/all-files/fi/FiAlignRight';",
+    "description": "Import FiAlignRight Feather icon from @react-icons/all-files/fi/FiAlignRight"
+  },
+  "FiAlignRight (Feather)": {
+    "prefix": "ri:fi:align-right",
+    "body": "<FiAlignRight />",
+    "description": "FiAlignRight Feather icon"
+  },
+
+  "Import FiAnchor (Feather)": {
+    "prefix": "ri:fi:import:anchor",
+    "body": "import { FiAnchor } from 'react-icons/fi';",
+    "description": "Import FiAnchor Feather icon from react-icons"
+  },
+  "Import FiAnchor (Feather) from all-files": {
+    "prefix": "ri:fi:import:anchor:all-files",
+    "body": "import { FiAnchor } from '@react-icons/all-files/fi/FiAnchor';",
+    "description": "Import FiAnchor Feather icon from @react-icons/all-files/fi/FiAnchor"
+  },
+  "FiAnchor (Feather)": {
+    "prefix": "ri:fi:anchor",
+    "body": "<FiAnchor />",
+    "description": "FiAnchor Feather icon"
+  },
+
+  "Import FiAperture (Feather)": {
+    "prefix": "ri:fi:import:aperture",
+    "body": "import { FiAperture } from 'react-icons/fi';",
+    "description": "Import FiAperture Feather icon from react-icons"
+  },
+  "Import FiAperture (Feather) from all-files": {
+    "prefix": "ri:fi:import:aperture:all-files",
+    "body": "import { FiAperture } from '@react-icons/all-files/fi/FiAperture';",
+    "description": "Import FiAperture Feather icon from @react-icons/all-files/fi/FiAperture"
+  },
+  "FiAperture (Feather)": {
+    "prefix": "ri:fi:aperture",
+    "body": "<FiAperture />",
+    "description": "FiAperture Feather icon"
+  },
+
+  "Import FiArchive (Feather)": {
+    "prefix": "ri:fi:import:archive",
+    "body": "import { FiArchive } from 'react-icons/fi';",
+    "description": "Import FiArchive Feather icon from react-icons"
+  },
+  "Import FiArchive (Feather) from all-files": {
+    "prefix": "ri:fi:import:archive:all-files",
+    "body": "import { FiArchive } from '@react-icons/all-files/fi/FiArchive';",
+    "description": "Import FiArchive Feather icon from @react-icons/all-files/fi/FiArchive"
+  },
+  "FiArchive (Feather)": {
+    "prefix": "ri:fi:archive",
+    "body": "<FiArchive />",
+    "description": "FiArchive Feather icon"
+  },
+
+  "Import FiArrowDownCircle (Feather)": {
+    "prefix": "ri:fi:import:arrow-down-circle",
+    "body": "import { FiArrowDownCircle } from 'react-icons/fi';",
+    "description": "Import FiArrowDownCircle Feather icon from react-icons"
+  },
+  "Import FiArrowDownCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-down-circle:all-files",
+    "body": "import { FiArrowDownCircle } from '@react-icons/all-files/fi/FiArrowDownCircle';",
+    "description": "Import FiArrowDownCircle Feather icon from @react-icons/all-files/fi/FiArrowDownCircle"
+  },
+  "FiArrowDownCircle (Feather)": {
+    "prefix": "ri:fi:arrow-down-circle",
+    "body": "<FiArrowDownCircle />",
+    "description": "FiArrowDownCircle Feather icon"
+  },
+
+  "Import FiArrowDownLeft (Feather)": {
+    "prefix": "ri:fi:import:arrow-down-left",
+    "body": "import { FiArrowDownLeft } from 'react-icons/fi';",
+    "description": "Import FiArrowDownLeft Feather icon from react-icons"
+  },
+  "Import FiArrowDownLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-down-left:all-files",
+    "body": "import { FiArrowDownLeft } from '@react-icons/all-files/fi/FiArrowDownLeft';",
+    "description": "Import FiArrowDownLeft Feather icon from @react-icons/all-files/fi/FiArrowDownLeft"
+  },
+  "FiArrowDownLeft (Feather)": {
+    "prefix": "ri:fi:arrow-down-left",
+    "body": "<FiArrowDownLeft />",
+    "description": "FiArrowDownLeft Feather icon"
+  },
+
+  "Import FiArrowDownRight (Feather)": {
+    "prefix": "ri:fi:import:arrow-down-right",
+    "body": "import { FiArrowDownRight } from 'react-icons/fi';",
+    "description": "Import FiArrowDownRight Feather icon from react-icons"
+  },
+  "Import FiArrowDownRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-down-right:all-files",
+    "body": "import { FiArrowDownRight } from '@react-icons/all-files/fi/FiArrowDownRight';",
+    "description": "Import FiArrowDownRight Feather icon from @react-icons/all-files/fi/FiArrowDownRight"
+  },
+  "FiArrowDownRight (Feather)": {
+    "prefix": "ri:fi:arrow-down-right",
+    "body": "<FiArrowDownRight />",
+    "description": "FiArrowDownRight Feather icon"
+  },
+
+  "Import FiArrowDown (Feather)": {
+    "prefix": "ri:fi:import:arrow-down",
+    "body": "import { FiArrowDown } from 'react-icons/fi';",
+    "description": "Import FiArrowDown Feather icon from react-icons"
+  },
+  "Import FiArrowDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-down:all-files",
+    "body": "import { FiArrowDown } from '@react-icons/all-files/fi/FiArrowDown';",
+    "description": "Import FiArrowDown Feather icon from @react-icons/all-files/fi/FiArrowDown"
+  },
+  "FiArrowDown (Feather)": {
+    "prefix": "ri:fi:arrow-down",
+    "body": "<FiArrowDown />",
+    "description": "FiArrowDown Feather icon"
+  },
+
+  "Import FiArrowLeftCircle (Feather)": {
+    "prefix": "ri:fi:import:arrow-left-circle",
+    "body": "import { FiArrowLeftCircle } from 'react-icons/fi';",
+    "description": "Import FiArrowLeftCircle Feather icon from react-icons"
+  },
+  "Import FiArrowLeftCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-left-circle:all-files",
+    "body": "import { FiArrowLeftCircle } from '@react-icons/all-files/fi/FiArrowLeftCircle';",
+    "description": "Import FiArrowLeftCircle Feather icon from @react-icons/all-files/fi/FiArrowLeftCircle"
+  },
+  "FiArrowLeftCircle (Feather)": {
+    "prefix": "ri:fi:arrow-left-circle",
+    "body": "<FiArrowLeftCircle />",
+    "description": "FiArrowLeftCircle Feather icon"
+  },
+
+  "Import FiArrowLeft (Feather)": {
+    "prefix": "ri:fi:import:arrow-left",
+    "body": "import { FiArrowLeft } from 'react-icons/fi';",
+    "description": "Import FiArrowLeft Feather icon from react-icons"
+  },
+  "Import FiArrowLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-left:all-files",
+    "body": "import { FiArrowLeft } from '@react-icons/all-files/fi/FiArrowLeft';",
+    "description": "Import FiArrowLeft Feather icon from @react-icons/all-files/fi/FiArrowLeft"
+  },
+  "FiArrowLeft (Feather)": {
+    "prefix": "ri:fi:arrow-left",
+    "body": "<FiArrowLeft />",
+    "description": "FiArrowLeft Feather icon"
+  },
+
+  "Import FiArrowRightCircle (Feather)": {
+    "prefix": "ri:fi:import:arrow-right-circle",
+    "body": "import { FiArrowRightCircle } from 'react-icons/fi';",
+    "description": "Import FiArrowRightCircle Feather icon from react-icons"
+  },
+  "Import FiArrowRightCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-right-circle:all-files",
+    "body": "import { FiArrowRightCircle } from '@react-icons/all-files/fi/FiArrowRightCircle';",
+    "description": "Import FiArrowRightCircle Feather icon from @react-icons/all-files/fi/FiArrowRightCircle"
+  },
+  "FiArrowRightCircle (Feather)": {
+    "prefix": "ri:fi:arrow-right-circle",
+    "body": "<FiArrowRightCircle />",
+    "description": "FiArrowRightCircle Feather icon"
+  },
+
+  "Import FiArrowRight (Feather)": {
+    "prefix": "ri:fi:import:arrow-right",
+    "body": "import { FiArrowRight } from 'react-icons/fi';",
+    "description": "Import FiArrowRight Feather icon from react-icons"
+  },
+  "Import FiArrowRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-right:all-files",
+    "body": "import { FiArrowRight } from '@react-icons/all-files/fi/FiArrowRight';",
+    "description": "Import FiArrowRight Feather icon from @react-icons/all-files/fi/FiArrowRight"
+  },
+  "FiArrowRight (Feather)": {
+    "prefix": "ri:fi:arrow-right",
+    "body": "<FiArrowRight />",
+    "description": "FiArrowRight Feather icon"
+  },
+
+  "Import FiArrowUpCircle (Feather)": {
+    "prefix": "ri:fi:import:arrow-up-circle",
+    "body": "import { FiArrowUpCircle } from 'react-icons/fi';",
+    "description": "Import FiArrowUpCircle Feather icon from react-icons"
+  },
+  "Import FiArrowUpCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-up-circle:all-files",
+    "body": "import { FiArrowUpCircle } from '@react-icons/all-files/fi/FiArrowUpCircle';",
+    "description": "Import FiArrowUpCircle Feather icon from @react-icons/all-files/fi/FiArrowUpCircle"
+  },
+  "FiArrowUpCircle (Feather)": {
+    "prefix": "ri:fi:arrow-up-circle",
+    "body": "<FiArrowUpCircle />",
+    "description": "FiArrowUpCircle Feather icon"
+  },
+
+  "Import FiArrowUpLeft (Feather)": {
+    "prefix": "ri:fi:import:arrow-up-left",
+    "body": "import { FiArrowUpLeft } from 'react-icons/fi';",
+    "description": "Import FiArrowUpLeft Feather icon from react-icons"
+  },
+  "Import FiArrowUpLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-up-left:all-files",
+    "body": "import { FiArrowUpLeft } from '@react-icons/all-files/fi/FiArrowUpLeft';",
+    "description": "Import FiArrowUpLeft Feather icon from @react-icons/all-files/fi/FiArrowUpLeft"
+  },
+  "FiArrowUpLeft (Feather)": {
+    "prefix": "ri:fi:arrow-up-left",
+    "body": "<FiArrowUpLeft />",
+    "description": "FiArrowUpLeft Feather icon"
+  },
+
+  "Import FiArrowUpRight (Feather)": {
+    "prefix": "ri:fi:import:arrow-up-right",
+    "body": "import { FiArrowUpRight } from 'react-icons/fi';",
+    "description": "Import FiArrowUpRight Feather icon from react-icons"
+  },
+  "Import FiArrowUpRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-up-right:all-files",
+    "body": "import { FiArrowUpRight } from '@react-icons/all-files/fi/FiArrowUpRight';",
+    "description": "Import FiArrowUpRight Feather icon from @react-icons/all-files/fi/FiArrowUpRight"
+  },
+  "FiArrowUpRight (Feather)": {
+    "prefix": "ri:fi:arrow-up-right",
+    "body": "<FiArrowUpRight />",
+    "description": "FiArrowUpRight Feather icon"
+  },
+
+  "Import FiArrowUp (Feather)": {
+    "prefix": "ri:fi:import:arrow-up",
+    "body": "import { FiArrowUp } from 'react-icons/fi';",
+    "description": "Import FiArrowUp Feather icon from react-icons"
+  },
+  "Import FiArrowUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:arrow-up:all-files",
+    "body": "import { FiArrowUp } from '@react-icons/all-files/fi/FiArrowUp';",
+    "description": "Import FiArrowUp Feather icon from @react-icons/all-files/fi/FiArrowUp"
+  },
+  "FiArrowUp (Feather)": {
+    "prefix": "ri:fi:arrow-up",
+    "body": "<FiArrowUp />",
+    "description": "FiArrowUp Feather icon"
+  },
+
+  "Import FiAtSign (Feather)": {
+    "prefix": "ri:fi:import:at-sign",
+    "body": "import { FiAtSign } from 'react-icons/fi';",
+    "description": "Import FiAtSign Feather icon from react-icons"
+  },
+  "Import FiAtSign (Feather) from all-files": {
+    "prefix": "ri:fi:import:at-sign:all-files",
+    "body": "import { FiAtSign } from '@react-icons/all-files/fi/FiAtSign';",
+    "description": "Import FiAtSign Feather icon from @react-icons/all-files/fi/FiAtSign"
+  },
+  "FiAtSign (Feather)": {
+    "prefix": "ri:fi:at-sign",
+    "body": "<FiAtSign />",
+    "description": "FiAtSign Feather icon"
+  },
+
+  "Import FiAward (Feather)": {
+    "prefix": "ri:fi:import:award",
+    "body": "import { FiAward } from 'react-icons/fi';",
+    "description": "Import FiAward Feather icon from react-icons"
+  },
+  "Import FiAward (Feather) from all-files": {
+    "prefix": "ri:fi:import:award:all-files",
+    "body": "import { FiAward } from '@react-icons/all-files/fi/FiAward';",
+    "description": "Import FiAward Feather icon from @react-icons/all-files/fi/FiAward"
+  },
+  "FiAward (Feather)": {
+    "prefix": "ri:fi:award",
+    "body": "<FiAward />",
+    "description": "FiAward Feather icon"
+  },
+
+  "Import FiBarChart2 (Feather)": {
+    "prefix": "ri:fi:import:bar-chart-2",
+    "body": "import { FiBarChart2 } from 'react-icons/fi';",
+    "description": "Import FiBarChart2 Feather icon from react-icons"
+  },
+  "Import FiBarChart2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:bar-chart-2:all-files",
+    "body": "import { FiBarChart2 } from '@react-icons/all-files/fi/FiBarChart2';",
+    "description": "Import FiBarChart2 Feather icon from @react-icons/all-files/fi/FiBarChart2"
+  },
+  "FiBarChart2 (Feather)": {
+    "prefix": "ri:fi:bar-chart-2",
+    "body": "<FiBarChart2 />",
+    "description": "FiBarChart2 Feather icon"
+  },
+
+  "Import FiBarChart (Feather)": {
+    "prefix": "ri:fi:import:bar-chart",
+    "body": "import { FiBarChart } from 'react-icons/fi';",
+    "description": "Import FiBarChart Feather icon from react-icons"
+  },
+  "Import FiBarChart (Feather) from all-files": {
+    "prefix": "ri:fi:import:bar-chart:all-files",
+    "body": "import { FiBarChart } from '@react-icons/all-files/fi/FiBarChart';",
+    "description": "Import FiBarChart Feather icon from @react-icons/all-files/fi/FiBarChart"
+  },
+  "FiBarChart (Feather)": {
+    "prefix": "ri:fi:bar-chart",
+    "body": "<FiBarChart />",
+    "description": "FiBarChart Feather icon"
+  },
+
+  "Import FiBatteryCharging (Feather)": {
+    "prefix": "ri:fi:import:battery-charging",
+    "body": "import { FiBatteryCharging } from 'react-icons/fi';",
+    "description": "Import FiBatteryCharging Feather icon from react-icons"
+  },
+  "Import FiBatteryCharging (Feather) from all-files": {
+    "prefix": "ri:fi:import:battery-charging:all-files",
+    "body": "import { FiBatteryCharging } from '@react-icons/all-files/fi/FiBatteryCharging';",
+    "description": "Import FiBatteryCharging Feather icon from @react-icons/all-files/fi/FiBatteryCharging"
+  },
+  "FiBatteryCharging (Feather)": {
+    "prefix": "ri:fi:battery-charging",
+    "body": "<FiBatteryCharging />",
+    "description": "FiBatteryCharging Feather icon"
+  },
+
+  "Import FiBattery (Feather)": {
+    "prefix": "ri:fi:import:battery",
+    "body": "import { FiBattery } from 'react-icons/fi';",
+    "description": "Import FiBattery Feather icon from react-icons"
+  },
+  "Import FiBattery (Feather) from all-files": {
+    "prefix": "ri:fi:import:battery:all-files",
+    "body": "import { FiBattery } from '@react-icons/all-files/fi/FiBattery';",
+    "description": "Import FiBattery Feather icon from @react-icons/all-files/fi/FiBattery"
+  },
+  "FiBattery (Feather)": {
+    "prefix": "ri:fi:battery",
+    "body": "<FiBattery />",
+    "description": "FiBattery Feather icon"
+  },
+
+  "Import FiBellOff (Feather)": {
+    "prefix": "ri:fi:import:bell-off",
+    "body": "import { FiBellOff } from 'react-icons/fi';",
+    "description": "Import FiBellOff Feather icon from react-icons"
+  },
+  "Import FiBellOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:bell-off:all-files",
+    "body": "import { FiBellOff } from '@react-icons/all-files/fi/FiBellOff';",
+    "description": "Import FiBellOff Feather icon from @react-icons/all-files/fi/FiBellOff"
+  },
+  "FiBellOff (Feather)": {
+    "prefix": "ri:fi:bell-off",
+    "body": "<FiBellOff />",
+    "description": "FiBellOff Feather icon"
+  },
+
+  "Import FiBell (Feather)": {
+    "prefix": "ri:fi:import:bell",
+    "body": "import { FiBell } from 'react-icons/fi';",
+    "description": "Import FiBell Feather icon from react-icons"
+  },
+  "Import FiBell (Feather) from all-files": {
+    "prefix": "ri:fi:import:bell:all-files",
+    "body": "import { FiBell } from '@react-icons/all-files/fi/FiBell';",
+    "description": "Import FiBell Feather icon from @react-icons/all-files/fi/FiBell"
+  },
+  "FiBell (Feather)": {
+    "prefix": "ri:fi:bell",
+    "body": "<FiBell />",
+    "description": "FiBell Feather icon"
+  },
+
+  "Import FiBluetooth (Feather)": {
+    "prefix": "ri:fi:import:bluetooth",
+    "body": "import { FiBluetooth } from 'react-icons/fi';",
+    "description": "Import FiBluetooth Feather icon from react-icons"
+  },
+  "Import FiBluetooth (Feather) from all-files": {
+    "prefix": "ri:fi:import:bluetooth:all-files",
+    "body": "import { FiBluetooth } from '@react-icons/all-files/fi/FiBluetooth';",
+    "description": "Import FiBluetooth Feather icon from @react-icons/all-files/fi/FiBluetooth"
+  },
+  "FiBluetooth (Feather)": {
+    "prefix": "ri:fi:bluetooth",
+    "body": "<FiBluetooth />",
+    "description": "FiBluetooth Feather icon"
+  },
+
+  "Import FiBold (Feather)": {
+    "prefix": "ri:fi:import:bold",
+    "body": "import { FiBold } from 'react-icons/fi';",
+    "description": "Import FiBold Feather icon from react-icons"
+  },
+  "Import FiBold (Feather) from all-files": {
+    "prefix": "ri:fi:import:bold:all-files",
+    "body": "import { FiBold } from '@react-icons/all-files/fi/FiBold';",
+    "description": "Import FiBold Feather icon from @react-icons/all-files/fi/FiBold"
+  },
+  "FiBold (Feather)": {
+    "prefix": "ri:fi:bold",
+    "body": "<FiBold />",
+    "description": "FiBold Feather icon"
+  },
+
+  "Import FiBookOpen (Feather)": {
+    "prefix": "ri:fi:import:book-open",
+    "body": "import { FiBookOpen } from 'react-icons/fi';",
+    "description": "Import FiBookOpen Feather icon from react-icons"
+  },
+  "Import FiBookOpen (Feather) from all-files": {
+    "prefix": "ri:fi:import:book-open:all-files",
+    "body": "import { FiBookOpen } from '@react-icons/all-files/fi/FiBookOpen';",
+    "description": "Import FiBookOpen Feather icon from @react-icons/all-files/fi/FiBookOpen"
+  },
+  "FiBookOpen (Feather)": {
+    "prefix": "ri:fi:book-open",
+    "body": "<FiBookOpen />",
+    "description": "FiBookOpen Feather icon"
+  },
+
+  "Import FiBook (Feather)": {
+    "prefix": "ri:fi:import:book",
+    "body": "import { FiBook } from 'react-icons/fi';",
+    "description": "Import FiBook Feather icon from react-icons"
+  },
+  "Import FiBook (Feather) from all-files": {
+    "prefix": "ri:fi:import:book:all-files",
+    "body": "import { FiBook } from '@react-icons/all-files/fi/FiBook';",
+    "description": "Import FiBook Feather icon from @react-icons/all-files/fi/FiBook"
+  },
+  "FiBook (Feather)": {
+    "prefix": "ri:fi:book",
+    "body": "<FiBook />",
+    "description": "FiBook Feather icon"
+  },
+
+  "Import FiBookmark (Feather)": {
+    "prefix": "ri:fi:import:bookmark",
+    "body": "import { FiBookmark } from 'react-icons/fi';",
+    "description": "Import FiBookmark Feather icon from react-icons"
+  },
+  "Import FiBookmark (Feather) from all-files": {
+    "prefix": "ri:fi:import:bookmark:all-files",
+    "body": "import { FiBookmark } from '@react-icons/all-files/fi/FiBookmark';",
+    "description": "Import FiBookmark Feather icon from @react-icons/all-files/fi/FiBookmark"
+  },
+  "FiBookmark (Feather)": {
+    "prefix": "ri:fi:bookmark",
+    "body": "<FiBookmark />",
+    "description": "FiBookmark Feather icon"
+  },
+
+  "Import FiBox (Feather)": {
+    "prefix": "ri:fi:import:box",
+    "body": "import { FiBox } from 'react-icons/fi';",
+    "description": "Import FiBox Feather icon from react-icons"
+  },
+  "Import FiBox (Feather) from all-files": {
+    "prefix": "ri:fi:import:box:all-files",
+    "body": "import { FiBox } from '@react-icons/all-files/fi/FiBox';",
+    "description": "Import FiBox Feather icon from @react-icons/all-files/fi/FiBox"
+  },
+  "FiBox (Feather)": {
+    "prefix": "ri:fi:box",
+    "body": "<FiBox />",
+    "description": "FiBox Feather icon"
+  },
+
+  "Import FiBriefcase (Feather)": {
+    "prefix": "ri:fi:import:briefcase",
+    "body": "import { FiBriefcase } from 'react-icons/fi';",
+    "description": "Import FiBriefcase Feather icon from react-icons"
+  },
+  "Import FiBriefcase (Feather) from all-files": {
+    "prefix": "ri:fi:import:briefcase:all-files",
+    "body": "import { FiBriefcase } from '@react-icons/all-files/fi/FiBriefcase';",
+    "description": "Import FiBriefcase Feather icon from @react-icons/all-files/fi/FiBriefcase"
+  },
+  "FiBriefcase (Feather)": {
+    "prefix": "ri:fi:briefcase",
+    "body": "<FiBriefcase />",
+    "description": "FiBriefcase Feather icon"
+  },
+
+  "Import FiCalendar (Feather)": {
+    "prefix": "ri:fi:import:calendar",
+    "body": "import { FiCalendar } from 'react-icons/fi';",
+    "description": "Import FiCalendar Feather icon from react-icons"
+  },
+  "Import FiCalendar (Feather) from all-files": {
+    "prefix": "ri:fi:import:calendar:all-files",
+    "body": "import { FiCalendar } from '@react-icons/all-files/fi/FiCalendar';",
+    "description": "Import FiCalendar Feather icon from @react-icons/all-files/fi/FiCalendar"
+  },
+  "FiCalendar (Feather)": {
+    "prefix": "ri:fi:calendar",
+    "body": "<FiCalendar />",
+    "description": "FiCalendar Feather icon"
+  },
+
+  "Import FiCameraOff (Feather)": {
+    "prefix": "ri:fi:import:camera-off",
+    "body": "import { FiCameraOff } from 'react-icons/fi';",
+    "description": "Import FiCameraOff Feather icon from react-icons"
+  },
+  "Import FiCameraOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:camera-off:all-files",
+    "body": "import { FiCameraOff } from '@react-icons/all-files/fi/FiCameraOff';",
+    "description": "Import FiCameraOff Feather icon from @react-icons/all-files/fi/FiCameraOff"
+  },
+  "FiCameraOff (Feather)": {
+    "prefix": "ri:fi:camera-off",
+    "body": "<FiCameraOff />",
+    "description": "FiCameraOff Feather icon"
+  },
+
+  "Import FiCamera (Feather)": {
+    "prefix": "ri:fi:import:camera",
+    "body": "import { FiCamera } from 'react-icons/fi';",
+    "description": "Import FiCamera Feather icon from react-icons"
+  },
+  "Import FiCamera (Feather) from all-files": {
+    "prefix": "ri:fi:import:camera:all-files",
+    "body": "import { FiCamera } from '@react-icons/all-files/fi/FiCamera';",
+    "description": "Import FiCamera Feather icon from @react-icons/all-files/fi/FiCamera"
+  },
+  "FiCamera (Feather)": {
+    "prefix": "ri:fi:camera",
+    "body": "<FiCamera />",
+    "description": "FiCamera Feather icon"
+  },
+
+  "Import FiCast (Feather)": {
+    "prefix": "ri:fi:import:cast",
+    "body": "import { FiCast } from 'react-icons/fi';",
+    "description": "Import FiCast Feather icon from react-icons"
+  },
+  "Import FiCast (Feather) from all-files": {
+    "prefix": "ri:fi:import:cast:all-files",
+    "body": "import { FiCast } from '@react-icons/all-files/fi/FiCast';",
+    "description": "Import FiCast Feather icon from @react-icons/all-files/fi/FiCast"
+  },
+  "FiCast (Feather)": {
+    "prefix": "ri:fi:cast",
+    "body": "<FiCast />",
+    "description": "FiCast Feather icon"
+  },
+
+  "Import FiCheckCircle (Feather)": {
+    "prefix": "ri:fi:import:check-circle",
+    "body": "import { FiCheckCircle } from 'react-icons/fi';",
+    "description": "Import FiCheckCircle Feather icon from react-icons"
+  },
+  "Import FiCheckCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:check-circle:all-files",
+    "body": "import { FiCheckCircle } from '@react-icons/all-files/fi/FiCheckCircle';",
+    "description": "Import FiCheckCircle Feather icon from @react-icons/all-files/fi/FiCheckCircle"
+  },
+  "FiCheckCircle (Feather)": {
+    "prefix": "ri:fi:check-circle",
+    "body": "<FiCheckCircle />",
+    "description": "FiCheckCircle Feather icon"
+  },
+
+  "Import FiCheckSquare (Feather)": {
+    "prefix": "ri:fi:import:check-square",
+    "body": "import { FiCheckSquare } from 'react-icons/fi';",
+    "description": "Import FiCheckSquare Feather icon from react-icons"
+  },
+  "Import FiCheckSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:check-square:all-files",
+    "body": "import { FiCheckSquare } from '@react-icons/all-files/fi/FiCheckSquare';",
+    "description": "Import FiCheckSquare Feather icon from @react-icons/all-files/fi/FiCheckSquare"
+  },
+  "FiCheckSquare (Feather)": {
+    "prefix": "ri:fi:check-square",
+    "body": "<FiCheckSquare />",
+    "description": "FiCheckSquare Feather icon"
+  },
+
+  "Import FiCheck (Feather)": {
+    "prefix": "ri:fi:import:check",
+    "body": "import { FiCheck } from 'react-icons/fi';",
+    "description": "Import FiCheck Feather icon from react-icons"
+  },
+  "Import FiCheck (Feather) from all-files": {
+    "prefix": "ri:fi:import:check:all-files",
+    "body": "import { FiCheck } from '@react-icons/all-files/fi/FiCheck';",
+    "description": "Import FiCheck Feather icon from @react-icons/all-files/fi/FiCheck"
+  },
+  "FiCheck (Feather)": {
+    "prefix": "ri:fi:check",
+    "body": "<FiCheck />",
+    "description": "FiCheck Feather icon"
+  },
+
+  "Import FiChevronDown (Feather)": {
+    "prefix": "ri:fi:import:chevron-down",
+    "body": "import { FiChevronDown } from 'react-icons/fi';",
+    "description": "Import FiChevronDown Feather icon from react-icons"
+  },
+  "Import FiChevronDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevron-down:all-files",
+    "body": "import { FiChevronDown } from '@react-icons/all-files/fi/FiChevronDown';",
+    "description": "Import FiChevronDown Feather icon from @react-icons/all-files/fi/FiChevronDown"
+  },
+  "FiChevronDown (Feather)": {
+    "prefix": "ri:fi:chevron-down",
+    "body": "<FiChevronDown />",
+    "description": "FiChevronDown Feather icon"
+  },
+
+  "Import FiChevronLeft (Feather)": {
+    "prefix": "ri:fi:import:chevron-left",
+    "body": "import { FiChevronLeft } from 'react-icons/fi';",
+    "description": "Import FiChevronLeft Feather icon from react-icons"
+  },
+  "Import FiChevronLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevron-left:all-files",
+    "body": "import { FiChevronLeft } from '@react-icons/all-files/fi/FiChevronLeft';",
+    "description": "Import FiChevronLeft Feather icon from @react-icons/all-files/fi/FiChevronLeft"
+  },
+  "FiChevronLeft (Feather)": {
+    "prefix": "ri:fi:chevron-left",
+    "body": "<FiChevronLeft />",
+    "description": "FiChevronLeft Feather icon"
+  },
+
+  "Import FiChevronRight (Feather)": {
+    "prefix": "ri:fi:import:chevron-right",
+    "body": "import { FiChevronRight } from 'react-icons/fi';",
+    "description": "Import FiChevronRight Feather icon from react-icons"
+  },
+  "Import FiChevronRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevron-right:all-files",
+    "body": "import { FiChevronRight } from '@react-icons/all-files/fi/FiChevronRight';",
+    "description": "Import FiChevronRight Feather icon from @react-icons/all-files/fi/FiChevronRight"
+  },
+  "FiChevronRight (Feather)": {
+    "prefix": "ri:fi:chevron-right",
+    "body": "<FiChevronRight />",
+    "description": "FiChevronRight Feather icon"
+  },
+
+  "Import FiChevronUp (Feather)": {
+    "prefix": "ri:fi:import:chevron-up",
+    "body": "import { FiChevronUp } from 'react-icons/fi';",
+    "description": "Import FiChevronUp Feather icon from react-icons"
+  },
+  "Import FiChevronUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevron-up:all-files",
+    "body": "import { FiChevronUp } from '@react-icons/all-files/fi/FiChevronUp';",
+    "description": "Import FiChevronUp Feather icon from @react-icons/all-files/fi/FiChevronUp"
+  },
+  "FiChevronUp (Feather)": {
+    "prefix": "ri:fi:chevron-up",
+    "body": "<FiChevronUp />",
+    "description": "FiChevronUp Feather icon"
+  },
+
+  "Import FiChevronsDown (Feather)": {
+    "prefix": "ri:fi:import:chevrons-down",
+    "body": "import { FiChevronsDown } from 'react-icons/fi';",
+    "description": "Import FiChevronsDown Feather icon from react-icons"
+  },
+  "Import FiChevronsDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevrons-down:all-files",
+    "body": "import { FiChevronsDown } from '@react-icons/all-files/fi/FiChevronsDown';",
+    "description": "Import FiChevronsDown Feather icon from @react-icons/all-files/fi/FiChevronsDown"
+  },
+  "FiChevronsDown (Feather)": {
+    "prefix": "ri:fi:chevrons-down",
+    "body": "<FiChevronsDown />",
+    "description": "FiChevronsDown Feather icon"
+  },
+
+  "Import FiChevronsLeft (Feather)": {
+    "prefix": "ri:fi:import:chevrons-left",
+    "body": "import { FiChevronsLeft } from 'react-icons/fi';",
+    "description": "Import FiChevronsLeft Feather icon from react-icons"
+  },
+  "Import FiChevronsLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevrons-left:all-files",
+    "body": "import { FiChevronsLeft } from '@react-icons/all-files/fi/FiChevronsLeft';",
+    "description": "Import FiChevronsLeft Feather icon from @react-icons/all-files/fi/FiChevronsLeft"
+  },
+  "FiChevronsLeft (Feather)": {
+    "prefix": "ri:fi:chevrons-left",
+    "body": "<FiChevronsLeft />",
+    "description": "FiChevronsLeft Feather icon"
+  },
+
+  "Import FiChevronsRight (Feather)": {
+    "prefix": "ri:fi:import:chevrons-right",
+    "body": "import { FiChevronsRight } from 'react-icons/fi';",
+    "description": "Import FiChevronsRight Feather icon from react-icons"
+  },
+  "Import FiChevronsRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevrons-right:all-files",
+    "body": "import { FiChevronsRight } from '@react-icons/all-files/fi/FiChevronsRight';",
+    "description": "Import FiChevronsRight Feather icon from @react-icons/all-files/fi/FiChevronsRight"
+  },
+  "FiChevronsRight (Feather)": {
+    "prefix": "ri:fi:chevrons-right",
+    "body": "<FiChevronsRight />",
+    "description": "FiChevronsRight Feather icon"
+  },
+
+  "Import FiChevronsUp (Feather)": {
+    "prefix": "ri:fi:import:chevrons-up",
+    "body": "import { FiChevronsUp } from 'react-icons/fi';",
+    "description": "Import FiChevronsUp Feather icon from react-icons"
+  },
+  "Import FiChevronsUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:chevrons-up:all-files",
+    "body": "import { FiChevronsUp } from '@react-icons/all-files/fi/FiChevronsUp';",
+    "description": "Import FiChevronsUp Feather icon from @react-icons/all-files/fi/FiChevronsUp"
+  },
+  "FiChevronsUp (Feather)": {
+    "prefix": "ri:fi:chevrons-up",
+    "body": "<FiChevronsUp />",
+    "description": "FiChevronsUp Feather icon"
+  },
+
+  "Import FiChrome (Feather)": {
+    "prefix": "ri:fi:import:chrome",
+    "body": "import { FiChrome } from 'react-icons/fi';",
+    "description": "Import FiChrome Feather icon from react-icons"
+  },
+  "Import FiChrome (Feather) from all-files": {
+    "prefix": "ri:fi:import:chrome:all-files",
+    "body": "import { FiChrome } from '@react-icons/all-files/fi/FiChrome';",
+    "description": "Import FiChrome Feather icon from @react-icons/all-files/fi/FiChrome"
+  },
+  "FiChrome (Feather)": {
+    "prefix": "ri:fi:chrome",
+    "body": "<FiChrome />",
+    "description": "FiChrome Feather icon"
+  },
+
+  "Import FiCircle (Feather)": {
+    "prefix": "ri:fi:import:circle",
+    "body": "import { FiCircle } from 'react-icons/fi';",
+    "description": "Import FiCircle Feather icon from react-icons"
+  },
+  "Import FiCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:circle:all-files",
+    "body": "import { FiCircle } from '@react-icons/all-files/fi/FiCircle';",
+    "description": "Import FiCircle Feather icon from @react-icons/all-files/fi/FiCircle"
+  },
+  "FiCircle (Feather)": {
+    "prefix": "ri:fi:circle",
+    "body": "<FiCircle />",
+    "description": "FiCircle Feather icon"
+  },
+
+  "Import FiClipboard (Feather)": {
+    "prefix": "ri:fi:import:clipboard",
+    "body": "import { FiClipboard } from 'react-icons/fi';",
+    "description": "Import FiClipboard Feather icon from react-icons"
+  },
+  "Import FiClipboard (Feather) from all-files": {
+    "prefix": "ri:fi:import:clipboard:all-files",
+    "body": "import { FiClipboard } from '@react-icons/all-files/fi/FiClipboard';",
+    "description": "Import FiClipboard Feather icon from @react-icons/all-files/fi/FiClipboard"
+  },
+  "FiClipboard (Feather)": {
+    "prefix": "ri:fi:clipboard",
+    "body": "<FiClipboard />",
+    "description": "FiClipboard Feather icon"
+  },
+
+  "Import FiClock (Feather)": {
+    "prefix": "ri:fi:import:clock",
+    "body": "import { FiClock } from 'react-icons/fi';",
+    "description": "Import FiClock Feather icon from react-icons"
+  },
+  "Import FiClock (Feather) from all-files": {
+    "prefix": "ri:fi:import:clock:all-files",
+    "body": "import { FiClock } from '@react-icons/all-files/fi/FiClock';",
+    "description": "Import FiClock Feather icon from @react-icons/all-files/fi/FiClock"
+  },
+  "FiClock (Feather)": {
+    "prefix": "ri:fi:clock",
+    "body": "<FiClock />",
+    "description": "FiClock Feather icon"
+  },
+
+  "Import FiCloudDrizzle (Feather)": {
+    "prefix": "ri:fi:import:cloud-drizzle",
+    "body": "import { FiCloudDrizzle } from 'react-icons/fi';",
+    "description": "Import FiCloudDrizzle Feather icon from react-icons"
+  },
+  "Import FiCloudDrizzle (Feather) from all-files": {
+    "prefix": "ri:fi:import:cloud-drizzle:all-files",
+    "body": "import { FiCloudDrizzle } from '@react-icons/all-files/fi/FiCloudDrizzle';",
+    "description": "Import FiCloudDrizzle Feather icon from @react-icons/all-files/fi/FiCloudDrizzle"
+  },
+  "FiCloudDrizzle (Feather)": {
+    "prefix": "ri:fi:cloud-drizzle",
+    "body": "<FiCloudDrizzle />",
+    "description": "FiCloudDrizzle Feather icon"
+  },
+
+  "Import FiCloudLightning (Feather)": {
+    "prefix": "ri:fi:import:cloud-lightning",
+    "body": "import { FiCloudLightning } from 'react-icons/fi';",
+    "description": "Import FiCloudLightning Feather icon from react-icons"
+  },
+  "Import FiCloudLightning (Feather) from all-files": {
+    "prefix": "ri:fi:import:cloud-lightning:all-files",
+    "body": "import { FiCloudLightning } from '@react-icons/all-files/fi/FiCloudLightning';",
+    "description": "Import FiCloudLightning Feather icon from @react-icons/all-files/fi/FiCloudLightning"
+  },
+  "FiCloudLightning (Feather)": {
+    "prefix": "ri:fi:cloud-lightning",
+    "body": "<FiCloudLightning />",
+    "description": "FiCloudLightning Feather icon"
+  },
+
+  "Import FiCloudOff (Feather)": {
+    "prefix": "ri:fi:import:cloud-off",
+    "body": "import { FiCloudOff } from 'react-icons/fi';",
+    "description": "Import FiCloudOff Feather icon from react-icons"
+  },
+  "Import FiCloudOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:cloud-off:all-files",
+    "body": "import { FiCloudOff } from '@react-icons/all-files/fi/FiCloudOff';",
+    "description": "Import FiCloudOff Feather icon from @react-icons/all-files/fi/FiCloudOff"
+  },
+  "FiCloudOff (Feather)": {
+    "prefix": "ri:fi:cloud-off",
+    "body": "<FiCloudOff />",
+    "description": "FiCloudOff Feather icon"
+  },
+
+  "Import FiCloudRain (Feather)": {
+    "prefix": "ri:fi:import:cloud-rain",
+    "body": "import { FiCloudRain } from 'react-icons/fi';",
+    "description": "Import FiCloudRain Feather icon from react-icons"
+  },
+  "Import FiCloudRain (Feather) from all-files": {
+    "prefix": "ri:fi:import:cloud-rain:all-files",
+    "body": "import { FiCloudRain } from '@react-icons/all-files/fi/FiCloudRain';",
+    "description": "Import FiCloudRain Feather icon from @react-icons/all-files/fi/FiCloudRain"
+  },
+  "FiCloudRain (Feather)": {
+    "prefix": "ri:fi:cloud-rain",
+    "body": "<FiCloudRain />",
+    "description": "FiCloudRain Feather icon"
+  },
+
+  "Import FiCloudSnow (Feather)": {
+    "prefix": "ri:fi:import:cloud-snow",
+    "body": "import { FiCloudSnow } from 'react-icons/fi';",
+    "description": "Import FiCloudSnow Feather icon from react-icons"
+  },
+  "Import FiCloudSnow (Feather) from all-files": {
+    "prefix": "ri:fi:import:cloud-snow:all-files",
+    "body": "import { FiCloudSnow } from '@react-icons/all-files/fi/FiCloudSnow';",
+    "description": "Import FiCloudSnow Feather icon from @react-icons/all-files/fi/FiCloudSnow"
+  },
+  "FiCloudSnow (Feather)": {
+    "prefix": "ri:fi:cloud-snow",
+    "body": "<FiCloudSnow />",
+    "description": "FiCloudSnow Feather icon"
+  },
+
+  "Import FiCloud (Feather)": {
+    "prefix": "ri:fi:import:cloud",
+    "body": "import { FiCloud } from 'react-icons/fi';",
+    "description": "Import FiCloud Feather icon from react-icons"
+  },
+  "Import FiCloud (Feather) from all-files": {
+    "prefix": "ri:fi:import:cloud:all-files",
+    "body": "import { FiCloud } from '@react-icons/all-files/fi/FiCloud';",
+    "description": "Import FiCloud Feather icon from @react-icons/all-files/fi/FiCloud"
+  },
+  "FiCloud (Feather)": {
+    "prefix": "ri:fi:cloud",
+    "body": "<FiCloud />",
+    "description": "FiCloud Feather icon"
+  },
+
+  "Import FiCode (Feather)": {
+    "prefix": "ri:fi:import:code",
+    "body": "import { FiCode } from 'react-icons/fi';",
+    "description": "Import FiCode Feather icon from react-icons"
+  },
+  "Import FiCode (Feather) from all-files": {
+    "prefix": "ri:fi:import:code:all-files",
+    "body": "import { FiCode } from '@react-icons/all-files/fi/FiCode';",
+    "description": "Import FiCode Feather icon from @react-icons/all-files/fi/FiCode"
+  },
+  "FiCode (Feather)": {
+    "prefix": "ri:fi:code",
+    "body": "<FiCode />",
+    "description": "FiCode Feather icon"
+  },
+
+  "Import FiCodepen (Feather)": {
+    "prefix": "ri:fi:import:codepen",
+    "body": "import { FiCodepen } from 'react-icons/fi';",
+    "description": "Import FiCodepen Feather icon from react-icons"
+  },
+  "Import FiCodepen (Feather) from all-files": {
+    "prefix": "ri:fi:import:codepen:all-files",
+    "body": "import { FiCodepen } from '@react-icons/all-files/fi/FiCodepen';",
+    "description": "Import FiCodepen Feather icon from @react-icons/all-files/fi/FiCodepen"
+  },
+  "FiCodepen (Feather)": {
+    "prefix": "ri:fi:codepen",
+    "body": "<FiCodepen />",
+    "description": "FiCodepen Feather icon"
+  },
+
+  "Import FiCodesandbox (Feather)": {
+    "prefix": "ri:fi:import:codesandbox",
+    "body": "import { FiCodesandbox } from 'react-icons/fi';",
+    "description": "Import FiCodesandbox Feather icon from react-icons"
+  },
+  "Import FiCodesandbox (Feather) from all-files": {
+    "prefix": "ri:fi:import:codesandbox:all-files",
+    "body": "import { FiCodesandbox } from '@react-icons/all-files/fi/FiCodesandbox';",
+    "description": "Import FiCodesandbox Feather icon from @react-icons/all-files/fi/FiCodesandbox"
+  },
+  "FiCodesandbox (Feather)": {
+    "prefix": "ri:fi:codesandbox",
+    "body": "<FiCodesandbox />",
+    "description": "FiCodesandbox Feather icon"
+  },
+
+  "Import FiCoffee (Feather)": {
+    "prefix": "ri:fi:import:coffee",
+    "body": "import { FiCoffee } from 'react-icons/fi';",
+    "description": "Import FiCoffee Feather icon from react-icons"
+  },
+  "Import FiCoffee (Feather) from all-files": {
+    "prefix": "ri:fi:import:coffee:all-files",
+    "body": "import { FiCoffee } from '@react-icons/all-files/fi/FiCoffee';",
+    "description": "Import FiCoffee Feather icon from @react-icons/all-files/fi/FiCoffee"
+  },
+  "FiCoffee (Feather)": {
+    "prefix": "ri:fi:coffee",
+    "body": "<FiCoffee />",
+    "description": "FiCoffee Feather icon"
+  },
+
+  "Import FiColumns (Feather)": {
+    "prefix": "ri:fi:import:columns",
+    "body": "import { FiColumns } from 'react-icons/fi';",
+    "description": "Import FiColumns Feather icon from react-icons"
+  },
+  "Import FiColumns (Feather) from all-files": {
+    "prefix": "ri:fi:import:columns:all-files",
+    "body": "import { FiColumns } from '@react-icons/all-files/fi/FiColumns';",
+    "description": "Import FiColumns Feather icon from @react-icons/all-files/fi/FiColumns"
+  },
+  "FiColumns (Feather)": {
+    "prefix": "ri:fi:columns",
+    "body": "<FiColumns />",
+    "description": "FiColumns Feather icon"
+  },
+
+  "Import FiCommand (Feather)": {
+    "prefix": "ri:fi:import:command",
+    "body": "import { FiCommand } from 'react-icons/fi';",
+    "description": "Import FiCommand Feather icon from react-icons"
+  },
+  "Import FiCommand (Feather) from all-files": {
+    "prefix": "ri:fi:import:command:all-files",
+    "body": "import { FiCommand } from '@react-icons/all-files/fi/FiCommand';",
+    "description": "Import FiCommand Feather icon from @react-icons/all-files/fi/FiCommand"
+  },
+  "FiCommand (Feather)": {
+    "prefix": "ri:fi:command",
+    "body": "<FiCommand />",
+    "description": "FiCommand Feather icon"
+  },
+
+  "Import FiCompass (Feather)": {
+    "prefix": "ri:fi:import:compass",
+    "body": "import { FiCompass } from 'react-icons/fi';",
+    "description": "Import FiCompass Feather icon from react-icons"
+  },
+  "Import FiCompass (Feather) from all-files": {
+    "prefix": "ri:fi:import:compass:all-files",
+    "body": "import { FiCompass } from '@react-icons/all-files/fi/FiCompass';",
+    "description": "Import FiCompass Feather icon from @react-icons/all-files/fi/FiCompass"
+  },
+  "FiCompass (Feather)": {
+    "prefix": "ri:fi:compass",
+    "body": "<FiCompass />",
+    "description": "FiCompass Feather icon"
+  },
+
+  "Import FiCopy (Feather)": {
+    "prefix": "ri:fi:import:copy",
+    "body": "import { FiCopy } from 'react-icons/fi';",
+    "description": "Import FiCopy Feather icon from react-icons"
+  },
+  "Import FiCopy (Feather) from all-files": {
+    "prefix": "ri:fi:import:copy:all-files",
+    "body": "import { FiCopy } from '@react-icons/all-files/fi/FiCopy';",
+    "description": "Import FiCopy Feather icon from @react-icons/all-files/fi/FiCopy"
+  },
+  "FiCopy (Feather)": {
+    "prefix": "ri:fi:copy",
+    "body": "<FiCopy />",
+    "description": "FiCopy Feather icon"
+  },
+
+  "Import FiCornerDownLeft (Feather)": {
+    "prefix": "ri:fi:import:corner-down-left",
+    "body": "import { FiCornerDownLeft } from 'react-icons/fi';",
+    "description": "Import FiCornerDownLeft Feather icon from react-icons"
+  },
+  "Import FiCornerDownLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-down-left:all-files",
+    "body": "import { FiCornerDownLeft } from '@react-icons/all-files/fi/FiCornerDownLeft';",
+    "description": "Import FiCornerDownLeft Feather icon from @react-icons/all-files/fi/FiCornerDownLeft"
+  },
+  "FiCornerDownLeft (Feather)": {
+    "prefix": "ri:fi:corner-down-left",
+    "body": "<FiCornerDownLeft />",
+    "description": "FiCornerDownLeft Feather icon"
+  },
+
+  "Import FiCornerDownRight (Feather)": {
+    "prefix": "ri:fi:import:corner-down-right",
+    "body": "import { FiCornerDownRight } from 'react-icons/fi';",
+    "description": "Import FiCornerDownRight Feather icon from react-icons"
+  },
+  "Import FiCornerDownRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-down-right:all-files",
+    "body": "import { FiCornerDownRight } from '@react-icons/all-files/fi/FiCornerDownRight';",
+    "description": "Import FiCornerDownRight Feather icon from @react-icons/all-files/fi/FiCornerDownRight"
+  },
+  "FiCornerDownRight (Feather)": {
+    "prefix": "ri:fi:corner-down-right",
+    "body": "<FiCornerDownRight />",
+    "description": "FiCornerDownRight Feather icon"
+  },
+
+  "Import FiCornerLeftDown (Feather)": {
+    "prefix": "ri:fi:import:corner-left-down",
+    "body": "import { FiCornerLeftDown } from 'react-icons/fi';",
+    "description": "Import FiCornerLeftDown Feather icon from react-icons"
+  },
+  "Import FiCornerLeftDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-left-down:all-files",
+    "body": "import { FiCornerLeftDown } from '@react-icons/all-files/fi/FiCornerLeftDown';",
+    "description": "Import FiCornerLeftDown Feather icon from @react-icons/all-files/fi/FiCornerLeftDown"
+  },
+  "FiCornerLeftDown (Feather)": {
+    "prefix": "ri:fi:corner-left-down",
+    "body": "<FiCornerLeftDown />",
+    "description": "FiCornerLeftDown Feather icon"
+  },
+
+  "Import FiCornerLeftUp (Feather)": {
+    "prefix": "ri:fi:import:corner-left-up",
+    "body": "import { FiCornerLeftUp } from 'react-icons/fi';",
+    "description": "Import FiCornerLeftUp Feather icon from react-icons"
+  },
+  "Import FiCornerLeftUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-left-up:all-files",
+    "body": "import { FiCornerLeftUp } from '@react-icons/all-files/fi/FiCornerLeftUp';",
+    "description": "Import FiCornerLeftUp Feather icon from @react-icons/all-files/fi/FiCornerLeftUp"
+  },
+  "FiCornerLeftUp (Feather)": {
+    "prefix": "ri:fi:corner-left-up",
+    "body": "<FiCornerLeftUp />",
+    "description": "FiCornerLeftUp Feather icon"
+  },
+
+  "Import FiCornerRightDown (Feather)": {
+    "prefix": "ri:fi:import:corner-right-down",
+    "body": "import { FiCornerRightDown } from 'react-icons/fi';",
+    "description": "Import FiCornerRightDown Feather icon from react-icons"
+  },
+  "Import FiCornerRightDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-right-down:all-files",
+    "body": "import { FiCornerRightDown } from '@react-icons/all-files/fi/FiCornerRightDown';",
+    "description": "Import FiCornerRightDown Feather icon from @react-icons/all-files/fi/FiCornerRightDown"
+  },
+  "FiCornerRightDown (Feather)": {
+    "prefix": "ri:fi:corner-right-down",
+    "body": "<FiCornerRightDown />",
+    "description": "FiCornerRightDown Feather icon"
+  },
+
+  "Import FiCornerRightUp (Feather)": {
+    "prefix": "ri:fi:import:corner-right-up",
+    "body": "import { FiCornerRightUp } from 'react-icons/fi';",
+    "description": "Import FiCornerRightUp Feather icon from react-icons"
+  },
+  "Import FiCornerRightUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-right-up:all-files",
+    "body": "import { FiCornerRightUp } from '@react-icons/all-files/fi/FiCornerRightUp';",
+    "description": "Import FiCornerRightUp Feather icon from @react-icons/all-files/fi/FiCornerRightUp"
+  },
+  "FiCornerRightUp (Feather)": {
+    "prefix": "ri:fi:corner-right-up",
+    "body": "<FiCornerRightUp />",
+    "description": "FiCornerRightUp Feather icon"
+  },
+
+  "Import FiCornerUpLeft (Feather)": {
+    "prefix": "ri:fi:import:corner-up-left",
+    "body": "import { FiCornerUpLeft } from 'react-icons/fi';",
+    "description": "Import FiCornerUpLeft Feather icon from react-icons"
+  },
+  "Import FiCornerUpLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-up-left:all-files",
+    "body": "import { FiCornerUpLeft } from '@react-icons/all-files/fi/FiCornerUpLeft';",
+    "description": "Import FiCornerUpLeft Feather icon from @react-icons/all-files/fi/FiCornerUpLeft"
+  },
+  "FiCornerUpLeft (Feather)": {
+    "prefix": "ri:fi:corner-up-left",
+    "body": "<FiCornerUpLeft />",
+    "description": "FiCornerUpLeft Feather icon"
+  },
+
+  "Import FiCornerUpRight (Feather)": {
+    "prefix": "ri:fi:import:corner-up-right",
+    "body": "import { FiCornerUpRight } from 'react-icons/fi';",
+    "description": "Import FiCornerUpRight Feather icon from react-icons"
+  },
+  "Import FiCornerUpRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:corner-up-right:all-files",
+    "body": "import { FiCornerUpRight } from '@react-icons/all-files/fi/FiCornerUpRight';",
+    "description": "Import FiCornerUpRight Feather icon from @react-icons/all-files/fi/FiCornerUpRight"
+  },
+  "FiCornerUpRight (Feather)": {
+    "prefix": "ri:fi:corner-up-right",
+    "body": "<FiCornerUpRight />",
+    "description": "FiCornerUpRight Feather icon"
+  },
+
+  "Import FiCpu (Feather)": {
+    "prefix": "ri:fi:import:cpu",
+    "body": "import { FiCpu } from 'react-icons/fi';",
+    "description": "Import FiCpu Feather icon from react-icons"
+  },
+  "Import FiCpu (Feather) from all-files": {
+    "prefix": "ri:fi:import:cpu:all-files",
+    "body": "import { FiCpu } from '@react-icons/all-files/fi/FiCpu';",
+    "description": "Import FiCpu Feather icon from @react-icons/all-files/fi/FiCpu"
+  },
+  "FiCpu (Feather)": {
+    "prefix": "ri:fi:cpu",
+    "body": "<FiCpu />",
+    "description": "FiCpu Feather icon"
+  },
+
+  "Import FiCreditCard (Feather)": {
+    "prefix": "ri:fi:import:credit-card",
+    "body": "import { FiCreditCard } from 'react-icons/fi';",
+    "description": "Import FiCreditCard Feather icon from react-icons"
+  },
+  "Import FiCreditCard (Feather) from all-files": {
+    "prefix": "ri:fi:import:credit-card:all-files",
+    "body": "import { FiCreditCard } from '@react-icons/all-files/fi/FiCreditCard';",
+    "description": "Import FiCreditCard Feather icon from @react-icons/all-files/fi/FiCreditCard"
+  },
+  "FiCreditCard (Feather)": {
+    "prefix": "ri:fi:credit-card",
+    "body": "<FiCreditCard />",
+    "description": "FiCreditCard Feather icon"
+  },
+
+  "Import FiCrop (Feather)": {
+    "prefix": "ri:fi:import:crop",
+    "body": "import { FiCrop } from 'react-icons/fi';",
+    "description": "Import FiCrop Feather icon from react-icons"
+  },
+  "Import FiCrop (Feather) from all-files": {
+    "prefix": "ri:fi:import:crop:all-files",
+    "body": "import { FiCrop } from '@react-icons/all-files/fi/FiCrop';",
+    "description": "Import FiCrop Feather icon from @react-icons/all-files/fi/FiCrop"
+  },
+  "FiCrop (Feather)": {
+    "prefix": "ri:fi:crop",
+    "body": "<FiCrop />",
+    "description": "FiCrop Feather icon"
+  },
+
+  "Import FiCrosshair (Feather)": {
+    "prefix": "ri:fi:import:crosshair",
+    "body": "import { FiCrosshair } from 'react-icons/fi';",
+    "description": "Import FiCrosshair Feather icon from react-icons"
+  },
+  "Import FiCrosshair (Feather) from all-files": {
+    "prefix": "ri:fi:import:crosshair:all-files",
+    "body": "import { FiCrosshair } from '@react-icons/all-files/fi/FiCrosshair';",
+    "description": "Import FiCrosshair Feather icon from @react-icons/all-files/fi/FiCrosshair"
+  },
+  "FiCrosshair (Feather)": {
+    "prefix": "ri:fi:crosshair",
+    "body": "<FiCrosshair />",
+    "description": "FiCrosshair Feather icon"
+  },
+
+  "Import FiDatabase (Feather)": {
+    "prefix": "ri:fi:import:database",
+    "body": "import { FiDatabase } from 'react-icons/fi';",
+    "description": "Import FiDatabase Feather icon from react-icons"
+  },
+  "Import FiDatabase (Feather) from all-files": {
+    "prefix": "ri:fi:import:database:all-files",
+    "body": "import { FiDatabase } from '@react-icons/all-files/fi/FiDatabase';",
+    "description": "Import FiDatabase Feather icon from @react-icons/all-files/fi/FiDatabase"
+  },
+  "FiDatabase (Feather)": {
+    "prefix": "ri:fi:database",
+    "body": "<FiDatabase />",
+    "description": "FiDatabase Feather icon"
+  },
+
+  "Import FiDelete (Feather)": {
+    "prefix": "ri:fi:import:delete",
+    "body": "import { FiDelete } from 'react-icons/fi';",
+    "description": "Import FiDelete Feather icon from react-icons"
+  },
+  "Import FiDelete (Feather) from all-files": {
+    "prefix": "ri:fi:import:delete:all-files",
+    "body": "import { FiDelete } from '@react-icons/all-files/fi/FiDelete';",
+    "description": "Import FiDelete Feather icon from @react-icons/all-files/fi/FiDelete"
+  },
+  "FiDelete (Feather)": {
+    "prefix": "ri:fi:delete",
+    "body": "<FiDelete />",
+    "description": "FiDelete Feather icon"
+  },
+
+  "Import FiDisc (Feather)": {
+    "prefix": "ri:fi:import:disc",
+    "body": "import { FiDisc } from 'react-icons/fi';",
+    "description": "Import FiDisc Feather icon from react-icons"
+  },
+  "Import FiDisc (Feather) from all-files": {
+    "prefix": "ri:fi:import:disc:all-files",
+    "body": "import { FiDisc } from '@react-icons/all-files/fi/FiDisc';",
+    "description": "Import FiDisc Feather icon from @react-icons/all-files/fi/FiDisc"
+  },
+  "FiDisc (Feather)": {
+    "prefix": "ri:fi:disc",
+    "body": "<FiDisc />",
+    "description": "FiDisc Feather icon"
+  },
+
+  "Import FiDivideCircle (Feather)": {
+    "prefix": "ri:fi:import:divide-circle",
+    "body": "import { FiDivideCircle } from 'react-icons/fi';",
+    "description": "Import FiDivideCircle Feather icon from react-icons"
+  },
+  "Import FiDivideCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:divide-circle:all-files",
+    "body": "import { FiDivideCircle } from '@react-icons/all-files/fi/FiDivideCircle';",
+    "description": "Import FiDivideCircle Feather icon from @react-icons/all-files/fi/FiDivideCircle"
+  },
+  "FiDivideCircle (Feather)": {
+    "prefix": "ri:fi:divide-circle",
+    "body": "<FiDivideCircle />",
+    "description": "FiDivideCircle Feather icon"
+  },
+
+  "Import FiDivideSquare (Feather)": {
+    "prefix": "ri:fi:import:divide-square",
+    "body": "import { FiDivideSquare } from 'react-icons/fi';",
+    "description": "Import FiDivideSquare Feather icon from react-icons"
+  },
+  "Import FiDivideSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:divide-square:all-files",
+    "body": "import { FiDivideSquare } from '@react-icons/all-files/fi/FiDivideSquare';",
+    "description": "Import FiDivideSquare Feather icon from @react-icons/all-files/fi/FiDivideSquare"
+  },
+  "FiDivideSquare (Feather)": {
+    "prefix": "ri:fi:divide-square",
+    "body": "<FiDivideSquare />",
+    "description": "FiDivideSquare Feather icon"
+  },
+
+  "Import FiDivide (Feather)": {
+    "prefix": "ri:fi:import:divide",
+    "body": "import { FiDivide } from 'react-icons/fi';",
+    "description": "Import FiDivide Feather icon from react-icons"
+  },
+  "Import FiDivide (Feather) from all-files": {
+    "prefix": "ri:fi:import:divide:all-files",
+    "body": "import { FiDivide } from '@react-icons/all-files/fi/FiDivide';",
+    "description": "Import FiDivide Feather icon from @react-icons/all-files/fi/FiDivide"
+  },
+  "FiDivide (Feather)": {
+    "prefix": "ri:fi:divide",
+    "body": "<FiDivide />",
+    "description": "FiDivide Feather icon"
+  },
+
+  "Import FiDollarSign (Feather)": {
+    "prefix": "ri:fi:import:dollar-sign",
+    "body": "import { FiDollarSign } from 'react-icons/fi';",
+    "description": "Import FiDollarSign Feather icon from react-icons"
+  },
+  "Import FiDollarSign (Feather) from all-files": {
+    "prefix": "ri:fi:import:dollar-sign:all-files",
+    "body": "import { FiDollarSign } from '@react-icons/all-files/fi/FiDollarSign';",
+    "description": "Import FiDollarSign Feather icon from @react-icons/all-files/fi/FiDollarSign"
+  },
+  "FiDollarSign (Feather)": {
+    "prefix": "ri:fi:dollar-sign",
+    "body": "<FiDollarSign />",
+    "description": "FiDollarSign Feather icon"
+  },
+
+  "Import FiDownloadCloud (Feather)": {
+    "prefix": "ri:fi:import:download-cloud",
+    "body": "import { FiDownloadCloud } from 'react-icons/fi';",
+    "description": "Import FiDownloadCloud Feather icon from react-icons"
+  },
+  "Import FiDownloadCloud (Feather) from all-files": {
+    "prefix": "ri:fi:import:download-cloud:all-files",
+    "body": "import { FiDownloadCloud } from '@react-icons/all-files/fi/FiDownloadCloud';",
+    "description": "Import FiDownloadCloud Feather icon from @react-icons/all-files/fi/FiDownloadCloud"
+  },
+  "FiDownloadCloud (Feather)": {
+    "prefix": "ri:fi:download-cloud",
+    "body": "<FiDownloadCloud />",
+    "description": "FiDownloadCloud Feather icon"
+  },
+
+  "Import FiDownload (Feather)": {
+    "prefix": "ri:fi:import:download",
+    "body": "import { FiDownload } from 'react-icons/fi';",
+    "description": "Import FiDownload Feather icon from react-icons"
+  },
+  "Import FiDownload (Feather) from all-files": {
+    "prefix": "ri:fi:import:download:all-files",
+    "body": "import { FiDownload } from '@react-icons/all-files/fi/FiDownload';",
+    "description": "Import FiDownload Feather icon from @react-icons/all-files/fi/FiDownload"
+  },
+  "FiDownload (Feather)": {
+    "prefix": "ri:fi:download",
+    "body": "<FiDownload />",
+    "description": "FiDownload Feather icon"
+  },
+
+  "Import FiDribbble (Feather)": {
+    "prefix": "ri:fi:import:dribbble",
+    "body": "import { FiDribbble } from 'react-icons/fi';",
+    "description": "Import FiDribbble Feather icon from react-icons"
+  },
+  "Import FiDribbble (Feather) from all-files": {
+    "prefix": "ri:fi:import:dribbble:all-files",
+    "body": "import { FiDribbble } from '@react-icons/all-files/fi/FiDribbble';",
+    "description": "Import FiDribbble Feather icon from @react-icons/all-files/fi/FiDribbble"
+  },
+  "FiDribbble (Feather)": {
+    "prefix": "ri:fi:dribbble",
+    "body": "<FiDribbble />",
+    "description": "FiDribbble Feather icon"
+  },
+
+  "Import FiDroplet (Feather)": {
+    "prefix": "ri:fi:import:droplet",
+    "body": "import { FiDroplet } from 'react-icons/fi';",
+    "description": "Import FiDroplet Feather icon from react-icons"
+  },
+  "Import FiDroplet (Feather) from all-files": {
+    "prefix": "ri:fi:import:droplet:all-files",
+    "body": "import { FiDroplet } from '@react-icons/all-files/fi/FiDroplet';",
+    "description": "Import FiDroplet Feather icon from @react-icons/all-files/fi/FiDroplet"
+  },
+  "FiDroplet (Feather)": {
+    "prefix": "ri:fi:droplet",
+    "body": "<FiDroplet />",
+    "description": "FiDroplet Feather icon"
+  },
+
+  "Import FiEdit2 (Feather)": {
+    "prefix": "ri:fi:import:edit-2",
+    "body": "import { FiEdit2 } from 'react-icons/fi';",
+    "description": "Import FiEdit2 Feather icon from react-icons"
+  },
+  "Import FiEdit2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:edit-2:all-files",
+    "body": "import { FiEdit2 } from '@react-icons/all-files/fi/FiEdit2';",
+    "description": "Import FiEdit2 Feather icon from @react-icons/all-files/fi/FiEdit2"
+  },
+  "FiEdit2 (Feather)": {
+    "prefix": "ri:fi:edit-2",
+    "body": "<FiEdit2 />",
+    "description": "FiEdit2 Feather icon"
+  },
+
+  "Import FiEdit3 (Feather)": {
+    "prefix": "ri:fi:import:edit-3",
+    "body": "import { FiEdit3 } from 'react-icons/fi';",
+    "description": "Import FiEdit3 Feather icon from react-icons"
+  },
+  "Import FiEdit3 (Feather) from all-files": {
+    "prefix": "ri:fi:import:edit-3:all-files",
+    "body": "import { FiEdit3 } from '@react-icons/all-files/fi/FiEdit3';",
+    "description": "Import FiEdit3 Feather icon from @react-icons/all-files/fi/FiEdit3"
+  },
+  "FiEdit3 (Feather)": {
+    "prefix": "ri:fi:edit-3",
+    "body": "<FiEdit3 />",
+    "description": "FiEdit3 Feather icon"
+  },
+
+  "Import FiEdit (Feather)": {
+    "prefix": "ri:fi:import:edit",
+    "body": "import { FiEdit } from 'react-icons/fi';",
+    "description": "Import FiEdit Feather icon from react-icons"
+  },
+  "Import FiEdit (Feather) from all-files": {
+    "prefix": "ri:fi:import:edit:all-files",
+    "body": "import { FiEdit } from '@react-icons/all-files/fi/FiEdit';",
+    "description": "Import FiEdit Feather icon from @react-icons/all-files/fi/FiEdit"
+  },
+  "FiEdit (Feather)": {
+    "prefix": "ri:fi:edit",
+    "body": "<FiEdit />",
+    "description": "FiEdit Feather icon"
+  },
+
+  "Import FiExternalLink (Feather)": {
+    "prefix": "ri:fi:import:external-link",
+    "body": "import { FiExternalLink } from 'react-icons/fi';",
+    "description": "Import FiExternalLink Feather icon from react-icons"
+  },
+  "Import FiExternalLink (Feather) from all-files": {
+    "prefix": "ri:fi:import:external-link:all-files",
+    "body": "import { FiExternalLink } from '@react-icons/all-files/fi/FiExternalLink';",
+    "description": "Import FiExternalLink Feather icon from @react-icons/all-files/fi/FiExternalLink"
+  },
+  "FiExternalLink (Feather)": {
+    "prefix": "ri:fi:external-link",
+    "body": "<FiExternalLink />",
+    "description": "FiExternalLink Feather icon"
+  },
+
+  "Import FiEyeOff (Feather)": {
+    "prefix": "ri:fi:import:eye-off",
+    "body": "import { FiEyeOff } from 'react-icons/fi';",
+    "description": "Import FiEyeOff Feather icon from react-icons"
+  },
+  "Import FiEyeOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:eye-off:all-files",
+    "body": "import { FiEyeOff } from '@react-icons/all-files/fi/FiEyeOff';",
+    "description": "Import FiEyeOff Feather icon from @react-icons/all-files/fi/FiEyeOff"
+  },
+  "FiEyeOff (Feather)": {
+    "prefix": "ri:fi:eye-off",
+    "body": "<FiEyeOff />",
+    "description": "FiEyeOff Feather icon"
+  },
+
+  "Import FiEye (Feather)": {
+    "prefix": "ri:fi:import:eye",
+    "body": "import { FiEye } from 'react-icons/fi';",
+    "description": "Import FiEye Feather icon from react-icons"
+  },
+  "Import FiEye (Feather) from all-files": {
+    "prefix": "ri:fi:import:eye:all-files",
+    "body": "import { FiEye } from '@react-icons/all-files/fi/FiEye';",
+    "description": "Import FiEye Feather icon from @react-icons/all-files/fi/FiEye"
+  },
+  "FiEye (Feather)": {
+    "prefix": "ri:fi:eye",
+    "body": "<FiEye />",
+    "description": "FiEye Feather icon"
+  },
+
+  "Import FiFacebook (Feather)": {
+    "prefix": "ri:fi:import:facebook",
+    "body": "import { FiFacebook } from 'react-icons/fi';",
+    "description": "Import FiFacebook Feather icon from react-icons"
+  },
+  "Import FiFacebook (Feather) from all-files": {
+    "prefix": "ri:fi:import:facebook:all-files",
+    "body": "import { FiFacebook } from '@react-icons/all-files/fi/FiFacebook';",
+    "description": "Import FiFacebook Feather icon from @react-icons/all-files/fi/FiFacebook"
+  },
+  "FiFacebook (Feather)": {
+    "prefix": "ri:fi:facebook",
+    "body": "<FiFacebook />",
+    "description": "FiFacebook Feather icon"
+  },
+
+  "Import FiFastForward (Feather)": {
+    "prefix": "ri:fi:import:fast-forward",
+    "body": "import { FiFastForward } from 'react-icons/fi';",
+    "description": "Import FiFastForward Feather icon from react-icons"
+  },
+  "Import FiFastForward (Feather) from all-files": {
+    "prefix": "ri:fi:import:fast-forward:all-files",
+    "body": "import { FiFastForward } from '@react-icons/all-files/fi/FiFastForward';",
+    "description": "Import FiFastForward Feather icon from @react-icons/all-files/fi/FiFastForward"
+  },
+  "FiFastForward (Feather)": {
+    "prefix": "ri:fi:fast-forward",
+    "body": "<FiFastForward />",
+    "description": "FiFastForward Feather icon"
+  },
+
+  "Import FiFeather (Feather)": {
+    "prefix": "ri:fi:import:feather",
+    "body": "import { FiFeather } from 'react-icons/fi';",
+    "description": "Import FiFeather Feather icon from react-icons"
+  },
+  "Import FiFeather (Feather) from all-files": {
+    "prefix": "ri:fi:import:feather:all-files",
+    "body": "import { FiFeather } from '@react-icons/all-files/fi/FiFeather';",
+    "description": "Import FiFeather Feather icon from @react-icons/all-files/fi/FiFeather"
+  },
+  "FiFeather (Feather)": {
+    "prefix": "ri:fi:feather",
+    "body": "<FiFeather />",
+    "description": "FiFeather Feather icon"
+  },
+
+  "Import FiFigma (Feather)": {
+    "prefix": "ri:fi:import:figma",
+    "body": "import { FiFigma } from 'react-icons/fi';",
+    "description": "Import FiFigma Feather icon from react-icons"
+  },
+  "Import FiFigma (Feather) from all-files": {
+    "prefix": "ri:fi:import:figma:all-files",
+    "body": "import { FiFigma } from '@react-icons/all-files/fi/FiFigma';",
+    "description": "Import FiFigma Feather icon from @react-icons/all-files/fi/FiFigma"
+  },
+  "FiFigma (Feather)": {
+    "prefix": "ri:fi:figma",
+    "body": "<FiFigma />",
+    "description": "FiFigma Feather icon"
+  },
+
+  "Import FiFileMinus (Feather)": {
+    "prefix": "ri:fi:import:file-minus",
+    "body": "import { FiFileMinus } from 'react-icons/fi';",
+    "description": "Import FiFileMinus Feather icon from react-icons"
+  },
+  "Import FiFileMinus (Feather) from all-files": {
+    "prefix": "ri:fi:import:file-minus:all-files",
+    "body": "import { FiFileMinus } from '@react-icons/all-files/fi/FiFileMinus';",
+    "description": "Import FiFileMinus Feather icon from @react-icons/all-files/fi/FiFileMinus"
+  },
+  "FiFileMinus (Feather)": {
+    "prefix": "ri:fi:file-minus",
+    "body": "<FiFileMinus />",
+    "description": "FiFileMinus Feather icon"
+  },
+
+  "Import FiFilePlus (Feather)": {
+    "prefix": "ri:fi:import:file-plus",
+    "body": "import { FiFilePlus } from 'react-icons/fi';",
+    "description": "Import FiFilePlus Feather icon from react-icons"
+  },
+  "Import FiFilePlus (Feather) from all-files": {
+    "prefix": "ri:fi:import:file-plus:all-files",
+    "body": "import { FiFilePlus } from '@react-icons/all-files/fi/FiFilePlus';",
+    "description": "Import FiFilePlus Feather icon from @react-icons/all-files/fi/FiFilePlus"
+  },
+  "FiFilePlus (Feather)": {
+    "prefix": "ri:fi:file-plus",
+    "body": "<FiFilePlus />",
+    "description": "FiFilePlus Feather icon"
+  },
+
+  "Import FiFileText (Feather)": {
+    "prefix": "ri:fi:import:file-text",
+    "body": "import { FiFileText } from 'react-icons/fi';",
+    "description": "Import FiFileText Feather icon from react-icons"
+  },
+  "Import FiFileText (Feather) from all-files": {
+    "prefix": "ri:fi:import:file-text:all-files",
+    "body": "import { FiFileText } from '@react-icons/all-files/fi/FiFileText';",
+    "description": "Import FiFileText Feather icon from @react-icons/all-files/fi/FiFileText"
+  },
+  "FiFileText (Feather)": {
+    "prefix": "ri:fi:file-text",
+    "body": "<FiFileText />",
+    "description": "FiFileText Feather icon"
+  },
+
+  "Import FiFile (Feather)": {
+    "prefix": "ri:fi:import:file",
+    "body": "import { FiFile } from 'react-icons/fi';",
+    "description": "Import FiFile Feather icon from react-icons"
+  },
+  "Import FiFile (Feather) from all-files": {
+    "prefix": "ri:fi:import:file:all-files",
+    "body": "import { FiFile } from '@react-icons/all-files/fi/FiFile';",
+    "description": "Import FiFile Feather icon from @react-icons/all-files/fi/FiFile"
+  },
+  "FiFile (Feather)": {
+    "prefix": "ri:fi:file",
+    "body": "<FiFile />",
+    "description": "FiFile Feather icon"
+  },
+
+  "Import FiFilm (Feather)": {
+    "prefix": "ri:fi:import:film",
+    "body": "import { FiFilm } from 'react-icons/fi';",
+    "description": "Import FiFilm Feather icon from react-icons"
+  },
+  "Import FiFilm (Feather) from all-files": {
+    "prefix": "ri:fi:import:film:all-files",
+    "body": "import { FiFilm } from '@react-icons/all-files/fi/FiFilm';",
+    "description": "Import FiFilm Feather icon from @react-icons/all-files/fi/FiFilm"
+  },
+  "FiFilm (Feather)": {
+    "prefix": "ri:fi:film",
+    "body": "<FiFilm />",
+    "description": "FiFilm Feather icon"
+  },
+
+  "Import FiFilter (Feather)": {
+    "prefix": "ri:fi:import:filter",
+    "body": "import { FiFilter } from 'react-icons/fi';",
+    "description": "Import FiFilter Feather icon from react-icons"
+  },
+  "Import FiFilter (Feather) from all-files": {
+    "prefix": "ri:fi:import:filter:all-files",
+    "body": "import { FiFilter } from '@react-icons/all-files/fi/FiFilter';",
+    "description": "Import FiFilter Feather icon from @react-icons/all-files/fi/FiFilter"
+  },
+  "FiFilter (Feather)": {
+    "prefix": "ri:fi:filter",
+    "body": "<FiFilter />",
+    "description": "FiFilter Feather icon"
+  },
+
+  "Import FiFlag (Feather)": {
+    "prefix": "ri:fi:import:flag",
+    "body": "import { FiFlag } from 'react-icons/fi';",
+    "description": "Import FiFlag Feather icon from react-icons"
+  },
+  "Import FiFlag (Feather) from all-files": {
+    "prefix": "ri:fi:import:flag:all-files",
+    "body": "import { FiFlag } from '@react-icons/all-files/fi/FiFlag';",
+    "description": "Import FiFlag Feather icon from @react-icons/all-files/fi/FiFlag"
+  },
+  "FiFlag (Feather)": {
+    "prefix": "ri:fi:flag",
+    "body": "<FiFlag />",
+    "description": "FiFlag Feather icon"
+  },
+
+  "Import FiFolderMinus (Feather)": {
+    "prefix": "ri:fi:import:folder-minus",
+    "body": "import { FiFolderMinus } from 'react-icons/fi';",
+    "description": "Import FiFolderMinus Feather icon from react-icons"
+  },
+  "Import FiFolderMinus (Feather) from all-files": {
+    "prefix": "ri:fi:import:folder-minus:all-files",
+    "body": "import { FiFolderMinus } from '@react-icons/all-files/fi/FiFolderMinus';",
+    "description": "Import FiFolderMinus Feather icon from @react-icons/all-files/fi/FiFolderMinus"
+  },
+  "FiFolderMinus (Feather)": {
+    "prefix": "ri:fi:folder-minus",
+    "body": "<FiFolderMinus />",
+    "description": "FiFolderMinus Feather icon"
+  },
+
+  "Import FiFolderPlus (Feather)": {
+    "prefix": "ri:fi:import:folder-plus",
+    "body": "import { FiFolderPlus } from 'react-icons/fi';",
+    "description": "Import FiFolderPlus Feather icon from react-icons"
+  },
+  "Import FiFolderPlus (Feather) from all-files": {
+    "prefix": "ri:fi:import:folder-plus:all-files",
+    "body": "import { FiFolderPlus } from '@react-icons/all-files/fi/FiFolderPlus';",
+    "description": "Import FiFolderPlus Feather icon from @react-icons/all-files/fi/FiFolderPlus"
+  },
+  "FiFolderPlus (Feather)": {
+    "prefix": "ri:fi:folder-plus",
+    "body": "<FiFolderPlus />",
+    "description": "FiFolderPlus Feather icon"
+  },
+
+  "Import FiFolder (Feather)": {
+    "prefix": "ri:fi:import:folder",
+    "body": "import { FiFolder } from 'react-icons/fi';",
+    "description": "Import FiFolder Feather icon from react-icons"
+  },
+  "Import FiFolder (Feather) from all-files": {
+    "prefix": "ri:fi:import:folder:all-files",
+    "body": "import { FiFolder } from '@react-icons/all-files/fi/FiFolder';",
+    "description": "Import FiFolder Feather icon from @react-icons/all-files/fi/FiFolder"
+  },
+  "FiFolder (Feather)": {
+    "prefix": "ri:fi:folder",
+    "body": "<FiFolder />",
+    "description": "FiFolder Feather icon"
+  },
+
+  "Import FiFramer (Feather)": {
+    "prefix": "ri:fi:import:framer",
+    "body": "import { FiFramer } from 'react-icons/fi';",
+    "description": "Import FiFramer Feather icon from react-icons"
+  },
+  "Import FiFramer (Feather) from all-files": {
+    "prefix": "ri:fi:import:framer:all-files",
+    "body": "import { FiFramer } from '@react-icons/all-files/fi/FiFramer';",
+    "description": "Import FiFramer Feather icon from @react-icons/all-files/fi/FiFramer"
+  },
+  "FiFramer (Feather)": {
+    "prefix": "ri:fi:framer",
+    "body": "<FiFramer />",
+    "description": "FiFramer Feather icon"
+  },
+
+  "Import FiFrown (Feather)": {
+    "prefix": "ri:fi:import:frown",
+    "body": "import { FiFrown } from 'react-icons/fi';",
+    "description": "Import FiFrown Feather icon from react-icons"
+  },
+  "Import FiFrown (Feather) from all-files": {
+    "prefix": "ri:fi:import:frown:all-files",
+    "body": "import { FiFrown } from '@react-icons/all-files/fi/FiFrown';",
+    "description": "Import FiFrown Feather icon from @react-icons/all-files/fi/FiFrown"
+  },
+  "FiFrown (Feather)": {
+    "prefix": "ri:fi:frown",
+    "body": "<FiFrown />",
+    "description": "FiFrown Feather icon"
+  },
+
+  "Import FiGift (Feather)": {
+    "prefix": "ri:fi:import:gift",
+    "body": "import { FiGift } from 'react-icons/fi';",
+    "description": "Import FiGift Feather icon from react-icons"
+  },
+  "Import FiGift (Feather) from all-files": {
+    "prefix": "ri:fi:import:gift:all-files",
+    "body": "import { FiGift } from '@react-icons/all-files/fi/FiGift';",
+    "description": "Import FiGift Feather icon from @react-icons/all-files/fi/FiGift"
+  },
+  "FiGift (Feather)": {
+    "prefix": "ri:fi:gift",
+    "body": "<FiGift />",
+    "description": "FiGift Feather icon"
+  },
+
+  "Import FiGitBranch (Feather)": {
+    "prefix": "ri:fi:import:git-branch",
+    "body": "import { FiGitBranch } from 'react-icons/fi';",
+    "description": "Import FiGitBranch Feather icon from react-icons"
+  },
+  "Import FiGitBranch (Feather) from all-files": {
+    "prefix": "ri:fi:import:git-branch:all-files",
+    "body": "import { FiGitBranch } from '@react-icons/all-files/fi/FiGitBranch';",
+    "description": "Import FiGitBranch Feather icon from @react-icons/all-files/fi/FiGitBranch"
+  },
+  "FiGitBranch (Feather)": {
+    "prefix": "ri:fi:git-branch",
+    "body": "<FiGitBranch />",
+    "description": "FiGitBranch Feather icon"
+  },
+
+  "Import FiGitCommit (Feather)": {
+    "prefix": "ri:fi:import:git-commit",
+    "body": "import { FiGitCommit } from 'react-icons/fi';",
+    "description": "Import FiGitCommit Feather icon from react-icons"
+  },
+  "Import FiGitCommit (Feather) from all-files": {
+    "prefix": "ri:fi:import:git-commit:all-files",
+    "body": "import { FiGitCommit } from '@react-icons/all-files/fi/FiGitCommit';",
+    "description": "Import FiGitCommit Feather icon from @react-icons/all-files/fi/FiGitCommit"
+  },
+  "FiGitCommit (Feather)": {
+    "prefix": "ri:fi:git-commit",
+    "body": "<FiGitCommit />",
+    "description": "FiGitCommit Feather icon"
+  },
+
+  "Import FiGitMerge (Feather)": {
+    "prefix": "ri:fi:import:git-merge",
+    "body": "import { FiGitMerge } from 'react-icons/fi';",
+    "description": "Import FiGitMerge Feather icon from react-icons"
+  },
+  "Import FiGitMerge (Feather) from all-files": {
+    "prefix": "ri:fi:import:git-merge:all-files",
+    "body": "import { FiGitMerge } from '@react-icons/all-files/fi/FiGitMerge';",
+    "description": "Import FiGitMerge Feather icon from @react-icons/all-files/fi/FiGitMerge"
+  },
+  "FiGitMerge (Feather)": {
+    "prefix": "ri:fi:git-merge",
+    "body": "<FiGitMerge />",
+    "description": "FiGitMerge Feather icon"
+  },
+
+  "Import FiGitPullRequest (Feather)": {
+    "prefix": "ri:fi:import:git-pull-request",
+    "body": "import { FiGitPullRequest } from 'react-icons/fi';",
+    "description": "Import FiGitPullRequest Feather icon from react-icons"
+  },
+  "Import FiGitPullRequest (Feather) from all-files": {
+    "prefix": "ri:fi:import:git-pull-request:all-files",
+    "body": "import { FiGitPullRequest } from '@react-icons/all-files/fi/FiGitPullRequest';",
+    "description": "Import FiGitPullRequest Feather icon from @react-icons/all-files/fi/FiGitPullRequest"
+  },
+  "FiGitPullRequest (Feather)": {
+    "prefix": "ri:fi:git-pull-request",
+    "body": "<FiGitPullRequest />",
+    "description": "FiGitPullRequest Feather icon"
+  },
+
+  "Import FiGithub (Feather)": {
+    "prefix": "ri:fi:import:github",
+    "body": "import { FiGithub } from 'react-icons/fi';",
+    "description": "Import FiGithub Feather icon from react-icons"
+  },
+  "Import FiGithub (Feather) from all-files": {
+    "prefix": "ri:fi:import:github:all-files",
+    "body": "import { FiGithub } from '@react-icons/all-files/fi/FiGithub';",
+    "description": "Import FiGithub Feather icon from @react-icons/all-files/fi/FiGithub"
+  },
+  "FiGithub (Feather)": {
+    "prefix": "ri:fi:github",
+    "body": "<FiGithub />",
+    "description": "FiGithub Feather icon"
+  },
+
+  "Import FiGitlab (Feather)": {
+    "prefix": "ri:fi:import:gitlab",
+    "body": "import { FiGitlab } from 'react-icons/fi';",
+    "description": "Import FiGitlab Feather icon from react-icons"
+  },
+  "Import FiGitlab (Feather) from all-files": {
+    "prefix": "ri:fi:import:gitlab:all-files",
+    "body": "import { FiGitlab } from '@react-icons/all-files/fi/FiGitlab';",
+    "description": "Import FiGitlab Feather icon from @react-icons/all-files/fi/FiGitlab"
+  },
+  "FiGitlab (Feather)": {
+    "prefix": "ri:fi:gitlab",
+    "body": "<FiGitlab />",
+    "description": "FiGitlab Feather icon"
+  },
+
+  "Import FiGlobe (Feather)": {
+    "prefix": "ri:fi:import:globe",
+    "body": "import { FiGlobe } from 'react-icons/fi';",
+    "description": "Import FiGlobe Feather icon from react-icons"
+  },
+  "Import FiGlobe (Feather) from all-files": {
+    "prefix": "ri:fi:import:globe:all-files",
+    "body": "import { FiGlobe } from '@react-icons/all-files/fi/FiGlobe';",
+    "description": "Import FiGlobe Feather icon from @react-icons/all-files/fi/FiGlobe"
+  },
+  "FiGlobe (Feather)": {
+    "prefix": "ri:fi:globe",
+    "body": "<FiGlobe />",
+    "description": "FiGlobe Feather icon"
+  },
+
+  "Import FiGrid (Feather)": {
+    "prefix": "ri:fi:import:grid",
+    "body": "import { FiGrid } from 'react-icons/fi';",
+    "description": "Import FiGrid Feather icon from react-icons"
+  },
+  "Import FiGrid (Feather) from all-files": {
+    "prefix": "ri:fi:import:grid:all-files",
+    "body": "import { FiGrid } from '@react-icons/all-files/fi/FiGrid';",
+    "description": "Import FiGrid Feather icon from @react-icons/all-files/fi/FiGrid"
+  },
+  "FiGrid (Feather)": {
+    "prefix": "ri:fi:grid",
+    "body": "<FiGrid />",
+    "description": "FiGrid Feather icon"
+  },
+
+  "Import FiHardDrive (Feather)": {
+    "prefix": "ri:fi:import:hard-drive",
+    "body": "import { FiHardDrive } from 'react-icons/fi';",
+    "description": "Import FiHardDrive Feather icon from react-icons"
+  },
+  "Import FiHardDrive (Feather) from all-files": {
+    "prefix": "ri:fi:import:hard-drive:all-files",
+    "body": "import { FiHardDrive } from '@react-icons/all-files/fi/FiHardDrive';",
+    "description": "Import FiHardDrive Feather icon from @react-icons/all-files/fi/FiHardDrive"
+  },
+  "FiHardDrive (Feather)": {
+    "prefix": "ri:fi:hard-drive",
+    "body": "<FiHardDrive />",
+    "description": "FiHardDrive Feather icon"
+  },
+
+  "Import FiHash (Feather)": {
+    "prefix": "ri:fi:import:hash",
+    "body": "import { FiHash } from 'react-icons/fi';",
+    "description": "Import FiHash Feather icon from react-icons"
+  },
+  "Import FiHash (Feather) from all-files": {
+    "prefix": "ri:fi:import:hash:all-files",
+    "body": "import { FiHash } from '@react-icons/all-files/fi/FiHash';",
+    "description": "Import FiHash Feather icon from @react-icons/all-files/fi/FiHash"
+  },
+  "FiHash (Feather)": {
+    "prefix": "ri:fi:hash",
+    "body": "<FiHash />",
+    "description": "FiHash Feather icon"
+  },
+
+  "Import FiHeadphones (Feather)": {
+    "prefix": "ri:fi:import:headphones",
+    "body": "import { FiHeadphones } from 'react-icons/fi';",
+    "description": "Import FiHeadphones Feather icon from react-icons"
+  },
+  "Import FiHeadphones (Feather) from all-files": {
+    "prefix": "ri:fi:import:headphones:all-files",
+    "body": "import { FiHeadphones } from '@react-icons/all-files/fi/FiHeadphones';",
+    "description": "Import FiHeadphones Feather icon from @react-icons/all-files/fi/FiHeadphones"
+  },
+  "FiHeadphones (Feather)": {
+    "prefix": "ri:fi:headphones",
+    "body": "<FiHeadphones />",
+    "description": "FiHeadphones Feather icon"
+  },
+
+  "Import FiHeart (Feather)": {
+    "prefix": "ri:fi:import:heart",
+    "body": "import { FiHeart } from 'react-icons/fi';",
+    "description": "Import FiHeart Feather icon from react-icons"
+  },
+  "Import FiHeart (Feather) from all-files": {
+    "prefix": "ri:fi:import:heart:all-files",
+    "body": "import { FiHeart } from '@react-icons/all-files/fi/FiHeart';",
+    "description": "Import FiHeart Feather icon from @react-icons/all-files/fi/FiHeart"
+  },
+  "FiHeart (Feather)": {
+    "prefix": "ri:fi:heart",
+    "body": "<FiHeart />",
+    "description": "FiHeart Feather icon"
+  },
+
+  "Import FiHelpCircle (Feather)": {
+    "prefix": "ri:fi:import:help-circle",
+    "body": "import { FiHelpCircle } from 'react-icons/fi';",
+    "description": "Import FiHelpCircle Feather icon from react-icons"
+  },
+  "Import FiHelpCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:help-circle:all-files",
+    "body": "import { FiHelpCircle } from '@react-icons/all-files/fi/FiHelpCircle';",
+    "description": "Import FiHelpCircle Feather icon from @react-icons/all-files/fi/FiHelpCircle"
+  },
+  "FiHelpCircle (Feather)": {
+    "prefix": "ri:fi:help-circle",
+    "body": "<FiHelpCircle />",
+    "description": "FiHelpCircle Feather icon"
+  },
+
+  "Import FiHexagon (Feather)": {
+    "prefix": "ri:fi:import:hexagon",
+    "body": "import { FiHexagon } from 'react-icons/fi';",
+    "description": "Import FiHexagon Feather icon from react-icons"
+  },
+  "Import FiHexagon (Feather) from all-files": {
+    "prefix": "ri:fi:import:hexagon:all-files",
+    "body": "import { FiHexagon } from '@react-icons/all-files/fi/FiHexagon';",
+    "description": "Import FiHexagon Feather icon from @react-icons/all-files/fi/FiHexagon"
+  },
+  "FiHexagon (Feather)": {
+    "prefix": "ri:fi:hexagon",
+    "body": "<FiHexagon />",
+    "description": "FiHexagon Feather icon"
+  },
+
+  "Import FiHome (Feather)": {
+    "prefix": "ri:fi:import:home",
+    "body": "import { FiHome } from 'react-icons/fi';",
+    "description": "Import FiHome Feather icon from react-icons"
+  },
+  "Import FiHome (Feather) from all-files": {
+    "prefix": "ri:fi:import:home:all-files",
+    "body": "import { FiHome } from '@react-icons/all-files/fi/FiHome';",
+    "description": "Import FiHome Feather icon from @react-icons/all-files/fi/FiHome"
+  },
+  "FiHome (Feather)": {
+    "prefix": "ri:fi:home",
+    "body": "<FiHome />",
+    "description": "FiHome Feather icon"
+  },
+
+  "Import FiImage (Feather)": {
+    "prefix": "ri:fi:import:image",
+    "body": "import { FiImage } from 'react-icons/fi';",
+    "description": "Import FiImage Feather icon from react-icons"
+  },
+  "Import FiImage (Feather) from all-files": {
+    "prefix": "ri:fi:import:image:all-files",
+    "body": "import { FiImage } from '@react-icons/all-files/fi/FiImage';",
+    "description": "Import FiImage Feather icon from @react-icons/all-files/fi/FiImage"
+  },
+  "FiImage (Feather)": {
+    "prefix": "ri:fi:image",
+    "body": "<FiImage />",
+    "description": "FiImage Feather icon"
+  },
+
+  "Import FiInbox (Feather)": {
+    "prefix": "ri:fi:import:inbox",
+    "body": "import { FiInbox } from 'react-icons/fi';",
+    "description": "Import FiInbox Feather icon from react-icons"
+  },
+  "Import FiInbox (Feather) from all-files": {
+    "prefix": "ri:fi:import:inbox:all-files",
+    "body": "import { FiInbox } from '@react-icons/all-files/fi/FiInbox';",
+    "description": "Import FiInbox Feather icon from @react-icons/all-files/fi/FiInbox"
+  },
+  "FiInbox (Feather)": {
+    "prefix": "ri:fi:inbox",
+    "body": "<FiInbox />",
+    "description": "FiInbox Feather icon"
+  },
+
+  "Import FiInfo (Feather)": {
+    "prefix": "ri:fi:import:info",
+    "body": "import { FiInfo } from 'react-icons/fi';",
+    "description": "Import FiInfo Feather icon from react-icons"
+  },
+  "Import FiInfo (Feather) from all-files": {
+    "prefix": "ri:fi:import:info:all-files",
+    "body": "import { FiInfo } from '@react-icons/all-files/fi/FiInfo';",
+    "description": "Import FiInfo Feather icon from @react-icons/all-files/fi/FiInfo"
+  },
+  "FiInfo (Feather)": {
+    "prefix": "ri:fi:info",
+    "body": "<FiInfo />",
+    "description": "FiInfo Feather icon"
+  },
+
+  "Import FiInstagram (Feather)": {
+    "prefix": "ri:fi:import:instagram",
+    "body": "import { FiInstagram } from 'react-icons/fi';",
+    "description": "Import FiInstagram Feather icon from react-icons"
+  },
+  "Import FiInstagram (Feather) from all-files": {
+    "prefix": "ri:fi:import:instagram:all-files",
+    "body": "import { FiInstagram } from '@react-icons/all-files/fi/FiInstagram';",
+    "description": "Import FiInstagram Feather icon from @react-icons/all-files/fi/FiInstagram"
+  },
+  "FiInstagram (Feather)": {
+    "prefix": "ri:fi:instagram",
+    "body": "<FiInstagram />",
+    "description": "FiInstagram Feather icon"
+  },
+
+  "Import FiItalic (Feather)": {
+    "prefix": "ri:fi:import:italic",
+    "body": "import { FiItalic } from 'react-icons/fi';",
+    "description": "Import FiItalic Feather icon from react-icons"
+  },
+  "Import FiItalic (Feather) from all-files": {
+    "prefix": "ri:fi:import:italic:all-files",
+    "body": "import { FiItalic } from '@react-icons/all-files/fi/FiItalic';",
+    "description": "Import FiItalic Feather icon from @react-icons/all-files/fi/FiItalic"
+  },
+  "FiItalic (Feather)": {
+    "prefix": "ri:fi:italic",
+    "body": "<FiItalic />",
+    "description": "FiItalic Feather icon"
+  },
+
+  "Import FiKey (Feather)": {
+    "prefix": "ri:fi:import:key",
+    "body": "import { FiKey } from 'react-icons/fi';",
+    "description": "Import FiKey Feather icon from react-icons"
+  },
+  "Import FiKey (Feather) from all-files": {
+    "prefix": "ri:fi:import:key:all-files",
+    "body": "import { FiKey } from '@react-icons/all-files/fi/FiKey';",
+    "description": "Import FiKey Feather icon from @react-icons/all-files/fi/FiKey"
+  },
+  "FiKey (Feather)": {
+    "prefix": "ri:fi:key",
+    "body": "<FiKey />",
+    "description": "FiKey Feather icon"
+  },
+
+  "Import FiLayers (Feather)": {
+    "prefix": "ri:fi:import:layers",
+    "body": "import { FiLayers } from 'react-icons/fi';",
+    "description": "Import FiLayers Feather icon from react-icons"
+  },
+  "Import FiLayers (Feather) from all-files": {
+    "prefix": "ri:fi:import:layers:all-files",
+    "body": "import { FiLayers } from '@react-icons/all-files/fi/FiLayers';",
+    "description": "Import FiLayers Feather icon from @react-icons/all-files/fi/FiLayers"
+  },
+  "FiLayers (Feather)": {
+    "prefix": "ri:fi:layers",
+    "body": "<FiLayers />",
+    "description": "FiLayers Feather icon"
+  },
+
+  "Import FiLayout (Feather)": {
+    "prefix": "ri:fi:import:layout",
+    "body": "import { FiLayout } from 'react-icons/fi';",
+    "description": "Import FiLayout Feather icon from react-icons"
+  },
+  "Import FiLayout (Feather) from all-files": {
+    "prefix": "ri:fi:import:layout:all-files",
+    "body": "import { FiLayout } from '@react-icons/all-files/fi/FiLayout';",
+    "description": "Import FiLayout Feather icon from @react-icons/all-files/fi/FiLayout"
+  },
+  "FiLayout (Feather)": {
+    "prefix": "ri:fi:layout",
+    "body": "<FiLayout />",
+    "description": "FiLayout Feather icon"
+  },
+
+  "Import FiLifeBuoy (Feather)": {
+    "prefix": "ri:fi:import:life-buoy",
+    "body": "import { FiLifeBuoy } from 'react-icons/fi';",
+    "description": "Import FiLifeBuoy Feather icon from react-icons"
+  },
+  "Import FiLifeBuoy (Feather) from all-files": {
+    "prefix": "ri:fi:import:life-buoy:all-files",
+    "body": "import { FiLifeBuoy } from '@react-icons/all-files/fi/FiLifeBuoy';",
+    "description": "Import FiLifeBuoy Feather icon from @react-icons/all-files/fi/FiLifeBuoy"
+  },
+  "FiLifeBuoy (Feather)": {
+    "prefix": "ri:fi:life-buoy",
+    "body": "<FiLifeBuoy />",
+    "description": "FiLifeBuoy Feather icon"
+  },
+
+  "Import FiLink2 (Feather)": {
+    "prefix": "ri:fi:import:link-2",
+    "body": "import { FiLink2 } from 'react-icons/fi';",
+    "description": "Import FiLink2 Feather icon from react-icons"
+  },
+  "Import FiLink2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:link-2:all-files",
+    "body": "import { FiLink2 } from '@react-icons/all-files/fi/FiLink2';",
+    "description": "Import FiLink2 Feather icon from @react-icons/all-files/fi/FiLink2"
+  },
+  "FiLink2 (Feather)": {
+    "prefix": "ri:fi:link-2",
+    "body": "<FiLink2 />",
+    "description": "FiLink2 Feather icon"
+  },
+
+  "Import FiLink (Feather)": {
+    "prefix": "ri:fi:import:link",
+    "body": "import { FiLink } from 'react-icons/fi';",
+    "description": "Import FiLink Feather icon from react-icons"
+  },
+  "Import FiLink (Feather) from all-files": {
+    "prefix": "ri:fi:import:link:all-files",
+    "body": "import { FiLink } from '@react-icons/all-files/fi/FiLink';",
+    "description": "Import FiLink Feather icon from @react-icons/all-files/fi/FiLink"
+  },
+  "FiLink (Feather)": {
+    "prefix": "ri:fi:link",
+    "body": "<FiLink />",
+    "description": "FiLink Feather icon"
+  },
+
+  "Import FiLinkedin (Feather)": {
+    "prefix": "ri:fi:import:linkedin",
+    "body": "import { FiLinkedin } from 'react-icons/fi';",
+    "description": "Import FiLinkedin Feather icon from react-icons"
+  },
+  "Import FiLinkedin (Feather) from all-files": {
+    "prefix": "ri:fi:import:linkedin:all-files",
+    "body": "import { FiLinkedin } from '@react-icons/all-files/fi/FiLinkedin';",
+    "description": "Import FiLinkedin Feather icon from @react-icons/all-files/fi/FiLinkedin"
+  },
+  "FiLinkedin (Feather)": {
+    "prefix": "ri:fi:linkedin",
+    "body": "<FiLinkedin />",
+    "description": "FiLinkedin Feather icon"
+  },
+
+  "Import FiList (Feather)": {
+    "prefix": "ri:fi:import:list",
+    "body": "import { FiList } from 'react-icons/fi';",
+    "description": "Import FiList Feather icon from react-icons"
+  },
+  "Import FiList (Feather) from all-files": {
+    "prefix": "ri:fi:import:list:all-files",
+    "body": "import { FiList } from '@react-icons/all-files/fi/FiList';",
+    "description": "Import FiList Feather icon from @react-icons/all-files/fi/FiList"
+  },
+  "FiList (Feather)": {
+    "prefix": "ri:fi:list",
+    "body": "<FiList />",
+    "description": "FiList Feather icon"
+  },
+
+  "Import FiLoader (Feather)": {
+    "prefix": "ri:fi:import:loader",
+    "body": "import { FiLoader } from 'react-icons/fi';",
+    "description": "Import FiLoader Feather icon from react-icons"
+  },
+  "Import FiLoader (Feather) from all-files": {
+    "prefix": "ri:fi:import:loader:all-files",
+    "body": "import { FiLoader } from '@react-icons/all-files/fi/FiLoader';",
+    "description": "Import FiLoader Feather icon from @react-icons/all-files/fi/FiLoader"
+  },
+  "FiLoader (Feather)": {
+    "prefix": "ri:fi:loader",
+    "body": "<FiLoader />",
+    "description": "FiLoader Feather icon"
+  },
+
+  "Import FiLock (Feather)": {
+    "prefix": "ri:fi:import:lock",
+    "body": "import { FiLock } from 'react-icons/fi';",
+    "description": "Import FiLock Feather icon from react-icons"
+  },
+  "Import FiLock (Feather) from all-files": {
+    "prefix": "ri:fi:import:lock:all-files",
+    "body": "import { FiLock } from '@react-icons/all-files/fi/FiLock';",
+    "description": "Import FiLock Feather icon from @react-icons/all-files/fi/FiLock"
+  },
+  "FiLock (Feather)": {
+    "prefix": "ri:fi:lock",
+    "body": "<FiLock />",
+    "description": "FiLock Feather icon"
+  },
+
+  "Import FiLogIn (Feather)": {
+    "prefix": "ri:fi:import:log-in",
+    "body": "import { FiLogIn } from 'react-icons/fi';",
+    "description": "Import FiLogIn Feather icon from react-icons"
+  },
+  "Import FiLogIn (Feather) from all-files": {
+    "prefix": "ri:fi:import:log-in:all-files",
+    "body": "import { FiLogIn } from '@react-icons/all-files/fi/FiLogIn';",
+    "description": "Import FiLogIn Feather icon from @react-icons/all-files/fi/FiLogIn"
+  },
+  "FiLogIn (Feather)": {
+    "prefix": "ri:fi:log-in",
+    "body": "<FiLogIn />",
+    "description": "FiLogIn Feather icon"
+  },
+
+  "Import FiLogOut (Feather)": {
+    "prefix": "ri:fi:import:log-out",
+    "body": "import { FiLogOut } from 'react-icons/fi';",
+    "description": "Import FiLogOut Feather icon from react-icons"
+  },
+  "Import FiLogOut (Feather) from all-files": {
+    "prefix": "ri:fi:import:log-out:all-files",
+    "body": "import { FiLogOut } from '@react-icons/all-files/fi/FiLogOut';",
+    "description": "Import FiLogOut Feather icon from @react-icons/all-files/fi/FiLogOut"
+  },
+  "FiLogOut (Feather)": {
+    "prefix": "ri:fi:log-out",
+    "body": "<FiLogOut />",
+    "description": "FiLogOut Feather icon"
+  },
+
+  "Import FiMail (Feather)": {
+    "prefix": "ri:fi:import:mail",
+    "body": "import { FiMail } from 'react-icons/fi';",
+    "description": "Import FiMail Feather icon from react-icons"
+  },
+  "Import FiMail (Feather) from all-files": {
+    "prefix": "ri:fi:import:mail:all-files",
+    "body": "import { FiMail } from '@react-icons/all-files/fi/FiMail';",
+    "description": "Import FiMail Feather icon from @react-icons/all-files/fi/FiMail"
+  },
+  "FiMail (Feather)": {
+    "prefix": "ri:fi:mail",
+    "body": "<FiMail />",
+    "description": "FiMail Feather icon"
+  },
+
+  "Import FiMapPin (Feather)": {
+    "prefix": "ri:fi:import:map-pin",
+    "body": "import { FiMapPin } from 'react-icons/fi';",
+    "description": "Import FiMapPin Feather icon from react-icons"
+  },
+  "Import FiMapPin (Feather) from all-files": {
+    "prefix": "ri:fi:import:map-pin:all-files",
+    "body": "import { FiMapPin } from '@react-icons/all-files/fi/FiMapPin';",
+    "description": "Import FiMapPin Feather icon from @react-icons/all-files/fi/FiMapPin"
+  },
+  "FiMapPin (Feather)": {
+    "prefix": "ri:fi:map-pin",
+    "body": "<FiMapPin />",
+    "description": "FiMapPin Feather icon"
+  },
+
+  "Import FiMap (Feather)": {
+    "prefix": "ri:fi:import:map",
+    "body": "import { FiMap } from 'react-icons/fi';",
+    "description": "Import FiMap Feather icon from react-icons"
+  },
+  "Import FiMap (Feather) from all-files": {
+    "prefix": "ri:fi:import:map:all-files",
+    "body": "import { FiMap } from '@react-icons/all-files/fi/FiMap';",
+    "description": "Import FiMap Feather icon from @react-icons/all-files/fi/FiMap"
+  },
+  "FiMap (Feather)": {
+    "prefix": "ri:fi:map",
+    "body": "<FiMap />",
+    "description": "FiMap Feather icon"
+  },
+
+  "Import FiMaximize2 (Feather)": {
+    "prefix": "ri:fi:import:maximize-2",
+    "body": "import { FiMaximize2 } from 'react-icons/fi';",
+    "description": "Import FiMaximize2 Feather icon from react-icons"
+  },
+  "Import FiMaximize2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:maximize-2:all-files",
+    "body": "import { FiMaximize2 } from '@react-icons/all-files/fi/FiMaximize2';",
+    "description": "Import FiMaximize2 Feather icon from @react-icons/all-files/fi/FiMaximize2"
+  },
+  "FiMaximize2 (Feather)": {
+    "prefix": "ri:fi:maximize-2",
+    "body": "<FiMaximize2 />",
+    "description": "FiMaximize2 Feather icon"
+  },
+
+  "Import FiMaximize (Feather)": {
+    "prefix": "ri:fi:import:maximize",
+    "body": "import { FiMaximize } from 'react-icons/fi';",
+    "description": "Import FiMaximize Feather icon from react-icons"
+  },
+  "Import FiMaximize (Feather) from all-files": {
+    "prefix": "ri:fi:import:maximize:all-files",
+    "body": "import { FiMaximize } from '@react-icons/all-files/fi/FiMaximize';",
+    "description": "Import FiMaximize Feather icon from @react-icons/all-files/fi/FiMaximize"
+  },
+  "FiMaximize (Feather)": {
+    "prefix": "ri:fi:maximize",
+    "body": "<FiMaximize />",
+    "description": "FiMaximize Feather icon"
+  },
+
+  "Import FiMeh (Feather)": {
+    "prefix": "ri:fi:import:meh",
+    "body": "import { FiMeh } from 'react-icons/fi';",
+    "description": "Import FiMeh Feather icon from react-icons"
+  },
+  "Import FiMeh (Feather) from all-files": {
+    "prefix": "ri:fi:import:meh:all-files",
+    "body": "import { FiMeh } from '@react-icons/all-files/fi/FiMeh';",
+    "description": "Import FiMeh Feather icon from @react-icons/all-files/fi/FiMeh"
+  },
+  "FiMeh (Feather)": {
+    "prefix": "ri:fi:meh",
+    "body": "<FiMeh />",
+    "description": "FiMeh Feather icon"
+  },
+
+  "Import FiMenu (Feather)": {
+    "prefix": "ri:fi:import:menu",
+    "body": "import { FiMenu } from 'react-icons/fi';",
+    "description": "Import FiMenu Feather icon from react-icons"
+  },
+  "Import FiMenu (Feather) from all-files": {
+    "prefix": "ri:fi:import:menu:all-files",
+    "body": "import { FiMenu } from '@react-icons/all-files/fi/FiMenu';",
+    "description": "Import FiMenu Feather icon from @react-icons/all-files/fi/FiMenu"
+  },
+  "FiMenu (Feather)": {
+    "prefix": "ri:fi:menu",
+    "body": "<FiMenu />",
+    "description": "FiMenu Feather icon"
+  },
+
+  "Import FiMessageCircle (Feather)": {
+    "prefix": "ri:fi:import:message-circle",
+    "body": "import { FiMessageCircle } from 'react-icons/fi';",
+    "description": "Import FiMessageCircle Feather icon from react-icons"
+  },
+  "Import FiMessageCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:message-circle:all-files",
+    "body": "import { FiMessageCircle } from '@react-icons/all-files/fi/FiMessageCircle';",
+    "description": "Import FiMessageCircle Feather icon from @react-icons/all-files/fi/FiMessageCircle"
+  },
+  "FiMessageCircle (Feather)": {
+    "prefix": "ri:fi:message-circle",
+    "body": "<FiMessageCircle />",
+    "description": "FiMessageCircle Feather icon"
+  },
+
+  "Import FiMessageSquare (Feather)": {
+    "prefix": "ri:fi:import:message-square",
+    "body": "import { FiMessageSquare } from 'react-icons/fi';",
+    "description": "Import FiMessageSquare Feather icon from react-icons"
+  },
+  "Import FiMessageSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:message-square:all-files",
+    "body": "import { FiMessageSquare } from '@react-icons/all-files/fi/FiMessageSquare';",
+    "description": "Import FiMessageSquare Feather icon from @react-icons/all-files/fi/FiMessageSquare"
+  },
+  "FiMessageSquare (Feather)": {
+    "prefix": "ri:fi:message-square",
+    "body": "<FiMessageSquare />",
+    "description": "FiMessageSquare Feather icon"
+  },
+
+  "Import FiMicOff (Feather)": {
+    "prefix": "ri:fi:import:mic-off",
+    "body": "import { FiMicOff } from 'react-icons/fi';",
+    "description": "Import FiMicOff Feather icon from react-icons"
+  },
+  "Import FiMicOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:mic-off:all-files",
+    "body": "import { FiMicOff } from '@react-icons/all-files/fi/FiMicOff';",
+    "description": "Import FiMicOff Feather icon from @react-icons/all-files/fi/FiMicOff"
+  },
+  "FiMicOff (Feather)": {
+    "prefix": "ri:fi:mic-off",
+    "body": "<FiMicOff />",
+    "description": "FiMicOff Feather icon"
+  },
+
+  "Import FiMic (Feather)": {
+    "prefix": "ri:fi:import:mic",
+    "body": "import { FiMic } from 'react-icons/fi';",
+    "description": "Import FiMic Feather icon from react-icons"
+  },
+  "Import FiMic (Feather) from all-files": {
+    "prefix": "ri:fi:import:mic:all-files",
+    "body": "import { FiMic } from '@react-icons/all-files/fi/FiMic';",
+    "description": "Import FiMic Feather icon from @react-icons/all-files/fi/FiMic"
+  },
+  "FiMic (Feather)": {
+    "prefix": "ri:fi:mic",
+    "body": "<FiMic />",
+    "description": "FiMic Feather icon"
+  },
+
+  "Import FiMinimize2 (Feather)": {
+    "prefix": "ri:fi:import:minimize-2",
+    "body": "import { FiMinimize2 } from 'react-icons/fi';",
+    "description": "Import FiMinimize2 Feather icon from react-icons"
+  },
+  "Import FiMinimize2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:minimize-2:all-files",
+    "body": "import { FiMinimize2 } from '@react-icons/all-files/fi/FiMinimize2';",
+    "description": "Import FiMinimize2 Feather icon from @react-icons/all-files/fi/FiMinimize2"
+  },
+  "FiMinimize2 (Feather)": {
+    "prefix": "ri:fi:minimize-2",
+    "body": "<FiMinimize2 />",
+    "description": "FiMinimize2 Feather icon"
+  },
+
+  "Import FiMinimize (Feather)": {
+    "prefix": "ri:fi:import:minimize",
+    "body": "import { FiMinimize } from 'react-icons/fi';",
+    "description": "Import FiMinimize Feather icon from react-icons"
+  },
+  "Import FiMinimize (Feather) from all-files": {
+    "prefix": "ri:fi:import:minimize:all-files",
+    "body": "import { FiMinimize } from '@react-icons/all-files/fi/FiMinimize';",
+    "description": "Import FiMinimize Feather icon from @react-icons/all-files/fi/FiMinimize"
+  },
+  "FiMinimize (Feather)": {
+    "prefix": "ri:fi:minimize",
+    "body": "<FiMinimize />",
+    "description": "FiMinimize Feather icon"
+  },
+
+  "Import FiMinusCircle (Feather)": {
+    "prefix": "ri:fi:import:minus-circle",
+    "body": "import { FiMinusCircle } from 'react-icons/fi';",
+    "description": "Import FiMinusCircle Feather icon from react-icons"
+  },
+  "Import FiMinusCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:minus-circle:all-files",
+    "body": "import { FiMinusCircle } from '@react-icons/all-files/fi/FiMinusCircle';",
+    "description": "Import FiMinusCircle Feather icon from @react-icons/all-files/fi/FiMinusCircle"
+  },
+  "FiMinusCircle (Feather)": {
+    "prefix": "ri:fi:minus-circle",
+    "body": "<FiMinusCircle />",
+    "description": "FiMinusCircle Feather icon"
+  },
+
+  "Import FiMinusSquare (Feather)": {
+    "prefix": "ri:fi:import:minus-square",
+    "body": "import { FiMinusSquare } from 'react-icons/fi';",
+    "description": "Import FiMinusSquare Feather icon from react-icons"
+  },
+  "Import FiMinusSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:minus-square:all-files",
+    "body": "import { FiMinusSquare } from '@react-icons/all-files/fi/FiMinusSquare';",
+    "description": "Import FiMinusSquare Feather icon from @react-icons/all-files/fi/FiMinusSquare"
+  },
+  "FiMinusSquare (Feather)": {
+    "prefix": "ri:fi:minus-square",
+    "body": "<FiMinusSquare />",
+    "description": "FiMinusSquare Feather icon"
+  },
+
+  "Import FiMinus (Feather)": {
+    "prefix": "ri:fi:import:minus",
+    "body": "import { FiMinus } from 'react-icons/fi';",
+    "description": "Import FiMinus Feather icon from react-icons"
+  },
+  "Import FiMinus (Feather) from all-files": {
+    "prefix": "ri:fi:import:minus:all-files",
+    "body": "import { FiMinus } from '@react-icons/all-files/fi/FiMinus';",
+    "description": "Import FiMinus Feather icon from @react-icons/all-files/fi/FiMinus"
+  },
+  "FiMinus (Feather)": {
+    "prefix": "ri:fi:minus",
+    "body": "<FiMinus />",
+    "description": "FiMinus Feather icon"
+  },
+
+  "Import FiMonitor (Feather)": {
+    "prefix": "ri:fi:import:monitor",
+    "body": "import { FiMonitor } from 'react-icons/fi';",
+    "description": "Import FiMonitor Feather icon from react-icons"
+  },
+  "Import FiMonitor (Feather) from all-files": {
+    "prefix": "ri:fi:import:monitor:all-files",
+    "body": "import { FiMonitor } from '@react-icons/all-files/fi/FiMonitor';",
+    "description": "Import FiMonitor Feather icon from @react-icons/all-files/fi/FiMonitor"
+  },
+  "FiMonitor (Feather)": {
+    "prefix": "ri:fi:monitor",
+    "body": "<FiMonitor />",
+    "description": "FiMonitor Feather icon"
+  },
+
+  "Import FiMoon (Feather)": {
+    "prefix": "ri:fi:import:moon",
+    "body": "import { FiMoon } from 'react-icons/fi';",
+    "description": "Import FiMoon Feather icon from react-icons"
+  },
+  "Import FiMoon (Feather) from all-files": {
+    "prefix": "ri:fi:import:moon:all-files",
+    "body": "import { FiMoon } from '@react-icons/all-files/fi/FiMoon';",
+    "description": "Import FiMoon Feather icon from @react-icons/all-files/fi/FiMoon"
+  },
+  "FiMoon (Feather)": {
+    "prefix": "ri:fi:moon",
+    "body": "<FiMoon />",
+    "description": "FiMoon Feather icon"
+  },
+
+  "Import FiMoreHorizontal (Feather)": {
+    "prefix": "ri:fi:import:more-horizontal",
+    "body": "import { FiMoreHorizontal } from 'react-icons/fi';",
+    "description": "Import FiMoreHorizontal Feather icon from react-icons"
+  },
+  "Import FiMoreHorizontal (Feather) from all-files": {
+    "prefix": "ri:fi:import:more-horizontal:all-files",
+    "body": "import { FiMoreHorizontal } from '@react-icons/all-files/fi/FiMoreHorizontal';",
+    "description": "Import FiMoreHorizontal Feather icon from @react-icons/all-files/fi/FiMoreHorizontal"
+  },
+  "FiMoreHorizontal (Feather)": {
+    "prefix": "ri:fi:more-horizontal",
+    "body": "<FiMoreHorizontal />",
+    "description": "FiMoreHorizontal Feather icon"
+  },
+
+  "Import FiMoreVertical (Feather)": {
+    "prefix": "ri:fi:import:more-vertical",
+    "body": "import { FiMoreVertical } from 'react-icons/fi';",
+    "description": "Import FiMoreVertical Feather icon from react-icons"
+  },
+  "Import FiMoreVertical (Feather) from all-files": {
+    "prefix": "ri:fi:import:more-vertical:all-files",
+    "body": "import { FiMoreVertical } from '@react-icons/all-files/fi/FiMoreVertical';",
+    "description": "Import FiMoreVertical Feather icon from @react-icons/all-files/fi/FiMoreVertical"
+  },
+  "FiMoreVertical (Feather)": {
+    "prefix": "ri:fi:more-vertical",
+    "body": "<FiMoreVertical />",
+    "description": "FiMoreVertical Feather icon"
+  },
+
+  "Import FiMousePointer (Feather)": {
+    "prefix": "ri:fi:import:mouse-pointer",
+    "body": "import { FiMousePointer } from 'react-icons/fi';",
+    "description": "Import FiMousePointer Feather icon from react-icons"
+  },
+  "Import FiMousePointer (Feather) from all-files": {
+    "prefix": "ri:fi:import:mouse-pointer:all-files",
+    "body": "import { FiMousePointer } from '@react-icons/all-files/fi/FiMousePointer';",
+    "description": "Import FiMousePointer Feather icon from @react-icons/all-files/fi/FiMousePointer"
+  },
+  "FiMousePointer (Feather)": {
+    "prefix": "ri:fi:mouse-pointer",
+    "body": "<FiMousePointer />",
+    "description": "FiMousePointer Feather icon"
+  },
+
+  "Import FiMove (Feather)": {
+    "prefix": "ri:fi:import:move",
+    "body": "import { FiMove } from 'react-icons/fi';",
+    "description": "Import FiMove Feather icon from react-icons"
+  },
+  "Import FiMove (Feather) from all-files": {
+    "prefix": "ri:fi:import:move:all-files",
+    "body": "import { FiMove } from '@react-icons/all-files/fi/FiMove';",
+    "description": "Import FiMove Feather icon from @react-icons/all-files/fi/FiMove"
+  },
+  "FiMove (Feather)": {
+    "prefix": "ri:fi:move",
+    "body": "<FiMove />",
+    "description": "FiMove Feather icon"
+  },
+
+  "Import FiMusic (Feather)": {
+    "prefix": "ri:fi:import:music",
+    "body": "import { FiMusic } from 'react-icons/fi';",
+    "description": "Import FiMusic Feather icon from react-icons"
+  },
+  "Import FiMusic (Feather) from all-files": {
+    "prefix": "ri:fi:import:music:all-files",
+    "body": "import { FiMusic } from '@react-icons/all-files/fi/FiMusic';",
+    "description": "Import FiMusic Feather icon from @react-icons/all-files/fi/FiMusic"
+  },
+  "FiMusic (Feather)": {
+    "prefix": "ri:fi:music",
+    "body": "<FiMusic />",
+    "description": "FiMusic Feather icon"
+  },
+
+  "Import FiNavigation2 (Feather)": {
+    "prefix": "ri:fi:import:navigation-2",
+    "body": "import { FiNavigation2 } from 'react-icons/fi';",
+    "description": "Import FiNavigation2 Feather icon from react-icons"
+  },
+  "Import FiNavigation2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:navigation-2:all-files",
+    "body": "import { FiNavigation2 } from '@react-icons/all-files/fi/FiNavigation2';",
+    "description": "Import FiNavigation2 Feather icon from @react-icons/all-files/fi/FiNavigation2"
+  },
+  "FiNavigation2 (Feather)": {
+    "prefix": "ri:fi:navigation-2",
+    "body": "<FiNavigation2 />",
+    "description": "FiNavigation2 Feather icon"
+  },
+
+  "Import FiNavigation (Feather)": {
+    "prefix": "ri:fi:import:navigation",
+    "body": "import { FiNavigation } from 'react-icons/fi';",
+    "description": "Import FiNavigation Feather icon from react-icons"
+  },
+  "Import FiNavigation (Feather) from all-files": {
+    "prefix": "ri:fi:import:navigation:all-files",
+    "body": "import { FiNavigation } from '@react-icons/all-files/fi/FiNavigation';",
+    "description": "Import FiNavigation Feather icon from @react-icons/all-files/fi/FiNavigation"
+  },
+  "FiNavigation (Feather)": {
+    "prefix": "ri:fi:navigation",
+    "body": "<FiNavigation />",
+    "description": "FiNavigation Feather icon"
+  },
+
+  "Import FiOctagon (Feather)": {
+    "prefix": "ri:fi:import:octagon",
+    "body": "import { FiOctagon } from 'react-icons/fi';",
+    "description": "Import FiOctagon Feather icon from react-icons"
+  },
+  "Import FiOctagon (Feather) from all-files": {
+    "prefix": "ri:fi:import:octagon:all-files",
+    "body": "import { FiOctagon } from '@react-icons/all-files/fi/FiOctagon';",
+    "description": "Import FiOctagon Feather icon from @react-icons/all-files/fi/FiOctagon"
+  },
+  "FiOctagon (Feather)": {
+    "prefix": "ri:fi:octagon",
+    "body": "<FiOctagon />",
+    "description": "FiOctagon Feather icon"
+  },
+
+  "Import FiPackage (Feather)": {
+    "prefix": "ri:fi:import:package",
+    "body": "import { FiPackage } from 'react-icons/fi';",
+    "description": "Import FiPackage Feather icon from react-icons"
+  },
+  "Import FiPackage (Feather) from all-files": {
+    "prefix": "ri:fi:import:package:all-files",
+    "body": "import { FiPackage } from '@react-icons/all-files/fi/FiPackage';",
+    "description": "Import FiPackage Feather icon from @react-icons/all-files/fi/FiPackage"
+  },
+  "FiPackage (Feather)": {
+    "prefix": "ri:fi:package",
+    "body": "<FiPackage />",
+    "description": "FiPackage Feather icon"
+  },
+
+  "Import FiPaperclip (Feather)": {
+    "prefix": "ri:fi:import:paperclip",
+    "body": "import { FiPaperclip } from 'react-icons/fi';",
+    "description": "Import FiPaperclip Feather icon from react-icons"
+  },
+  "Import FiPaperclip (Feather) from all-files": {
+    "prefix": "ri:fi:import:paperclip:all-files",
+    "body": "import { FiPaperclip } from '@react-icons/all-files/fi/FiPaperclip';",
+    "description": "Import FiPaperclip Feather icon from @react-icons/all-files/fi/FiPaperclip"
+  },
+  "FiPaperclip (Feather)": {
+    "prefix": "ri:fi:paperclip",
+    "body": "<FiPaperclip />",
+    "description": "FiPaperclip Feather icon"
+  },
+
+  "Import FiPauseCircle (Feather)": {
+    "prefix": "ri:fi:import:pause-circle",
+    "body": "import { FiPauseCircle } from 'react-icons/fi';",
+    "description": "Import FiPauseCircle Feather icon from react-icons"
+  },
+  "Import FiPauseCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:pause-circle:all-files",
+    "body": "import { FiPauseCircle } from '@react-icons/all-files/fi/FiPauseCircle';",
+    "description": "Import FiPauseCircle Feather icon from @react-icons/all-files/fi/FiPauseCircle"
+  },
+  "FiPauseCircle (Feather)": {
+    "prefix": "ri:fi:pause-circle",
+    "body": "<FiPauseCircle />",
+    "description": "FiPauseCircle Feather icon"
+  },
+
+  "Import FiPause (Feather)": {
+    "prefix": "ri:fi:import:pause",
+    "body": "import { FiPause } from 'react-icons/fi';",
+    "description": "Import FiPause Feather icon from react-icons"
+  },
+  "Import FiPause (Feather) from all-files": {
+    "prefix": "ri:fi:import:pause:all-files",
+    "body": "import { FiPause } from '@react-icons/all-files/fi/FiPause';",
+    "description": "Import FiPause Feather icon from @react-icons/all-files/fi/FiPause"
+  },
+  "FiPause (Feather)": {
+    "prefix": "ri:fi:pause",
+    "body": "<FiPause />",
+    "description": "FiPause Feather icon"
+  },
+
+  "Import FiPenTool (Feather)": {
+    "prefix": "ri:fi:import:pen-tool",
+    "body": "import { FiPenTool } from 'react-icons/fi';",
+    "description": "Import FiPenTool Feather icon from react-icons"
+  },
+  "Import FiPenTool (Feather) from all-files": {
+    "prefix": "ri:fi:import:pen-tool:all-files",
+    "body": "import { FiPenTool } from '@react-icons/all-files/fi/FiPenTool';",
+    "description": "Import FiPenTool Feather icon from @react-icons/all-files/fi/FiPenTool"
+  },
+  "FiPenTool (Feather)": {
+    "prefix": "ri:fi:pen-tool",
+    "body": "<FiPenTool />",
+    "description": "FiPenTool Feather icon"
+  },
+
+  "Import FiPercent (Feather)": {
+    "prefix": "ri:fi:import:percent",
+    "body": "import { FiPercent } from 'react-icons/fi';",
+    "description": "Import FiPercent Feather icon from react-icons"
+  },
+  "Import FiPercent (Feather) from all-files": {
+    "prefix": "ri:fi:import:percent:all-files",
+    "body": "import { FiPercent } from '@react-icons/all-files/fi/FiPercent';",
+    "description": "Import FiPercent Feather icon from @react-icons/all-files/fi/FiPercent"
+  },
+  "FiPercent (Feather)": {
+    "prefix": "ri:fi:percent",
+    "body": "<FiPercent />",
+    "description": "FiPercent Feather icon"
+  },
+
+  "Import FiPhoneCall (Feather)": {
+    "prefix": "ri:fi:import:phone-call",
+    "body": "import { FiPhoneCall } from 'react-icons/fi';",
+    "description": "Import FiPhoneCall Feather icon from react-icons"
+  },
+  "Import FiPhoneCall (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone-call:all-files",
+    "body": "import { FiPhoneCall } from '@react-icons/all-files/fi/FiPhoneCall';",
+    "description": "Import FiPhoneCall Feather icon from @react-icons/all-files/fi/FiPhoneCall"
+  },
+  "FiPhoneCall (Feather)": {
+    "prefix": "ri:fi:phone-call",
+    "body": "<FiPhoneCall />",
+    "description": "FiPhoneCall Feather icon"
+  },
+
+  "Import FiPhoneForwarded (Feather)": {
+    "prefix": "ri:fi:import:phone-forwarded",
+    "body": "import { FiPhoneForwarded } from 'react-icons/fi';",
+    "description": "Import FiPhoneForwarded Feather icon from react-icons"
+  },
+  "Import FiPhoneForwarded (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone-forwarded:all-files",
+    "body": "import { FiPhoneForwarded } from '@react-icons/all-files/fi/FiPhoneForwarded';",
+    "description": "Import FiPhoneForwarded Feather icon from @react-icons/all-files/fi/FiPhoneForwarded"
+  },
+  "FiPhoneForwarded (Feather)": {
+    "prefix": "ri:fi:phone-forwarded",
+    "body": "<FiPhoneForwarded />",
+    "description": "FiPhoneForwarded Feather icon"
+  },
+
+  "Import FiPhoneIncoming (Feather)": {
+    "prefix": "ri:fi:import:phone-incoming",
+    "body": "import { FiPhoneIncoming } from 'react-icons/fi';",
+    "description": "Import FiPhoneIncoming Feather icon from react-icons"
+  },
+  "Import FiPhoneIncoming (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone-incoming:all-files",
+    "body": "import { FiPhoneIncoming } from '@react-icons/all-files/fi/FiPhoneIncoming';",
+    "description": "Import FiPhoneIncoming Feather icon from @react-icons/all-files/fi/FiPhoneIncoming"
+  },
+  "FiPhoneIncoming (Feather)": {
+    "prefix": "ri:fi:phone-incoming",
+    "body": "<FiPhoneIncoming />",
+    "description": "FiPhoneIncoming Feather icon"
+  },
+
+  "Import FiPhoneMissed (Feather)": {
+    "prefix": "ri:fi:import:phone-missed",
+    "body": "import { FiPhoneMissed } from 'react-icons/fi';",
+    "description": "Import FiPhoneMissed Feather icon from react-icons"
+  },
+  "Import FiPhoneMissed (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone-missed:all-files",
+    "body": "import { FiPhoneMissed } from '@react-icons/all-files/fi/FiPhoneMissed';",
+    "description": "Import FiPhoneMissed Feather icon from @react-icons/all-files/fi/FiPhoneMissed"
+  },
+  "FiPhoneMissed (Feather)": {
+    "prefix": "ri:fi:phone-missed",
+    "body": "<FiPhoneMissed />",
+    "description": "FiPhoneMissed Feather icon"
+  },
+
+  "Import FiPhoneOff (Feather)": {
+    "prefix": "ri:fi:import:phone-off",
+    "body": "import { FiPhoneOff } from 'react-icons/fi';",
+    "description": "Import FiPhoneOff Feather icon from react-icons"
+  },
+  "Import FiPhoneOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone-off:all-files",
+    "body": "import { FiPhoneOff } from '@react-icons/all-files/fi/FiPhoneOff';",
+    "description": "Import FiPhoneOff Feather icon from @react-icons/all-files/fi/FiPhoneOff"
+  },
+  "FiPhoneOff (Feather)": {
+    "prefix": "ri:fi:phone-off",
+    "body": "<FiPhoneOff />",
+    "description": "FiPhoneOff Feather icon"
+  },
+
+  "Import FiPhoneOutgoing (Feather)": {
+    "prefix": "ri:fi:import:phone-outgoing",
+    "body": "import { FiPhoneOutgoing } from 'react-icons/fi';",
+    "description": "Import FiPhoneOutgoing Feather icon from react-icons"
+  },
+  "Import FiPhoneOutgoing (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone-outgoing:all-files",
+    "body": "import { FiPhoneOutgoing } from '@react-icons/all-files/fi/FiPhoneOutgoing';",
+    "description": "Import FiPhoneOutgoing Feather icon from @react-icons/all-files/fi/FiPhoneOutgoing"
+  },
+  "FiPhoneOutgoing (Feather)": {
+    "prefix": "ri:fi:phone-outgoing",
+    "body": "<FiPhoneOutgoing />",
+    "description": "FiPhoneOutgoing Feather icon"
+  },
+
+  "Import FiPhone (Feather)": {
+    "prefix": "ri:fi:import:phone",
+    "body": "import { FiPhone } from 'react-icons/fi';",
+    "description": "Import FiPhone Feather icon from react-icons"
+  },
+  "Import FiPhone (Feather) from all-files": {
+    "prefix": "ri:fi:import:phone:all-files",
+    "body": "import { FiPhone } from '@react-icons/all-files/fi/FiPhone';",
+    "description": "Import FiPhone Feather icon from @react-icons/all-files/fi/FiPhone"
+  },
+  "FiPhone (Feather)": {
+    "prefix": "ri:fi:phone",
+    "body": "<FiPhone />",
+    "description": "FiPhone Feather icon"
+  },
+
+  "Import FiPieChart (Feather)": {
+    "prefix": "ri:fi:import:pie-chart",
+    "body": "import { FiPieChart } from 'react-icons/fi';",
+    "description": "Import FiPieChart Feather icon from react-icons"
+  },
+  "Import FiPieChart (Feather) from all-files": {
+    "prefix": "ri:fi:import:pie-chart:all-files",
+    "body": "import { FiPieChart } from '@react-icons/all-files/fi/FiPieChart';",
+    "description": "Import FiPieChart Feather icon from @react-icons/all-files/fi/FiPieChart"
+  },
+  "FiPieChart (Feather)": {
+    "prefix": "ri:fi:pie-chart",
+    "body": "<FiPieChart />",
+    "description": "FiPieChart Feather icon"
+  },
+
+  "Import FiPlayCircle (Feather)": {
+    "prefix": "ri:fi:import:play-circle",
+    "body": "import { FiPlayCircle } from 'react-icons/fi';",
+    "description": "Import FiPlayCircle Feather icon from react-icons"
+  },
+  "Import FiPlayCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:play-circle:all-files",
+    "body": "import { FiPlayCircle } from '@react-icons/all-files/fi/FiPlayCircle';",
+    "description": "Import FiPlayCircle Feather icon from @react-icons/all-files/fi/FiPlayCircle"
+  },
+  "FiPlayCircle (Feather)": {
+    "prefix": "ri:fi:play-circle",
+    "body": "<FiPlayCircle />",
+    "description": "FiPlayCircle Feather icon"
+  },
+
+  "Import FiPlay (Feather)": {
+    "prefix": "ri:fi:import:play",
+    "body": "import { FiPlay } from 'react-icons/fi';",
+    "description": "Import FiPlay Feather icon from react-icons"
+  },
+  "Import FiPlay (Feather) from all-files": {
+    "prefix": "ri:fi:import:play:all-files",
+    "body": "import { FiPlay } from '@react-icons/all-files/fi/FiPlay';",
+    "description": "Import FiPlay Feather icon from @react-icons/all-files/fi/FiPlay"
+  },
+  "FiPlay (Feather)": {
+    "prefix": "ri:fi:play",
+    "body": "<FiPlay />",
+    "description": "FiPlay Feather icon"
+  },
+
+  "Import FiPlusCircle (Feather)": {
+    "prefix": "ri:fi:import:plus-circle",
+    "body": "import { FiPlusCircle } from 'react-icons/fi';",
+    "description": "Import FiPlusCircle Feather icon from react-icons"
+  },
+  "Import FiPlusCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:plus-circle:all-files",
+    "body": "import { FiPlusCircle } from '@react-icons/all-files/fi/FiPlusCircle';",
+    "description": "Import FiPlusCircle Feather icon from @react-icons/all-files/fi/FiPlusCircle"
+  },
+  "FiPlusCircle (Feather)": {
+    "prefix": "ri:fi:plus-circle",
+    "body": "<FiPlusCircle />",
+    "description": "FiPlusCircle Feather icon"
+  },
+
+  "Import FiPlusSquare (Feather)": {
+    "prefix": "ri:fi:import:plus-square",
+    "body": "import { FiPlusSquare } from 'react-icons/fi';",
+    "description": "Import FiPlusSquare Feather icon from react-icons"
+  },
+  "Import FiPlusSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:plus-square:all-files",
+    "body": "import { FiPlusSquare } from '@react-icons/all-files/fi/FiPlusSquare';",
+    "description": "Import FiPlusSquare Feather icon from @react-icons/all-files/fi/FiPlusSquare"
+  },
+  "FiPlusSquare (Feather)": {
+    "prefix": "ri:fi:plus-square",
+    "body": "<FiPlusSquare />",
+    "description": "FiPlusSquare Feather icon"
+  },
+
+  "Import FiPlus (Feather)": {
+    "prefix": "ri:fi:import:plus",
+    "body": "import { FiPlus } from 'react-icons/fi';",
+    "description": "Import FiPlus Feather icon from react-icons"
+  },
+  "Import FiPlus (Feather) from all-files": {
+    "prefix": "ri:fi:import:plus:all-files",
+    "body": "import { FiPlus } from '@react-icons/all-files/fi/FiPlus';",
+    "description": "Import FiPlus Feather icon from @react-icons/all-files/fi/FiPlus"
+  },
+  "FiPlus (Feather)": {
+    "prefix": "ri:fi:plus",
+    "body": "<FiPlus />",
+    "description": "FiPlus Feather icon"
+  },
+
+  "Import FiPocket (Feather)": {
+    "prefix": "ri:fi:import:pocket",
+    "body": "import { FiPocket } from 'react-icons/fi';",
+    "description": "Import FiPocket Feather icon from react-icons"
+  },
+  "Import FiPocket (Feather) from all-files": {
+    "prefix": "ri:fi:import:pocket:all-files",
+    "body": "import { FiPocket } from '@react-icons/all-files/fi/FiPocket';",
+    "description": "Import FiPocket Feather icon from @react-icons/all-files/fi/FiPocket"
+  },
+  "FiPocket (Feather)": {
+    "prefix": "ri:fi:pocket",
+    "body": "<FiPocket />",
+    "description": "FiPocket Feather icon"
+  },
+
+  "Import FiPower (Feather)": {
+    "prefix": "ri:fi:import:power",
+    "body": "import { FiPower } from 'react-icons/fi';",
+    "description": "Import FiPower Feather icon from react-icons"
+  },
+  "Import FiPower (Feather) from all-files": {
+    "prefix": "ri:fi:import:power:all-files",
+    "body": "import { FiPower } from '@react-icons/all-files/fi/FiPower';",
+    "description": "Import FiPower Feather icon from @react-icons/all-files/fi/FiPower"
+  },
+  "FiPower (Feather)": {
+    "prefix": "ri:fi:power",
+    "body": "<FiPower />",
+    "description": "FiPower Feather icon"
+  },
+
+  "Import FiPrinter (Feather)": {
+    "prefix": "ri:fi:import:printer",
+    "body": "import { FiPrinter } from 'react-icons/fi';",
+    "description": "Import FiPrinter Feather icon from react-icons"
+  },
+  "Import FiPrinter (Feather) from all-files": {
+    "prefix": "ri:fi:import:printer:all-files",
+    "body": "import { FiPrinter } from '@react-icons/all-files/fi/FiPrinter';",
+    "description": "Import FiPrinter Feather icon from @react-icons/all-files/fi/FiPrinter"
+  },
+  "FiPrinter (Feather)": {
+    "prefix": "ri:fi:printer",
+    "body": "<FiPrinter />",
+    "description": "FiPrinter Feather icon"
+  },
+
+  "Import FiRadio (Feather)": {
+    "prefix": "ri:fi:import:radio",
+    "body": "import { FiRadio } from 'react-icons/fi';",
+    "description": "Import FiRadio Feather icon from react-icons"
+  },
+  "Import FiRadio (Feather) from all-files": {
+    "prefix": "ri:fi:import:radio:all-files",
+    "body": "import { FiRadio } from '@react-icons/all-files/fi/FiRadio';",
+    "description": "Import FiRadio Feather icon from @react-icons/all-files/fi/FiRadio"
+  },
+  "FiRadio (Feather)": {
+    "prefix": "ri:fi:radio",
+    "body": "<FiRadio />",
+    "description": "FiRadio Feather icon"
+  },
+
+  "Import FiRefreshCcw (Feather)": {
+    "prefix": "ri:fi:import:refresh-ccw",
+    "body": "import { FiRefreshCcw } from 'react-icons/fi';",
+    "description": "Import FiRefreshCcw Feather icon from react-icons"
+  },
+  "Import FiRefreshCcw (Feather) from all-files": {
+    "prefix": "ri:fi:import:refresh-ccw:all-files",
+    "body": "import { FiRefreshCcw } from '@react-icons/all-files/fi/FiRefreshCcw';",
+    "description": "Import FiRefreshCcw Feather icon from @react-icons/all-files/fi/FiRefreshCcw"
+  },
+  "FiRefreshCcw (Feather)": {
+    "prefix": "ri:fi:refresh-ccw",
+    "body": "<FiRefreshCcw />",
+    "description": "FiRefreshCcw Feather icon"
+  },
+
+  "Import FiRefreshCw (Feather)": {
+    "prefix": "ri:fi:import:refresh-cw",
+    "body": "import { FiRefreshCw } from 'react-icons/fi';",
+    "description": "Import FiRefreshCw Feather icon from react-icons"
+  },
+  "Import FiRefreshCw (Feather) from all-files": {
+    "prefix": "ri:fi:import:refresh-cw:all-files",
+    "body": "import { FiRefreshCw } from '@react-icons/all-files/fi/FiRefreshCw';",
+    "description": "Import FiRefreshCw Feather icon from @react-icons/all-files/fi/FiRefreshCw"
+  },
+  "FiRefreshCw (Feather)": {
+    "prefix": "ri:fi:refresh-cw",
+    "body": "<FiRefreshCw />",
+    "description": "FiRefreshCw Feather icon"
+  },
+
+  "Import FiRepeat (Feather)": {
+    "prefix": "ri:fi:import:repeat",
+    "body": "import { FiRepeat } from 'react-icons/fi';",
+    "description": "Import FiRepeat Feather icon from react-icons"
+  },
+  "Import FiRepeat (Feather) from all-files": {
+    "prefix": "ri:fi:import:repeat:all-files",
+    "body": "import { FiRepeat } from '@react-icons/all-files/fi/FiRepeat';",
+    "description": "Import FiRepeat Feather icon from @react-icons/all-files/fi/FiRepeat"
+  },
+  "FiRepeat (Feather)": {
+    "prefix": "ri:fi:repeat",
+    "body": "<FiRepeat />",
+    "description": "FiRepeat Feather icon"
+  },
+
+  "Import FiRewind (Feather)": {
+    "prefix": "ri:fi:import:rewind",
+    "body": "import { FiRewind } from 'react-icons/fi';",
+    "description": "Import FiRewind Feather icon from react-icons"
+  },
+  "Import FiRewind (Feather) from all-files": {
+    "prefix": "ri:fi:import:rewind:all-files",
+    "body": "import { FiRewind } from '@react-icons/all-files/fi/FiRewind';",
+    "description": "Import FiRewind Feather icon from @react-icons/all-files/fi/FiRewind"
+  },
+  "FiRewind (Feather)": {
+    "prefix": "ri:fi:rewind",
+    "body": "<FiRewind />",
+    "description": "FiRewind Feather icon"
+  },
+
+  "Import FiRotateCcw (Feather)": {
+    "prefix": "ri:fi:import:rotate-ccw",
+    "body": "import { FiRotateCcw } from 'react-icons/fi';",
+    "description": "Import FiRotateCcw Feather icon from react-icons"
+  },
+  "Import FiRotateCcw (Feather) from all-files": {
+    "prefix": "ri:fi:import:rotate-ccw:all-files",
+    "body": "import { FiRotateCcw } from '@react-icons/all-files/fi/FiRotateCcw';",
+    "description": "Import FiRotateCcw Feather icon from @react-icons/all-files/fi/FiRotateCcw"
+  },
+  "FiRotateCcw (Feather)": {
+    "prefix": "ri:fi:rotate-ccw",
+    "body": "<FiRotateCcw />",
+    "description": "FiRotateCcw Feather icon"
+  },
+
+  "Import FiRotateCw (Feather)": {
+    "prefix": "ri:fi:import:rotate-cw",
+    "body": "import { FiRotateCw } from 'react-icons/fi';",
+    "description": "Import FiRotateCw Feather icon from react-icons"
+  },
+  "Import FiRotateCw (Feather) from all-files": {
+    "prefix": "ri:fi:import:rotate-cw:all-files",
+    "body": "import { FiRotateCw } from '@react-icons/all-files/fi/FiRotateCw';",
+    "description": "Import FiRotateCw Feather icon from @react-icons/all-files/fi/FiRotateCw"
+  },
+  "FiRotateCw (Feather)": {
+    "prefix": "ri:fi:rotate-cw",
+    "body": "<FiRotateCw />",
+    "description": "FiRotateCw Feather icon"
+  },
+
+  "Import FiRss (Feather)": {
+    "prefix": "ri:fi:import:rss",
+    "body": "import { FiRss } from 'react-icons/fi';",
+    "description": "Import FiRss Feather icon from react-icons"
+  },
+  "Import FiRss (Feather) from all-files": {
+    "prefix": "ri:fi:import:rss:all-files",
+    "body": "import { FiRss } from '@react-icons/all-files/fi/FiRss';",
+    "description": "Import FiRss Feather icon from @react-icons/all-files/fi/FiRss"
+  },
+  "FiRss (Feather)": {
+    "prefix": "ri:fi:rss",
+    "body": "<FiRss />",
+    "description": "FiRss Feather icon"
+  },
+
+  "Import FiSave (Feather)": {
+    "prefix": "ri:fi:import:save",
+    "body": "import { FiSave } from 'react-icons/fi';",
+    "description": "Import FiSave Feather icon from react-icons"
+  },
+  "Import FiSave (Feather) from all-files": {
+    "prefix": "ri:fi:import:save:all-files",
+    "body": "import { FiSave } from '@react-icons/all-files/fi/FiSave';",
+    "description": "Import FiSave Feather icon from @react-icons/all-files/fi/FiSave"
+  },
+  "FiSave (Feather)": {
+    "prefix": "ri:fi:save",
+    "body": "<FiSave />",
+    "description": "FiSave Feather icon"
+  },
+
+  "Import FiScissors (Feather)": {
+    "prefix": "ri:fi:import:scissors",
+    "body": "import { FiScissors } from 'react-icons/fi';",
+    "description": "Import FiScissors Feather icon from react-icons"
+  },
+  "Import FiScissors (Feather) from all-files": {
+    "prefix": "ri:fi:import:scissors:all-files",
+    "body": "import { FiScissors } from '@react-icons/all-files/fi/FiScissors';",
+    "description": "Import FiScissors Feather icon from @react-icons/all-files/fi/FiScissors"
+  },
+  "FiScissors (Feather)": {
+    "prefix": "ri:fi:scissors",
+    "body": "<FiScissors />",
+    "description": "FiScissors Feather icon"
+  },
+
+  "Import FiSearch (Feather)": {
+    "prefix": "ri:fi:import:search",
+    "body": "import { FiSearch } from 'react-icons/fi';",
+    "description": "Import FiSearch Feather icon from react-icons"
+  },
+  "Import FiSearch (Feather) from all-files": {
+    "prefix": "ri:fi:import:search:all-files",
+    "body": "import { FiSearch } from '@react-icons/all-files/fi/FiSearch';",
+    "description": "Import FiSearch Feather icon from @react-icons/all-files/fi/FiSearch"
+  },
+  "FiSearch (Feather)": {
+    "prefix": "ri:fi:search",
+    "body": "<FiSearch />",
+    "description": "FiSearch Feather icon"
+  },
+
+  "Import FiSend (Feather)": {
+    "prefix": "ri:fi:import:send",
+    "body": "import { FiSend } from 'react-icons/fi';",
+    "description": "Import FiSend Feather icon from react-icons"
+  },
+  "Import FiSend (Feather) from all-files": {
+    "prefix": "ri:fi:import:send:all-files",
+    "body": "import { FiSend } from '@react-icons/all-files/fi/FiSend';",
+    "description": "Import FiSend Feather icon from @react-icons/all-files/fi/FiSend"
+  },
+  "FiSend (Feather)": {
+    "prefix": "ri:fi:send",
+    "body": "<FiSend />",
+    "description": "FiSend Feather icon"
+  },
+
+  "Import FiServer (Feather)": {
+    "prefix": "ri:fi:import:server",
+    "body": "import { FiServer } from 'react-icons/fi';",
+    "description": "Import FiServer Feather icon from react-icons"
+  },
+  "Import FiServer (Feather) from all-files": {
+    "prefix": "ri:fi:import:server:all-files",
+    "body": "import { FiServer } from '@react-icons/all-files/fi/FiServer';",
+    "description": "Import FiServer Feather icon from @react-icons/all-files/fi/FiServer"
+  },
+  "FiServer (Feather)": {
+    "prefix": "ri:fi:server",
+    "body": "<FiServer />",
+    "description": "FiServer Feather icon"
+  },
+
+  "Import FiSettings (Feather)": {
+    "prefix": "ri:fi:import:settings",
+    "body": "import { FiSettings } from 'react-icons/fi';",
+    "description": "Import FiSettings Feather icon from react-icons"
+  },
+  "Import FiSettings (Feather) from all-files": {
+    "prefix": "ri:fi:import:settings:all-files",
+    "body": "import { FiSettings } from '@react-icons/all-files/fi/FiSettings';",
+    "description": "Import FiSettings Feather icon from @react-icons/all-files/fi/FiSettings"
+  },
+  "FiSettings (Feather)": {
+    "prefix": "ri:fi:settings",
+    "body": "<FiSettings />",
+    "description": "FiSettings Feather icon"
+  },
+
+  "Import FiShare2 (Feather)": {
+    "prefix": "ri:fi:import:share-2",
+    "body": "import { FiShare2 } from 'react-icons/fi';",
+    "description": "Import FiShare2 Feather icon from react-icons"
+  },
+  "Import FiShare2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:share-2:all-files",
+    "body": "import { FiShare2 } from '@react-icons/all-files/fi/FiShare2';",
+    "description": "Import FiShare2 Feather icon from @react-icons/all-files/fi/FiShare2"
+  },
+  "FiShare2 (Feather)": {
+    "prefix": "ri:fi:share-2",
+    "body": "<FiShare2 />",
+    "description": "FiShare2 Feather icon"
+  },
+
+  "Import FiShare (Feather)": {
+    "prefix": "ri:fi:import:share",
+    "body": "import { FiShare } from 'react-icons/fi';",
+    "description": "Import FiShare Feather icon from react-icons"
+  },
+  "Import FiShare (Feather) from all-files": {
+    "prefix": "ri:fi:import:share:all-files",
+    "body": "import { FiShare } from '@react-icons/all-files/fi/FiShare';",
+    "description": "Import FiShare Feather icon from @react-icons/all-files/fi/FiShare"
+  },
+  "FiShare (Feather)": {
+    "prefix": "ri:fi:share",
+    "body": "<FiShare />",
+    "description": "FiShare Feather icon"
+  },
+
+  "Import FiShieldOff (Feather)": {
+    "prefix": "ri:fi:import:shield-off",
+    "body": "import { FiShieldOff } from 'react-icons/fi';",
+    "description": "Import FiShieldOff Feather icon from react-icons"
+  },
+  "Import FiShieldOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:shield-off:all-files",
+    "body": "import { FiShieldOff } from '@react-icons/all-files/fi/FiShieldOff';",
+    "description": "Import FiShieldOff Feather icon from @react-icons/all-files/fi/FiShieldOff"
+  },
+  "FiShieldOff (Feather)": {
+    "prefix": "ri:fi:shield-off",
+    "body": "<FiShieldOff />",
+    "description": "FiShieldOff Feather icon"
+  },
+
+  "Import FiShield (Feather)": {
+    "prefix": "ri:fi:import:shield",
+    "body": "import { FiShield } from 'react-icons/fi';",
+    "description": "Import FiShield Feather icon from react-icons"
+  },
+  "Import FiShield (Feather) from all-files": {
+    "prefix": "ri:fi:import:shield:all-files",
+    "body": "import { FiShield } from '@react-icons/all-files/fi/FiShield';",
+    "description": "Import FiShield Feather icon from @react-icons/all-files/fi/FiShield"
+  },
+  "FiShield (Feather)": {
+    "prefix": "ri:fi:shield",
+    "body": "<FiShield />",
+    "description": "FiShield Feather icon"
+  },
+
+  "Import FiShoppingBag (Feather)": {
+    "prefix": "ri:fi:import:shopping-bag",
+    "body": "import { FiShoppingBag } from 'react-icons/fi';",
+    "description": "Import FiShoppingBag Feather icon from react-icons"
+  },
+  "Import FiShoppingBag (Feather) from all-files": {
+    "prefix": "ri:fi:import:shopping-bag:all-files",
+    "body": "import { FiShoppingBag } from '@react-icons/all-files/fi/FiShoppingBag';",
+    "description": "Import FiShoppingBag Feather icon from @react-icons/all-files/fi/FiShoppingBag"
+  },
+  "FiShoppingBag (Feather)": {
+    "prefix": "ri:fi:shopping-bag",
+    "body": "<FiShoppingBag />",
+    "description": "FiShoppingBag Feather icon"
+  },
+
+  "Import FiShoppingCart (Feather)": {
+    "prefix": "ri:fi:import:shopping-cart",
+    "body": "import { FiShoppingCart } from 'react-icons/fi';",
+    "description": "Import FiShoppingCart Feather icon from react-icons"
+  },
+  "Import FiShoppingCart (Feather) from all-files": {
+    "prefix": "ri:fi:import:shopping-cart:all-files",
+    "body": "import { FiShoppingCart } from '@react-icons/all-files/fi/FiShoppingCart';",
+    "description": "Import FiShoppingCart Feather icon from @react-icons/all-files/fi/FiShoppingCart"
+  },
+  "FiShoppingCart (Feather)": {
+    "prefix": "ri:fi:shopping-cart",
+    "body": "<FiShoppingCart />",
+    "description": "FiShoppingCart Feather icon"
+  },
+
+  "Import FiShuffle (Feather)": {
+    "prefix": "ri:fi:import:shuffle",
+    "body": "import { FiShuffle } from 'react-icons/fi';",
+    "description": "Import FiShuffle Feather icon from react-icons"
+  },
+  "Import FiShuffle (Feather) from all-files": {
+    "prefix": "ri:fi:import:shuffle:all-files",
+    "body": "import { FiShuffle } from '@react-icons/all-files/fi/FiShuffle';",
+    "description": "Import FiShuffle Feather icon from @react-icons/all-files/fi/FiShuffle"
+  },
+  "FiShuffle (Feather)": {
+    "prefix": "ri:fi:shuffle",
+    "body": "<FiShuffle />",
+    "description": "FiShuffle Feather icon"
+  },
+
+  "Import FiSidebar (Feather)": {
+    "prefix": "ri:fi:import:sidebar",
+    "body": "import { FiSidebar } from 'react-icons/fi';",
+    "description": "Import FiSidebar Feather icon from react-icons"
+  },
+  "Import FiSidebar (Feather) from all-files": {
+    "prefix": "ri:fi:import:sidebar:all-files",
+    "body": "import { FiSidebar } from '@react-icons/all-files/fi/FiSidebar';",
+    "description": "Import FiSidebar Feather icon from @react-icons/all-files/fi/FiSidebar"
+  },
+  "FiSidebar (Feather)": {
+    "prefix": "ri:fi:sidebar",
+    "body": "<FiSidebar />",
+    "description": "FiSidebar Feather icon"
+  },
+
+  "Import FiSkipBack (Feather)": {
+    "prefix": "ri:fi:import:skip-back",
+    "body": "import { FiSkipBack } from 'react-icons/fi';",
+    "description": "Import FiSkipBack Feather icon from react-icons"
+  },
+  "Import FiSkipBack (Feather) from all-files": {
+    "prefix": "ri:fi:import:skip-back:all-files",
+    "body": "import { FiSkipBack } from '@react-icons/all-files/fi/FiSkipBack';",
+    "description": "Import FiSkipBack Feather icon from @react-icons/all-files/fi/FiSkipBack"
+  },
+  "FiSkipBack (Feather)": {
+    "prefix": "ri:fi:skip-back",
+    "body": "<FiSkipBack />",
+    "description": "FiSkipBack Feather icon"
+  },
+
+  "Import FiSkipForward (Feather)": {
+    "prefix": "ri:fi:import:skip-forward",
+    "body": "import { FiSkipForward } from 'react-icons/fi';",
+    "description": "Import FiSkipForward Feather icon from react-icons"
+  },
+  "Import FiSkipForward (Feather) from all-files": {
+    "prefix": "ri:fi:import:skip-forward:all-files",
+    "body": "import { FiSkipForward } from '@react-icons/all-files/fi/FiSkipForward';",
+    "description": "Import FiSkipForward Feather icon from @react-icons/all-files/fi/FiSkipForward"
+  },
+  "FiSkipForward (Feather)": {
+    "prefix": "ri:fi:skip-forward",
+    "body": "<FiSkipForward />",
+    "description": "FiSkipForward Feather icon"
+  },
+
+  "Import FiSlack (Feather)": {
+    "prefix": "ri:fi:import:slack",
+    "body": "import { FiSlack } from 'react-icons/fi';",
+    "description": "Import FiSlack Feather icon from react-icons"
+  },
+  "Import FiSlack (Feather) from all-files": {
+    "prefix": "ri:fi:import:slack:all-files",
+    "body": "import { FiSlack } from '@react-icons/all-files/fi/FiSlack';",
+    "description": "Import FiSlack Feather icon from @react-icons/all-files/fi/FiSlack"
+  },
+  "FiSlack (Feather)": {
+    "prefix": "ri:fi:slack",
+    "body": "<FiSlack />",
+    "description": "FiSlack Feather icon"
+  },
+
+  "Import FiSlash (Feather)": {
+    "prefix": "ri:fi:import:slash",
+    "body": "import { FiSlash } from 'react-icons/fi';",
+    "description": "Import FiSlash Feather icon from react-icons"
+  },
+  "Import FiSlash (Feather) from all-files": {
+    "prefix": "ri:fi:import:slash:all-files",
+    "body": "import { FiSlash } from '@react-icons/all-files/fi/FiSlash';",
+    "description": "Import FiSlash Feather icon from @react-icons/all-files/fi/FiSlash"
+  },
+  "FiSlash (Feather)": {
+    "prefix": "ri:fi:slash",
+    "body": "<FiSlash />",
+    "description": "FiSlash Feather icon"
+  },
+
+  "Import FiSliders (Feather)": {
+    "prefix": "ri:fi:import:sliders",
+    "body": "import { FiSliders } from 'react-icons/fi';",
+    "description": "Import FiSliders Feather icon from react-icons"
+  },
+  "Import FiSliders (Feather) from all-files": {
+    "prefix": "ri:fi:import:sliders:all-files",
+    "body": "import { FiSliders } from '@react-icons/all-files/fi/FiSliders';",
+    "description": "Import FiSliders Feather icon from @react-icons/all-files/fi/FiSliders"
+  },
+  "FiSliders (Feather)": {
+    "prefix": "ri:fi:sliders",
+    "body": "<FiSliders />",
+    "description": "FiSliders Feather icon"
+  },
+
+  "Import FiSmartphone (Feather)": {
+    "prefix": "ri:fi:import:smartphone",
+    "body": "import { FiSmartphone } from 'react-icons/fi';",
+    "description": "Import FiSmartphone Feather icon from react-icons"
+  },
+  "Import FiSmartphone (Feather) from all-files": {
+    "prefix": "ri:fi:import:smartphone:all-files",
+    "body": "import { FiSmartphone } from '@react-icons/all-files/fi/FiSmartphone';",
+    "description": "Import FiSmartphone Feather icon from @react-icons/all-files/fi/FiSmartphone"
+  },
+  "FiSmartphone (Feather)": {
+    "prefix": "ri:fi:smartphone",
+    "body": "<FiSmartphone />",
+    "description": "FiSmartphone Feather icon"
+  },
+
+  "Import FiSmile (Feather)": {
+    "prefix": "ri:fi:import:smile",
+    "body": "import { FiSmile } from 'react-icons/fi';",
+    "description": "Import FiSmile Feather icon from react-icons"
+  },
+  "Import FiSmile (Feather) from all-files": {
+    "prefix": "ri:fi:import:smile:all-files",
+    "body": "import { FiSmile } from '@react-icons/all-files/fi/FiSmile';",
+    "description": "Import FiSmile Feather icon from @react-icons/all-files/fi/FiSmile"
+  },
+  "FiSmile (Feather)": {
+    "prefix": "ri:fi:smile",
+    "body": "<FiSmile />",
+    "description": "FiSmile Feather icon"
+  },
+
+  "Import FiSpeaker (Feather)": {
+    "prefix": "ri:fi:import:speaker",
+    "body": "import { FiSpeaker } from 'react-icons/fi';",
+    "description": "Import FiSpeaker Feather icon from react-icons"
+  },
+  "Import FiSpeaker (Feather) from all-files": {
+    "prefix": "ri:fi:import:speaker:all-files",
+    "body": "import { FiSpeaker } from '@react-icons/all-files/fi/FiSpeaker';",
+    "description": "Import FiSpeaker Feather icon from @react-icons/all-files/fi/FiSpeaker"
+  },
+  "FiSpeaker (Feather)": {
+    "prefix": "ri:fi:speaker",
+    "body": "<FiSpeaker />",
+    "description": "FiSpeaker Feather icon"
+  },
+
+  "Import FiSquare (Feather)": {
+    "prefix": "ri:fi:import:square",
+    "body": "import { FiSquare } from 'react-icons/fi';",
+    "description": "Import FiSquare Feather icon from react-icons"
+  },
+  "Import FiSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:square:all-files",
+    "body": "import { FiSquare } from '@react-icons/all-files/fi/FiSquare';",
+    "description": "Import FiSquare Feather icon from @react-icons/all-files/fi/FiSquare"
+  },
+  "FiSquare (Feather)": {
+    "prefix": "ri:fi:square",
+    "body": "<FiSquare />",
+    "description": "FiSquare Feather icon"
+  },
+
+  "Import FiStar (Feather)": {
+    "prefix": "ri:fi:import:star",
+    "body": "import { FiStar } from 'react-icons/fi';",
+    "description": "Import FiStar Feather icon from react-icons"
+  },
+  "Import FiStar (Feather) from all-files": {
+    "prefix": "ri:fi:import:star:all-files",
+    "body": "import { FiStar } from '@react-icons/all-files/fi/FiStar';",
+    "description": "Import FiStar Feather icon from @react-icons/all-files/fi/FiStar"
+  },
+  "FiStar (Feather)": {
+    "prefix": "ri:fi:star",
+    "body": "<FiStar />",
+    "description": "FiStar Feather icon"
+  },
+
+  "Import FiStopCircle (Feather)": {
+    "prefix": "ri:fi:import:stop-circle",
+    "body": "import { FiStopCircle } from 'react-icons/fi';",
+    "description": "Import FiStopCircle Feather icon from react-icons"
+  },
+  "Import FiStopCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:stop-circle:all-files",
+    "body": "import { FiStopCircle } from '@react-icons/all-files/fi/FiStopCircle';",
+    "description": "Import FiStopCircle Feather icon from @react-icons/all-files/fi/FiStopCircle"
+  },
+  "FiStopCircle (Feather)": {
+    "prefix": "ri:fi:stop-circle",
+    "body": "<FiStopCircle />",
+    "description": "FiStopCircle Feather icon"
+  },
+
+  "Import FiSun (Feather)": {
+    "prefix": "ri:fi:import:sun",
+    "body": "import { FiSun } from 'react-icons/fi';",
+    "description": "Import FiSun Feather icon from react-icons"
+  },
+  "Import FiSun (Feather) from all-files": {
+    "prefix": "ri:fi:import:sun:all-files",
+    "body": "import { FiSun } from '@react-icons/all-files/fi/FiSun';",
+    "description": "Import FiSun Feather icon from @react-icons/all-files/fi/FiSun"
+  },
+  "FiSun (Feather)": {
+    "prefix": "ri:fi:sun",
+    "body": "<FiSun />",
+    "description": "FiSun Feather icon"
+  },
+
+  "Import FiSunrise (Feather)": {
+    "prefix": "ri:fi:import:sunrise",
+    "body": "import { FiSunrise } from 'react-icons/fi';",
+    "description": "Import FiSunrise Feather icon from react-icons"
+  },
+  "Import FiSunrise (Feather) from all-files": {
+    "prefix": "ri:fi:import:sunrise:all-files",
+    "body": "import { FiSunrise } from '@react-icons/all-files/fi/FiSunrise';",
+    "description": "Import FiSunrise Feather icon from @react-icons/all-files/fi/FiSunrise"
+  },
+  "FiSunrise (Feather)": {
+    "prefix": "ri:fi:sunrise",
+    "body": "<FiSunrise />",
+    "description": "FiSunrise Feather icon"
+  },
+
+  "Import FiSunset (Feather)": {
+    "prefix": "ri:fi:import:sunset",
+    "body": "import { FiSunset } from 'react-icons/fi';",
+    "description": "Import FiSunset Feather icon from react-icons"
+  },
+  "Import FiSunset (Feather) from all-files": {
+    "prefix": "ri:fi:import:sunset:all-files",
+    "body": "import { FiSunset } from '@react-icons/all-files/fi/FiSunset';",
+    "description": "Import FiSunset Feather icon from @react-icons/all-files/fi/FiSunset"
+  },
+  "FiSunset (Feather)": {
+    "prefix": "ri:fi:sunset",
+    "body": "<FiSunset />",
+    "description": "FiSunset Feather icon"
+  },
+
+  "Import FiTablet (Feather)": {
+    "prefix": "ri:fi:import:tablet",
+    "body": "import { FiTablet } from 'react-icons/fi';",
+    "description": "Import FiTablet Feather icon from react-icons"
+  },
+  "Import FiTablet (Feather) from all-files": {
+    "prefix": "ri:fi:import:tablet:all-files",
+    "body": "import { FiTablet } from '@react-icons/all-files/fi/FiTablet';",
+    "description": "Import FiTablet Feather icon from @react-icons/all-files/fi/FiTablet"
+  },
+  "FiTablet (Feather)": {
+    "prefix": "ri:fi:tablet",
+    "body": "<FiTablet />",
+    "description": "FiTablet Feather icon"
+  },
+
+  "Import FiTag (Feather)": {
+    "prefix": "ri:fi:import:tag",
+    "body": "import { FiTag } from 'react-icons/fi';",
+    "description": "Import FiTag Feather icon from react-icons"
+  },
+  "Import FiTag (Feather) from all-files": {
+    "prefix": "ri:fi:import:tag:all-files",
+    "body": "import { FiTag } from '@react-icons/all-files/fi/FiTag';",
+    "description": "Import FiTag Feather icon from @react-icons/all-files/fi/FiTag"
+  },
+  "FiTag (Feather)": {
+    "prefix": "ri:fi:tag",
+    "body": "<FiTag />",
+    "description": "FiTag Feather icon"
+  },
+
+  "Import FiTarget (Feather)": {
+    "prefix": "ri:fi:import:target",
+    "body": "import { FiTarget } from 'react-icons/fi';",
+    "description": "Import FiTarget Feather icon from react-icons"
+  },
+  "Import FiTarget (Feather) from all-files": {
+    "prefix": "ri:fi:import:target:all-files",
+    "body": "import { FiTarget } from '@react-icons/all-files/fi/FiTarget';",
+    "description": "Import FiTarget Feather icon from @react-icons/all-files/fi/FiTarget"
+  },
+  "FiTarget (Feather)": {
+    "prefix": "ri:fi:target",
+    "body": "<FiTarget />",
+    "description": "FiTarget Feather icon"
+  },
+
+  "Import FiTerminal (Feather)": {
+    "prefix": "ri:fi:import:terminal",
+    "body": "import { FiTerminal } from 'react-icons/fi';",
+    "description": "Import FiTerminal Feather icon from react-icons"
+  },
+  "Import FiTerminal (Feather) from all-files": {
+    "prefix": "ri:fi:import:terminal:all-files",
+    "body": "import { FiTerminal } from '@react-icons/all-files/fi/FiTerminal';",
+    "description": "Import FiTerminal Feather icon from @react-icons/all-files/fi/FiTerminal"
+  },
+  "FiTerminal (Feather)": {
+    "prefix": "ri:fi:terminal",
+    "body": "<FiTerminal />",
+    "description": "FiTerminal Feather icon"
+  },
+
+  "Import FiThermometer (Feather)": {
+    "prefix": "ri:fi:import:thermometer",
+    "body": "import { FiThermometer } from 'react-icons/fi';",
+    "description": "Import FiThermometer Feather icon from react-icons"
+  },
+  "Import FiThermometer (Feather) from all-files": {
+    "prefix": "ri:fi:import:thermometer:all-files",
+    "body": "import { FiThermometer } from '@react-icons/all-files/fi/FiThermometer';",
+    "description": "Import FiThermometer Feather icon from @react-icons/all-files/fi/FiThermometer"
+  },
+  "FiThermometer (Feather)": {
+    "prefix": "ri:fi:thermometer",
+    "body": "<FiThermometer />",
+    "description": "FiThermometer Feather icon"
+  },
+
+  "Import FiThumbsDown (Feather)": {
+    "prefix": "ri:fi:import:thumbs-down",
+    "body": "import { FiThumbsDown } from 'react-icons/fi';",
+    "description": "Import FiThumbsDown Feather icon from react-icons"
+  },
+  "Import FiThumbsDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:thumbs-down:all-files",
+    "body": "import { FiThumbsDown } from '@react-icons/all-files/fi/FiThumbsDown';",
+    "description": "Import FiThumbsDown Feather icon from @react-icons/all-files/fi/FiThumbsDown"
+  },
+  "FiThumbsDown (Feather)": {
+    "prefix": "ri:fi:thumbs-down",
+    "body": "<FiThumbsDown />",
+    "description": "FiThumbsDown Feather icon"
+  },
+
+  "Import FiThumbsUp (Feather)": {
+    "prefix": "ri:fi:import:thumbs-up",
+    "body": "import { FiThumbsUp } from 'react-icons/fi';",
+    "description": "Import FiThumbsUp Feather icon from react-icons"
+  },
+  "Import FiThumbsUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:thumbs-up:all-files",
+    "body": "import { FiThumbsUp } from '@react-icons/all-files/fi/FiThumbsUp';",
+    "description": "Import FiThumbsUp Feather icon from @react-icons/all-files/fi/FiThumbsUp"
+  },
+  "FiThumbsUp (Feather)": {
+    "prefix": "ri:fi:thumbs-up",
+    "body": "<FiThumbsUp />",
+    "description": "FiThumbsUp Feather icon"
+  },
+
+  "Import FiToggleLeft (Feather)": {
+    "prefix": "ri:fi:import:toggle-left",
+    "body": "import { FiToggleLeft } from 'react-icons/fi';",
+    "description": "Import FiToggleLeft Feather icon from react-icons"
+  },
+  "Import FiToggleLeft (Feather) from all-files": {
+    "prefix": "ri:fi:import:toggle-left:all-files",
+    "body": "import { FiToggleLeft } from '@react-icons/all-files/fi/FiToggleLeft';",
+    "description": "Import FiToggleLeft Feather icon from @react-icons/all-files/fi/FiToggleLeft"
+  },
+  "FiToggleLeft (Feather)": {
+    "prefix": "ri:fi:toggle-left",
+    "body": "<FiToggleLeft />",
+    "description": "FiToggleLeft Feather icon"
+  },
+
+  "Import FiToggleRight (Feather)": {
+    "prefix": "ri:fi:import:toggle-right",
+    "body": "import { FiToggleRight } from 'react-icons/fi';",
+    "description": "Import FiToggleRight Feather icon from react-icons"
+  },
+  "Import FiToggleRight (Feather) from all-files": {
+    "prefix": "ri:fi:import:toggle-right:all-files",
+    "body": "import { FiToggleRight } from '@react-icons/all-files/fi/FiToggleRight';",
+    "description": "Import FiToggleRight Feather icon from @react-icons/all-files/fi/FiToggleRight"
+  },
+  "FiToggleRight (Feather)": {
+    "prefix": "ri:fi:toggle-right",
+    "body": "<FiToggleRight />",
+    "description": "FiToggleRight Feather icon"
+  },
+
+  "Import FiTool (Feather)": {
+    "prefix": "ri:fi:import:tool",
+    "body": "import { FiTool } from 'react-icons/fi';",
+    "description": "Import FiTool Feather icon from react-icons"
+  },
+  "Import FiTool (Feather) from all-files": {
+    "prefix": "ri:fi:import:tool:all-files",
+    "body": "import { FiTool } from '@react-icons/all-files/fi/FiTool';",
+    "description": "Import FiTool Feather icon from @react-icons/all-files/fi/FiTool"
+  },
+  "FiTool (Feather)": {
+    "prefix": "ri:fi:tool",
+    "body": "<FiTool />",
+    "description": "FiTool Feather icon"
+  },
+
+  "Import FiTrash2 (Feather)": {
+    "prefix": "ri:fi:import:trash-2",
+    "body": "import { FiTrash2 } from 'react-icons/fi';",
+    "description": "Import FiTrash2 Feather icon from react-icons"
+  },
+  "Import FiTrash2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:trash-2:all-files",
+    "body": "import { FiTrash2 } from '@react-icons/all-files/fi/FiTrash2';",
+    "description": "Import FiTrash2 Feather icon from @react-icons/all-files/fi/FiTrash2"
+  },
+  "FiTrash2 (Feather)": {
+    "prefix": "ri:fi:trash-2",
+    "body": "<FiTrash2 />",
+    "description": "FiTrash2 Feather icon"
+  },
+
+  "Import FiTrash (Feather)": {
+    "prefix": "ri:fi:import:trash",
+    "body": "import { FiTrash } from 'react-icons/fi';",
+    "description": "Import FiTrash Feather icon from react-icons"
+  },
+  "Import FiTrash (Feather) from all-files": {
+    "prefix": "ri:fi:import:trash:all-files",
+    "body": "import { FiTrash } from '@react-icons/all-files/fi/FiTrash';",
+    "description": "Import FiTrash Feather icon from @react-icons/all-files/fi/FiTrash"
+  },
+  "FiTrash (Feather)": {
+    "prefix": "ri:fi:trash",
+    "body": "<FiTrash />",
+    "description": "FiTrash Feather icon"
+  },
+
+  "Import FiTrello (Feather)": {
+    "prefix": "ri:fi:import:trello",
+    "body": "import { FiTrello } from 'react-icons/fi';",
+    "description": "Import FiTrello Feather icon from react-icons"
+  },
+  "Import FiTrello (Feather) from all-files": {
+    "prefix": "ri:fi:import:trello:all-files",
+    "body": "import { FiTrello } from '@react-icons/all-files/fi/FiTrello';",
+    "description": "Import FiTrello Feather icon from @react-icons/all-files/fi/FiTrello"
+  },
+  "FiTrello (Feather)": {
+    "prefix": "ri:fi:trello",
+    "body": "<FiTrello />",
+    "description": "FiTrello Feather icon"
+  },
+
+  "Import FiTrendingDown (Feather)": {
+    "prefix": "ri:fi:import:trending-down",
+    "body": "import { FiTrendingDown } from 'react-icons/fi';",
+    "description": "Import FiTrendingDown Feather icon from react-icons"
+  },
+  "Import FiTrendingDown (Feather) from all-files": {
+    "prefix": "ri:fi:import:trending-down:all-files",
+    "body": "import { FiTrendingDown } from '@react-icons/all-files/fi/FiTrendingDown';",
+    "description": "Import FiTrendingDown Feather icon from @react-icons/all-files/fi/FiTrendingDown"
+  },
+  "FiTrendingDown (Feather)": {
+    "prefix": "ri:fi:trending-down",
+    "body": "<FiTrendingDown />",
+    "description": "FiTrendingDown Feather icon"
+  },
+
+  "Import FiTrendingUp (Feather)": {
+    "prefix": "ri:fi:import:trending-up",
+    "body": "import { FiTrendingUp } from 'react-icons/fi';",
+    "description": "Import FiTrendingUp Feather icon from react-icons"
+  },
+  "Import FiTrendingUp (Feather) from all-files": {
+    "prefix": "ri:fi:import:trending-up:all-files",
+    "body": "import { FiTrendingUp } from '@react-icons/all-files/fi/FiTrendingUp';",
+    "description": "Import FiTrendingUp Feather icon from @react-icons/all-files/fi/FiTrendingUp"
+  },
+  "FiTrendingUp (Feather)": {
+    "prefix": "ri:fi:trending-up",
+    "body": "<FiTrendingUp />",
+    "description": "FiTrendingUp Feather icon"
+  },
+
+  "Import FiTriangle (Feather)": {
+    "prefix": "ri:fi:import:triangle",
+    "body": "import { FiTriangle } from 'react-icons/fi';",
+    "description": "Import FiTriangle Feather icon from react-icons"
+  },
+  "Import FiTriangle (Feather) from all-files": {
+    "prefix": "ri:fi:import:triangle:all-files",
+    "body": "import { FiTriangle } from '@react-icons/all-files/fi/FiTriangle';",
+    "description": "Import FiTriangle Feather icon from @react-icons/all-files/fi/FiTriangle"
+  },
+  "FiTriangle (Feather)": {
+    "prefix": "ri:fi:triangle",
+    "body": "<FiTriangle />",
+    "description": "FiTriangle Feather icon"
+  },
+
+  "Import FiTruck (Feather)": {
+    "prefix": "ri:fi:import:truck",
+    "body": "import { FiTruck } from 'react-icons/fi';",
+    "description": "Import FiTruck Feather icon from react-icons"
+  },
+  "Import FiTruck (Feather) from all-files": {
+    "prefix": "ri:fi:import:truck:all-files",
+    "body": "import { FiTruck } from '@react-icons/all-files/fi/FiTruck';",
+    "description": "Import FiTruck Feather icon from @react-icons/all-files/fi/FiTruck"
+  },
+  "FiTruck (Feather)": {
+    "prefix": "ri:fi:truck",
+    "body": "<FiTruck />",
+    "description": "FiTruck Feather icon"
+  },
+
+  "Import FiTv (Feather)": {
+    "prefix": "ri:fi:import:tv",
+    "body": "import { FiTv } from 'react-icons/fi';",
+    "description": "Import FiTv Feather icon from react-icons"
+  },
+  "Import FiTv (Feather) from all-files": {
+    "prefix": "ri:fi:import:tv:all-files",
+    "body": "import { FiTv } from '@react-icons/all-files/fi/FiTv';",
+    "description": "Import FiTv Feather icon from @react-icons/all-files/fi/FiTv"
+  },
+  "FiTv (Feather)": {
+    "prefix": "ri:fi:tv",
+    "body": "<FiTv />",
+    "description": "FiTv Feather icon"
+  },
+
+  "Import FiTwitch (Feather)": {
+    "prefix": "ri:fi:import:twitch",
+    "body": "import { FiTwitch } from 'react-icons/fi';",
+    "description": "Import FiTwitch Feather icon from react-icons"
+  },
+  "Import FiTwitch (Feather) from all-files": {
+    "prefix": "ri:fi:import:twitch:all-files",
+    "body": "import { FiTwitch } from '@react-icons/all-files/fi/FiTwitch';",
+    "description": "Import FiTwitch Feather icon from @react-icons/all-files/fi/FiTwitch"
+  },
+  "FiTwitch (Feather)": {
+    "prefix": "ri:fi:twitch",
+    "body": "<FiTwitch />",
+    "description": "FiTwitch Feather icon"
+  },
+
+  "Import FiTwitter (Feather)": {
+    "prefix": "ri:fi:import:twitter",
+    "body": "import { FiTwitter } from 'react-icons/fi';",
+    "description": "Import FiTwitter Feather icon from react-icons"
+  },
+  "Import FiTwitter (Feather) from all-files": {
+    "prefix": "ri:fi:import:twitter:all-files",
+    "body": "import { FiTwitter } from '@react-icons/all-files/fi/FiTwitter';",
+    "description": "Import FiTwitter Feather icon from @react-icons/all-files/fi/FiTwitter"
+  },
+  "FiTwitter (Feather)": {
+    "prefix": "ri:fi:twitter",
+    "body": "<FiTwitter />",
+    "description": "FiTwitter Feather icon"
+  },
+
+  "Import FiType (Feather)": {
+    "prefix": "ri:fi:import:type",
+    "body": "import { FiType } from 'react-icons/fi';",
+    "description": "Import FiType Feather icon from react-icons"
+  },
+  "Import FiType (Feather) from all-files": {
+    "prefix": "ri:fi:import:type:all-files",
+    "body": "import { FiType } from '@react-icons/all-files/fi/FiType';",
+    "description": "Import FiType Feather icon from @react-icons/all-files/fi/FiType"
+  },
+  "FiType (Feather)": {
+    "prefix": "ri:fi:type",
+    "body": "<FiType />",
+    "description": "FiType Feather icon"
+  },
+
+  "Import FiUmbrella (Feather)": {
+    "prefix": "ri:fi:import:umbrella",
+    "body": "import { FiUmbrella } from 'react-icons/fi';",
+    "description": "Import FiUmbrella Feather icon from react-icons"
+  },
+  "Import FiUmbrella (Feather) from all-files": {
+    "prefix": "ri:fi:import:umbrella:all-files",
+    "body": "import { FiUmbrella } from '@react-icons/all-files/fi/FiUmbrella';",
+    "description": "Import FiUmbrella Feather icon from @react-icons/all-files/fi/FiUmbrella"
+  },
+  "FiUmbrella (Feather)": {
+    "prefix": "ri:fi:umbrella",
+    "body": "<FiUmbrella />",
+    "description": "FiUmbrella Feather icon"
+  },
+
+  "Import FiUnderline (Feather)": {
+    "prefix": "ri:fi:import:underline",
+    "body": "import { FiUnderline } from 'react-icons/fi';",
+    "description": "Import FiUnderline Feather icon from react-icons"
+  },
+  "Import FiUnderline (Feather) from all-files": {
+    "prefix": "ri:fi:import:underline:all-files",
+    "body": "import { FiUnderline } from '@react-icons/all-files/fi/FiUnderline';",
+    "description": "Import FiUnderline Feather icon from @react-icons/all-files/fi/FiUnderline"
+  },
+  "FiUnderline (Feather)": {
+    "prefix": "ri:fi:underline",
+    "body": "<FiUnderline />",
+    "description": "FiUnderline Feather icon"
+  },
+
+  "Import FiUnlock (Feather)": {
+    "prefix": "ri:fi:import:unlock",
+    "body": "import { FiUnlock } from 'react-icons/fi';",
+    "description": "Import FiUnlock Feather icon from react-icons"
+  },
+  "Import FiUnlock (Feather) from all-files": {
+    "prefix": "ri:fi:import:unlock:all-files",
+    "body": "import { FiUnlock } from '@react-icons/all-files/fi/FiUnlock';",
+    "description": "Import FiUnlock Feather icon from @react-icons/all-files/fi/FiUnlock"
+  },
+  "FiUnlock (Feather)": {
+    "prefix": "ri:fi:unlock",
+    "body": "<FiUnlock />",
+    "description": "FiUnlock Feather icon"
+  },
+
+  "Import FiUploadCloud (Feather)": {
+    "prefix": "ri:fi:import:upload-cloud",
+    "body": "import { FiUploadCloud } from 'react-icons/fi';",
+    "description": "Import FiUploadCloud Feather icon from react-icons"
+  },
+  "Import FiUploadCloud (Feather) from all-files": {
+    "prefix": "ri:fi:import:upload-cloud:all-files",
+    "body": "import { FiUploadCloud } from '@react-icons/all-files/fi/FiUploadCloud';",
+    "description": "Import FiUploadCloud Feather icon from @react-icons/all-files/fi/FiUploadCloud"
+  },
+  "FiUploadCloud (Feather)": {
+    "prefix": "ri:fi:upload-cloud",
+    "body": "<FiUploadCloud />",
+    "description": "FiUploadCloud Feather icon"
+  },
+
+  "Import FiUpload (Feather)": {
+    "prefix": "ri:fi:import:upload",
+    "body": "import { FiUpload } from 'react-icons/fi';",
+    "description": "Import FiUpload Feather icon from react-icons"
+  },
+  "Import FiUpload (Feather) from all-files": {
+    "prefix": "ri:fi:import:upload:all-files",
+    "body": "import { FiUpload } from '@react-icons/all-files/fi/FiUpload';",
+    "description": "Import FiUpload Feather icon from @react-icons/all-files/fi/FiUpload"
+  },
+  "FiUpload (Feather)": {
+    "prefix": "ri:fi:upload",
+    "body": "<FiUpload />",
+    "description": "FiUpload Feather icon"
+  },
+
+  "Import FiUserCheck (Feather)": {
+    "prefix": "ri:fi:import:user-check",
+    "body": "import { FiUserCheck } from 'react-icons/fi';",
+    "description": "Import FiUserCheck Feather icon from react-icons"
+  },
+  "Import FiUserCheck (Feather) from all-files": {
+    "prefix": "ri:fi:import:user-check:all-files",
+    "body": "import { FiUserCheck } from '@react-icons/all-files/fi/FiUserCheck';",
+    "description": "Import FiUserCheck Feather icon from @react-icons/all-files/fi/FiUserCheck"
+  },
+  "FiUserCheck (Feather)": {
+    "prefix": "ri:fi:user-check",
+    "body": "<FiUserCheck />",
+    "description": "FiUserCheck Feather icon"
+  },
+
+  "Import FiUserMinus (Feather)": {
+    "prefix": "ri:fi:import:user-minus",
+    "body": "import { FiUserMinus } from 'react-icons/fi';",
+    "description": "Import FiUserMinus Feather icon from react-icons"
+  },
+  "Import FiUserMinus (Feather) from all-files": {
+    "prefix": "ri:fi:import:user-minus:all-files",
+    "body": "import { FiUserMinus } from '@react-icons/all-files/fi/FiUserMinus';",
+    "description": "Import FiUserMinus Feather icon from @react-icons/all-files/fi/FiUserMinus"
+  },
+  "FiUserMinus (Feather)": {
+    "prefix": "ri:fi:user-minus",
+    "body": "<FiUserMinus />",
+    "description": "FiUserMinus Feather icon"
+  },
+
+  "Import FiUserPlus (Feather)": {
+    "prefix": "ri:fi:import:user-plus",
+    "body": "import { FiUserPlus } from 'react-icons/fi';",
+    "description": "Import FiUserPlus Feather icon from react-icons"
+  },
+  "Import FiUserPlus (Feather) from all-files": {
+    "prefix": "ri:fi:import:user-plus:all-files",
+    "body": "import { FiUserPlus } from '@react-icons/all-files/fi/FiUserPlus';",
+    "description": "Import FiUserPlus Feather icon from @react-icons/all-files/fi/FiUserPlus"
+  },
+  "FiUserPlus (Feather)": {
+    "prefix": "ri:fi:user-plus",
+    "body": "<FiUserPlus />",
+    "description": "FiUserPlus Feather icon"
+  },
+
+  "Import FiUserX (Feather)": {
+    "prefix": "ri:fi:import:user-x",
+    "body": "import { FiUserX } from 'react-icons/fi';",
+    "description": "Import FiUserX Feather icon from react-icons"
+  },
+  "Import FiUserX (Feather) from all-files": {
+    "prefix": "ri:fi:import:user-x:all-files",
+    "body": "import { FiUserX } from '@react-icons/all-files/fi/FiUserX';",
+    "description": "Import FiUserX Feather icon from @react-icons/all-files/fi/FiUserX"
+  },
+  "FiUserX (Feather)": {
+    "prefix": "ri:fi:user-x",
+    "body": "<FiUserX />",
+    "description": "FiUserX Feather icon"
+  },
+
+  "Import FiUser (Feather)": {
+    "prefix": "ri:fi:import:user",
+    "body": "import { FiUser } from 'react-icons/fi';",
+    "description": "Import FiUser Feather icon from react-icons"
+  },
+  "Import FiUser (Feather) from all-files": {
+    "prefix": "ri:fi:import:user:all-files",
+    "body": "import { FiUser } from '@react-icons/all-files/fi/FiUser';",
+    "description": "Import FiUser Feather icon from @react-icons/all-files/fi/FiUser"
+  },
+  "FiUser (Feather)": {
+    "prefix": "ri:fi:user",
+    "body": "<FiUser />",
+    "description": "FiUser Feather icon"
+  },
+
+  "Import FiUsers (Feather)": {
+    "prefix": "ri:fi:import:users",
+    "body": "import { FiUsers } from 'react-icons/fi';",
+    "description": "Import FiUsers Feather icon from react-icons"
+  },
+  "Import FiUsers (Feather) from all-files": {
+    "prefix": "ri:fi:import:users:all-files",
+    "body": "import { FiUsers } from '@react-icons/all-files/fi/FiUsers';",
+    "description": "Import FiUsers Feather icon from @react-icons/all-files/fi/FiUsers"
+  },
+  "FiUsers (Feather)": {
+    "prefix": "ri:fi:users",
+    "body": "<FiUsers />",
+    "description": "FiUsers Feather icon"
+  },
+
+  "Import FiVideoOff (Feather)": {
+    "prefix": "ri:fi:import:video-off",
+    "body": "import { FiVideoOff } from 'react-icons/fi';",
+    "description": "Import FiVideoOff Feather icon from react-icons"
+  },
+  "Import FiVideoOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:video-off:all-files",
+    "body": "import { FiVideoOff } from '@react-icons/all-files/fi/FiVideoOff';",
+    "description": "Import FiVideoOff Feather icon from @react-icons/all-files/fi/FiVideoOff"
+  },
+  "FiVideoOff (Feather)": {
+    "prefix": "ri:fi:video-off",
+    "body": "<FiVideoOff />",
+    "description": "FiVideoOff Feather icon"
+  },
+
+  "Import FiVideo (Feather)": {
+    "prefix": "ri:fi:import:video",
+    "body": "import { FiVideo } from 'react-icons/fi';",
+    "description": "Import FiVideo Feather icon from react-icons"
+  },
+  "Import FiVideo (Feather) from all-files": {
+    "prefix": "ri:fi:import:video:all-files",
+    "body": "import { FiVideo } from '@react-icons/all-files/fi/FiVideo';",
+    "description": "Import FiVideo Feather icon from @react-icons/all-files/fi/FiVideo"
+  },
+  "FiVideo (Feather)": {
+    "prefix": "ri:fi:video",
+    "body": "<FiVideo />",
+    "description": "FiVideo Feather icon"
+  },
+
+  "Import FiVoicemail (Feather)": {
+    "prefix": "ri:fi:import:voicemail",
+    "body": "import { FiVoicemail } from 'react-icons/fi';",
+    "description": "Import FiVoicemail Feather icon from react-icons"
+  },
+  "Import FiVoicemail (Feather) from all-files": {
+    "prefix": "ri:fi:import:voicemail:all-files",
+    "body": "import { FiVoicemail } from '@react-icons/all-files/fi/FiVoicemail';",
+    "description": "Import FiVoicemail Feather icon from @react-icons/all-files/fi/FiVoicemail"
+  },
+  "FiVoicemail (Feather)": {
+    "prefix": "ri:fi:voicemail",
+    "body": "<FiVoicemail />",
+    "description": "FiVoicemail Feather icon"
+  },
+
+  "Import FiVolume1 (Feather)": {
+    "prefix": "ri:fi:import:volume-1",
+    "body": "import { FiVolume1 } from 'react-icons/fi';",
+    "description": "Import FiVolume1 Feather icon from react-icons"
+  },
+  "Import FiVolume1 (Feather) from all-files": {
+    "prefix": "ri:fi:import:volume-1:all-files",
+    "body": "import { FiVolume1 } from '@react-icons/all-files/fi/FiVolume1';",
+    "description": "Import FiVolume1 Feather icon from @react-icons/all-files/fi/FiVolume1"
+  },
+  "FiVolume1 (Feather)": {
+    "prefix": "ri:fi:volume-1",
+    "body": "<FiVolume1 />",
+    "description": "FiVolume1 Feather icon"
+  },
+
+  "Import FiVolume2 (Feather)": {
+    "prefix": "ri:fi:import:volume-2",
+    "body": "import { FiVolume2 } from 'react-icons/fi';",
+    "description": "Import FiVolume2 Feather icon from react-icons"
+  },
+  "Import FiVolume2 (Feather) from all-files": {
+    "prefix": "ri:fi:import:volume-2:all-files",
+    "body": "import { FiVolume2 } from '@react-icons/all-files/fi/FiVolume2';",
+    "description": "Import FiVolume2 Feather icon from @react-icons/all-files/fi/FiVolume2"
+  },
+  "FiVolume2 (Feather)": {
+    "prefix": "ri:fi:volume-2",
+    "body": "<FiVolume2 />",
+    "description": "FiVolume2 Feather icon"
+  },
+
+  "Import FiVolumeX (Feather)": {
+    "prefix": "ri:fi:import:volume-x",
+    "body": "import { FiVolumeX } from 'react-icons/fi';",
+    "description": "Import FiVolumeX Feather icon from react-icons"
+  },
+  "Import FiVolumeX (Feather) from all-files": {
+    "prefix": "ri:fi:import:volume-x:all-files",
+    "body": "import { FiVolumeX } from '@react-icons/all-files/fi/FiVolumeX';",
+    "description": "Import FiVolumeX Feather icon from @react-icons/all-files/fi/FiVolumeX"
+  },
+  "FiVolumeX (Feather)": {
+    "prefix": "ri:fi:volume-x",
+    "body": "<FiVolumeX />",
+    "description": "FiVolumeX Feather icon"
+  },
+
+  "Import FiVolume (Feather)": {
+    "prefix": "ri:fi:import:volume",
+    "body": "import { FiVolume } from 'react-icons/fi';",
+    "description": "Import FiVolume Feather icon from react-icons"
+  },
+  "Import FiVolume (Feather) from all-files": {
+    "prefix": "ri:fi:import:volume:all-files",
+    "body": "import { FiVolume } from '@react-icons/all-files/fi/FiVolume';",
+    "description": "Import FiVolume Feather icon from @react-icons/all-files/fi/FiVolume"
+  },
+  "FiVolume (Feather)": {
+    "prefix": "ri:fi:volume",
+    "body": "<FiVolume />",
+    "description": "FiVolume Feather icon"
+  },
+
+  "Import FiWatch (Feather)": {
+    "prefix": "ri:fi:import:watch",
+    "body": "import { FiWatch } from 'react-icons/fi';",
+    "description": "Import FiWatch Feather icon from react-icons"
+  },
+  "Import FiWatch (Feather) from all-files": {
+    "prefix": "ri:fi:import:watch:all-files",
+    "body": "import { FiWatch } from '@react-icons/all-files/fi/FiWatch';",
+    "description": "Import FiWatch Feather icon from @react-icons/all-files/fi/FiWatch"
+  },
+  "FiWatch (Feather)": {
+    "prefix": "ri:fi:watch",
+    "body": "<FiWatch />",
+    "description": "FiWatch Feather icon"
+  },
+
+  "Import FiWifiOff (Feather)": {
+    "prefix": "ri:fi:import:wifi-off",
+    "body": "import { FiWifiOff } from 'react-icons/fi';",
+    "description": "Import FiWifiOff Feather icon from react-icons"
+  },
+  "Import FiWifiOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:wifi-off:all-files",
+    "body": "import { FiWifiOff } from '@react-icons/all-files/fi/FiWifiOff';",
+    "description": "Import FiWifiOff Feather icon from @react-icons/all-files/fi/FiWifiOff"
+  },
+  "FiWifiOff (Feather)": {
+    "prefix": "ri:fi:wifi-off",
+    "body": "<FiWifiOff />",
+    "description": "FiWifiOff Feather icon"
+  },
+
+  "Import FiWifi (Feather)": {
+    "prefix": "ri:fi:import:wifi",
+    "body": "import { FiWifi } from 'react-icons/fi';",
+    "description": "Import FiWifi Feather icon from react-icons"
+  },
+  "Import FiWifi (Feather) from all-files": {
+    "prefix": "ri:fi:import:wifi:all-files",
+    "body": "import { FiWifi } from '@react-icons/all-files/fi/FiWifi';",
+    "description": "Import FiWifi Feather icon from @react-icons/all-files/fi/FiWifi"
+  },
+  "FiWifi (Feather)": {
+    "prefix": "ri:fi:wifi",
+    "body": "<FiWifi />",
+    "description": "FiWifi Feather icon"
+  },
+
+  "Import FiWind (Feather)": {
+    "prefix": "ri:fi:import:wind",
+    "body": "import { FiWind } from 'react-icons/fi';",
+    "description": "Import FiWind Feather icon from react-icons"
+  },
+  "Import FiWind (Feather) from all-files": {
+    "prefix": "ri:fi:import:wind:all-files",
+    "body": "import { FiWind } from '@react-icons/all-files/fi/FiWind';",
+    "description": "Import FiWind Feather icon from @react-icons/all-files/fi/FiWind"
+  },
+  "FiWind (Feather)": {
+    "prefix": "ri:fi:wind",
+    "body": "<FiWind />",
+    "description": "FiWind Feather icon"
+  },
+
+  "Import FiXCircle (Feather)": {
+    "prefix": "ri:fi:import:x-circle",
+    "body": "import { FiXCircle } from 'react-icons/fi';",
+    "description": "Import FiXCircle Feather icon from react-icons"
+  },
+  "Import FiXCircle (Feather) from all-files": {
+    "prefix": "ri:fi:import:x-circle:all-files",
+    "body": "import { FiXCircle } from '@react-icons/all-files/fi/FiXCircle';",
+    "description": "Import FiXCircle Feather icon from @react-icons/all-files/fi/FiXCircle"
+  },
+  "FiXCircle (Feather)": {
+    "prefix": "ri:fi:x-circle",
+    "body": "<FiXCircle />",
+    "description": "FiXCircle Feather icon"
+  },
+
+  "Import FiXOctagon (Feather)": {
+    "prefix": "ri:fi:import:x-octagon",
+    "body": "import { FiXOctagon } from 'react-icons/fi';",
+    "description": "Import FiXOctagon Feather icon from react-icons"
+  },
+  "Import FiXOctagon (Feather) from all-files": {
+    "prefix": "ri:fi:import:x-octagon:all-files",
+    "body": "import { FiXOctagon } from '@react-icons/all-files/fi/FiXOctagon';",
+    "description": "Import FiXOctagon Feather icon from @react-icons/all-files/fi/FiXOctagon"
+  },
+  "FiXOctagon (Feather)": {
+    "prefix": "ri:fi:x-octagon",
+    "body": "<FiXOctagon />",
+    "description": "FiXOctagon Feather icon"
+  },
+
+  "Import FiXSquare (Feather)": {
+    "prefix": "ri:fi:import:x-square",
+    "body": "import { FiXSquare } from 'react-icons/fi';",
+    "description": "Import FiXSquare Feather icon from react-icons"
+  },
+  "Import FiXSquare (Feather) from all-files": {
+    "prefix": "ri:fi:import:x-square:all-files",
+    "body": "import { FiXSquare } from '@react-icons/all-files/fi/FiXSquare';",
+    "description": "Import FiXSquare Feather icon from @react-icons/all-files/fi/FiXSquare"
+  },
+  "FiXSquare (Feather)": {
+    "prefix": "ri:fi:x-square",
+    "body": "<FiXSquare />",
+    "description": "FiXSquare Feather icon"
+  },
+
+  "Import FiX (Feather)": {
+    "prefix": "ri:fi:import:x",
+    "body": "import { FiX } from 'react-icons/fi';",
+    "description": "Import FiX Feather icon from react-icons"
+  },
+  "Import FiX (Feather) from all-files": {
+    "prefix": "ri:fi:import:x:all-files",
+    "body": "import { FiX } from '@react-icons/all-files/fi/FiX';",
+    "description": "Import FiX Feather icon from @react-icons/all-files/fi/FiX"
+  },
+  "FiX (Feather)": {
+    "prefix": "ri:fi:x",
+    "body": "<FiX />",
+    "description": "FiX Feather icon"
+  },
+
+  "Import FiYoutube (Feather)": {
+    "prefix": "ri:fi:import:youtube",
+    "body": "import { FiYoutube } from 'react-icons/fi';",
+    "description": "Import FiYoutube Feather icon from react-icons"
+  },
+  "Import FiYoutube (Feather) from all-files": {
+    "prefix": "ri:fi:import:youtube:all-files",
+    "body": "import { FiYoutube } from '@react-icons/all-files/fi/FiYoutube';",
+    "description": "Import FiYoutube Feather icon from @react-icons/all-files/fi/FiYoutube"
+  },
+  "FiYoutube (Feather)": {
+    "prefix": "ri:fi:youtube",
+    "body": "<FiYoutube />",
+    "description": "FiYoutube Feather icon"
+  },
+
+  "Import FiZapOff (Feather)": {
+    "prefix": "ri:fi:import:zap-off",
+    "body": "import { FiZapOff } from 'react-icons/fi';",
+    "description": "Import FiZapOff Feather icon from react-icons"
+  },
+  "Import FiZapOff (Feather) from all-files": {
+    "prefix": "ri:fi:import:zap-off:all-files",
+    "body": "import { FiZapOff } from '@react-icons/all-files/fi/FiZapOff';",
+    "description": "Import FiZapOff Feather icon from @react-icons/all-files/fi/FiZapOff"
+  },
+  "FiZapOff (Feather)": {
+    "prefix": "ri:fi:zap-off",
+    "body": "<FiZapOff />",
+    "description": "FiZapOff Feather icon"
+  },
+
+  "Import FiZap (Feather)": {
+    "prefix": "ri:fi:import:zap",
+    "body": "import { FiZap } from 'react-icons/fi';",
+    "description": "Import FiZap Feather icon from react-icons"
+  },
+  "Import FiZap (Feather) from all-files": {
+    "prefix": "ri:fi:import:zap:all-files",
+    "body": "import { FiZap } from '@react-icons/all-files/fi/FiZap';",
+    "description": "Import FiZap Feather icon from @react-icons/all-files/fi/FiZap"
+  },
+  "FiZap (Feather)": {
+    "prefix": "ri:fi:zap",
+    "body": "<FiZap />",
+    "description": "FiZap Feather icon"
+  },
+
+  "Import FiZoomIn (Feather)": {
+    "prefix": "ri:fi:import:zoom-in",
+    "body": "import { FiZoomIn } from 'react-icons/fi';",
+    "description": "Import FiZoomIn Feather icon from react-icons"
+  },
+  "Import FiZoomIn (Feather) from all-files": {
+    "prefix": "ri:fi:import:zoom-in:all-files",
+    "body": "import { FiZoomIn } from '@react-icons/all-files/fi/FiZoomIn';",
+    "description": "Import FiZoomIn Feather icon from @react-icons/all-files/fi/FiZoomIn"
+  },
+  "FiZoomIn (Feather)": {
+    "prefix": "ri:fi:zoom-in",
+    "body": "<FiZoomIn />",
+    "description": "FiZoomIn Feather icon"
+  },
+
+  "Import FiZoomOut (Feather)": {
+    "prefix": "ri:fi:import:zoom-out",
+    "body": "import { FiZoomOut } from 'react-icons/fi';",
+    "description": "Import FiZoomOut Feather icon from react-icons"
+  },
+  "Import FiZoomOut (Feather) from all-files": {
+    "prefix": "ri:fi:import:zoom-out:all-files",
+    "body": "import { FiZoomOut } from '@react-icons/all-files/fi/FiZoomOut';",
+    "description": "Import FiZoomOut Feather icon from @react-icons/all-files/fi/FiZoomOut"
+  },
+  "FiZoomOut (Feather)": {
+    "prefix": "ri:fi:zoom-out",
+    "body": "<FiZoomOut />",
+    "description": "FiZoomOut Feather icon"
+  }
+}

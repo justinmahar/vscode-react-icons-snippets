@@ -1,0 +1,2945 @@
+{
+  "Import GoAlert (Github Octicons)": {
+    "prefix": "ri:go:import:alert",
+    "body": "import { GoAlert } from 'react-icons/go';",
+    "description": "Import GoAlert Github Octicons icon from react-icons"
+  },
+  "Import GoAlert (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:alert:all-files",
+    "body": "import { GoAlert } from '@react-icons/all-files/go/GoAlert';",
+    "description": "Import GoAlert Github Octicons icon from @react-icons/all-files/go/GoAlert"
+  },
+  "GoAlert (Github Octicons)": {
+    "prefix": "ri:go:alert",
+    "body": "<GoAlert />",
+    "description": "GoAlert Github Octicons icon"
+  },
+
+  "Import GoArchive (Github Octicons)": {
+    "prefix": "ri:go:import:archive",
+    "body": "import { GoArchive } from 'react-icons/go';",
+    "description": "Import GoArchive Github Octicons icon from react-icons"
+  },
+  "Import GoArchive (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:archive:all-files",
+    "body": "import { GoArchive } from '@react-icons/all-files/go/GoArchive';",
+    "description": "Import GoArchive Github Octicons icon from @react-icons/all-files/go/GoArchive"
+  },
+  "GoArchive (Github Octicons)": {
+    "prefix": "ri:go:archive",
+    "body": "<GoArchive />",
+    "description": "GoArchive Github Octicons icon"
+  },
+
+  "Import GoArrowBoth (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-both",
+    "body": "import { GoArrowBoth } from 'react-icons/go';",
+    "description": "Import GoArrowBoth Github Octicons icon from react-icons"
+  },
+  "Import GoArrowBoth (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-both:all-files",
+    "body": "import { GoArrowBoth } from '@react-icons/all-files/go/GoArrowBoth';",
+    "description": "Import GoArrowBoth Github Octicons icon from @react-icons/all-files/go/GoArrowBoth"
+  },
+  "GoArrowBoth (Github Octicons)": {
+    "prefix": "ri:go:arrow-both",
+    "body": "<GoArrowBoth />",
+    "description": "GoArrowBoth Github Octicons icon"
+  },
+
+  "Import GoArrowDown (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-down",
+    "body": "import { GoArrowDown } from 'react-icons/go';",
+    "description": "Import GoArrowDown Github Octicons icon from react-icons"
+  },
+  "Import GoArrowDown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-down:all-files",
+    "body": "import { GoArrowDown } from '@react-icons/all-files/go/GoArrowDown';",
+    "description": "Import GoArrowDown Github Octicons icon from @react-icons/all-files/go/GoArrowDown"
+  },
+  "GoArrowDown (Github Octicons)": {
+    "prefix": "ri:go:arrow-down",
+    "body": "<GoArrowDown />",
+    "description": "GoArrowDown Github Octicons icon"
+  },
+
+  "Import GoArrowLeft (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-left",
+    "body": "import { GoArrowLeft } from 'react-icons/go';",
+    "description": "Import GoArrowLeft Github Octicons icon from react-icons"
+  },
+  "Import GoArrowLeft (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-left:all-files",
+    "body": "import { GoArrowLeft } from '@react-icons/all-files/go/GoArrowLeft';",
+    "description": "Import GoArrowLeft Github Octicons icon from @react-icons/all-files/go/GoArrowLeft"
+  },
+  "GoArrowLeft (Github Octicons)": {
+    "prefix": "ri:go:arrow-left",
+    "body": "<GoArrowLeft />",
+    "description": "GoArrowLeft Github Octicons icon"
+  },
+
+  "Import GoArrowRight (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-right",
+    "body": "import { GoArrowRight } from 'react-icons/go';",
+    "description": "Import GoArrowRight Github Octicons icon from react-icons"
+  },
+  "Import GoArrowRight (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-right:all-files",
+    "body": "import { GoArrowRight } from '@react-icons/all-files/go/GoArrowRight';",
+    "description": "Import GoArrowRight Github Octicons icon from @react-icons/all-files/go/GoArrowRight"
+  },
+  "GoArrowRight (Github Octicons)": {
+    "prefix": "ri:go:arrow-right",
+    "body": "<GoArrowRight />",
+    "description": "GoArrowRight Github Octicons icon"
+  },
+
+  "Import GoArrowSmallDown (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-small-down",
+    "body": "import { GoArrowSmallDown } from 'react-icons/go';",
+    "description": "Import GoArrowSmallDown Github Octicons icon from react-icons"
+  },
+  "Import GoArrowSmallDown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-small-down:all-files",
+    "body": "import { GoArrowSmallDown } from '@react-icons/all-files/go/GoArrowSmallDown';",
+    "description": "Import GoArrowSmallDown Github Octicons icon from @react-icons/all-files/go/GoArrowSmallDown"
+  },
+  "GoArrowSmallDown (Github Octicons)": {
+    "prefix": "ri:go:arrow-small-down",
+    "body": "<GoArrowSmallDown />",
+    "description": "GoArrowSmallDown Github Octicons icon"
+  },
+
+  "Import GoArrowSmallLeft (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-small-left",
+    "body": "import { GoArrowSmallLeft } from 'react-icons/go';",
+    "description": "Import GoArrowSmallLeft Github Octicons icon from react-icons"
+  },
+  "Import GoArrowSmallLeft (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-small-left:all-files",
+    "body": "import { GoArrowSmallLeft } from '@react-icons/all-files/go/GoArrowSmallLeft';",
+    "description": "Import GoArrowSmallLeft Github Octicons icon from @react-icons/all-files/go/GoArrowSmallLeft"
+  },
+  "GoArrowSmallLeft (Github Octicons)": {
+    "prefix": "ri:go:arrow-small-left",
+    "body": "<GoArrowSmallLeft />",
+    "description": "GoArrowSmallLeft Github Octicons icon"
+  },
+
+  "Import GoArrowSmallRight (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-small-right",
+    "body": "import { GoArrowSmallRight } from 'react-icons/go';",
+    "description": "Import GoArrowSmallRight Github Octicons icon from react-icons"
+  },
+  "Import GoArrowSmallRight (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-small-right:all-files",
+    "body": "import { GoArrowSmallRight } from '@react-icons/all-files/go/GoArrowSmallRight';",
+    "description": "Import GoArrowSmallRight Github Octicons icon from @react-icons/all-files/go/GoArrowSmallRight"
+  },
+  "GoArrowSmallRight (Github Octicons)": {
+    "prefix": "ri:go:arrow-small-right",
+    "body": "<GoArrowSmallRight />",
+    "description": "GoArrowSmallRight Github Octicons icon"
+  },
+
+  "Import GoArrowSmallUp (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-small-up",
+    "body": "import { GoArrowSmallUp } from 'react-icons/go';",
+    "description": "Import GoArrowSmallUp Github Octicons icon from react-icons"
+  },
+  "Import GoArrowSmallUp (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-small-up:all-files",
+    "body": "import { GoArrowSmallUp } from '@react-icons/all-files/go/GoArrowSmallUp';",
+    "description": "Import GoArrowSmallUp Github Octicons icon from @react-icons/all-files/go/GoArrowSmallUp"
+  },
+  "GoArrowSmallUp (Github Octicons)": {
+    "prefix": "ri:go:arrow-small-up",
+    "body": "<GoArrowSmallUp />",
+    "description": "GoArrowSmallUp Github Octicons icon"
+  },
+
+  "Import GoArrowUp (Github Octicons)": {
+    "prefix": "ri:go:import:arrow-up",
+    "body": "import { GoArrowUp } from 'react-icons/go';",
+    "description": "Import GoArrowUp Github Octicons icon from react-icons"
+  },
+  "Import GoArrowUp (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:arrow-up:all-files",
+    "body": "import { GoArrowUp } from '@react-icons/all-files/go/GoArrowUp';",
+    "description": "Import GoArrowUp Github Octicons icon from @react-icons/all-files/go/GoArrowUp"
+  },
+  "GoArrowUp (Github Octicons)": {
+    "prefix": "ri:go:arrow-up",
+    "body": "<GoArrowUp />",
+    "description": "GoArrowUp Github Octicons icon"
+  },
+
+  "Import GoBeaker (Github Octicons)": {
+    "prefix": "ri:go:import:beaker",
+    "body": "import { GoBeaker } from 'react-icons/go';",
+    "description": "Import GoBeaker Github Octicons icon from react-icons"
+  },
+  "Import GoBeaker (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:beaker:all-files",
+    "body": "import { GoBeaker } from '@react-icons/all-files/go/GoBeaker';",
+    "description": "Import GoBeaker Github Octicons icon from @react-icons/all-files/go/GoBeaker"
+  },
+  "GoBeaker (Github Octicons)": {
+    "prefix": "ri:go:beaker",
+    "body": "<GoBeaker />",
+    "description": "GoBeaker Github Octicons icon"
+  },
+
+  "Import GoBell (Github Octicons)": {
+    "prefix": "ri:go:import:bell",
+    "body": "import { GoBell } from 'react-icons/go';",
+    "description": "Import GoBell Github Octicons icon from react-icons"
+  },
+  "Import GoBell (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:bell:all-files",
+    "body": "import { GoBell } from '@react-icons/all-files/go/GoBell';",
+    "description": "Import GoBell Github Octicons icon from @react-icons/all-files/go/GoBell"
+  },
+  "GoBell (Github Octicons)": {
+    "prefix": "ri:go:bell",
+    "body": "<GoBell />",
+    "description": "GoBell Github Octicons icon"
+  },
+
+  "Import GoBold (Github Octicons)": {
+    "prefix": "ri:go:import:bold",
+    "body": "import { GoBold } from 'react-icons/go';",
+    "description": "Import GoBold Github Octicons icon from react-icons"
+  },
+  "Import GoBold (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:bold:all-files",
+    "body": "import { GoBold } from '@react-icons/all-files/go/GoBold';",
+    "description": "Import GoBold Github Octicons icon from @react-icons/all-files/go/GoBold"
+  },
+  "GoBold (Github Octicons)": {
+    "prefix": "ri:go:bold",
+    "body": "<GoBold />",
+    "description": "GoBold Github Octicons icon"
+  },
+
+  "Import GoBook (Github Octicons)": {
+    "prefix": "ri:go:import:book",
+    "body": "import { GoBook } from 'react-icons/go';",
+    "description": "Import GoBook Github Octicons icon from react-icons"
+  },
+  "Import GoBook (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:book:all-files",
+    "body": "import { GoBook } from '@react-icons/all-files/go/GoBook';",
+    "description": "Import GoBook Github Octicons icon from @react-icons/all-files/go/GoBook"
+  },
+  "GoBook (Github Octicons)": {
+    "prefix": "ri:go:book",
+    "body": "<GoBook />",
+    "description": "GoBook Github Octicons icon"
+  },
+
+  "Import GoBookmark (Github Octicons)": {
+    "prefix": "ri:go:import:bookmark",
+    "body": "import { GoBookmark } from 'react-icons/go';",
+    "description": "Import GoBookmark Github Octicons icon from react-icons"
+  },
+  "Import GoBookmark (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:bookmark:all-files",
+    "body": "import { GoBookmark } from '@react-icons/all-files/go/GoBookmark';",
+    "description": "Import GoBookmark Github Octicons icon from @react-icons/all-files/go/GoBookmark"
+  },
+  "GoBookmark (Github Octicons)": {
+    "prefix": "ri:go:bookmark",
+    "body": "<GoBookmark />",
+    "description": "GoBookmark Github Octicons icon"
+  },
+
+  "Import GoBriefcase (Github Octicons)": {
+    "prefix": "ri:go:import:briefcase",
+    "body": "import { GoBriefcase } from 'react-icons/go';",
+    "description": "Import GoBriefcase Github Octicons icon from react-icons"
+  },
+  "Import GoBriefcase (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:briefcase:all-files",
+    "body": "import { GoBriefcase } from '@react-icons/all-files/go/GoBriefcase';",
+    "description": "Import GoBriefcase Github Octicons icon from @react-icons/all-files/go/GoBriefcase"
+  },
+  "GoBriefcase (Github Octicons)": {
+    "prefix": "ri:go:briefcase",
+    "body": "<GoBriefcase />",
+    "description": "GoBriefcase Github Octicons icon"
+  },
+
+  "Import GoBroadcast (Github Octicons)": {
+    "prefix": "ri:go:import:broadcast",
+    "body": "import { GoBroadcast } from 'react-icons/go';",
+    "description": "Import GoBroadcast Github Octicons icon from react-icons"
+  },
+  "Import GoBroadcast (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:broadcast:all-files",
+    "body": "import { GoBroadcast } from '@react-icons/all-files/go/GoBroadcast';",
+    "description": "Import GoBroadcast Github Octicons icon from @react-icons/all-files/go/GoBroadcast"
+  },
+  "GoBroadcast (Github Octicons)": {
+    "prefix": "ri:go:broadcast",
+    "body": "<GoBroadcast />",
+    "description": "GoBroadcast Github Octicons icon"
+  },
+
+  "Import GoBrowser (Github Octicons)": {
+    "prefix": "ri:go:import:browser",
+    "body": "import { GoBrowser } from 'react-icons/go';",
+    "description": "Import GoBrowser Github Octicons icon from react-icons"
+  },
+  "Import GoBrowser (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:browser:all-files",
+    "body": "import { GoBrowser } from '@react-icons/all-files/go/GoBrowser';",
+    "description": "Import GoBrowser Github Octicons icon from @react-icons/all-files/go/GoBrowser"
+  },
+  "GoBrowser (Github Octicons)": {
+    "prefix": "ri:go:browser",
+    "body": "<GoBrowser />",
+    "description": "GoBrowser Github Octicons icon"
+  },
+
+  "Import GoBug (Github Octicons)": {
+    "prefix": "ri:go:import:bug",
+    "body": "import { GoBug } from 'react-icons/go';",
+    "description": "Import GoBug Github Octicons icon from react-icons"
+  },
+  "Import GoBug (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:bug:all-files",
+    "body": "import { GoBug } from '@react-icons/all-files/go/GoBug';",
+    "description": "Import GoBug Github Octicons icon from @react-icons/all-files/go/GoBug"
+  },
+  "GoBug (Github Octicons)": {
+    "prefix": "ri:go:bug",
+    "body": "<GoBug />",
+    "description": "GoBug Github Octicons icon"
+  },
+
+  "Import GoCalendar (Github Octicons)": {
+    "prefix": "ri:go:import:calendar",
+    "body": "import { GoCalendar } from 'react-icons/go';",
+    "description": "Import GoCalendar Github Octicons icon from react-icons"
+  },
+  "Import GoCalendar (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:calendar:all-files",
+    "body": "import { GoCalendar } from '@react-icons/all-files/go/GoCalendar';",
+    "description": "Import GoCalendar Github Octicons icon from @react-icons/all-files/go/GoCalendar"
+  },
+  "GoCalendar (Github Octicons)": {
+    "prefix": "ri:go:calendar",
+    "body": "<GoCalendar />",
+    "description": "GoCalendar Github Octicons icon"
+  },
+
+  "Import GoCheck (Github Octicons)": {
+    "prefix": "ri:go:import:check",
+    "body": "import { GoCheck } from 'react-icons/go';",
+    "description": "Import GoCheck Github Octicons icon from react-icons"
+  },
+  "Import GoCheck (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:check:all-files",
+    "body": "import { GoCheck } from '@react-icons/all-files/go/GoCheck';",
+    "description": "Import GoCheck Github Octicons icon from @react-icons/all-files/go/GoCheck"
+  },
+  "GoCheck (Github Octicons)": {
+    "prefix": "ri:go:check",
+    "body": "<GoCheck />",
+    "description": "GoCheck Github Octicons icon"
+  },
+
+  "Import GoChecklist (Github Octicons)": {
+    "prefix": "ri:go:import:checklist",
+    "body": "import { GoChecklist } from 'react-icons/go';",
+    "description": "Import GoChecklist Github Octicons icon from react-icons"
+  },
+  "Import GoChecklist (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:checklist:all-files",
+    "body": "import { GoChecklist } from '@react-icons/all-files/go/GoChecklist';",
+    "description": "Import GoChecklist Github Octicons icon from @react-icons/all-files/go/GoChecklist"
+  },
+  "GoChecklist (Github Octicons)": {
+    "prefix": "ri:go:checklist",
+    "body": "<GoChecklist />",
+    "description": "GoChecklist Github Octicons icon"
+  },
+
+  "Import GoChevronDown (Github Octicons)": {
+    "prefix": "ri:go:import:chevron-down",
+    "body": "import { GoChevronDown } from 'react-icons/go';",
+    "description": "Import GoChevronDown Github Octicons icon from react-icons"
+  },
+  "Import GoChevronDown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:chevron-down:all-files",
+    "body": "import { GoChevronDown } from '@react-icons/all-files/go/GoChevronDown';",
+    "description": "Import GoChevronDown Github Octicons icon from @react-icons/all-files/go/GoChevronDown"
+  },
+  "GoChevronDown (Github Octicons)": {
+    "prefix": "ri:go:chevron-down",
+    "body": "<GoChevronDown />",
+    "description": "GoChevronDown Github Octicons icon"
+  },
+
+  "Import GoChevronLeft (Github Octicons)": {
+    "prefix": "ri:go:import:chevron-left",
+    "body": "import { GoChevronLeft } from 'react-icons/go';",
+    "description": "Import GoChevronLeft Github Octicons icon from react-icons"
+  },
+  "Import GoChevronLeft (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:chevron-left:all-files",
+    "body": "import { GoChevronLeft } from '@react-icons/all-files/go/GoChevronLeft';",
+    "description": "Import GoChevronLeft Github Octicons icon from @react-icons/all-files/go/GoChevronLeft"
+  },
+  "GoChevronLeft (Github Octicons)": {
+    "prefix": "ri:go:chevron-left",
+    "body": "<GoChevronLeft />",
+    "description": "GoChevronLeft Github Octicons icon"
+  },
+
+  "Import GoChevronRight (Github Octicons)": {
+    "prefix": "ri:go:import:chevron-right",
+    "body": "import { GoChevronRight } from 'react-icons/go';",
+    "description": "Import GoChevronRight Github Octicons icon from react-icons"
+  },
+  "Import GoChevronRight (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:chevron-right:all-files",
+    "body": "import { GoChevronRight } from '@react-icons/all-files/go/GoChevronRight';",
+    "description": "Import GoChevronRight Github Octicons icon from @react-icons/all-files/go/GoChevronRight"
+  },
+  "GoChevronRight (Github Octicons)": {
+    "prefix": "ri:go:chevron-right",
+    "body": "<GoChevronRight />",
+    "description": "GoChevronRight Github Octicons icon"
+  },
+
+  "Import GoChevronUp (Github Octicons)": {
+    "prefix": "ri:go:import:chevron-up",
+    "body": "import { GoChevronUp } from 'react-icons/go';",
+    "description": "Import GoChevronUp Github Octicons icon from react-icons"
+  },
+  "Import GoChevronUp (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:chevron-up:all-files",
+    "body": "import { GoChevronUp } from '@react-icons/all-files/go/GoChevronUp';",
+    "description": "Import GoChevronUp Github Octicons icon from @react-icons/all-files/go/GoChevronUp"
+  },
+  "GoChevronUp (Github Octicons)": {
+    "prefix": "ri:go:chevron-up",
+    "body": "<GoChevronUp />",
+    "description": "GoChevronUp Github Octicons icon"
+  },
+
+  "Import GoCircleSlash (Github Octicons)": {
+    "prefix": "ri:go:import:circle-slash",
+    "body": "import { GoCircleSlash } from 'react-icons/go';",
+    "description": "Import GoCircleSlash Github Octicons icon from react-icons"
+  },
+  "Import GoCircleSlash (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:circle-slash:all-files",
+    "body": "import { GoCircleSlash } from '@react-icons/all-files/go/GoCircleSlash';",
+    "description": "Import GoCircleSlash Github Octicons icon from @react-icons/all-files/go/GoCircleSlash"
+  },
+  "GoCircleSlash (Github Octicons)": {
+    "prefix": "ri:go:circle-slash",
+    "body": "<GoCircleSlash />",
+    "description": "GoCircleSlash Github Octicons icon"
+  },
+
+  "Import GoCircuitBoard (Github Octicons)": {
+    "prefix": "ri:go:import:circuit-board",
+    "body": "import { GoCircuitBoard } from 'react-icons/go';",
+    "description": "Import GoCircuitBoard Github Octicons icon from react-icons"
+  },
+  "Import GoCircuitBoard (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:circuit-board:all-files",
+    "body": "import { GoCircuitBoard } from '@react-icons/all-files/go/GoCircuitBoard';",
+    "description": "Import GoCircuitBoard Github Octicons icon from @react-icons/all-files/go/GoCircuitBoard"
+  },
+  "GoCircuitBoard (Github Octicons)": {
+    "prefix": "ri:go:circuit-board",
+    "body": "<GoCircuitBoard />",
+    "description": "GoCircuitBoard Github Octicons icon"
+  },
+
+  "Import GoClippy (Github Octicons)": {
+    "prefix": "ri:go:import:clippy",
+    "body": "import { GoClippy } from 'react-icons/go';",
+    "description": "Import GoClippy Github Octicons icon from react-icons"
+  },
+  "Import GoClippy (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:clippy:all-files",
+    "body": "import { GoClippy } from '@react-icons/all-files/go/GoClippy';",
+    "description": "Import GoClippy Github Octicons icon from @react-icons/all-files/go/GoClippy"
+  },
+  "GoClippy (Github Octicons)": {
+    "prefix": "ri:go:clippy",
+    "body": "<GoClippy />",
+    "description": "GoClippy Github Octicons icon"
+  },
+
+  "Import GoClock (Github Octicons)": {
+    "prefix": "ri:go:import:clock",
+    "body": "import { GoClock } from 'react-icons/go';",
+    "description": "Import GoClock Github Octicons icon from react-icons"
+  },
+  "Import GoClock (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:clock:all-files",
+    "body": "import { GoClock } from '@react-icons/all-files/go/GoClock';",
+    "description": "Import GoClock Github Octicons icon from @react-icons/all-files/go/GoClock"
+  },
+  "GoClock (Github Octicons)": {
+    "prefix": "ri:go:clock",
+    "body": "<GoClock />",
+    "description": "GoClock Github Octicons icon"
+  },
+
+  "Import GoCloudDownload (Github Octicons)": {
+    "prefix": "ri:go:import:cloud-download",
+    "body": "import { GoCloudDownload } from 'react-icons/go';",
+    "description": "Import GoCloudDownload Github Octicons icon from react-icons"
+  },
+  "Import GoCloudDownload (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:cloud-download:all-files",
+    "body": "import { GoCloudDownload } from '@react-icons/all-files/go/GoCloudDownload';",
+    "description": "Import GoCloudDownload Github Octicons icon from @react-icons/all-files/go/GoCloudDownload"
+  },
+  "GoCloudDownload (Github Octicons)": {
+    "prefix": "ri:go:cloud-download",
+    "body": "<GoCloudDownload />",
+    "description": "GoCloudDownload Github Octicons icon"
+  },
+
+  "Import GoCloudUpload (Github Octicons)": {
+    "prefix": "ri:go:import:cloud-upload",
+    "body": "import { GoCloudUpload } from 'react-icons/go';",
+    "description": "Import GoCloudUpload Github Octicons icon from react-icons"
+  },
+  "Import GoCloudUpload (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:cloud-upload:all-files",
+    "body": "import { GoCloudUpload } from '@react-icons/all-files/go/GoCloudUpload';",
+    "description": "Import GoCloudUpload Github Octicons icon from @react-icons/all-files/go/GoCloudUpload"
+  },
+  "GoCloudUpload (Github Octicons)": {
+    "prefix": "ri:go:cloud-upload",
+    "body": "<GoCloudUpload />",
+    "description": "GoCloudUpload Github Octicons icon"
+  },
+
+  "Import GoCode (Github Octicons)": {
+    "prefix": "ri:go:import:code",
+    "body": "import { GoCode } from 'react-icons/go';",
+    "description": "Import GoCode Github Octicons icon from react-icons"
+  },
+  "Import GoCode (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:code:all-files",
+    "body": "import { GoCode } from '@react-icons/all-files/go/GoCode';",
+    "description": "Import GoCode Github Octicons icon from @react-icons/all-files/go/GoCode"
+  },
+  "GoCode (Github Octicons)": {
+    "prefix": "ri:go:code",
+    "body": "<GoCode />",
+    "description": "GoCode Github Octicons icon"
+  },
+
+  "Import GoCommentDiscussion (Github Octicons)": {
+    "prefix": "ri:go:import:comment-discussion",
+    "body": "import { GoCommentDiscussion } from 'react-icons/go';",
+    "description": "Import GoCommentDiscussion Github Octicons icon from react-icons"
+  },
+  "Import GoCommentDiscussion (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:comment-discussion:all-files",
+    "body": "import { GoCommentDiscussion } from '@react-icons/all-files/go/GoCommentDiscussion';",
+    "description": "Import GoCommentDiscussion Github Octicons icon from @react-icons/all-files/go/GoCommentDiscussion"
+  },
+  "GoCommentDiscussion (Github Octicons)": {
+    "prefix": "ri:go:comment-discussion",
+    "body": "<GoCommentDiscussion />",
+    "description": "GoCommentDiscussion Github Octicons icon"
+  },
+
+  "Import GoComment (Github Octicons)": {
+    "prefix": "ri:go:import:comment",
+    "body": "import { GoComment } from 'react-icons/go';",
+    "description": "Import GoComment Github Octicons icon from react-icons"
+  },
+  "Import GoComment (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:comment:all-files",
+    "body": "import { GoComment } from '@react-icons/all-files/go/GoComment';",
+    "description": "Import GoComment Github Octicons icon from @react-icons/all-files/go/GoComment"
+  },
+  "GoComment (Github Octicons)": {
+    "prefix": "ri:go:comment",
+    "body": "<GoComment />",
+    "description": "GoComment Github Octicons icon"
+  },
+
+  "Import GoCreditCard (Github Octicons)": {
+    "prefix": "ri:go:import:credit-card",
+    "body": "import { GoCreditCard } from 'react-icons/go';",
+    "description": "Import GoCreditCard Github Octicons icon from react-icons"
+  },
+  "Import GoCreditCard (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:credit-card:all-files",
+    "body": "import { GoCreditCard } from '@react-icons/all-files/go/GoCreditCard';",
+    "description": "Import GoCreditCard Github Octicons icon from @react-icons/all-files/go/GoCreditCard"
+  },
+  "GoCreditCard (Github Octicons)": {
+    "prefix": "ri:go:credit-card",
+    "body": "<GoCreditCard />",
+    "description": "GoCreditCard Github Octicons icon"
+  },
+
+  "Import GoDash (Github Octicons)": {
+    "prefix": "ri:go:import:dash",
+    "body": "import { GoDash } from 'react-icons/go';",
+    "description": "Import GoDash Github Octicons icon from react-icons"
+  },
+  "Import GoDash (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:dash:all-files",
+    "body": "import { GoDash } from '@react-icons/all-files/go/GoDash';",
+    "description": "Import GoDash Github Octicons icon from @react-icons/all-files/go/GoDash"
+  },
+  "GoDash (Github Octicons)": {
+    "prefix": "ri:go:dash",
+    "body": "<GoDash />",
+    "description": "GoDash Github Octicons icon"
+  },
+
+  "Import GoDashboard (Github Octicons)": {
+    "prefix": "ri:go:import:dashboard",
+    "body": "import { GoDashboard } from 'react-icons/go';",
+    "description": "Import GoDashboard Github Octicons icon from react-icons"
+  },
+  "Import GoDashboard (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:dashboard:all-files",
+    "body": "import { GoDashboard } from '@react-icons/all-files/go/GoDashboard';",
+    "description": "Import GoDashboard Github Octicons icon from @react-icons/all-files/go/GoDashboard"
+  },
+  "GoDashboard (Github Octicons)": {
+    "prefix": "ri:go:dashboard",
+    "body": "<GoDashboard />",
+    "description": "GoDashboard Github Octicons icon"
+  },
+
+  "Import GoDatabase (Github Octicons)": {
+    "prefix": "ri:go:import:database",
+    "body": "import { GoDatabase } from 'react-icons/go';",
+    "description": "Import GoDatabase Github Octicons icon from react-icons"
+  },
+  "Import GoDatabase (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:database:all-files",
+    "body": "import { GoDatabase } from '@react-icons/all-files/go/GoDatabase';",
+    "description": "Import GoDatabase Github Octicons icon from @react-icons/all-files/go/GoDatabase"
+  },
+  "GoDatabase (Github Octicons)": {
+    "prefix": "ri:go:database",
+    "body": "<GoDatabase />",
+    "description": "GoDatabase Github Octicons icon"
+  },
+
+  "Import GoDesktopDownload (Github Octicons)": {
+    "prefix": "ri:go:import:desktop-download",
+    "body": "import { GoDesktopDownload } from 'react-icons/go';",
+    "description": "Import GoDesktopDownload Github Octicons icon from react-icons"
+  },
+  "Import GoDesktopDownload (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:desktop-download:all-files",
+    "body": "import { GoDesktopDownload } from '@react-icons/all-files/go/GoDesktopDownload';",
+    "description": "Import GoDesktopDownload Github Octicons icon from @react-icons/all-files/go/GoDesktopDownload"
+  },
+  "GoDesktopDownload (Github Octicons)": {
+    "prefix": "ri:go:desktop-download",
+    "body": "<GoDesktopDownload />",
+    "description": "GoDesktopDownload Github Octicons icon"
+  },
+
+  "Import GoDeviceCameraVideo (Github Octicons)": {
+    "prefix": "ri:go:import:device-camera-video",
+    "body": "import { GoDeviceCameraVideo } from 'react-icons/go';",
+    "description": "Import GoDeviceCameraVideo Github Octicons icon from react-icons"
+  },
+  "Import GoDeviceCameraVideo (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:device-camera-video:all-files",
+    "body": "import { GoDeviceCameraVideo } from '@react-icons/all-files/go/GoDeviceCameraVideo';",
+    "description": "Import GoDeviceCameraVideo Github Octicons icon from @react-icons/all-files/go/GoDeviceCameraVideo"
+  },
+  "GoDeviceCameraVideo (Github Octicons)": {
+    "prefix": "ri:go:device-camera-video",
+    "body": "<GoDeviceCameraVideo />",
+    "description": "GoDeviceCameraVideo Github Octicons icon"
+  },
+
+  "Import GoDeviceCamera (Github Octicons)": {
+    "prefix": "ri:go:import:device-camera",
+    "body": "import { GoDeviceCamera } from 'react-icons/go';",
+    "description": "Import GoDeviceCamera Github Octicons icon from react-icons"
+  },
+  "Import GoDeviceCamera (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:device-camera:all-files",
+    "body": "import { GoDeviceCamera } from '@react-icons/all-files/go/GoDeviceCamera';",
+    "description": "Import GoDeviceCamera Github Octicons icon from @react-icons/all-files/go/GoDeviceCamera"
+  },
+  "GoDeviceCamera (Github Octicons)": {
+    "prefix": "ri:go:device-camera",
+    "body": "<GoDeviceCamera />",
+    "description": "GoDeviceCamera Github Octicons icon"
+  },
+
+  "Import GoDeviceDesktop (Github Octicons)": {
+    "prefix": "ri:go:import:device-desktop",
+    "body": "import { GoDeviceDesktop } from 'react-icons/go';",
+    "description": "Import GoDeviceDesktop Github Octicons icon from react-icons"
+  },
+  "Import GoDeviceDesktop (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:device-desktop:all-files",
+    "body": "import { GoDeviceDesktop } from '@react-icons/all-files/go/GoDeviceDesktop';",
+    "description": "Import GoDeviceDesktop Github Octicons icon from @react-icons/all-files/go/GoDeviceDesktop"
+  },
+  "GoDeviceDesktop (Github Octicons)": {
+    "prefix": "ri:go:device-desktop",
+    "body": "<GoDeviceDesktop />",
+    "description": "GoDeviceDesktop Github Octicons icon"
+  },
+
+  "Import GoDeviceMobile (Github Octicons)": {
+    "prefix": "ri:go:import:device-mobile",
+    "body": "import { GoDeviceMobile } from 'react-icons/go';",
+    "description": "Import GoDeviceMobile Github Octicons icon from react-icons"
+  },
+  "Import GoDeviceMobile (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:device-mobile:all-files",
+    "body": "import { GoDeviceMobile } from '@react-icons/all-files/go/GoDeviceMobile';",
+    "description": "Import GoDeviceMobile Github Octicons icon from @react-icons/all-files/go/GoDeviceMobile"
+  },
+  "GoDeviceMobile (Github Octicons)": {
+    "prefix": "ri:go:device-mobile",
+    "body": "<GoDeviceMobile />",
+    "description": "GoDeviceMobile Github Octicons icon"
+  },
+
+  "Import GoDiffAdded (Github Octicons)": {
+    "prefix": "ri:go:import:diff-added",
+    "body": "import { GoDiffAdded } from 'react-icons/go';",
+    "description": "Import GoDiffAdded Github Octicons icon from react-icons"
+  },
+  "Import GoDiffAdded (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:diff-added:all-files",
+    "body": "import { GoDiffAdded } from '@react-icons/all-files/go/GoDiffAdded';",
+    "description": "Import GoDiffAdded Github Octicons icon from @react-icons/all-files/go/GoDiffAdded"
+  },
+  "GoDiffAdded (Github Octicons)": {
+    "prefix": "ri:go:diff-added",
+    "body": "<GoDiffAdded />",
+    "description": "GoDiffAdded Github Octicons icon"
+  },
+
+  "Import GoDiffIgnored (Github Octicons)": {
+    "prefix": "ri:go:import:diff-ignored",
+    "body": "import { GoDiffIgnored } from 'react-icons/go';",
+    "description": "Import GoDiffIgnored Github Octicons icon from react-icons"
+  },
+  "Import GoDiffIgnored (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:diff-ignored:all-files",
+    "body": "import { GoDiffIgnored } from '@react-icons/all-files/go/GoDiffIgnored';",
+    "description": "Import GoDiffIgnored Github Octicons icon from @react-icons/all-files/go/GoDiffIgnored"
+  },
+  "GoDiffIgnored (Github Octicons)": {
+    "prefix": "ri:go:diff-ignored",
+    "body": "<GoDiffIgnored />",
+    "description": "GoDiffIgnored Github Octicons icon"
+  },
+
+  "Import GoDiffModified (Github Octicons)": {
+    "prefix": "ri:go:import:diff-modified",
+    "body": "import { GoDiffModified } from 'react-icons/go';",
+    "description": "Import GoDiffModified Github Octicons icon from react-icons"
+  },
+  "Import GoDiffModified (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:diff-modified:all-files",
+    "body": "import { GoDiffModified } from '@react-icons/all-files/go/GoDiffModified';",
+    "description": "Import GoDiffModified Github Octicons icon from @react-icons/all-files/go/GoDiffModified"
+  },
+  "GoDiffModified (Github Octicons)": {
+    "prefix": "ri:go:diff-modified",
+    "body": "<GoDiffModified />",
+    "description": "GoDiffModified Github Octicons icon"
+  },
+
+  "Import GoDiffRemoved (Github Octicons)": {
+    "prefix": "ri:go:import:diff-removed",
+    "body": "import { GoDiffRemoved } from 'react-icons/go';",
+    "description": "Import GoDiffRemoved Github Octicons icon from react-icons"
+  },
+  "Import GoDiffRemoved (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:diff-removed:all-files",
+    "body": "import { GoDiffRemoved } from '@react-icons/all-files/go/GoDiffRemoved';",
+    "description": "Import GoDiffRemoved Github Octicons icon from @react-icons/all-files/go/GoDiffRemoved"
+  },
+  "GoDiffRemoved (Github Octicons)": {
+    "prefix": "ri:go:diff-removed",
+    "body": "<GoDiffRemoved />",
+    "description": "GoDiffRemoved Github Octicons icon"
+  },
+
+  "Import GoDiffRenamed (Github Octicons)": {
+    "prefix": "ri:go:import:diff-renamed",
+    "body": "import { GoDiffRenamed } from 'react-icons/go';",
+    "description": "Import GoDiffRenamed Github Octicons icon from react-icons"
+  },
+  "Import GoDiffRenamed (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:diff-renamed:all-files",
+    "body": "import { GoDiffRenamed } from '@react-icons/all-files/go/GoDiffRenamed';",
+    "description": "Import GoDiffRenamed Github Octicons icon from @react-icons/all-files/go/GoDiffRenamed"
+  },
+  "GoDiffRenamed (Github Octicons)": {
+    "prefix": "ri:go:diff-renamed",
+    "body": "<GoDiffRenamed />",
+    "description": "GoDiffRenamed Github Octicons icon"
+  },
+
+  "Import GoDiff (Github Octicons)": {
+    "prefix": "ri:go:import:diff",
+    "body": "import { GoDiff } from 'react-icons/go';",
+    "description": "Import GoDiff Github Octicons icon from react-icons"
+  },
+  "Import GoDiff (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:diff:all-files",
+    "body": "import { GoDiff } from '@react-icons/all-files/go/GoDiff';",
+    "description": "Import GoDiff Github Octicons icon from @react-icons/all-files/go/GoDiff"
+  },
+  "GoDiff (Github Octicons)": {
+    "prefix": "ri:go:diff",
+    "body": "<GoDiff />",
+    "description": "GoDiff Github Octicons icon"
+  },
+
+  "Import GoEllipsis (Github Octicons)": {
+    "prefix": "ri:go:import:ellipsis",
+    "body": "import { GoEllipsis } from 'react-icons/go';",
+    "description": "Import GoEllipsis Github Octicons icon from react-icons"
+  },
+  "Import GoEllipsis (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:ellipsis:all-files",
+    "body": "import { GoEllipsis } from '@react-icons/all-files/go/GoEllipsis';",
+    "description": "Import GoEllipsis Github Octicons icon from @react-icons/all-files/go/GoEllipsis"
+  },
+  "GoEllipsis (Github Octicons)": {
+    "prefix": "ri:go:ellipsis",
+    "body": "<GoEllipsis />",
+    "description": "GoEllipsis Github Octicons icon"
+  },
+
+  "Import GoEyeClosed (Github Octicons)": {
+    "prefix": "ri:go:import:eye-closed",
+    "body": "import { GoEyeClosed } from 'react-icons/go';",
+    "description": "Import GoEyeClosed Github Octicons icon from react-icons"
+  },
+  "Import GoEyeClosed (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:eye-closed:all-files",
+    "body": "import { GoEyeClosed } from '@react-icons/all-files/go/GoEyeClosed';",
+    "description": "Import GoEyeClosed Github Octicons icon from @react-icons/all-files/go/GoEyeClosed"
+  },
+  "GoEyeClosed (Github Octicons)": {
+    "prefix": "ri:go:eye-closed",
+    "body": "<GoEyeClosed />",
+    "description": "GoEyeClosed Github Octicons icon"
+  },
+
+  "Import GoEye (Github Octicons)": {
+    "prefix": "ri:go:import:eye",
+    "body": "import { GoEye } from 'react-icons/go';",
+    "description": "Import GoEye Github Octicons icon from react-icons"
+  },
+  "Import GoEye (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:eye:all-files",
+    "body": "import { GoEye } from '@react-icons/all-files/go/GoEye';",
+    "description": "Import GoEye Github Octicons icon from @react-icons/all-files/go/GoEye"
+  },
+  "GoEye (Github Octicons)": {
+    "prefix": "ri:go:eye",
+    "body": "<GoEye />",
+    "description": "GoEye Github Octicons icon"
+  },
+
+  "Import GoFileBinary (Github Octicons)": {
+    "prefix": "ri:go:import:file-binary",
+    "body": "import { GoFileBinary } from 'react-icons/go';",
+    "description": "Import GoFileBinary Github Octicons icon from react-icons"
+  },
+  "Import GoFileBinary (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-binary:all-files",
+    "body": "import { GoFileBinary } from '@react-icons/all-files/go/GoFileBinary';",
+    "description": "Import GoFileBinary Github Octicons icon from @react-icons/all-files/go/GoFileBinary"
+  },
+  "GoFileBinary (Github Octicons)": {
+    "prefix": "ri:go:file-binary",
+    "body": "<GoFileBinary />",
+    "description": "GoFileBinary Github Octicons icon"
+  },
+
+  "Import GoFileCode (Github Octicons)": {
+    "prefix": "ri:go:import:file-code",
+    "body": "import { GoFileCode } from 'react-icons/go';",
+    "description": "Import GoFileCode Github Octicons icon from react-icons"
+  },
+  "Import GoFileCode (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-code:all-files",
+    "body": "import { GoFileCode } from '@react-icons/all-files/go/GoFileCode';",
+    "description": "Import GoFileCode Github Octicons icon from @react-icons/all-files/go/GoFileCode"
+  },
+  "GoFileCode (Github Octicons)": {
+    "prefix": "ri:go:file-code",
+    "body": "<GoFileCode />",
+    "description": "GoFileCode Github Octicons icon"
+  },
+
+  "Import GoFileDirectory (Github Octicons)": {
+    "prefix": "ri:go:import:file-directory",
+    "body": "import { GoFileDirectory } from 'react-icons/go';",
+    "description": "Import GoFileDirectory Github Octicons icon from react-icons"
+  },
+  "Import GoFileDirectory (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-directory:all-files",
+    "body": "import { GoFileDirectory } from '@react-icons/all-files/go/GoFileDirectory';",
+    "description": "Import GoFileDirectory Github Octicons icon from @react-icons/all-files/go/GoFileDirectory"
+  },
+  "GoFileDirectory (Github Octicons)": {
+    "prefix": "ri:go:file-directory",
+    "body": "<GoFileDirectory />",
+    "description": "GoFileDirectory Github Octicons icon"
+  },
+
+  "Import GoFileMedia (Github Octicons)": {
+    "prefix": "ri:go:import:file-media",
+    "body": "import { GoFileMedia } from 'react-icons/go';",
+    "description": "Import GoFileMedia Github Octicons icon from react-icons"
+  },
+  "Import GoFileMedia (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-media:all-files",
+    "body": "import { GoFileMedia } from '@react-icons/all-files/go/GoFileMedia';",
+    "description": "Import GoFileMedia Github Octicons icon from @react-icons/all-files/go/GoFileMedia"
+  },
+  "GoFileMedia (Github Octicons)": {
+    "prefix": "ri:go:file-media",
+    "body": "<GoFileMedia />",
+    "description": "GoFileMedia Github Octicons icon"
+  },
+
+  "Import GoFilePdf (Github Octicons)": {
+    "prefix": "ri:go:import:file-pdf",
+    "body": "import { GoFilePdf } from 'react-icons/go';",
+    "description": "Import GoFilePdf Github Octicons icon from react-icons"
+  },
+  "Import GoFilePdf (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-pdf:all-files",
+    "body": "import { GoFilePdf } from '@react-icons/all-files/go/GoFilePdf';",
+    "description": "Import GoFilePdf Github Octicons icon from @react-icons/all-files/go/GoFilePdf"
+  },
+  "GoFilePdf (Github Octicons)": {
+    "prefix": "ri:go:file-pdf",
+    "body": "<GoFilePdf />",
+    "description": "GoFilePdf Github Octicons icon"
+  },
+
+  "Import GoFileSubmodule (Github Octicons)": {
+    "prefix": "ri:go:import:file-submodule",
+    "body": "import { GoFileSubmodule } from 'react-icons/go';",
+    "description": "Import GoFileSubmodule Github Octicons icon from react-icons"
+  },
+  "Import GoFileSubmodule (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-submodule:all-files",
+    "body": "import { GoFileSubmodule } from '@react-icons/all-files/go/GoFileSubmodule';",
+    "description": "Import GoFileSubmodule Github Octicons icon from @react-icons/all-files/go/GoFileSubmodule"
+  },
+  "GoFileSubmodule (Github Octicons)": {
+    "prefix": "ri:go:file-submodule",
+    "body": "<GoFileSubmodule />",
+    "description": "GoFileSubmodule Github Octicons icon"
+  },
+
+  "Import GoFileSymlinkDirectory (Github Octicons)": {
+    "prefix": "ri:go:import:file-symlink-directory",
+    "body": "import { GoFileSymlinkDirectory } from 'react-icons/go';",
+    "description": "Import GoFileSymlinkDirectory Github Octicons icon from react-icons"
+  },
+  "Import GoFileSymlinkDirectory (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-symlink-directory:all-files",
+    "body": "import { GoFileSymlinkDirectory } from '@react-icons/all-files/go/GoFileSymlinkDirectory';",
+    "description": "Import GoFileSymlinkDirectory Github Octicons icon from @react-icons/all-files/go/GoFileSymlinkDirectory"
+  },
+  "GoFileSymlinkDirectory (Github Octicons)": {
+    "prefix": "ri:go:file-symlink-directory",
+    "body": "<GoFileSymlinkDirectory />",
+    "description": "GoFileSymlinkDirectory Github Octicons icon"
+  },
+
+  "Import GoFileSymlinkFile (Github Octicons)": {
+    "prefix": "ri:go:import:file-symlink-file",
+    "body": "import { GoFileSymlinkFile } from 'react-icons/go';",
+    "description": "Import GoFileSymlinkFile Github Octicons icon from react-icons"
+  },
+  "Import GoFileSymlinkFile (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-symlink-file:all-files",
+    "body": "import { GoFileSymlinkFile } from '@react-icons/all-files/go/GoFileSymlinkFile';",
+    "description": "Import GoFileSymlinkFile Github Octicons icon from @react-icons/all-files/go/GoFileSymlinkFile"
+  },
+  "GoFileSymlinkFile (Github Octicons)": {
+    "prefix": "ri:go:file-symlink-file",
+    "body": "<GoFileSymlinkFile />",
+    "description": "GoFileSymlinkFile Github Octicons icon"
+  },
+
+  "Import GoFileZip (Github Octicons)": {
+    "prefix": "ri:go:import:file-zip",
+    "body": "import { GoFileZip } from 'react-icons/go';",
+    "description": "Import GoFileZip Github Octicons icon from react-icons"
+  },
+  "Import GoFileZip (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file-zip:all-files",
+    "body": "import { GoFileZip } from '@react-icons/all-files/go/GoFileZip';",
+    "description": "Import GoFileZip Github Octicons icon from @react-icons/all-files/go/GoFileZip"
+  },
+  "GoFileZip (Github Octicons)": {
+    "prefix": "ri:go:file-zip",
+    "body": "<GoFileZip />",
+    "description": "GoFileZip Github Octicons icon"
+  },
+
+  "Import GoFile (Github Octicons)": {
+    "prefix": "ri:go:import:file",
+    "body": "import { GoFile } from 'react-icons/go';",
+    "description": "Import GoFile Github Octicons icon from react-icons"
+  },
+  "Import GoFile (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:file:all-files",
+    "body": "import { GoFile } from '@react-icons/all-files/go/GoFile';",
+    "description": "Import GoFile Github Octicons icon from @react-icons/all-files/go/GoFile"
+  },
+  "GoFile (Github Octicons)": {
+    "prefix": "ri:go:file",
+    "body": "<GoFile />",
+    "description": "GoFile Github Octicons icon"
+  },
+
+  "Import GoFlame (Github Octicons)": {
+    "prefix": "ri:go:import:flame",
+    "body": "import { GoFlame } from 'react-icons/go';",
+    "description": "Import GoFlame Github Octicons icon from react-icons"
+  },
+  "Import GoFlame (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:flame:all-files",
+    "body": "import { GoFlame } from '@react-icons/all-files/go/GoFlame';",
+    "description": "Import GoFlame Github Octicons icon from @react-icons/all-files/go/GoFlame"
+  },
+  "GoFlame (Github Octicons)": {
+    "prefix": "ri:go:flame",
+    "body": "<GoFlame />",
+    "description": "GoFlame Github Octicons icon"
+  },
+
+  "Import GoFoldDown (Github Octicons)": {
+    "prefix": "ri:go:import:fold-down",
+    "body": "import { GoFoldDown } from 'react-icons/go';",
+    "description": "Import GoFoldDown Github Octicons icon from react-icons"
+  },
+  "Import GoFoldDown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:fold-down:all-files",
+    "body": "import { GoFoldDown } from '@react-icons/all-files/go/GoFoldDown';",
+    "description": "Import GoFoldDown Github Octicons icon from @react-icons/all-files/go/GoFoldDown"
+  },
+  "GoFoldDown (Github Octicons)": {
+    "prefix": "ri:go:fold-down",
+    "body": "<GoFoldDown />",
+    "description": "GoFoldDown Github Octicons icon"
+  },
+
+  "Import GoFoldUp (Github Octicons)": {
+    "prefix": "ri:go:import:fold-up",
+    "body": "import { GoFoldUp } from 'react-icons/go';",
+    "description": "Import GoFoldUp Github Octicons icon from react-icons"
+  },
+  "Import GoFoldUp (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:fold-up:all-files",
+    "body": "import { GoFoldUp } from '@react-icons/all-files/go/GoFoldUp';",
+    "description": "Import GoFoldUp Github Octicons icon from @react-icons/all-files/go/GoFoldUp"
+  },
+  "GoFoldUp (Github Octicons)": {
+    "prefix": "ri:go:fold-up",
+    "body": "<GoFoldUp />",
+    "description": "GoFoldUp Github Octicons icon"
+  },
+
+  "Import GoFold (Github Octicons)": {
+    "prefix": "ri:go:import:fold",
+    "body": "import { GoFold } from 'react-icons/go';",
+    "description": "Import GoFold Github Octicons icon from react-icons"
+  },
+  "Import GoFold (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:fold:all-files",
+    "body": "import { GoFold } from '@react-icons/all-files/go/GoFold';",
+    "description": "Import GoFold Github Octicons icon from @react-icons/all-files/go/GoFold"
+  },
+  "GoFold (Github Octicons)": {
+    "prefix": "ri:go:fold",
+    "body": "<GoFold />",
+    "description": "GoFold Github Octicons icon"
+  },
+
+  "Import GoGear (Github Octicons)": {
+    "prefix": "ri:go:import:gear",
+    "body": "import { GoGear } from 'react-icons/go';",
+    "description": "Import GoGear Github Octicons icon from react-icons"
+  },
+  "Import GoGear (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:gear:all-files",
+    "body": "import { GoGear } from '@react-icons/all-files/go/GoGear';",
+    "description": "Import GoGear Github Octicons icon from @react-icons/all-files/go/GoGear"
+  },
+  "GoGear (Github Octicons)": {
+    "prefix": "ri:go:gear",
+    "body": "<GoGear />",
+    "description": "GoGear Github Octicons icon"
+  },
+
+  "Import GoGift (Github Octicons)": {
+    "prefix": "ri:go:import:gift",
+    "body": "import { GoGift } from 'react-icons/go';",
+    "description": "Import GoGift Github Octicons icon from react-icons"
+  },
+  "Import GoGift (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:gift:all-files",
+    "body": "import { GoGift } from '@react-icons/all-files/go/GoGift';",
+    "description": "Import GoGift Github Octicons icon from @react-icons/all-files/go/GoGift"
+  },
+  "GoGift (Github Octicons)": {
+    "prefix": "ri:go:gift",
+    "body": "<GoGift />",
+    "description": "GoGift Github Octicons icon"
+  },
+
+  "Import GoGistSecret (Github Octicons)": {
+    "prefix": "ri:go:import:gist-secret",
+    "body": "import { GoGistSecret } from 'react-icons/go';",
+    "description": "Import GoGistSecret Github Octicons icon from react-icons"
+  },
+  "Import GoGistSecret (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:gist-secret:all-files",
+    "body": "import { GoGistSecret } from '@react-icons/all-files/go/GoGistSecret';",
+    "description": "Import GoGistSecret Github Octicons icon from @react-icons/all-files/go/GoGistSecret"
+  },
+  "GoGistSecret (Github Octicons)": {
+    "prefix": "ri:go:gist-secret",
+    "body": "<GoGistSecret />",
+    "description": "GoGistSecret Github Octicons icon"
+  },
+
+  "Import GoGist (Github Octicons)": {
+    "prefix": "ri:go:import:gist",
+    "body": "import { GoGist } from 'react-icons/go';",
+    "description": "Import GoGist Github Octicons icon from react-icons"
+  },
+  "Import GoGist (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:gist:all-files",
+    "body": "import { GoGist } from '@react-icons/all-files/go/GoGist';",
+    "description": "Import GoGist Github Octicons icon from @react-icons/all-files/go/GoGist"
+  },
+  "GoGist (Github Octicons)": {
+    "prefix": "ri:go:gist",
+    "body": "<GoGist />",
+    "description": "GoGist Github Octicons icon"
+  },
+
+  "Import GoGitBranch (Github Octicons)": {
+    "prefix": "ri:go:import:git-branch",
+    "body": "import { GoGitBranch } from 'react-icons/go';",
+    "description": "Import GoGitBranch Github Octicons icon from react-icons"
+  },
+  "Import GoGitBranch (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:git-branch:all-files",
+    "body": "import { GoGitBranch } from '@react-icons/all-files/go/GoGitBranch';",
+    "description": "Import GoGitBranch Github Octicons icon from @react-icons/all-files/go/GoGitBranch"
+  },
+  "GoGitBranch (Github Octicons)": {
+    "prefix": "ri:go:git-branch",
+    "body": "<GoGitBranch />",
+    "description": "GoGitBranch Github Octicons icon"
+  },
+
+  "Import GoGitCommit (Github Octicons)": {
+    "prefix": "ri:go:import:git-commit",
+    "body": "import { GoGitCommit } from 'react-icons/go';",
+    "description": "Import GoGitCommit Github Octicons icon from react-icons"
+  },
+  "Import GoGitCommit (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:git-commit:all-files",
+    "body": "import { GoGitCommit } from '@react-icons/all-files/go/GoGitCommit';",
+    "description": "Import GoGitCommit Github Octicons icon from @react-icons/all-files/go/GoGitCommit"
+  },
+  "GoGitCommit (Github Octicons)": {
+    "prefix": "ri:go:git-commit",
+    "body": "<GoGitCommit />",
+    "description": "GoGitCommit Github Octicons icon"
+  },
+
+  "Import GoGitCompare (Github Octicons)": {
+    "prefix": "ri:go:import:git-compare",
+    "body": "import { GoGitCompare } from 'react-icons/go';",
+    "description": "Import GoGitCompare Github Octicons icon from react-icons"
+  },
+  "Import GoGitCompare (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:git-compare:all-files",
+    "body": "import { GoGitCompare } from '@react-icons/all-files/go/GoGitCompare';",
+    "description": "Import GoGitCompare Github Octicons icon from @react-icons/all-files/go/GoGitCompare"
+  },
+  "GoGitCompare (Github Octicons)": {
+    "prefix": "ri:go:git-compare",
+    "body": "<GoGitCompare />",
+    "description": "GoGitCompare Github Octicons icon"
+  },
+
+  "Import GoGitMerge (Github Octicons)": {
+    "prefix": "ri:go:import:git-merge",
+    "body": "import { GoGitMerge } from 'react-icons/go';",
+    "description": "Import GoGitMerge Github Octicons icon from react-icons"
+  },
+  "Import GoGitMerge (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:git-merge:all-files",
+    "body": "import { GoGitMerge } from '@react-icons/all-files/go/GoGitMerge';",
+    "description": "Import GoGitMerge Github Octicons icon from @react-icons/all-files/go/GoGitMerge"
+  },
+  "GoGitMerge (Github Octicons)": {
+    "prefix": "ri:go:git-merge",
+    "body": "<GoGitMerge />",
+    "description": "GoGitMerge Github Octicons icon"
+  },
+
+  "Import GoGitPullRequest (Github Octicons)": {
+    "prefix": "ri:go:import:git-pull-request",
+    "body": "import { GoGitPullRequest } from 'react-icons/go';",
+    "description": "Import GoGitPullRequest Github Octicons icon from react-icons"
+  },
+  "Import GoGitPullRequest (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:git-pull-request:all-files",
+    "body": "import { GoGitPullRequest } from '@react-icons/all-files/go/GoGitPullRequest';",
+    "description": "Import GoGitPullRequest Github Octicons icon from @react-icons/all-files/go/GoGitPullRequest"
+  },
+  "GoGitPullRequest (Github Octicons)": {
+    "prefix": "ri:go:git-pull-request",
+    "body": "<GoGitPullRequest />",
+    "description": "GoGitPullRequest Github Octicons icon"
+  },
+
+  "Import GoGithubAction (Github Octicons)": {
+    "prefix": "ri:go:import:github-action",
+    "body": "import { GoGithubAction } from 'react-icons/go';",
+    "description": "Import GoGithubAction Github Octicons icon from react-icons"
+  },
+  "Import GoGithubAction (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:github-action:all-files",
+    "body": "import { GoGithubAction } from '@react-icons/all-files/go/GoGithubAction';",
+    "description": "Import GoGithubAction Github Octicons icon from @react-icons/all-files/go/GoGithubAction"
+  },
+  "GoGithubAction (Github Octicons)": {
+    "prefix": "ri:go:github-action",
+    "body": "<GoGithubAction />",
+    "description": "GoGithubAction Github Octicons icon"
+  },
+
+  "Import GoGlobe (Github Octicons)": {
+    "prefix": "ri:go:import:globe",
+    "body": "import { GoGlobe } from 'react-icons/go';",
+    "description": "Import GoGlobe Github Octicons icon from react-icons"
+  },
+  "Import GoGlobe (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:globe:all-files",
+    "body": "import { GoGlobe } from '@react-icons/all-files/go/GoGlobe';",
+    "description": "Import GoGlobe Github Octicons icon from @react-icons/all-files/go/GoGlobe"
+  },
+  "GoGlobe (Github Octicons)": {
+    "prefix": "ri:go:globe",
+    "body": "<GoGlobe />",
+    "description": "GoGlobe Github Octicons icon"
+  },
+
+  "Import GoGrabber (Github Octicons)": {
+    "prefix": "ri:go:import:grabber",
+    "body": "import { GoGrabber } from 'react-icons/go';",
+    "description": "Import GoGrabber Github Octicons icon from react-icons"
+  },
+  "Import GoGrabber (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:grabber:all-files",
+    "body": "import { GoGrabber } from '@react-icons/all-files/go/GoGrabber';",
+    "description": "Import GoGrabber Github Octicons icon from @react-icons/all-files/go/GoGrabber"
+  },
+  "GoGrabber (Github Octicons)": {
+    "prefix": "ri:go:grabber",
+    "body": "<GoGrabber />",
+    "description": "GoGrabber Github Octicons icon"
+  },
+
+  "Import GoGraph (Github Octicons)": {
+    "prefix": "ri:go:import:graph",
+    "body": "import { GoGraph } from 'react-icons/go';",
+    "description": "Import GoGraph Github Octicons icon from react-icons"
+  },
+  "Import GoGraph (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:graph:all-files",
+    "body": "import { GoGraph } from '@react-icons/all-files/go/GoGraph';",
+    "description": "Import GoGraph Github Octicons icon from @react-icons/all-files/go/GoGraph"
+  },
+  "GoGraph (Github Octicons)": {
+    "prefix": "ri:go:graph",
+    "body": "<GoGraph />",
+    "description": "GoGraph Github Octicons icon"
+  },
+
+  "Import GoHeart (Github Octicons)": {
+    "prefix": "ri:go:import:heart",
+    "body": "import { GoHeart } from 'react-icons/go';",
+    "description": "Import GoHeart Github Octicons icon from react-icons"
+  },
+  "Import GoHeart (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:heart:all-files",
+    "body": "import { GoHeart } from '@react-icons/all-files/go/GoHeart';",
+    "description": "Import GoHeart Github Octicons icon from @react-icons/all-files/go/GoHeart"
+  },
+  "GoHeart (Github Octicons)": {
+    "prefix": "ri:go:heart",
+    "body": "<GoHeart />",
+    "description": "GoHeart Github Octicons icon"
+  },
+
+  "Import GoHistory (Github Octicons)": {
+    "prefix": "ri:go:import:history",
+    "body": "import { GoHistory } from 'react-icons/go';",
+    "description": "Import GoHistory Github Octicons icon from react-icons"
+  },
+  "Import GoHistory (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:history:all-files",
+    "body": "import { GoHistory } from '@react-icons/all-files/go/GoHistory';",
+    "description": "Import GoHistory Github Octicons icon from @react-icons/all-files/go/GoHistory"
+  },
+  "GoHistory (Github Octicons)": {
+    "prefix": "ri:go:history",
+    "body": "<GoHistory />",
+    "description": "GoHistory Github Octicons icon"
+  },
+
+  "Import GoHome (Github Octicons)": {
+    "prefix": "ri:go:import:home",
+    "body": "import { GoHome } from 'react-icons/go';",
+    "description": "Import GoHome Github Octicons icon from react-icons"
+  },
+  "Import GoHome (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:home:all-files",
+    "body": "import { GoHome } from '@react-icons/all-files/go/GoHome';",
+    "description": "Import GoHome Github Octicons icon from @react-icons/all-files/go/GoHome"
+  },
+  "GoHome (Github Octicons)": {
+    "prefix": "ri:go:home",
+    "body": "<GoHome />",
+    "description": "GoHome Github Octicons icon"
+  },
+
+  "Import GoHorizontalRule (Github Octicons)": {
+    "prefix": "ri:go:import:horizontal-rule",
+    "body": "import { GoHorizontalRule } from 'react-icons/go';",
+    "description": "Import GoHorizontalRule Github Octicons icon from react-icons"
+  },
+  "Import GoHorizontalRule (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:horizontal-rule:all-files",
+    "body": "import { GoHorizontalRule } from '@react-icons/all-files/go/GoHorizontalRule';",
+    "description": "Import GoHorizontalRule Github Octicons icon from @react-icons/all-files/go/GoHorizontalRule"
+  },
+  "GoHorizontalRule (Github Octicons)": {
+    "prefix": "ri:go:horizontal-rule",
+    "body": "<GoHorizontalRule />",
+    "description": "GoHorizontalRule Github Octicons icon"
+  },
+
+  "Import GoHubot (Github Octicons)": {
+    "prefix": "ri:go:import:hubot",
+    "body": "import { GoHubot } from 'react-icons/go';",
+    "description": "Import GoHubot Github Octicons icon from react-icons"
+  },
+  "Import GoHubot (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:hubot:all-files",
+    "body": "import { GoHubot } from '@react-icons/all-files/go/GoHubot';",
+    "description": "Import GoHubot Github Octicons icon from @react-icons/all-files/go/GoHubot"
+  },
+  "GoHubot (Github Octicons)": {
+    "prefix": "ri:go:hubot",
+    "body": "<GoHubot />",
+    "description": "GoHubot Github Octicons icon"
+  },
+
+  "Import GoInbox (Github Octicons)": {
+    "prefix": "ri:go:import:inbox",
+    "body": "import { GoInbox } from 'react-icons/go';",
+    "description": "Import GoInbox Github Octicons icon from react-icons"
+  },
+  "Import GoInbox (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:inbox:all-files",
+    "body": "import { GoInbox } from '@react-icons/all-files/go/GoInbox';",
+    "description": "Import GoInbox Github Octicons icon from @react-icons/all-files/go/GoInbox"
+  },
+  "GoInbox (Github Octicons)": {
+    "prefix": "ri:go:inbox",
+    "body": "<GoInbox />",
+    "description": "GoInbox Github Octicons icon"
+  },
+
+  "Import GoInfo (Github Octicons)": {
+    "prefix": "ri:go:import:info",
+    "body": "import { GoInfo } from 'react-icons/go';",
+    "description": "Import GoInfo Github Octicons icon from react-icons"
+  },
+  "Import GoInfo (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:info:all-files",
+    "body": "import { GoInfo } from '@react-icons/all-files/go/GoInfo';",
+    "description": "Import GoInfo Github Octicons icon from @react-icons/all-files/go/GoInfo"
+  },
+  "GoInfo (Github Octicons)": {
+    "prefix": "ri:go:info",
+    "body": "<GoInfo />",
+    "description": "GoInfo Github Octicons icon"
+  },
+
+  "Import GoIssueClosed (Github Octicons)": {
+    "prefix": "ri:go:import:issue-closed",
+    "body": "import { GoIssueClosed } from 'react-icons/go';",
+    "description": "Import GoIssueClosed Github Octicons icon from react-icons"
+  },
+  "Import GoIssueClosed (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:issue-closed:all-files",
+    "body": "import { GoIssueClosed } from '@react-icons/all-files/go/GoIssueClosed';",
+    "description": "Import GoIssueClosed Github Octicons icon from @react-icons/all-files/go/GoIssueClosed"
+  },
+  "GoIssueClosed (Github Octicons)": {
+    "prefix": "ri:go:issue-closed",
+    "body": "<GoIssueClosed />",
+    "description": "GoIssueClosed Github Octicons icon"
+  },
+
+  "Import GoIssueOpened (Github Octicons)": {
+    "prefix": "ri:go:import:issue-opened",
+    "body": "import { GoIssueOpened } from 'react-icons/go';",
+    "description": "Import GoIssueOpened Github Octicons icon from react-icons"
+  },
+  "Import GoIssueOpened (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:issue-opened:all-files",
+    "body": "import { GoIssueOpened } from '@react-icons/all-files/go/GoIssueOpened';",
+    "description": "Import GoIssueOpened Github Octicons icon from @react-icons/all-files/go/GoIssueOpened"
+  },
+  "GoIssueOpened (Github Octicons)": {
+    "prefix": "ri:go:issue-opened",
+    "body": "<GoIssueOpened />",
+    "description": "GoIssueOpened Github Octicons icon"
+  },
+
+  "Import GoIssueReopened (Github Octicons)": {
+    "prefix": "ri:go:import:issue-reopened",
+    "body": "import { GoIssueReopened } from 'react-icons/go';",
+    "description": "Import GoIssueReopened Github Octicons icon from react-icons"
+  },
+  "Import GoIssueReopened (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:issue-reopened:all-files",
+    "body": "import { GoIssueReopened } from '@react-icons/all-files/go/GoIssueReopened';",
+    "description": "Import GoIssueReopened Github Octicons icon from @react-icons/all-files/go/GoIssueReopened"
+  },
+  "GoIssueReopened (Github Octicons)": {
+    "prefix": "ri:go:issue-reopened",
+    "body": "<GoIssueReopened />",
+    "description": "GoIssueReopened Github Octicons icon"
+  },
+
+  "Import GoItalic (Github Octicons)": {
+    "prefix": "ri:go:import:italic",
+    "body": "import { GoItalic } from 'react-icons/go';",
+    "description": "Import GoItalic Github Octicons icon from react-icons"
+  },
+  "Import GoItalic (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:italic:all-files",
+    "body": "import { GoItalic } from '@react-icons/all-files/go/GoItalic';",
+    "description": "Import GoItalic Github Octicons icon from @react-icons/all-files/go/GoItalic"
+  },
+  "GoItalic (Github Octicons)": {
+    "prefix": "ri:go:italic",
+    "body": "<GoItalic />",
+    "description": "GoItalic Github Octicons icon"
+  },
+
+  "Import GoJersey (Github Octicons)": {
+    "prefix": "ri:go:import:jersey",
+    "body": "import { GoJersey } from 'react-icons/go';",
+    "description": "Import GoJersey Github Octicons icon from react-icons"
+  },
+  "Import GoJersey (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:jersey:all-files",
+    "body": "import { GoJersey } from '@react-icons/all-files/go/GoJersey';",
+    "description": "Import GoJersey Github Octicons icon from @react-icons/all-files/go/GoJersey"
+  },
+  "GoJersey (Github Octicons)": {
+    "prefix": "ri:go:jersey",
+    "body": "<GoJersey />",
+    "description": "GoJersey Github Octicons icon"
+  },
+
+  "Import GoKebabHorizontal (Github Octicons)": {
+    "prefix": "ri:go:import:kebab-horizontal",
+    "body": "import { GoKebabHorizontal } from 'react-icons/go';",
+    "description": "Import GoKebabHorizontal Github Octicons icon from react-icons"
+  },
+  "Import GoKebabHorizontal (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:kebab-horizontal:all-files",
+    "body": "import { GoKebabHorizontal } from '@react-icons/all-files/go/GoKebabHorizontal';",
+    "description": "Import GoKebabHorizontal Github Octicons icon from @react-icons/all-files/go/GoKebabHorizontal"
+  },
+  "GoKebabHorizontal (Github Octicons)": {
+    "prefix": "ri:go:kebab-horizontal",
+    "body": "<GoKebabHorizontal />",
+    "description": "GoKebabHorizontal Github Octicons icon"
+  },
+
+  "Import GoKebabVertical (Github Octicons)": {
+    "prefix": "ri:go:import:kebab-vertical",
+    "body": "import { GoKebabVertical } from 'react-icons/go';",
+    "description": "Import GoKebabVertical Github Octicons icon from react-icons"
+  },
+  "Import GoKebabVertical (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:kebab-vertical:all-files",
+    "body": "import { GoKebabVertical } from '@react-icons/all-files/go/GoKebabVertical';",
+    "description": "Import GoKebabVertical Github Octicons icon from @react-icons/all-files/go/GoKebabVertical"
+  },
+  "GoKebabVertical (Github Octicons)": {
+    "prefix": "ri:go:kebab-vertical",
+    "body": "<GoKebabVertical />",
+    "description": "GoKebabVertical Github Octicons icon"
+  },
+
+  "Import GoKey (Github Octicons)": {
+    "prefix": "ri:go:import:key",
+    "body": "import { GoKey } from 'react-icons/go';",
+    "description": "Import GoKey Github Octicons icon from react-icons"
+  },
+  "Import GoKey (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:key:all-files",
+    "body": "import { GoKey } from '@react-icons/all-files/go/GoKey';",
+    "description": "Import GoKey Github Octicons icon from @react-icons/all-files/go/GoKey"
+  },
+  "GoKey (Github Octicons)": {
+    "prefix": "ri:go:key",
+    "body": "<GoKey />",
+    "description": "GoKey Github Octicons icon"
+  },
+
+  "Import GoKeyboard (Github Octicons)": {
+    "prefix": "ri:go:import:keyboard",
+    "body": "import { GoKeyboard } from 'react-icons/go';",
+    "description": "Import GoKeyboard Github Octicons icon from react-icons"
+  },
+  "Import GoKeyboard (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:keyboard:all-files",
+    "body": "import { GoKeyboard } from '@react-icons/all-files/go/GoKeyboard';",
+    "description": "Import GoKeyboard Github Octicons icon from @react-icons/all-files/go/GoKeyboard"
+  },
+  "GoKeyboard (Github Octicons)": {
+    "prefix": "ri:go:keyboard",
+    "body": "<GoKeyboard />",
+    "description": "GoKeyboard Github Octicons icon"
+  },
+
+  "Import GoLaw (Github Octicons)": {
+    "prefix": "ri:go:import:law",
+    "body": "import { GoLaw } from 'react-icons/go';",
+    "description": "Import GoLaw Github Octicons icon from react-icons"
+  },
+  "Import GoLaw (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:law:all-files",
+    "body": "import { GoLaw } from '@react-icons/all-files/go/GoLaw';",
+    "description": "Import GoLaw Github Octicons icon from @react-icons/all-files/go/GoLaw"
+  },
+  "GoLaw (Github Octicons)": {
+    "prefix": "ri:go:law",
+    "body": "<GoLaw />",
+    "description": "GoLaw Github Octicons icon"
+  },
+
+  "Import GoLightBulb (Github Octicons)": {
+    "prefix": "ri:go:import:light-bulb",
+    "body": "import { GoLightBulb } from 'react-icons/go';",
+    "description": "Import GoLightBulb Github Octicons icon from react-icons"
+  },
+  "Import GoLightBulb (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:light-bulb:all-files",
+    "body": "import { GoLightBulb } from '@react-icons/all-files/go/GoLightBulb';",
+    "description": "Import GoLightBulb Github Octicons icon from @react-icons/all-files/go/GoLightBulb"
+  },
+  "GoLightBulb (Github Octicons)": {
+    "prefix": "ri:go:light-bulb",
+    "body": "<GoLightBulb />",
+    "description": "GoLightBulb Github Octicons icon"
+  },
+
+  "Import GoLinkExternal (Github Octicons)": {
+    "prefix": "ri:go:import:link-external",
+    "body": "import { GoLinkExternal } from 'react-icons/go';",
+    "description": "Import GoLinkExternal Github Octicons icon from react-icons"
+  },
+  "Import GoLinkExternal (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:link-external:all-files",
+    "body": "import { GoLinkExternal } from '@react-icons/all-files/go/GoLinkExternal';",
+    "description": "Import GoLinkExternal Github Octicons icon from @react-icons/all-files/go/GoLinkExternal"
+  },
+  "GoLinkExternal (Github Octicons)": {
+    "prefix": "ri:go:link-external",
+    "body": "<GoLinkExternal />",
+    "description": "GoLinkExternal Github Octicons icon"
+  },
+
+  "Import GoLink (Github Octicons)": {
+    "prefix": "ri:go:import:link",
+    "body": "import { GoLink } from 'react-icons/go';",
+    "description": "Import GoLink Github Octicons icon from react-icons"
+  },
+  "Import GoLink (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:link:all-files",
+    "body": "import { GoLink } from '@react-icons/all-files/go/GoLink';",
+    "description": "Import GoLink Github Octicons icon from @react-icons/all-files/go/GoLink"
+  },
+  "GoLink (Github Octicons)": {
+    "prefix": "ri:go:link",
+    "body": "<GoLink />",
+    "description": "GoLink Github Octicons icon"
+  },
+
+  "Import GoListOrdered (Github Octicons)": {
+    "prefix": "ri:go:import:list-ordered",
+    "body": "import { GoListOrdered } from 'react-icons/go';",
+    "description": "Import GoListOrdered Github Octicons icon from react-icons"
+  },
+  "Import GoListOrdered (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:list-ordered:all-files",
+    "body": "import { GoListOrdered } from '@react-icons/all-files/go/GoListOrdered';",
+    "description": "Import GoListOrdered Github Octicons icon from @react-icons/all-files/go/GoListOrdered"
+  },
+  "GoListOrdered (Github Octicons)": {
+    "prefix": "ri:go:list-ordered",
+    "body": "<GoListOrdered />",
+    "description": "GoListOrdered Github Octicons icon"
+  },
+
+  "Import GoListUnordered (Github Octicons)": {
+    "prefix": "ri:go:import:list-unordered",
+    "body": "import { GoListUnordered } from 'react-icons/go';",
+    "description": "Import GoListUnordered Github Octicons icon from react-icons"
+  },
+  "Import GoListUnordered (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:list-unordered:all-files",
+    "body": "import { GoListUnordered } from '@react-icons/all-files/go/GoListUnordered';",
+    "description": "Import GoListUnordered Github Octicons icon from @react-icons/all-files/go/GoListUnordered"
+  },
+  "GoListUnordered (Github Octicons)": {
+    "prefix": "ri:go:list-unordered",
+    "body": "<GoListUnordered />",
+    "description": "GoListUnordered Github Octicons icon"
+  },
+
+  "Import GoLocation (Github Octicons)": {
+    "prefix": "ri:go:import:location",
+    "body": "import { GoLocation } from 'react-icons/go';",
+    "description": "Import GoLocation Github Octicons icon from react-icons"
+  },
+  "Import GoLocation (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:location:all-files",
+    "body": "import { GoLocation } from '@react-icons/all-files/go/GoLocation';",
+    "description": "Import GoLocation Github Octicons icon from @react-icons/all-files/go/GoLocation"
+  },
+  "GoLocation (Github Octicons)": {
+    "prefix": "ri:go:location",
+    "body": "<GoLocation />",
+    "description": "GoLocation Github Octicons icon"
+  },
+
+  "Import GoLock (Github Octicons)": {
+    "prefix": "ri:go:import:lock",
+    "body": "import { GoLock } from 'react-icons/go';",
+    "description": "Import GoLock Github Octicons icon from react-icons"
+  },
+  "Import GoLock (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:lock:all-files",
+    "body": "import { GoLock } from '@react-icons/all-files/go/GoLock';",
+    "description": "Import GoLock Github Octicons icon from @react-icons/all-files/go/GoLock"
+  },
+  "GoLock (Github Octicons)": {
+    "prefix": "ri:go:lock",
+    "body": "<GoLock />",
+    "description": "GoLock Github Octicons icon"
+  },
+
+  "Import GoLogoGist (Github Octicons)": {
+    "prefix": "ri:go:import:logo-gist",
+    "body": "import { GoLogoGist } from 'react-icons/go';",
+    "description": "Import GoLogoGist Github Octicons icon from react-icons"
+  },
+  "Import GoLogoGist (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:logo-gist:all-files",
+    "body": "import { GoLogoGist } from '@react-icons/all-files/go/GoLogoGist';",
+    "description": "Import GoLogoGist Github Octicons icon from @react-icons/all-files/go/GoLogoGist"
+  },
+  "GoLogoGist (Github Octicons)": {
+    "prefix": "ri:go:logo-gist",
+    "body": "<GoLogoGist />",
+    "description": "GoLogoGist Github Octicons icon"
+  },
+
+  "Import GoLogoGithub (Github Octicons)": {
+    "prefix": "ri:go:import:logo-github",
+    "body": "import { GoLogoGithub } from 'react-icons/go';",
+    "description": "Import GoLogoGithub Github Octicons icon from react-icons"
+  },
+  "Import GoLogoGithub (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:logo-github:all-files",
+    "body": "import { GoLogoGithub } from '@react-icons/all-files/go/GoLogoGithub';",
+    "description": "Import GoLogoGithub Github Octicons icon from @react-icons/all-files/go/GoLogoGithub"
+  },
+  "GoLogoGithub (Github Octicons)": {
+    "prefix": "ri:go:logo-github",
+    "body": "<GoLogoGithub />",
+    "description": "GoLogoGithub Github Octicons icon"
+  },
+
+  "Import GoMailRead (Github Octicons)": {
+    "prefix": "ri:go:import:mail-read",
+    "body": "import { GoMailRead } from 'react-icons/go';",
+    "description": "Import GoMailRead Github Octicons icon from react-icons"
+  },
+  "Import GoMailRead (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mail-read:all-files",
+    "body": "import { GoMailRead } from '@react-icons/all-files/go/GoMailRead';",
+    "description": "Import GoMailRead Github Octicons icon from @react-icons/all-files/go/GoMailRead"
+  },
+  "GoMailRead (Github Octicons)": {
+    "prefix": "ri:go:mail-read",
+    "body": "<GoMailRead />",
+    "description": "GoMailRead Github Octicons icon"
+  },
+
+  "Import GoMail (Github Octicons)": {
+    "prefix": "ri:go:import:mail",
+    "body": "import { GoMail } from 'react-icons/go';",
+    "description": "Import GoMail Github Octicons icon from react-icons"
+  },
+  "Import GoMail (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mail:all-files",
+    "body": "import { GoMail } from '@react-icons/all-files/go/GoMail';",
+    "description": "Import GoMail Github Octicons icon from @react-icons/all-files/go/GoMail"
+  },
+  "GoMail (Github Octicons)": {
+    "prefix": "ri:go:mail",
+    "body": "<GoMail />",
+    "description": "GoMail Github Octicons icon"
+  },
+
+  "Import GoMarkGithub (Github Octicons)": {
+    "prefix": "ri:go:import:mark-github",
+    "body": "import { GoMarkGithub } from 'react-icons/go';",
+    "description": "Import GoMarkGithub Github Octicons icon from react-icons"
+  },
+  "Import GoMarkGithub (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mark-github:all-files",
+    "body": "import { GoMarkGithub } from '@react-icons/all-files/go/GoMarkGithub';",
+    "description": "Import GoMarkGithub Github Octicons icon from @react-icons/all-files/go/GoMarkGithub"
+  },
+  "GoMarkGithub (Github Octicons)": {
+    "prefix": "ri:go:mark-github",
+    "body": "<GoMarkGithub />",
+    "description": "GoMarkGithub Github Octicons icon"
+  },
+
+  "Import GoMarkdown (Github Octicons)": {
+    "prefix": "ri:go:import:markdown",
+    "body": "import { GoMarkdown } from 'react-icons/go';",
+    "description": "Import GoMarkdown Github Octicons icon from react-icons"
+  },
+  "Import GoMarkdown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:markdown:all-files",
+    "body": "import { GoMarkdown } from '@react-icons/all-files/go/GoMarkdown';",
+    "description": "Import GoMarkdown Github Octicons icon from @react-icons/all-files/go/GoMarkdown"
+  },
+  "GoMarkdown (Github Octicons)": {
+    "prefix": "ri:go:markdown",
+    "body": "<GoMarkdown />",
+    "description": "GoMarkdown Github Octicons icon"
+  },
+
+  "Import GoMegaphone (Github Octicons)": {
+    "prefix": "ri:go:import:megaphone",
+    "body": "import { GoMegaphone } from 'react-icons/go';",
+    "description": "Import GoMegaphone Github Octicons icon from react-icons"
+  },
+  "Import GoMegaphone (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:megaphone:all-files",
+    "body": "import { GoMegaphone } from '@react-icons/all-files/go/GoMegaphone';",
+    "description": "Import GoMegaphone Github Octicons icon from @react-icons/all-files/go/GoMegaphone"
+  },
+  "GoMegaphone (Github Octicons)": {
+    "prefix": "ri:go:megaphone",
+    "body": "<GoMegaphone />",
+    "description": "GoMegaphone Github Octicons icon"
+  },
+
+  "Import GoMention (Github Octicons)": {
+    "prefix": "ri:go:import:mention",
+    "body": "import { GoMention } from 'react-icons/go';",
+    "description": "Import GoMention Github Octicons icon from react-icons"
+  },
+  "Import GoMention (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mention:all-files",
+    "body": "import { GoMention } from '@react-icons/all-files/go/GoMention';",
+    "description": "Import GoMention Github Octicons icon from @react-icons/all-files/go/GoMention"
+  },
+  "GoMention (Github Octicons)": {
+    "prefix": "ri:go:mention",
+    "body": "<GoMention />",
+    "description": "GoMention Github Octicons icon"
+  },
+
+  "Import GoMilestone (Github Octicons)": {
+    "prefix": "ri:go:import:milestone",
+    "body": "import { GoMilestone } from 'react-icons/go';",
+    "description": "Import GoMilestone Github Octicons icon from react-icons"
+  },
+  "Import GoMilestone (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:milestone:all-files",
+    "body": "import { GoMilestone } from '@react-icons/all-files/go/GoMilestone';",
+    "description": "Import GoMilestone Github Octicons icon from @react-icons/all-files/go/GoMilestone"
+  },
+  "GoMilestone (Github Octicons)": {
+    "prefix": "ri:go:milestone",
+    "body": "<GoMilestone />",
+    "description": "GoMilestone Github Octicons icon"
+  },
+
+  "Import GoMirror (Github Octicons)": {
+    "prefix": "ri:go:import:mirror",
+    "body": "import { GoMirror } from 'react-icons/go';",
+    "description": "Import GoMirror Github Octicons icon from react-icons"
+  },
+  "Import GoMirror (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mirror:all-files",
+    "body": "import { GoMirror } from '@react-icons/all-files/go/GoMirror';",
+    "description": "Import GoMirror Github Octicons icon from @react-icons/all-files/go/GoMirror"
+  },
+  "GoMirror (Github Octicons)": {
+    "prefix": "ri:go:mirror",
+    "body": "<GoMirror />",
+    "description": "GoMirror Github Octicons icon"
+  },
+
+  "Import GoMortarBoard (Github Octicons)": {
+    "prefix": "ri:go:import:mortar-board",
+    "body": "import { GoMortarBoard } from 'react-icons/go';",
+    "description": "Import GoMortarBoard Github Octicons icon from react-icons"
+  },
+  "Import GoMortarBoard (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mortar-board:all-files",
+    "body": "import { GoMortarBoard } from '@react-icons/all-files/go/GoMortarBoard';",
+    "description": "Import GoMortarBoard Github Octicons icon from @react-icons/all-files/go/GoMortarBoard"
+  },
+  "GoMortarBoard (Github Octicons)": {
+    "prefix": "ri:go:mortar-board",
+    "body": "<GoMortarBoard />",
+    "description": "GoMortarBoard Github Octicons icon"
+  },
+
+  "Import GoMute (Github Octicons)": {
+    "prefix": "ri:go:import:mute",
+    "body": "import { GoMute } from 'react-icons/go';",
+    "description": "Import GoMute Github Octicons icon from react-icons"
+  },
+  "Import GoMute (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:mute:all-files",
+    "body": "import { GoMute } from '@react-icons/all-files/go/GoMute';",
+    "description": "Import GoMute Github Octicons icon from @react-icons/all-files/go/GoMute"
+  },
+  "GoMute (Github Octicons)": {
+    "prefix": "ri:go:mute",
+    "body": "<GoMute />",
+    "description": "GoMute Github Octicons icon"
+  },
+
+  "Import GoNoNewline (Github Octicons)": {
+    "prefix": "ri:go:import:no-newline",
+    "body": "import { GoNoNewline } from 'react-icons/go';",
+    "description": "Import GoNoNewline Github Octicons icon from react-icons"
+  },
+  "Import GoNoNewline (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:no-newline:all-files",
+    "body": "import { GoNoNewline } from '@react-icons/all-files/go/GoNoNewline';",
+    "description": "Import GoNoNewline Github Octicons icon from @react-icons/all-files/go/GoNoNewline"
+  },
+  "GoNoNewline (Github Octicons)": {
+    "prefix": "ri:go:no-newline",
+    "body": "<GoNoNewline />",
+    "description": "GoNoNewline Github Octicons icon"
+  },
+
+  "Import GoNote (Github Octicons)": {
+    "prefix": "ri:go:import:note",
+    "body": "import { GoNote } from 'react-icons/go';",
+    "description": "Import GoNote Github Octicons icon from react-icons"
+  },
+  "Import GoNote (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:note:all-files",
+    "body": "import { GoNote } from '@react-icons/all-files/go/GoNote';",
+    "description": "Import GoNote Github Octicons icon from @react-icons/all-files/go/GoNote"
+  },
+  "GoNote (Github Octicons)": {
+    "prefix": "ri:go:note",
+    "body": "<GoNote />",
+    "description": "GoNote Github Octicons icon"
+  },
+
+  "Import GoOctoface (Github Octicons)": {
+    "prefix": "ri:go:import:octoface",
+    "body": "import { GoOctoface } from 'react-icons/go';",
+    "description": "Import GoOctoface Github Octicons icon from react-icons"
+  },
+  "Import GoOctoface (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:octoface:all-files",
+    "body": "import { GoOctoface } from '@react-icons/all-files/go/GoOctoface';",
+    "description": "Import GoOctoface Github Octicons icon from @react-icons/all-files/go/GoOctoface"
+  },
+  "GoOctoface (Github Octicons)": {
+    "prefix": "ri:go:octoface",
+    "body": "<GoOctoface />",
+    "description": "GoOctoface Github Octicons icon"
+  },
+
+  "Import GoOrganization (Github Octicons)": {
+    "prefix": "ri:go:import:organization",
+    "body": "import { GoOrganization } from 'react-icons/go';",
+    "description": "Import GoOrganization Github Octicons icon from react-icons"
+  },
+  "Import GoOrganization (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:organization:all-files",
+    "body": "import { GoOrganization } from '@react-icons/all-files/go/GoOrganization';",
+    "description": "Import GoOrganization Github Octicons icon from @react-icons/all-files/go/GoOrganization"
+  },
+  "GoOrganization (Github Octicons)": {
+    "prefix": "ri:go:organization",
+    "body": "<GoOrganization />",
+    "description": "GoOrganization Github Octicons icon"
+  },
+
+  "Import GoPackage (Github Octicons)": {
+    "prefix": "ri:go:import:package",
+    "body": "import { GoPackage } from 'react-icons/go';",
+    "description": "Import GoPackage Github Octicons icon from react-icons"
+  },
+  "Import GoPackage (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:package:all-files",
+    "body": "import { GoPackage } from '@react-icons/all-files/go/GoPackage';",
+    "description": "Import GoPackage Github Octicons icon from @react-icons/all-files/go/GoPackage"
+  },
+  "GoPackage (Github Octicons)": {
+    "prefix": "ri:go:package",
+    "body": "<GoPackage />",
+    "description": "GoPackage Github Octicons icon"
+  },
+
+  "Import GoPaintcan (Github Octicons)": {
+    "prefix": "ri:go:import:paintcan",
+    "body": "import { GoPaintcan } from 'react-icons/go';",
+    "description": "Import GoPaintcan Github Octicons icon from react-icons"
+  },
+  "Import GoPaintcan (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:paintcan:all-files",
+    "body": "import { GoPaintcan } from '@react-icons/all-files/go/GoPaintcan';",
+    "description": "Import GoPaintcan Github Octicons icon from @react-icons/all-files/go/GoPaintcan"
+  },
+  "GoPaintcan (Github Octicons)": {
+    "prefix": "ri:go:paintcan",
+    "body": "<GoPaintcan />",
+    "description": "GoPaintcan Github Octicons icon"
+  },
+
+  "Import GoPencil (Github Octicons)": {
+    "prefix": "ri:go:import:pencil",
+    "body": "import { GoPencil } from 'react-icons/go';",
+    "description": "Import GoPencil Github Octicons icon from react-icons"
+  },
+  "Import GoPencil (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:pencil:all-files",
+    "body": "import { GoPencil } from '@react-icons/all-files/go/GoPencil';",
+    "description": "Import GoPencil Github Octicons icon from @react-icons/all-files/go/GoPencil"
+  },
+  "GoPencil (Github Octicons)": {
+    "prefix": "ri:go:pencil",
+    "body": "<GoPencil />",
+    "description": "GoPencil Github Octicons icon"
+  },
+
+  "Import GoPerson (Github Octicons)": {
+    "prefix": "ri:go:import:person",
+    "body": "import { GoPerson } from 'react-icons/go';",
+    "description": "Import GoPerson Github Octicons icon from react-icons"
+  },
+  "Import GoPerson (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:person:all-files",
+    "body": "import { GoPerson } from '@react-icons/all-files/go/GoPerson';",
+    "description": "Import GoPerson Github Octicons icon from @react-icons/all-files/go/GoPerson"
+  },
+  "GoPerson (Github Octicons)": {
+    "prefix": "ri:go:person",
+    "body": "<GoPerson />",
+    "description": "GoPerson Github Octicons icon"
+  },
+
+  "Import GoPin (Github Octicons)": {
+    "prefix": "ri:go:import:pin",
+    "body": "import { GoPin } from 'react-icons/go';",
+    "description": "Import GoPin Github Octicons icon from react-icons"
+  },
+  "Import GoPin (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:pin:all-files",
+    "body": "import { GoPin } from '@react-icons/all-files/go/GoPin';",
+    "description": "Import GoPin Github Octicons icon from @react-icons/all-files/go/GoPin"
+  },
+  "GoPin (Github Octicons)": {
+    "prefix": "ri:go:pin",
+    "body": "<GoPin />",
+    "description": "GoPin Github Octicons icon"
+  },
+
+  "Import GoPlay (Github Octicons)": {
+    "prefix": "ri:go:import:play",
+    "body": "import { GoPlay } from 'react-icons/go';",
+    "description": "Import GoPlay Github Octicons icon from react-icons"
+  },
+  "Import GoPlay (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:play:all-files",
+    "body": "import { GoPlay } from '@react-icons/all-files/go/GoPlay';",
+    "description": "Import GoPlay Github Octicons icon from @react-icons/all-files/go/GoPlay"
+  },
+  "GoPlay (Github Octicons)": {
+    "prefix": "ri:go:play",
+    "body": "<GoPlay />",
+    "description": "GoPlay Github Octicons icon"
+  },
+
+  "Import GoPlug (Github Octicons)": {
+    "prefix": "ri:go:import:plug",
+    "body": "import { GoPlug } from 'react-icons/go';",
+    "description": "Import GoPlug Github Octicons icon from react-icons"
+  },
+  "Import GoPlug (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:plug:all-files",
+    "body": "import { GoPlug } from '@react-icons/all-files/go/GoPlug';",
+    "description": "Import GoPlug Github Octicons icon from @react-icons/all-files/go/GoPlug"
+  },
+  "GoPlug (Github Octicons)": {
+    "prefix": "ri:go:plug",
+    "body": "<GoPlug />",
+    "description": "GoPlug Github Octicons icon"
+  },
+
+  "Import GoPlusSmall (Github Octicons)": {
+    "prefix": "ri:go:import:plus-small",
+    "body": "import { GoPlusSmall } from 'react-icons/go';",
+    "description": "Import GoPlusSmall Github Octicons icon from react-icons"
+  },
+  "Import GoPlusSmall (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:plus-small:all-files",
+    "body": "import { GoPlusSmall } from '@react-icons/all-files/go/GoPlusSmall';",
+    "description": "Import GoPlusSmall Github Octicons icon from @react-icons/all-files/go/GoPlusSmall"
+  },
+  "GoPlusSmall (Github Octicons)": {
+    "prefix": "ri:go:plus-small",
+    "body": "<GoPlusSmall />",
+    "description": "GoPlusSmall Github Octicons icon"
+  },
+
+  "Import GoPlus (Github Octicons)": {
+    "prefix": "ri:go:import:plus",
+    "body": "import { GoPlus } from 'react-icons/go';",
+    "description": "Import GoPlus Github Octicons icon from react-icons"
+  },
+  "Import GoPlus (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:plus:all-files",
+    "body": "import { GoPlus } from '@react-icons/all-files/go/GoPlus';",
+    "description": "Import GoPlus Github Octicons icon from @react-icons/all-files/go/GoPlus"
+  },
+  "GoPlus (Github Octicons)": {
+    "prefix": "ri:go:plus",
+    "body": "<GoPlus />",
+    "description": "GoPlus Github Octicons icon"
+  },
+
+  "Import GoPrimitiveDot (Github Octicons)": {
+    "prefix": "ri:go:import:primitive-dot",
+    "body": "import { GoPrimitiveDot } from 'react-icons/go';",
+    "description": "Import GoPrimitiveDot Github Octicons icon from react-icons"
+  },
+  "Import GoPrimitiveDot (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:primitive-dot:all-files",
+    "body": "import { GoPrimitiveDot } from '@react-icons/all-files/go/GoPrimitiveDot';",
+    "description": "Import GoPrimitiveDot Github Octicons icon from @react-icons/all-files/go/GoPrimitiveDot"
+  },
+  "GoPrimitiveDot (Github Octicons)": {
+    "prefix": "ri:go:primitive-dot",
+    "body": "<GoPrimitiveDot />",
+    "description": "GoPrimitiveDot Github Octicons icon"
+  },
+
+  "Import GoPrimitiveSquare (Github Octicons)": {
+    "prefix": "ri:go:import:primitive-square",
+    "body": "import { GoPrimitiveSquare } from 'react-icons/go';",
+    "description": "Import GoPrimitiveSquare Github Octicons icon from react-icons"
+  },
+  "Import GoPrimitiveSquare (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:primitive-square:all-files",
+    "body": "import { GoPrimitiveSquare } from '@react-icons/all-files/go/GoPrimitiveSquare';",
+    "description": "Import GoPrimitiveSquare Github Octicons icon from @react-icons/all-files/go/GoPrimitiveSquare"
+  },
+  "GoPrimitiveSquare (Github Octicons)": {
+    "prefix": "ri:go:primitive-square",
+    "body": "<GoPrimitiveSquare />",
+    "description": "GoPrimitiveSquare Github Octicons icon"
+  },
+
+  "Import GoProject (Github Octicons)": {
+    "prefix": "ri:go:import:project",
+    "body": "import { GoProject } from 'react-icons/go';",
+    "description": "Import GoProject Github Octicons icon from react-icons"
+  },
+  "Import GoProject (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:project:all-files",
+    "body": "import { GoProject } from '@react-icons/all-files/go/GoProject';",
+    "description": "Import GoProject Github Octicons icon from @react-icons/all-files/go/GoProject"
+  },
+  "GoProject (Github Octicons)": {
+    "prefix": "ri:go:project",
+    "body": "<GoProject />",
+    "description": "GoProject Github Octicons icon"
+  },
+
+  "Import GoPulse (Github Octicons)": {
+    "prefix": "ri:go:import:pulse",
+    "body": "import { GoPulse } from 'react-icons/go';",
+    "description": "Import GoPulse Github Octicons icon from react-icons"
+  },
+  "Import GoPulse (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:pulse:all-files",
+    "body": "import { GoPulse } from '@react-icons/all-files/go/GoPulse';",
+    "description": "Import GoPulse Github Octicons icon from @react-icons/all-files/go/GoPulse"
+  },
+  "GoPulse (Github Octicons)": {
+    "prefix": "ri:go:pulse",
+    "body": "<GoPulse />",
+    "description": "GoPulse Github Octicons icon"
+  },
+
+  "Import GoQuestion (Github Octicons)": {
+    "prefix": "ri:go:import:question",
+    "body": "import { GoQuestion } from 'react-icons/go';",
+    "description": "Import GoQuestion Github Octicons icon from react-icons"
+  },
+  "Import GoQuestion (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:question:all-files",
+    "body": "import { GoQuestion } from '@react-icons/all-files/go/GoQuestion';",
+    "description": "Import GoQuestion Github Octicons icon from @react-icons/all-files/go/GoQuestion"
+  },
+  "GoQuestion (Github Octicons)": {
+    "prefix": "ri:go:question",
+    "body": "<GoQuestion />",
+    "description": "GoQuestion Github Octicons icon"
+  },
+
+  "Import GoQuote (Github Octicons)": {
+    "prefix": "ri:go:import:quote",
+    "body": "import { GoQuote } from 'react-icons/go';",
+    "description": "Import GoQuote Github Octicons icon from react-icons"
+  },
+  "Import GoQuote (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:quote:all-files",
+    "body": "import { GoQuote } from '@react-icons/all-files/go/GoQuote';",
+    "description": "Import GoQuote Github Octicons icon from @react-icons/all-files/go/GoQuote"
+  },
+  "GoQuote (Github Octicons)": {
+    "prefix": "ri:go:quote",
+    "body": "<GoQuote />",
+    "description": "GoQuote Github Octicons icon"
+  },
+
+  "Import GoRadioTower (Github Octicons)": {
+    "prefix": "ri:go:import:radio-tower",
+    "body": "import { GoRadioTower } from 'react-icons/go';",
+    "description": "Import GoRadioTower Github Octicons icon from react-icons"
+  },
+  "Import GoRadioTower (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:radio-tower:all-files",
+    "body": "import { GoRadioTower } from '@react-icons/all-files/go/GoRadioTower';",
+    "description": "Import GoRadioTower Github Octicons icon from @react-icons/all-files/go/GoRadioTower"
+  },
+  "GoRadioTower (Github Octicons)": {
+    "prefix": "ri:go:radio-tower",
+    "body": "<GoRadioTower />",
+    "description": "GoRadioTower Github Octicons icon"
+  },
+
+  "Import GoReply (Github Octicons)": {
+    "prefix": "ri:go:import:reply",
+    "body": "import { GoReply } from 'react-icons/go';",
+    "description": "Import GoReply Github Octicons icon from react-icons"
+  },
+  "Import GoReply (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:reply:all-files",
+    "body": "import { GoReply } from '@react-icons/all-files/go/GoReply';",
+    "description": "Import GoReply Github Octicons icon from @react-icons/all-files/go/GoReply"
+  },
+  "GoReply (Github Octicons)": {
+    "prefix": "ri:go:reply",
+    "body": "<GoReply />",
+    "description": "GoReply Github Octicons icon"
+  },
+
+  "Import GoRepoClone (Github Octicons)": {
+    "prefix": "ri:go:import:repo-clone",
+    "body": "import { GoRepoClone } from 'react-icons/go';",
+    "description": "Import GoRepoClone Github Octicons icon from react-icons"
+  },
+  "Import GoRepoClone (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:repo-clone:all-files",
+    "body": "import { GoRepoClone } from '@react-icons/all-files/go/GoRepoClone';",
+    "description": "Import GoRepoClone Github Octicons icon from @react-icons/all-files/go/GoRepoClone"
+  },
+  "GoRepoClone (Github Octicons)": {
+    "prefix": "ri:go:repo-clone",
+    "body": "<GoRepoClone />",
+    "description": "GoRepoClone Github Octicons icon"
+  },
+
+  "Import GoRepoForcePush (Github Octicons)": {
+    "prefix": "ri:go:import:repo-force-push",
+    "body": "import { GoRepoForcePush } from 'react-icons/go';",
+    "description": "Import GoRepoForcePush Github Octicons icon from react-icons"
+  },
+  "Import GoRepoForcePush (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:repo-force-push:all-files",
+    "body": "import { GoRepoForcePush } from '@react-icons/all-files/go/GoRepoForcePush';",
+    "description": "Import GoRepoForcePush Github Octicons icon from @react-icons/all-files/go/GoRepoForcePush"
+  },
+  "GoRepoForcePush (Github Octicons)": {
+    "prefix": "ri:go:repo-force-push",
+    "body": "<GoRepoForcePush />",
+    "description": "GoRepoForcePush Github Octicons icon"
+  },
+
+  "Import GoRepoForked (Github Octicons)": {
+    "prefix": "ri:go:import:repo-forked",
+    "body": "import { GoRepoForked } from 'react-icons/go';",
+    "description": "Import GoRepoForked Github Octicons icon from react-icons"
+  },
+  "Import GoRepoForked (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:repo-forked:all-files",
+    "body": "import { GoRepoForked } from '@react-icons/all-files/go/GoRepoForked';",
+    "description": "Import GoRepoForked Github Octicons icon from @react-icons/all-files/go/GoRepoForked"
+  },
+  "GoRepoForked (Github Octicons)": {
+    "prefix": "ri:go:repo-forked",
+    "body": "<GoRepoForked />",
+    "description": "GoRepoForked Github Octicons icon"
+  },
+
+  "Import GoRepoPull (Github Octicons)": {
+    "prefix": "ri:go:import:repo-pull",
+    "body": "import { GoRepoPull } from 'react-icons/go';",
+    "description": "Import GoRepoPull Github Octicons icon from react-icons"
+  },
+  "Import GoRepoPull (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:repo-pull:all-files",
+    "body": "import { GoRepoPull } from '@react-icons/all-files/go/GoRepoPull';",
+    "description": "Import GoRepoPull Github Octicons icon from @react-icons/all-files/go/GoRepoPull"
+  },
+  "GoRepoPull (Github Octicons)": {
+    "prefix": "ri:go:repo-pull",
+    "body": "<GoRepoPull />",
+    "description": "GoRepoPull Github Octicons icon"
+  },
+
+  "Import GoRepoPush (Github Octicons)": {
+    "prefix": "ri:go:import:repo-push",
+    "body": "import { GoRepoPush } from 'react-icons/go';",
+    "description": "Import GoRepoPush Github Octicons icon from react-icons"
+  },
+  "Import GoRepoPush (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:repo-push:all-files",
+    "body": "import { GoRepoPush } from '@react-icons/all-files/go/GoRepoPush';",
+    "description": "Import GoRepoPush Github Octicons icon from @react-icons/all-files/go/GoRepoPush"
+  },
+  "GoRepoPush (Github Octicons)": {
+    "prefix": "ri:go:repo-push",
+    "body": "<GoRepoPush />",
+    "description": "GoRepoPush Github Octicons icon"
+  },
+
+  "Import GoRepo (Github Octicons)": {
+    "prefix": "ri:go:import:repo",
+    "body": "import { GoRepo } from 'react-icons/go';",
+    "description": "Import GoRepo Github Octicons icon from react-icons"
+  },
+  "Import GoRepo (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:repo:all-files",
+    "body": "import { GoRepo } from '@react-icons/all-files/go/GoRepo';",
+    "description": "Import GoRepo Github Octicons icon from @react-icons/all-files/go/GoRepo"
+  },
+  "GoRepo (Github Octicons)": {
+    "prefix": "ri:go:repo",
+    "body": "<GoRepo />",
+    "description": "GoRepo Github Octicons icon"
+  },
+
+  "Import GoReport (Github Octicons)": {
+    "prefix": "ri:go:import:report",
+    "body": "import { GoReport } from 'react-icons/go';",
+    "description": "Import GoReport Github Octicons icon from react-icons"
+  },
+  "Import GoReport (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:report:all-files",
+    "body": "import { GoReport } from '@react-icons/all-files/go/GoReport';",
+    "description": "Import GoReport Github Octicons icon from @react-icons/all-files/go/GoReport"
+  },
+  "GoReport (Github Octicons)": {
+    "prefix": "ri:go:report",
+    "body": "<GoReport />",
+    "description": "GoReport Github Octicons icon"
+  },
+
+  "Import GoRequestChanges (Github Octicons)": {
+    "prefix": "ri:go:import:request-changes",
+    "body": "import { GoRequestChanges } from 'react-icons/go';",
+    "description": "Import GoRequestChanges Github Octicons icon from react-icons"
+  },
+  "Import GoRequestChanges (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:request-changes:all-files",
+    "body": "import { GoRequestChanges } from '@react-icons/all-files/go/GoRequestChanges';",
+    "description": "Import GoRequestChanges Github Octicons icon from @react-icons/all-files/go/GoRequestChanges"
+  },
+  "GoRequestChanges (Github Octicons)": {
+    "prefix": "ri:go:request-changes",
+    "body": "<GoRequestChanges />",
+    "description": "GoRequestChanges Github Octicons icon"
+  },
+
+  "Import GoRocket (Github Octicons)": {
+    "prefix": "ri:go:import:rocket",
+    "body": "import { GoRocket } from 'react-icons/go';",
+    "description": "Import GoRocket Github Octicons icon from react-icons"
+  },
+  "Import GoRocket (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:rocket:all-files",
+    "body": "import { GoRocket } from '@react-icons/all-files/go/GoRocket';",
+    "description": "Import GoRocket Github Octicons icon from @react-icons/all-files/go/GoRocket"
+  },
+  "GoRocket (Github Octicons)": {
+    "prefix": "ri:go:rocket",
+    "body": "<GoRocket />",
+    "description": "GoRocket Github Octicons icon"
+  },
+
+  "Import GoRss (Github Octicons)": {
+    "prefix": "ri:go:import:rss",
+    "body": "import { GoRss } from 'react-icons/go';",
+    "description": "Import GoRss Github Octicons icon from react-icons"
+  },
+  "Import GoRss (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:rss:all-files",
+    "body": "import { GoRss } from '@react-icons/all-files/go/GoRss';",
+    "description": "Import GoRss Github Octicons icon from @react-icons/all-files/go/GoRss"
+  },
+  "GoRss (Github Octicons)": {
+    "prefix": "ri:go:rss",
+    "body": "<GoRss />",
+    "description": "GoRss Github Octicons icon"
+  },
+
+  "Import GoRuby (Github Octicons)": {
+    "prefix": "ri:go:import:ruby",
+    "body": "import { GoRuby } from 'react-icons/go';",
+    "description": "Import GoRuby Github Octicons icon from react-icons"
+  },
+  "Import GoRuby (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:ruby:all-files",
+    "body": "import { GoRuby } from '@react-icons/all-files/go/GoRuby';",
+    "description": "Import GoRuby Github Octicons icon from @react-icons/all-files/go/GoRuby"
+  },
+  "GoRuby (Github Octicons)": {
+    "prefix": "ri:go:ruby",
+    "body": "<GoRuby />",
+    "description": "GoRuby Github Octicons icon"
+  },
+
+  "Import GoScreenFull (Github Octicons)": {
+    "prefix": "ri:go:import:screen-full",
+    "body": "import { GoScreenFull } from 'react-icons/go';",
+    "description": "Import GoScreenFull Github Octicons icon from react-icons"
+  },
+  "Import GoScreenFull (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:screen-full:all-files",
+    "body": "import { GoScreenFull } from '@react-icons/all-files/go/GoScreenFull';",
+    "description": "Import GoScreenFull Github Octicons icon from @react-icons/all-files/go/GoScreenFull"
+  },
+  "GoScreenFull (Github Octicons)": {
+    "prefix": "ri:go:screen-full",
+    "body": "<GoScreenFull />",
+    "description": "GoScreenFull Github Octicons icon"
+  },
+
+  "Import GoScreenNormal (Github Octicons)": {
+    "prefix": "ri:go:import:screen-normal",
+    "body": "import { GoScreenNormal } from 'react-icons/go';",
+    "description": "Import GoScreenNormal Github Octicons icon from react-icons"
+  },
+  "Import GoScreenNormal (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:screen-normal:all-files",
+    "body": "import { GoScreenNormal } from '@react-icons/all-files/go/GoScreenNormal';",
+    "description": "Import GoScreenNormal Github Octicons icon from @react-icons/all-files/go/GoScreenNormal"
+  },
+  "GoScreenNormal (Github Octicons)": {
+    "prefix": "ri:go:screen-normal",
+    "body": "<GoScreenNormal />",
+    "description": "GoScreenNormal Github Octicons icon"
+  },
+
+  "Import GoSearch (Github Octicons)": {
+    "prefix": "ri:go:import:search",
+    "body": "import { GoSearch } from 'react-icons/go';",
+    "description": "Import GoSearch Github Octicons icon from react-icons"
+  },
+  "Import GoSearch (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:search:all-files",
+    "body": "import { GoSearch } from '@react-icons/all-files/go/GoSearch';",
+    "description": "Import GoSearch Github Octicons icon from @react-icons/all-files/go/GoSearch"
+  },
+  "GoSearch (Github Octicons)": {
+    "prefix": "ri:go:search",
+    "body": "<GoSearch />",
+    "description": "GoSearch Github Octicons icon"
+  },
+
+  "Import GoServer (Github Octicons)": {
+    "prefix": "ri:go:import:server",
+    "body": "import { GoServer } from 'react-icons/go';",
+    "description": "Import GoServer Github Octicons icon from react-icons"
+  },
+  "Import GoServer (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:server:all-files",
+    "body": "import { GoServer } from '@react-icons/all-files/go/GoServer';",
+    "description": "Import GoServer Github Octicons icon from @react-icons/all-files/go/GoServer"
+  },
+  "GoServer (Github Octicons)": {
+    "prefix": "ri:go:server",
+    "body": "<GoServer />",
+    "description": "GoServer Github Octicons icon"
+  },
+
+  "Import GoSettings (Github Octicons)": {
+    "prefix": "ri:go:import:settings",
+    "body": "import { GoSettings } from 'react-icons/go';",
+    "description": "Import GoSettings Github Octicons icon from react-icons"
+  },
+  "Import GoSettings (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:settings:all-files",
+    "body": "import { GoSettings } from '@react-icons/all-files/go/GoSettings';",
+    "description": "Import GoSettings Github Octicons icon from @react-icons/all-files/go/GoSettings"
+  },
+  "GoSettings (Github Octicons)": {
+    "prefix": "ri:go:settings",
+    "body": "<GoSettings />",
+    "description": "GoSettings Github Octicons icon"
+  },
+
+  "Import GoShield (Github Octicons)": {
+    "prefix": "ri:go:import:shield",
+    "body": "import { GoShield } from 'react-icons/go';",
+    "description": "Import GoShield Github Octicons icon from react-icons"
+  },
+  "Import GoShield (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:shield:all-files",
+    "body": "import { GoShield } from '@react-icons/all-files/go/GoShield';",
+    "description": "Import GoShield Github Octicons icon from @react-icons/all-files/go/GoShield"
+  },
+  "GoShield (Github Octicons)": {
+    "prefix": "ri:go:shield",
+    "body": "<GoShield />",
+    "description": "GoShield Github Octicons icon"
+  },
+
+  "Import GoSignIn (Github Octicons)": {
+    "prefix": "ri:go:import:sign-in",
+    "body": "import { GoSignIn } from 'react-icons/go';",
+    "description": "Import GoSignIn Github Octicons icon from react-icons"
+  },
+  "Import GoSignIn (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:sign-in:all-files",
+    "body": "import { GoSignIn } from '@react-icons/all-files/go/GoSignIn';",
+    "description": "Import GoSignIn Github Octicons icon from @react-icons/all-files/go/GoSignIn"
+  },
+  "GoSignIn (Github Octicons)": {
+    "prefix": "ri:go:sign-in",
+    "body": "<GoSignIn />",
+    "description": "GoSignIn Github Octicons icon"
+  },
+
+  "Import GoSignOut (Github Octicons)": {
+    "prefix": "ri:go:import:sign-out",
+    "body": "import { GoSignOut } from 'react-icons/go';",
+    "description": "Import GoSignOut Github Octicons icon from react-icons"
+  },
+  "Import GoSignOut (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:sign-out:all-files",
+    "body": "import { GoSignOut } from '@react-icons/all-files/go/GoSignOut';",
+    "description": "Import GoSignOut Github Octicons icon from @react-icons/all-files/go/GoSignOut"
+  },
+  "GoSignOut (Github Octicons)": {
+    "prefix": "ri:go:sign-out",
+    "body": "<GoSignOut />",
+    "description": "GoSignOut Github Octicons icon"
+  },
+
+  "Import GoSmiley (Github Octicons)": {
+    "prefix": "ri:go:import:smiley",
+    "body": "import { GoSmiley } from 'react-icons/go';",
+    "description": "Import GoSmiley Github Octicons icon from react-icons"
+  },
+  "Import GoSmiley (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:smiley:all-files",
+    "body": "import { GoSmiley } from '@react-icons/all-files/go/GoSmiley';",
+    "description": "Import GoSmiley Github Octicons icon from @react-icons/all-files/go/GoSmiley"
+  },
+  "GoSmiley (Github Octicons)": {
+    "prefix": "ri:go:smiley",
+    "body": "<GoSmiley />",
+    "description": "GoSmiley Github Octicons icon"
+  },
+
+  "Import GoSquirrel (Github Octicons)": {
+    "prefix": "ri:go:import:squirrel",
+    "body": "import { GoSquirrel } from 'react-icons/go';",
+    "description": "Import GoSquirrel Github Octicons icon from react-icons"
+  },
+  "Import GoSquirrel (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:squirrel:all-files",
+    "body": "import { GoSquirrel } from '@react-icons/all-files/go/GoSquirrel';",
+    "description": "Import GoSquirrel Github Octicons icon from @react-icons/all-files/go/GoSquirrel"
+  },
+  "GoSquirrel (Github Octicons)": {
+    "prefix": "ri:go:squirrel",
+    "body": "<GoSquirrel />",
+    "description": "GoSquirrel Github Octicons icon"
+  },
+
+  "Import GoStar (Github Octicons)": {
+    "prefix": "ri:go:import:star",
+    "body": "import { GoStar } from 'react-icons/go';",
+    "description": "Import GoStar Github Octicons icon from react-icons"
+  },
+  "Import GoStar (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:star:all-files",
+    "body": "import { GoStar } from '@react-icons/all-files/go/GoStar';",
+    "description": "Import GoStar Github Octicons icon from @react-icons/all-files/go/GoStar"
+  },
+  "GoStar (Github Octicons)": {
+    "prefix": "ri:go:star",
+    "body": "<GoStar />",
+    "description": "GoStar Github Octicons icon"
+  },
+
+  "Import GoStop (Github Octicons)": {
+    "prefix": "ri:go:import:stop",
+    "body": "import { GoStop } from 'react-icons/go';",
+    "description": "Import GoStop Github Octicons icon from react-icons"
+  },
+  "Import GoStop (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:stop:all-files",
+    "body": "import { GoStop } from '@react-icons/all-files/go/GoStop';",
+    "description": "Import GoStop Github Octicons icon from @react-icons/all-files/go/GoStop"
+  },
+  "GoStop (Github Octicons)": {
+    "prefix": "ri:go:stop",
+    "body": "<GoStop />",
+    "description": "GoStop Github Octicons icon"
+  },
+
+  "Import GoSync (Github Octicons)": {
+    "prefix": "ri:go:import:sync",
+    "body": "import { GoSync } from 'react-icons/go';",
+    "description": "Import GoSync Github Octicons icon from react-icons"
+  },
+  "Import GoSync (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:sync:all-files",
+    "body": "import { GoSync } from '@react-icons/all-files/go/GoSync';",
+    "description": "Import GoSync Github Octicons icon from @react-icons/all-files/go/GoSync"
+  },
+  "GoSync (Github Octicons)": {
+    "prefix": "ri:go:sync",
+    "body": "<GoSync />",
+    "description": "GoSync Github Octicons icon"
+  },
+
+  "Import GoTag (Github Octicons)": {
+    "prefix": "ri:go:import:tag",
+    "body": "import { GoTag } from 'react-icons/go';",
+    "description": "Import GoTag Github Octicons icon from react-icons"
+  },
+  "Import GoTag (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:tag:all-files",
+    "body": "import { GoTag } from '@react-icons/all-files/go/GoTag';",
+    "description": "Import GoTag Github Octicons icon from @react-icons/all-files/go/GoTag"
+  },
+  "GoTag (Github Octicons)": {
+    "prefix": "ri:go:tag",
+    "body": "<GoTag />",
+    "description": "GoTag Github Octicons icon"
+  },
+
+  "Import GoTasklist (Github Octicons)": {
+    "prefix": "ri:go:import:tasklist",
+    "body": "import { GoTasklist } from 'react-icons/go';",
+    "description": "Import GoTasklist Github Octicons icon from react-icons"
+  },
+  "Import GoTasklist (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:tasklist:all-files",
+    "body": "import { GoTasklist } from '@react-icons/all-files/go/GoTasklist';",
+    "description": "Import GoTasklist Github Octicons icon from @react-icons/all-files/go/GoTasklist"
+  },
+  "GoTasklist (Github Octicons)": {
+    "prefix": "ri:go:tasklist",
+    "body": "<GoTasklist />",
+    "description": "GoTasklist Github Octicons icon"
+  },
+
+  "Import GoTelescope (Github Octicons)": {
+    "prefix": "ri:go:import:telescope",
+    "body": "import { GoTelescope } from 'react-icons/go';",
+    "description": "Import GoTelescope Github Octicons icon from react-icons"
+  },
+  "Import GoTelescope (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:telescope:all-files",
+    "body": "import { GoTelescope } from '@react-icons/all-files/go/GoTelescope';",
+    "description": "Import GoTelescope Github Octicons icon from @react-icons/all-files/go/GoTelescope"
+  },
+  "GoTelescope (Github Octicons)": {
+    "prefix": "ri:go:telescope",
+    "body": "<GoTelescope />",
+    "description": "GoTelescope Github Octicons icon"
+  },
+
+  "Import GoTerminal (Github Octicons)": {
+    "prefix": "ri:go:import:terminal",
+    "body": "import { GoTerminal } from 'react-icons/go';",
+    "description": "Import GoTerminal Github Octicons icon from react-icons"
+  },
+  "Import GoTerminal (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:terminal:all-files",
+    "body": "import { GoTerminal } from '@react-icons/all-files/go/GoTerminal';",
+    "description": "Import GoTerminal Github Octicons icon from @react-icons/all-files/go/GoTerminal"
+  },
+  "GoTerminal (Github Octicons)": {
+    "prefix": "ri:go:terminal",
+    "body": "<GoTerminal />",
+    "description": "GoTerminal Github Octicons icon"
+  },
+
+  "Import GoTextSize (Github Octicons)": {
+    "prefix": "ri:go:import:text-size",
+    "body": "import { GoTextSize } from 'react-icons/go';",
+    "description": "Import GoTextSize Github Octicons icon from react-icons"
+  },
+  "Import GoTextSize (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:text-size:all-files",
+    "body": "import { GoTextSize } from '@react-icons/all-files/go/GoTextSize';",
+    "description": "Import GoTextSize Github Octicons icon from @react-icons/all-files/go/GoTextSize"
+  },
+  "GoTextSize (Github Octicons)": {
+    "prefix": "ri:go:text-size",
+    "body": "<GoTextSize />",
+    "description": "GoTextSize Github Octicons icon"
+  },
+
+  "Import GoThreeBars (Github Octicons)": {
+    "prefix": "ri:go:import:three-bars",
+    "body": "import { GoThreeBars } from 'react-icons/go';",
+    "description": "Import GoThreeBars Github Octicons icon from react-icons"
+  },
+  "Import GoThreeBars (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:three-bars:all-files",
+    "body": "import { GoThreeBars } from '@react-icons/all-files/go/GoThreeBars';",
+    "description": "Import GoThreeBars Github Octicons icon from @react-icons/all-files/go/GoThreeBars"
+  },
+  "GoThreeBars (Github Octicons)": {
+    "prefix": "ri:go:three-bars",
+    "body": "<GoThreeBars />",
+    "description": "GoThreeBars Github Octicons icon"
+  },
+
+  "Import GoThumbsdown (Github Octicons)": {
+    "prefix": "ri:go:import:thumbsdown",
+    "body": "import { GoThumbsdown } from 'react-icons/go';",
+    "description": "Import GoThumbsdown Github Octicons icon from react-icons"
+  },
+  "Import GoThumbsdown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:thumbsdown:all-files",
+    "body": "import { GoThumbsdown } from '@react-icons/all-files/go/GoThumbsdown';",
+    "description": "Import GoThumbsdown Github Octicons icon from @react-icons/all-files/go/GoThumbsdown"
+  },
+  "GoThumbsdown (Github Octicons)": {
+    "prefix": "ri:go:thumbsdown",
+    "body": "<GoThumbsdown />",
+    "description": "GoThumbsdown Github Octicons icon"
+  },
+
+  "Import GoThumbsup (Github Octicons)": {
+    "prefix": "ri:go:import:thumbsup",
+    "body": "import { GoThumbsup } from 'react-icons/go';",
+    "description": "Import GoThumbsup Github Octicons icon from react-icons"
+  },
+  "Import GoThumbsup (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:thumbsup:all-files",
+    "body": "import { GoThumbsup } from '@react-icons/all-files/go/GoThumbsup';",
+    "description": "Import GoThumbsup Github Octicons icon from @react-icons/all-files/go/GoThumbsup"
+  },
+  "GoThumbsup (Github Octicons)": {
+    "prefix": "ri:go:thumbsup",
+    "body": "<GoThumbsup />",
+    "description": "GoThumbsup Github Octicons icon"
+  },
+
+  "Import GoTools (Github Octicons)": {
+    "prefix": "ri:go:import:tools",
+    "body": "import { GoTools } from 'react-icons/go';",
+    "description": "Import GoTools Github Octicons icon from react-icons"
+  },
+  "Import GoTools (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:tools:all-files",
+    "body": "import { GoTools } from '@react-icons/all-files/go/GoTools';",
+    "description": "Import GoTools Github Octicons icon from @react-icons/all-files/go/GoTools"
+  },
+  "GoTools (Github Octicons)": {
+    "prefix": "ri:go:tools",
+    "body": "<GoTools />",
+    "description": "GoTools Github Octicons icon"
+  },
+
+  "Import GoTrashcan (Github Octicons)": {
+    "prefix": "ri:go:import:trashcan",
+    "body": "import { GoTrashcan } from 'react-icons/go';",
+    "description": "Import GoTrashcan Github Octicons icon from react-icons"
+  },
+  "Import GoTrashcan (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:trashcan:all-files",
+    "body": "import { GoTrashcan } from '@react-icons/all-files/go/GoTrashcan';",
+    "description": "Import GoTrashcan Github Octicons icon from @react-icons/all-files/go/GoTrashcan"
+  },
+  "GoTrashcan (Github Octicons)": {
+    "prefix": "ri:go:trashcan",
+    "body": "<GoTrashcan />",
+    "description": "GoTrashcan Github Octicons icon"
+  },
+
+  "Import GoTriangleDown (Github Octicons)": {
+    "prefix": "ri:go:import:triangle-down",
+    "body": "import { GoTriangleDown } from 'react-icons/go';",
+    "description": "Import GoTriangleDown Github Octicons icon from react-icons"
+  },
+  "Import GoTriangleDown (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:triangle-down:all-files",
+    "body": "import { GoTriangleDown } from '@react-icons/all-files/go/GoTriangleDown';",
+    "description": "Import GoTriangleDown Github Octicons icon from @react-icons/all-files/go/GoTriangleDown"
+  },
+  "GoTriangleDown (Github Octicons)": {
+    "prefix": "ri:go:triangle-down",
+    "body": "<GoTriangleDown />",
+    "description": "GoTriangleDown Github Octicons icon"
+  },
+
+  "Import GoTriangleLeft (Github Octicons)": {
+    "prefix": "ri:go:import:triangle-left",
+    "body": "import { GoTriangleLeft } from 'react-icons/go';",
+    "description": "Import GoTriangleLeft Github Octicons icon from react-icons"
+  },
+  "Import GoTriangleLeft (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:triangle-left:all-files",
+    "body": "import { GoTriangleLeft } from '@react-icons/all-files/go/GoTriangleLeft';",
+    "description": "Import GoTriangleLeft Github Octicons icon from @react-icons/all-files/go/GoTriangleLeft"
+  },
+  "GoTriangleLeft (Github Octicons)": {
+    "prefix": "ri:go:triangle-left",
+    "body": "<GoTriangleLeft />",
+    "description": "GoTriangleLeft Github Octicons icon"
+  },
+
+  "Import GoTriangleRight (Github Octicons)": {
+    "prefix": "ri:go:import:triangle-right",
+    "body": "import { GoTriangleRight } from 'react-icons/go';",
+    "description": "Import GoTriangleRight Github Octicons icon from react-icons"
+  },
+  "Import GoTriangleRight (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:triangle-right:all-files",
+    "body": "import { GoTriangleRight } from '@react-icons/all-files/go/GoTriangleRight';",
+    "description": "Import GoTriangleRight Github Octicons icon from @react-icons/all-files/go/GoTriangleRight"
+  },
+  "GoTriangleRight (Github Octicons)": {
+    "prefix": "ri:go:triangle-right",
+    "body": "<GoTriangleRight />",
+    "description": "GoTriangleRight Github Octicons icon"
+  },
+
+  "Import GoTriangleUp (Github Octicons)": {
+    "prefix": "ri:go:import:triangle-up",
+    "body": "import { GoTriangleUp } from 'react-icons/go';",
+    "description": "Import GoTriangleUp Github Octicons icon from react-icons"
+  },
+  "Import GoTriangleUp (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:triangle-up:all-files",
+    "body": "import { GoTriangleUp } from '@react-icons/all-files/go/GoTriangleUp';",
+    "description": "Import GoTriangleUp Github Octicons icon from @react-icons/all-files/go/GoTriangleUp"
+  },
+  "GoTriangleUp (Github Octicons)": {
+    "prefix": "ri:go:triangle-up",
+    "body": "<GoTriangleUp />",
+    "description": "GoTriangleUp Github Octicons icon"
+  },
+
+  "Import GoUnfold (Github Octicons)": {
+    "prefix": "ri:go:import:unfold",
+    "body": "import { GoUnfold } from 'react-icons/go';",
+    "description": "Import GoUnfold Github Octicons icon from react-icons"
+  },
+  "Import GoUnfold (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:unfold:all-files",
+    "body": "import { GoUnfold } from '@react-icons/all-files/go/GoUnfold';",
+    "description": "Import GoUnfold Github Octicons icon from @react-icons/all-files/go/GoUnfold"
+  },
+  "GoUnfold (Github Octicons)": {
+    "prefix": "ri:go:unfold",
+    "body": "<GoUnfold />",
+    "description": "GoUnfold Github Octicons icon"
+  },
+
+  "Import GoUnmute (Github Octicons)": {
+    "prefix": "ri:go:import:unmute",
+    "body": "import { GoUnmute } from 'react-icons/go';",
+    "description": "Import GoUnmute Github Octicons icon from react-icons"
+  },
+  "Import GoUnmute (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:unmute:all-files",
+    "body": "import { GoUnmute } from '@react-icons/all-files/go/GoUnmute';",
+    "description": "Import GoUnmute Github Octicons icon from @react-icons/all-files/go/GoUnmute"
+  },
+  "GoUnmute (Github Octicons)": {
+    "prefix": "ri:go:unmute",
+    "body": "<GoUnmute />",
+    "description": "GoUnmute Github Octicons icon"
+  },
+
+  "Import GoUnverified (Github Octicons)": {
+    "prefix": "ri:go:import:unverified",
+    "body": "import { GoUnverified } from 'react-icons/go';",
+    "description": "Import GoUnverified Github Octicons icon from react-icons"
+  },
+  "Import GoUnverified (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:unverified:all-files",
+    "body": "import { GoUnverified } from '@react-icons/all-files/go/GoUnverified';",
+    "description": "Import GoUnverified Github Octicons icon from @react-icons/all-files/go/GoUnverified"
+  },
+  "GoUnverified (Github Octicons)": {
+    "prefix": "ri:go:unverified",
+    "body": "<GoUnverified />",
+    "description": "GoUnverified Github Octicons icon"
+  },
+
+  "Import GoVerified (Github Octicons)": {
+    "prefix": "ri:go:import:verified",
+    "body": "import { GoVerified } from 'react-icons/go';",
+    "description": "Import GoVerified Github Octicons icon from react-icons"
+  },
+  "Import GoVerified (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:verified:all-files",
+    "body": "import { GoVerified } from '@react-icons/all-files/go/GoVerified';",
+    "description": "Import GoVerified Github Octicons icon from @react-icons/all-files/go/GoVerified"
+  },
+  "GoVerified (Github Octicons)": {
+    "prefix": "ri:go:verified",
+    "body": "<GoVerified />",
+    "description": "GoVerified Github Octicons icon"
+  },
+
+  "Import GoVersions (Github Octicons)": {
+    "prefix": "ri:go:import:versions",
+    "body": "import { GoVersions } from 'react-icons/go';",
+    "description": "Import GoVersions Github Octicons icon from react-icons"
+  },
+  "Import GoVersions (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:versions:all-files",
+    "body": "import { GoVersions } from '@react-icons/all-files/go/GoVersions';",
+    "description": "Import GoVersions Github Octicons icon from @react-icons/all-files/go/GoVersions"
+  },
+  "GoVersions (Github Octicons)": {
+    "prefix": "ri:go:versions",
+    "body": "<GoVersions />",
+    "description": "GoVersions Github Octicons icon"
+  },
+
+  "Import GoWatch (Github Octicons)": {
+    "prefix": "ri:go:import:watch",
+    "body": "import { GoWatch } from 'react-icons/go';",
+    "description": "Import GoWatch Github Octicons icon from react-icons"
+  },
+  "Import GoWatch (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:watch:all-files",
+    "body": "import { GoWatch } from '@react-icons/all-files/go/GoWatch';",
+    "description": "Import GoWatch Github Octicons icon from @react-icons/all-files/go/GoWatch"
+  },
+  "GoWatch (Github Octicons)": {
+    "prefix": "ri:go:watch",
+    "body": "<GoWatch />",
+    "description": "GoWatch Github Octicons icon"
+  },
+
+  "Import GoX (Github Octicons)": {
+    "prefix": "ri:go:import:x",
+    "body": "import { GoX } from 'react-icons/go';",
+    "description": "Import GoX Github Octicons icon from react-icons"
+  },
+  "Import GoX (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:x:all-files",
+    "body": "import { GoX } from '@react-icons/all-files/go/GoX';",
+    "description": "Import GoX Github Octicons icon from @react-icons/all-files/go/GoX"
+  },
+  "GoX (Github Octicons)": {
+    "prefix": "ri:go:x",
+    "body": "<GoX />",
+    "description": "GoX Github Octicons icon"
+  },
+
+  "Import GoZap (Github Octicons)": {
+    "prefix": "ri:go:import:zap",
+    "body": "import { GoZap } from 'react-icons/go';",
+    "description": "Import GoZap Github Octicons icon from react-icons"
+  },
+  "Import GoZap (Github Octicons) from all-files": {
+    "prefix": "ri:go:import:zap:all-files",
+    "body": "import { GoZap } from '@react-icons/all-files/go/GoZap';",
+    "description": "Import GoZap Github Octicons icon from @react-icons/all-files/go/GoZap"
+  },
+  "GoZap (Github Octicons)": {
+    "prefix": "ri:go:zap",
+    "body": "<GoZap />",
+    "description": "GoZap Github Octicons icon"
+  }
+}

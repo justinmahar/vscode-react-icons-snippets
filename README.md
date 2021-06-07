@@ -1,22 +1,22 @@
-# React-Bootstrap Snippets
+# React-Icons Snippets
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/justinmahar.react-bootstrap-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-bootstrap-snippets)
+[![Version](https://vsmarketplacebadge.apphb.com/version/justinmahar.react-icons-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-icons-snippets)
 
-This extension includes 386 [React-Bootstrap](https://react-bootstrap.github.io/) snippets for VS Code.
+This extension includes 54,168 [React-Icons](https://react-icons.github.io/react-icons) snippets for VS Code. 
 
-Build apps with React-Bootstrap at your fingertips.
+Build apps with 18,056 icons&mdash;across multiple icon libraries&mdash;all at your fingertips.
 
 This extension supports:
 
-- 🙌 All `react-bootstrap` components. The complete picture.
-- 📦 `import` snippets, for quick and easy importing.
-- 💁‍♀️ Example snippets from the docs for convenience.
+- 👏 All `react-icons` icons. The complete picture.
+- 📦 `import` snippets, including `all-files` imports, for quick and easy importing.
+- 🗃️ Libraries organized using a prefix, such as `ri:fa` for Font Awesome or `ri:im` for IcoMoon.
 
-**Just type `rb` and press <kbd>Ctrl</kbd>+<kbd>Space</kbd> for autocompletion. VS Code will autocomplete the component you need.**
+**Just type `ri` and press <kbd>Ctrl</kbd>+<kbd>Space</kbd> for autocompletion. VS Code will autocomplete the icon you need.**
 
-![Demo](./images/demo.gif)
+Use a library prefix to filter by library. For example, `ri:fa:book`, `ri:im:user`, `ri:wi:cloud`, etc. See below for all supported prefixes.
 
-Read below for more information and gif demos.
+Read below for more information.
 
 ## 📚 Supported languages (file extensions)
 - JavaScript (.js)
@@ -26,92 +26,70 @@ Read below for more information and gif demos.
 
 ## 📖 Snippets
 
-**All snippets start with `rb` for React-Bootstrap.**
+**All snippets start with `ri` for React-Icons, followed by the icon library prefix.**
 
-There are 386 snippets available for components, imports, and examples. Read more on each below.
+There are 54,168 snippets available for icons and imports. Read more on each below.
 
-### Component Snippets
+### Library Prefixes
 
-All of React-Bootstrap's components are supported.
+Icons are grouped by library using a prefix. See the table below for the prefix to use:
 
-For example, `rb:alert`, `rb:badge`, `rb:breadcrumb`, etc.
+| Library                                                                          | Prefix | # Icons |
+| -------------------------------------------------------------------------------- | ------ | ------- |
+| [Ant Design Icons](https://react-icons.github.io/react-icons/icons?name=ai)      | `ai`   | 788     |
+| [Bootstrap Icons](https://react-icons.github.io/react-icons/icons?name=bs)       | `bs`   | 668     |
+| [BoxIcons](https://react-icons.github.io/react-icons/icons?name=bi)              | `bi`   | 738     |
+| [css.gg](https://react-icons.github.io/react-icons/icons?name=cg)                | `cg`   | 704     |
+| [Devicons](https://react-icons.github.io/react-icons/icons?name=di)              | `di`   | 192     |
+| [Feather](https://react-icons.github.io/react-icons/icons?name=fi)               | `fi`   | 286     |
+| [Flat Color Icons](https://react-icons.github.io/react-icons/icons?name=fc)      | `fc`   | 329     |
+| [Font Awesome](https://react-icons.github.io/react-icons/icons?name=fa)          | `fa`   | 1559    |
+| [Game Icons](https://react-icons.github.io/react-icons/icons?name=gi)            | `gi`   | 3786    |
+| [Github Octicons Icons](https://react-icons.github.io/react-icons/icons?name=go) | `go`   | 184     |
+| [Grommet-Icons](https://react-icons.github.io/react-icons/icons?name=gr)         | `gr`   | 562     |
+| [Heroicons](https://react-icons.github.io/react-icons/icons?name=hi)             | `hi`   | 452     |
+| [IcoMoon Free](https://react-icons.github.io/react-icons/icons?name=im)          | `im`   | 491     |
+| [Ionicons 4](https://react-icons.github.io/react-icons/icons?name=io)            | `io4`  | 696     |
+| [Ionicons 5](https://react-icons.github.io/react-icons/icons?name=io5)           | `io5`  | 1300    |
+| [Material Design Icons](https://react-icons.github.io/react-icons/icons?name=md) | `md`   | 959     |
+| [Remix Icon](https://react-icons.github.io/react-icons/icons?name=ri)            | `ri`   | 2172    |
+| [Simple Icons](https://react-icons.github.io/react-icons/icons?name=si)          | `si`   | 1316    |
+| [Typicons](https://react-icons.github.io/react-icons/icons?name=ti)              | `ti`   | 336     |
+| [VS Code Icons](https://react-icons.github.io/react-icons/icons?name=vsc)        | `vsc`  | 319     |
+| [Weather Icons](https://react-icons.github.io/react-icons/icons?name=wi)         | `wi`   | 219     |
 
-Where applicable, suggestions are made for which components to use inside a given component, such as `thead` and `tbody` inside a `Table`.
+### Icon Component Snippets
+
+All `react-icons` components are supported.
+
+For example, `ri:fa:book`, `ri:im:user`, `ri:wi:cloud`, etc.
+
+The [React Icons website](https://react-icons.github.io/react-icons) has a searchable directory of all available icons.
 
 ### Import Snippets
 
-Component import snippets are available for all React-Bootstrap components. 
+Component import snippets are available for all `react-icons` components. 
 
-All imports begin with `rb:import` followed by the component name. For example, `rb:import:row` will import `Row`. 
+All import snippets begin with `ri:prefix:import`, where `prefix` is the library's prefix from the table above, followed by the component name.
 
-Since it's such a common use case, you can also use `rb:import:grid` to import `Container`, `Row`, and `Col` all at once.
+For example, `ri:fa:import:book` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from 'react-icons/fa';`.
 
-![Imports](./images/imports.gif)
+Import snippets are also available for `all-files`, and these snippets all end with `:all-files`. 
 
-### Example Snippets
-
-Where applicable, examples from the docs are provided as snippets. These can be very helpful as a starting point when working with more complex components, or for use as quick placeholders.
-
-Example snippets all end with `-example`. 
-
-For instance, `rb:alert-example` will insert an example `Alert` to build upon.
-
-![Examples](./images/examples.gif)
-
-### Alert and Modal Functions
-
-For convenience, function snippets are included for the show/hide functions needed for modals and dismissible alerts.
-
-![Functions](./images/functions.gif)
-
-Use `rb:modal-functions` for the following:
-
-```tsx
-const [showModal, setShowModal] = React.useState(false);
-const handleCloseModal = () => setShowModal(false);
-const handleShowModal = () => setShowModal(true);
-```
-
-And `rb:alert-dismissible-functions` for the following:
-
-```tsx
-const [showAlert, setShowAlert] = React.useState(false);
-const handleCloseAlert = () => setShowAlert(false);
-const handleShowAlert = () => setShowAlert(true);
-```
-
-These pair nicely with the snippets for `rb:modal` and `rb:alert-dismissible`.
-
-### Table Utilities
-
-This extension includes utilities for tables so you can quickly build table headers and table rows.
-
-Use `rb:table-row-X` and `rb:table-header-row-X`, where `X` is the number of columns from 2-9, to quickly build rows in your `thead` and `tbody`.
-
-![Tables](./images/tables.gif)
+For example, `ri:fa:import:book:all-files` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from '@react-icons/all-files/fa/FaBook';`.
 
 ## A Note To You, The Developer
 
-My goal was to make this one of the best snippets extensions available to you. As such, I spent countless hours reading the docs to make this as great as I could, and I truly hope you find it useful.
+My goal was to make this one of the best snippets extensions available to you. As such, I spent countless hours making this as great as I could, and I truly hope you find it useful.
 
-That being said, if you find a bug or see a way to improve this extension, please feel free to [open an issue](https://github.com/justinmahar/vscode-react-bootstrap-snippets/issues) or submit a [pull request to the project](https://github.com/justinmahar/vscode-react-bootstrap-snippets).
+That being said, if you find a bug or see a way to improve this extension, please feel free to [open an issue](https://github.com/justinmahar/vscode-react-icons-snippets/issues) or submit a [pull request to the project](https://github.com/justinmahar/vscode-react-icons-snippets).
 
-If you found this extension helpful, consider **[rating it](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-bootstrap-snippets&ssr=false#review-details)** and **[give it a star](https://github.com/justinmahar/vscode-react-bootstrap-snippets)** so others can find it.
+If you found this extension helpful, consider **[rating it](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-icons-snippets&ssr=false#review-details)** and **[give it a star](https://github.com/justinmahar/vscode-react-icons-snippets)** so others can find it.
 
 Happy coding 🖖
 
 ## Release Notes
 
-### [1.0.0] - 2021-05-17
+### [1.0.0] - 2021-06-07
 
-- Initial release of React-Bootstrap snippets.
-
-### [1.0.1]-[1.0.7] - 2021-05-18
-
-- Update documentation. 
-- Add demo gifs.
-
-### [1.0.8] - 2021-06-05
-
-- Add tabstops to function snippets
-
+- Initial release of React-Icons Snippets.

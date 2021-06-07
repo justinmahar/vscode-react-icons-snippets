@@ -8,7 +8,7 @@ Build apps with 18,056 icons&mdash;across multiple icon libraries&mdash;all at y
 
 This extension supports:
 
-- 👏 All `react-icons` icons. The complete picture.
+- 🔣 All `react-icons` icons. The complete picture.
 - 📦 `import` snippets, including `all-files` imports, for quick and easy importing.
 - 🗃️ Libraries organized using a prefix, such as `ri:fa` for Font Awesome or `ri:im` for IcoMoon.
 
@@ -109,3 +109,7 @@ Happy coding 🖖
 ### [1.0.2] - 2021-06-07
 
 - Refactor import prefixes. Update docs.
+
+### [1.0.3] - 2021-06-07
+
+- Update gifs, description, and docs.

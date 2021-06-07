@@ -14,7 +14,9 @@ This extension supports:
 
 **Just type `ri` and press <kbd>Ctrl</kbd>+<kbd>Space</kbd> for autocompletion. VS Code will autocomplete the icon you need.**
 
-Use a library prefix to filter by library. For example, `ri:fa:book`, `ri:im:user`, `ri:wi:cloud`, etc. See below for all supported prefixes.
+Use a library prefix to filter by library. For example, `ri:fa:book`, `ri:im:user`, `ri:wi:cloud`, etc.
+
+![Demo](./images/demo.gif)
 
 Read below for more information.
 
@@ -77,6 +79,8 @@ For example, `ri:fa:import:book` will import `FaBook` from Font Awesome via the 
 Import snippets are also available for `all-files`, and these snippets all end with `:all-files`. 
 
 For example, `ri:fa:import:book:all-files` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from '@react-icons/all-files/fa/FaBook';`.
+
+![Imports](./images/imports.gif)
 
 ## A Note To You, The Developer
 

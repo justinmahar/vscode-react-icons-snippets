@@ -72,13 +72,13 @@ The [React Icons website](https://react-icons.github.io/react-icons) has a searc
 
 Component import snippets are available for all `react-icons` components. 
 
-All import snippets begin with `ri:prefix:import`, where `prefix` is the library's prefix from the table above, followed by the component name.
+All import snippets begin with `ri:import`.
 
-For example, `ri:fa:import:book` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from 'react-icons/fa';`.
+For example, `ri:import:fa:book` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from 'react-icons/fa';`.
 
 Import snippets are also available for `all-files`, and these snippets all end with `:all-files`. 
 
-For example, `ri:fa:import:book:all-files` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from '@react-icons/all-files/fa/FaBook';`.
+For example, `ri:import:fa:book:all-files` will import `FaBook` from Font Awesome via the statement: `import { FaBook } from '@react-icons/all-files/fa/FaBook';`.
 
 ![Imports](./images/imports.gif)
 
@@ -92,6 +92,10 @@ If you found this extension helpful, consider **[rating it](https://marketplace.
 
 Happy coding 🖖
 
+## You Might Also Like...
+
+- [React-Bootstrap Snippets](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-bootstrap-snippets) - Code snippets for React-Bootstrap
+
 ## Release Notes
 
 ### [1.0.0] - 2021-06-07
@@ -101,3 +105,7 @@ Happy coding 🖖
 ### [1.0.1] - 2021-06-07
 
 - Add gifs, update docs.
+
+### [1.0.2] - 2021-06-07
+
+- Refactor import prefixes. Update docs.

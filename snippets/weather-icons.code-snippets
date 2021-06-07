@@ -1,11 +1,11 @@
 {
   "Import WiAlien (Weather Icons)": {
-    "prefix": "ri:wi:import:alien",
+    "prefix": "ri:import:wi:alien",
     "body": "import { WiAlien } from 'react-icons/wi';",
     "description": "Import WiAlien Weather icon from react-icons"
   },
   "Import WiAlien (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:alien:all-files",
+    "prefix": "ri:import:wi:alien:all-files",
     "body": "import { WiAlien } from '@react-icons/all-files/wi/WiAlien';",
     "description": "Import WiAlien Weather icon from @react-icons/all-files/wi/WiAlien"
   },
@@ -16,12 +16,12 @@
   },
 
   "Import WiBarometer (Weather Icons)": {
-    "prefix": "ri:wi:import:barometer",
+    "prefix": "ri:import:wi:barometer",
     "body": "import { WiBarometer } from 'react-icons/wi';",
     "description": "Import WiBarometer Weather icon from react-icons"
   },
   "Import WiBarometer (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:barometer:all-files",
+    "prefix": "ri:import:wi:barometer:all-files",
     "body": "import { WiBarometer } from '@react-icons/all-files/wi/WiBarometer';",
     "description": "Import WiBarometer Weather icon from @react-icons/all-files/wi/WiBarometer"
   },
@@ -32,12 +32,12 @@
   },
 
   "Import WiCelsius (Weather Icons)": {
-    "prefix": "ri:wi:import:celsius",
+    "prefix": "ri:import:wi:celsius",
     "body": "import { WiCelsius } from 'react-icons/wi';",
     "description": "Import WiCelsius Weather icon from react-icons"
   },
   "Import WiCelsius (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:celsius:all-files",
+    "prefix": "ri:import:wi:celsius:all-files",
     "body": "import { WiCelsius } from '@react-icons/all-files/wi/WiCelsius';",
     "description": "Import WiCelsius Weather icon from @react-icons/all-files/wi/WiCelsius"
   },
@@ -48,12 +48,12 @@
   },
 
   "Import WiCloudDown (Weather Icons)": {
-    "prefix": "ri:wi:import:cloud-down",
+    "prefix": "ri:import:wi:cloud-down",
     "body": "import { WiCloudDown } from 'react-icons/wi';",
     "description": "Import WiCloudDown Weather icon from react-icons"
   },
   "Import WiCloudDown (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloud-down:all-files",
+    "prefix": "ri:import:wi:cloud-down:all-files",
     "body": "import { WiCloudDown } from '@react-icons/all-files/wi/WiCloudDown';",
     "description": "Import WiCloudDown Weather icon from @react-icons/all-files/wi/WiCloudDown"
   },
@@ -64,12 +64,12 @@
   },
 
   "Import WiCloudRefresh (Weather Icons)": {
-    "prefix": "ri:wi:import:cloud-refresh",
+    "prefix": "ri:import:wi:cloud-refresh",
     "body": "import { WiCloudRefresh } from 'react-icons/wi';",
     "description": "Import WiCloudRefresh Weather icon from react-icons"
   },
   "Import WiCloudRefresh (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloud-refresh:all-files",
+    "prefix": "ri:import:wi:cloud-refresh:all-files",
     "body": "import { WiCloudRefresh } from '@react-icons/all-files/wi/WiCloudRefresh';",
     "description": "Import WiCloudRefresh Weather icon from @react-icons/all-files/wi/WiCloudRefresh"
   },
@@ -80,12 +80,12 @@
   },
 
   "Import WiCloudUp (Weather Icons)": {
-    "prefix": "ri:wi:import:cloud-up",
+    "prefix": "ri:import:wi:cloud-up",
     "body": "import { WiCloudUp } from 'react-icons/wi';",
     "description": "Import WiCloudUp Weather icon from react-icons"
   },
   "Import WiCloudUp (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloud-up:all-files",
+    "prefix": "ri:import:wi:cloud-up:all-files",
     "body": "import { WiCloudUp } from '@react-icons/all-files/wi/WiCloudUp';",
     "description": "Import WiCloudUp Weather icon from @react-icons/all-files/wi/WiCloudUp"
   },
@@ -96,12 +96,12 @@
   },
 
   "Import WiCloud (Weather Icons)": {
-    "prefix": "ri:wi:import:cloud",
+    "prefix": "ri:import:wi:cloud",
     "body": "import { WiCloud } from 'react-icons/wi';",
     "description": "Import WiCloud Weather icon from react-icons"
   },
   "Import WiCloud (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloud:all-files",
+    "prefix": "ri:import:wi:cloud:all-files",
     "body": "import { WiCloud } from '@react-icons/all-files/wi/WiCloud';",
     "description": "Import WiCloud Weather icon from @react-icons/all-files/wi/WiCloud"
   },
@@ -112,12 +112,12 @@
   },
 
   "Import WiCloudyGusts (Weather Icons)": {
-    "prefix": "ri:wi:import:cloudy-gusts",
+    "prefix": "ri:import:wi:cloudy-gusts",
     "body": "import { WiCloudyGusts } from 'react-icons/wi';",
     "description": "Import WiCloudyGusts Weather icon from react-icons"
   },
   "Import WiCloudyGusts (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloudy-gusts:all-files",
+    "prefix": "ri:import:wi:cloudy-gusts:all-files",
     "body": "import { WiCloudyGusts } from '@react-icons/all-files/wi/WiCloudyGusts';",
     "description": "Import WiCloudyGusts Weather icon from @react-icons/all-files/wi/WiCloudyGusts"
   },
@@ -128,12 +128,12 @@
   },
 
   "Import WiCloudyWindy (Weather Icons)": {
-    "prefix": "ri:wi:import:cloudy-windy",
+    "prefix": "ri:import:wi:cloudy-windy",
     "body": "import { WiCloudyWindy } from 'react-icons/wi';",
     "description": "Import WiCloudyWindy Weather icon from react-icons"
   },
   "Import WiCloudyWindy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloudy-windy:all-files",
+    "prefix": "ri:import:wi:cloudy-windy:all-files",
     "body": "import { WiCloudyWindy } from '@react-icons/all-files/wi/WiCloudyWindy';",
     "description": "Import WiCloudyWindy Weather icon from @react-icons/all-files/wi/WiCloudyWindy"
   },
@@ -144,12 +144,12 @@
   },
 
   "Import WiCloudy (Weather Icons)": {
-    "prefix": "ri:wi:import:cloudy",
+    "prefix": "ri:import:wi:cloudy",
     "body": "import { WiCloudy } from 'react-icons/wi';",
     "description": "Import WiCloudy Weather icon from react-icons"
   },
   "Import WiCloudy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:cloudy:all-files",
+    "prefix": "ri:import:wi:cloudy:all-files",
     "body": "import { WiCloudy } from '@react-icons/all-files/wi/WiCloudy';",
     "description": "Import WiCloudy Weather icon from @react-icons/all-files/wi/WiCloudy"
   },
@@ -160,12 +160,12 @@
   },
 
   "Import WiDayCloudyGusts (Weather Icons)": {
-    "prefix": "ri:wi:import:day-cloudy-gusts",
+    "prefix": "ri:import:wi:day-cloudy-gusts",
     "body": "import { WiDayCloudyGusts } from 'react-icons/wi';",
     "description": "Import WiDayCloudyGusts Weather icon from react-icons"
   },
   "Import WiDayCloudyGusts (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-cloudy-gusts:all-files",
+    "prefix": "ri:import:wi:day-cloudy-gusts:all-files",
     "body": "import { WiDayCloudyGusts } from '@react-icons/all-files/wi/WiDayCloudyGusts';",
     "description": "Import WiDayCloudyGusts Weather icon from @react-icons/all-files/wi/WiDayCloudyGusts"
   },
@@ -176,12 +176,12 @@
   },
 
   "Import WiDayCloudyHigh (Weather Icons)": {
-    "prefix": "ri:wi:import:day-cloudy-high",
+    "prefix": "ri:import:wi:day-cloudy-high",
     "body": "import { WiDayCloudyHigh } from 'react-icons/wi';",
     "description": "Import WiDayCloudyHigh Weather icon from react-icons"
   },
   "Import WiDayCloudyHigh (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-cloudy-high:all-files",
+    "prefix": "ri:import:wi:day-cloudy-high:all-files",
     "body": "import { WiDayCloudyHigh } from '@react-icons/all-files/wi/WiDayCloudyHigh';",
     "description": "Import WiDayCloudyHigh Weather icon from @react-icons/all-files/wi/WiDayCloudyHigh"
   },
@@ -192,12 +192,12 @@
   },
 
   "Import WiDayCloudyWindy (Weather Icons)": {
-    "prefix": "ri:wi:import:day-cloudy-windy",
+    "prefix": "ri:import:wi:day-cloudy-windy",
     "body": "import { WiDayCloudyWindy } from 'react-icons/wi';",
     "description": "Import WiDayCloudyWindy Weather icon from react-icons"
   },
   "Import WiDayCloudyWindy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-cloudy-windy:all-files",
+    "prefix": "ri:import:wi:day-cloudy-windy:all-files",
     "body": "import { WiDayCloudyWindy } from '@react-icons/all-files/wi/WiDayCloudyWindy';",
     "description": "Import WiDayCloudyWindy Weather icon from @react-icons/all-files/wi/WiDayCloudyWindy"
   },
@@ -208,12 +208,12 @@
   },
 
   "Import WiDayCloudy (Weather Icons)": {
-    "prefix": "ri:wi:import:day-cloudy",
+    "prefix": "ri:import:wi:day-cloudy",
     "body": "import { WiDayCloudy } from 'react-icons/wi';",
     "description": "Import WiDayCloudy Weather icon from react-icons"
   },
   "Import WiDayCloudy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-cloudy:all-files",
+    "prefix": "ri:import:wi:day-cloudy:all-files",
     "body": "import { WiDayCloudy } from '@react-icons/all-files/wi/WiDayCloudy';",
     "description": "Import WiDayCloudy Weather icon from @react-icons/all-files/wi/WiDayCloudy"
   },
@@ -224,12 +224,12 @@
   },
 
   "Import WiDayFog (Weather Icons)": {
-    "prefix": "ri:wi:import:day-fog",
+    "prefix": "ri:import:wi:day-fog",
     "body": "import { WiDayFog } from 'react-icons/wi';",
     "description": "Import WiDayFog Weather icon from react-icons"
   },
   "Import WiDayFog (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-fog:all-files",
+    "prefix": "ri:import:wi:day-fog:all-files",
     "body": "import { WiDayFog } from '@react-icons/all-files/wi/WiDayFog';",
     "description": "Import WiDayFog Weather icon from @react-icons/all-files/wi/WiDayFog"
   },
@@ -240,12 +240,12 @@
   },
 
   "Import WiDayHail (Weather Icons)": {
-    "prefix": "ri:wi:import:day-hail",
+    "prefix": "ri:import:wi:day-hail",
     "body": "import { WiDayHail } from 'react-icons/wi';",
     "description": "Import WiDayHail Weather icon from react-icons"
   },
   "Import WiDayHail (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-hail:all-files",
+    "prefix": "ri:import:wi:day-hail:all-files",
     "body": "import { WiDayHail } from '@react-icons/all-files/wi/WiDayHail';",
     "description": "Import WiDayHail Weather icon from @react-icons/all-files/wi/WiDayHail"
   },
@@ -256,12 +256,12 @@
   },
 
   "Import WiDayHaze (Weather Icons)": {
-    "prefix": "ri:wi:import:day-haze",
+    "prefix": "ri:import:wi:day-haze",
     "body": "import { WiDayHaze } from 'react-icons/wi';",
     "description": "Import WiDayHaze Weather icon from react-icons"
   },
   "Import WiDayHaze (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-haze:all-files",
+    "prefix": "ri:import:wi:day-haze:all-files",
     "body": "import { WiDayHaze } from '@react-icons/all-files/wi/WiDayHaze';",
     "description": "Import WiDayHaze Weather icon from @react-icons/all-files/wi/WiDayHaze"
   },
@@ -272,12 +272,12 @@
   },
 
   "Import WiDayLightWind (Weather Icons)": {
-    "prefix": "ri:wi:import:day-light-wind",
+    "prefix": "ri:import:wi:day-light-wind",
     "body": "import { WiDayLightWind } from 'react-icons/wi';",
     "description": "Import WiDayLightWind Weather icon from react-icons"
   },
   "Import WiDayLightWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-light-wind:all-files",
+    "prefix": "ri:import:wi:day-light-wind:all-files",
     "body": "import { WiDayLightWind } from '@react-icons/all-files/wi/WiDayLightWind';",
     "description": "Import WiDayLightWind Weather icon from @react-icons/all-files/wi/WiDayLightWind"
   },
@@ -288,12 +288,12 @@
   },
 
   "Import WiDayLightning (Weather Icons)": {
-    "prefix": "ri:wi:import:day-lightning",
+    "prefix": "ri:import:wi:day-lightning",
     "body": "import { WiDayLightning } from 'react-icons/wi';",
     "description": "Import WiDayLightning Weather icon from react-icons"
   },
   "Import WiDayLightning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-lightning:all-files",
+    "prefix": "ri:import:wi:day-lightning:all-files",
     "body": "import { WiDayLightning } from '@react-icons/all-files/wi/WiDayLightning';",
     "description": "Import WiDayLightning Weather icon from @react-icons/all-files/wi/WiDayLightning"
   },
@@ -304,12 +304,12 @@
   },
 
   "Import WiDayRainMix (Weather Icons)": {
-    "prefix": "ri:wi:import:day-rain-mix",
+    "prefix": "ri:import:wi:day-rain-mix",
     "body": "import { WiDayRainMix } from 'react-icons/wi';",
     "description": "Import WiDayRainMix Weather icon from react-icons"
   },
   "Import WiDayRainMix (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-rain-mix:all-files",
+    "prefix": "ri:import:wi:day-rain-mix:all-files",
     "body": "import { WiDayRainMix } from '@react-icons/all-files/wi/WiDayRainMix';",
     "description": "Import WiDayRainMix Weather icon from @react-icons/all-files/wi/WiDayRainMix"
   },
@@ -320,12 +320,12 @@
   },
 
   "Import WiDayRainWind (Weather Icons)": {
-    "prefix": "ri:wi:import:day-rain-wind",
+    "prefix": "ri:import:wi:day-rain-wind",
     "body": "import { WiDayRainWind } from 'react-icons/wi';",
     "description": "Import WiDayRainWind Weather icon from react-icons"
   },
   "Import WiDayRainWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-rain-wind:all-files",
+    "prefix": "ri:import:wi:day-rain-wind:all-files",
     "body": "import { WiDayRainWind } from '@react-icons/all-files/wi/WiDayRainWind';",
     "description": "Import WiDayRainWind Weather icon from @react-icons/all-files/wi/WiDayRainWind"
   },
@@ -336,12 +336,12 @@
   },
 
   "Import WiDayRain (Weather Icons)": {
-    "prefix": "ri:wi:import:day-rain",
+    "prefix": "ri:import:wi:day-rain",
     "body": "import { WiDayRain } from 'react-icons/wi';",
     "description": "Import WiDayRain Weather icon from react-icons"
   },
   "Import WiDayRain (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-rain:all-files",
+    "prefix": "ri:import:wi:day-rain:all-files",
     "body": "import { WiDayRain } from '@react-icons/all-files/wi/WiDayRain';",
     "description": "Import WiDayRain Weather icon from @react-icons/all-files/wi/WiDayRain"
   },
@@ -352,12 +352,12 @@
   },
 
   "Import WiDayShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:day-showers",
+    "prefix": "ri:import:wi:day-showers",
     "body": "import { WiDayShowers } from 'react-icons/wi';",
     "description": "Import WiDayShowers Weather icon from react-icons"
   },
   "Import WiDayShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-showers:all-files",
+    "prefix": "ri:import:wi:day-showers:all-files",
     "body": "import { WiDayShowers } from '@react-icons/all-files/wi/WiDayShowers';",
     "description": "Import WiDayShowers Weather icon from @react-icons/all-files/wi/WiDayShowers"
   },
@@ -368,12 +368,12 @@
   },
 
   "Import WiDaySleetStorm (Weather Icons)": {
-    "prefix": "ri:wi:import:day-sleet-storm",
+    "prefix": "ri:import:wi:day-sleet-storm",
     "body": "import { WiDaySleetStorm } from 'react-icons/wi';",
     "description": "Import WiDaySleetStorm Weather icon from react-icons"
   },
   "Import WiDaySleetStorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-sleet-storm:all-files",
+    "prefix": "ri:import:wi:day-sleet-storm:all-files",
     "body": "import { WiDaySleetStorm } from '@react-icons/all-files/wi/WiDaySleetStorm';",
     "description": "Import WiDaySleetStorm Weather icon from @react-icons/all-files/wi/WiDaySleetStorm"
   },
@@ -384,12 +384,12 @@
   },
 
   "Import WiDaySleet (Weather Icons)": {
-    "prefix": "ri:wi:import:day-sleet",
+    "prefix": "ri:import:wi:day-sleet",
     "body": "import { WiDaySleet } from 'react-icons/wi';",
     "description": "Import WiDaySleet Weather icon from react-icons"
   },
   "Import WiDaySleet (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-sleet:all-files",
+    "prefix": "ri:import:wi:day-sleet:all-files",
     "body": "import { WiDaySleet } from '@react-icons/all-files/wi/WiDaySleet';",
     "description": "Import WiDaySleet Weather icon from @react-icons/all-files/wi/WiDaySleet"
   },
@@ -400,12 +400,12 @@
   },
 
   "Import WiDaySnowThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:day-snow-thunderstorm",
+    "prefix": "ri:import:wi:day-snow-thunderstorm",
     "body": "import { WiDaySnowThunderstorm } from 'react-icons/wi';",
     "description": "Import WiDaySnowThunderstorm Weather icon from react-icons"
   },
   "Import WiDaySnowThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-snow-thunderstorm:all-files",
+    "prefix": "ri:import:wi:day-snow-thunderstorm:all-files",
     "body": "import { WiDaySnowThunderstorm } from '@react-icons/all-files/wi/WiDaySnowThunderstorm';",
     "description": "Import WiDaySnowThunderstorm Weather icon from @react-icons/all-files/wi/WiDaySnowThunderstorm"
   },
@@ -416,12 +416,12 @@
   },
 
   "Import WiDaySnowWind (Weather Icons)": {
-    "prefix": "ri:wi:import:day-snow-wind",
+    "prefix": "ri:import:wi:day-snow-wind",
     "body": "import { WiDaySnowWind } from 'react-icons/wi';",
     "description": "Import WiDaySnowWind Weather icon from react-icons"
   },
   "Import WiDaySnowWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-snow-wind:all-files",
+    "prefix": "ri:import:wi:day-snow-wind:all-files",
     "body": "import { WiDaySnowWind } from '@react-icons/all-files/wi/WiDaySnowWind';",
     "description": "Import WiDaySnowWind Weather icon from @react-icons/all-files/wi/WiDaySnowWind"
   },
@@ -432,12 +432,12 @@
   },
 
   "Import WiDaySnow (Weather Icons)": {
-    "prefix": "ri:wi:import:day-snow",
+    "prefix": "ri:import:wi:day-snow",
     "body": "import { WiDaySnow } from 'react-icons/wi';",
     "description": "Import WiDaySnow Weather icon from react-icons"
   },
   "Import WiDaySnow (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-snow:all-files",
+    "prefix": "ri:import:wi:day-snow:all-files",
     "body": "import { WiDaySnow } from '@react-icons/all-files/wi/WiDaySnow';",
     "description": "Import WiDaySnow Weather icon from @react-icons/all-files/wi/WiDaySnow"
   },
@@ -448,12 +448,12 @@
   },
 
   "Import WiDaySprinkle (Weather Icons)": {
-    "prefix": "ri:wi:import:day-sprinkle",
+    "prefix": "ri:import:wi:day-sprinkle",
     "body": "import { WiDaySprinkle } from 'react-icons/wi';",
     "description": "Import WiDaySprinkle Weather icon from react-icons"
   },
   "Import WiDaySprinkle (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-sprinkle:all-files",
+    "prefix": "ri:import:wi:day-sprinkle:all-files",
     "body": "import { WiDaySprinkle } from '@react-icons/all-files/wi/WiDaySprinkle';",
     "description": "Import WiDaySprinkle Weather icon from @react-icons/all-files/wi/WiDaySprinkle"
   },
@@ -464,12 +464,12 @@
   },
 
   "Import WiDayStormShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:day-storm-showers",
+    "prefix": "ri:import:wi:day-storm-showers",
     "body": "import { WiDayStormShowers } from 'react-icons/wi';",
     "description": "Import WiDayStormShowers Weather icon from react-icons"
   },
   "Import WiDayStormShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-storm-showers:all-files",
+    "prefix": "ri:import:wi:day-storm-showers:all-files",
     "body": "import { WiDayStormShowers } from '@react-icons/all-files/wi/WiDayStormShowers';",
     "description": "Import WiDayStormShowers Weather icon from @react-icons/all-files/wi/WiDayStormShowers"
   },
@@ -480,12 +480,12 @@
   },
 
   "Import WiDaySunnyOvercast (Weather Icons)": {
-    "prefix": "ri:wi:import:day-sunny-overcast",
+    "prefix": "ri:import:wi:day-sunny-overcast",
     "body": "import { WiDaySunnyOvercast } from 'react-icons/wi';",
     "description": "Import WiDaySunnyOvercast Weather icon from react-icons"
   },
   "Import WiDaySunnyOvercast (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-sunny-overcast:all-files",
+    "prefix": "ri:import:wi:day-sunny-overcast:all-files",
     "body": "import { WiDaySunnyOvercast } from '@react-icons/all-files/wi/WiDaySunnyOvercast';",
     "description": "Import WiDaySunnyOvercast Weather icon from @react-icons/all-files/wi/WiDaySunnyOvercast"
   },
@@ -496,12 +496,12 @@
   },
 
   "Import WiDaySunny (Weather Icons)": {
-    "prefix": "ri:wi:import:day-sunny",
+    "prefix": "ri:import:wi:day-sunny",
     "body": "import { WiDaySunny } from 'react-icons/wi';",
     "description": "Import WiDaySunny Weather icon from react-icons"
   },
   "Import WiDaySunny (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-sunny:all-files",
+    "prefix": "ri:import:wi:day-sunny:all-files",
     "body": "import { WiDaySunny } from '@react-icons/all-files/wi/WiDaySunny';",
     "description": "Import WiDaySunny Weather icon from @react-icons/all-files/wi/WiDaySunny"
   },
@@ -512,12 +512,12 @@
   },
 
   "Import WiDayThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:day-thunderstorm",
+    "prefix": "ri:import:wi:day-thunderstorm",
     "body": "import { WiDayThunderstorm } from 'react-icons/wi';",
     "description": "Import WiDayThunderstorm Weather icon from react-icons"
   },
   "Import WiDayThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-thunderstorm:all-files",
+    "prefix": "ri:import:wi:day-thunderstorm:all-files",
     "body": "import { WiDayThunderstorm } from '@react-icons/all-files/wi/WiDayThunderstorm';",
     "description": "Import WiDayThunderstorm Weather icon from @react-icons/all-files/wi/WiDayThunderstorm"
   },
@@ -528,12 +528,12 @@
   },
 
   "Import WiDayWindy (Weather Icons)": {
-    "prefix": "ri:wi:import:day-windy",
+    "prefix": "ri:import:wi:day-windy",
     "body": "import { WiDayWindy } from 'react-icons/wi';",
     "description": "Import WiDayWindy Weather icon from react-icons"
   },
   "Import WiDayWindy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:day-windy:all-files",
+    "prefix": "ri:import:wi:day-windy:all-files",
     "body": "import { WiDayWindy } from '@react-icons/all-files/wi/WiDayWindy';",
     "description": "Import WiDayWindy Weather icon from @react-icons/all-files/wi/WiDayWindy"
   },
@@ -544,12 +544,12 @@
   },
 
   "Import WiDegrees (Weather Icons)": {
-    "prefix": "ri:wi:import:degrees",
+    "prefix": "ri:import:wi:degrees",
     "body": "import { WiDegrees } from 'react-icons/wi';",
     "description": "Import WiDegrees Weather icon from react-icons"
   },
   "Import WiDegrees (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:degrees:all-files",
+    "prefix": "ri:import:wi:degrees:all-files",
     "body": "import { WiDegrees } from '@react-icons/all-files/wi/WiDegrees';",
     "description": "Import WiDegrees Weather icon from @react-icons/all-files/wi/WiDegrees"
   },
@@ -560,12 +560,12 @@
   },
 
   "Import WiDirectionDownLeft (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-down-left",
+    "prefix": "ri:import:wi:direction-down-left",
     "body": "import { WiDirectionDownLeft } from 'react-icons/wi';",
     "description": "Import WiDirectionDownLeft Weather icon from react-icons"
   },
   "Import WiDirectionDownLeft (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-down-left:all-files",
+    "prefix": "ri:import:wi:direction-down-left:all-files",
     "body": "import { WiDirectionDownLeft } from '@react-icons/all-files/wi/WiDirectionDownLeft';",
     "description": "Import WiDirectionDownLeft Weather icon from @react-icons/all-files/wi/WiDirectionDownLeft"
   },
@@ -576,12 +576,12 @@
   },
 
   "Import WiDirectionDownRight (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-down-right",
+    "prefix": "ri:import:wi:direction-down-right",
     "body": "import { WiDirectionDownRight } from 'react-icons/wi';",
     "description": "Import WiDirectionDownRight Weather icon from react-icons"
   },
   "Import WiDirectionDownRight (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-down-right:all-files",
+    "prefix": "ri:import:wi:direction-down-right:all-files",
     "body": "import { WiDirectionDownRight } from '@react-icons/all-files/wi/WiDirectionDownRight';",
     "description": "Import WiDirectionDownRight Weather icon from @react-icons/all-files/wi/WiDirectionDownRight"
   },
@@ -592,12 +592,12 @@
   },
 
   "Import WiDirectionDown (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-down",
+    "prefix": "ri:import:wi:direction-down",
     "body": "import { WiDirectionDown } from 'react-icons/wi';",
     "description": "Import WiDirectionDown Weather icon from react-icons"
   },
   "Import WiDirectionDown (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-down:all-files",
+    "prefix": "ri:import:wi:direction-down:all-files",
     "body": "import { WiDirectionDown } from '@react-icons/all-files/wi/WiDirectionDown';",
     "description": "Import WiDirectionDown Weather icon from @react-icons/all-files/wi/WiDirectionDown"
   },
@@ -608,12 +608,12 @@
   },
 
   "Import WiDirectionLeft (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-left",
+    "prefix": "ri:import:wi:direction-left",
     "body": "import { WiDirectionLeft } from 'react-icons/wi';",
     "description": "Import WiDirectionLeft Weather icon from react-icons"
   },
   "Import WiDirectionLeft (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-left:all-files",
+    "prefix": "ri:import:wi:direction-left:all-files",
     "body": "import { WiDirectionLeft } from '@react-icons/all-files/wi/WiDirectionLeft';",
     "description": "Import WiDirectionLeft Weather icon from @react-icons/all-files/wi/WiDirectionLeft"
   },
@@ -624,12 +624,12 @@
   },
 
   "Import WiDirectionRight (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-right",
+    "prefix": "ri:import:wi:direction-right",
     "body": "import { WiDirectionRight } from 'react-icons/wi';",
     "description": "Import WiDirectionRight Weather icon from react-icons"
   },
   "Import WiDirectionRight (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-right:all-files",
+    "prefix": "ri:import:wi:direction-right:all-files",
     "body": "import { WiDirectionRight } from '@react-icons/all-files/wi/WiDirectionRight';",
     "description": "Import WiDirectionRight Weather icon from @react-icons/all-files/wi/WiDirectionRight"
   },
@@ -640,12 +640,12 @@
   },
 
   "Import WiDirectionUpLeft (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-up-left",
+    "prefix": "ri:import:wi:direction-up-left",
     "body": "import { WiDirectionUpLeft } from 'react-icons/wi';",
     "description": "Import WiDirectionUpLeft Weather icon from react-icons"
   },
   "Import WiDirectionUpLeft (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-up-left:all-files",
+    "prefix": "ri:import:wi:direction-up-left:all-files",
     "body": "import { WiDirectionUpLeft } from '@react-icons/all-files/wi/WiDirectionUpLeft';",
     "description": "Import WiDirectionUpLeft Weather icon from @react-icons/all-files/wi/WiDirectionUpLeft"
   },
@@ -656,12 +656,12 @@
   },
 
   "Import WiDirectionUpRight (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-up-right",
+    "prefix": "ri:import:wi:direction-up-right",
     "body": "import { WiDirectionUpRight } from 'react-icons/wi';",
     "description": "Import WiDirectionUpRight Weather icon from react-icons"
   },
   "Import WiDirectionUpRight (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-up-right:all-files",
+    "prefix": "ri:import:wi:direction-up-right:all-files",
     "body": "import { WiDirectionUpRight } from '@react-icons/all-files/wi/WiDirectionUpRight';",
     "description": "Import WiDirectionUpRight Weather icon from @react-icons/all-files/wi/WiDirectionUpRight"
   },
@@ -672,12 +672,12 @@
   },
 
   "Import WiDirectionUp (Weather Icons)": {
-    "prefix": "ri:wi:import:direction-up",
+    "prefix": "ri:import:wi:direction-up",
     "body": "import { WiDirectionUp } from 'react-icons/wi';",
     "description": "Import WiDirectionUp Weather icon from react-icons"
   },
   "Import WiDirectionUp (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:direction-up:all-files",
+    "prefix": "ri:import:wi:direction-up:all-files",
     "body": "import { WiDirectionUp } from '@react-icons/all-files/wi/WiDirectionUp';",
     "description": "Import WiDirectionUp Weather icon from @react-icons/all-files/wi/WiDirectionUp"
   },
@@ -688,12 +688,12 @@
   },
 
   "Import WiDust (Weather Icons)": {
-    "prefix": "ri:wi:import:dust",
+    "prefix": "ri:import:wi:dust",
     "body": "import { WiDust } from 'react-icons/wi';",
     "description": "Import WiDust Weather icon from react-icons"
   },
   "Import WiDust (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:dust:all-files",
+    "prefix": "ri:import:wi:dust:all-files",
     "body": "import { WiDust } from '@react-icons/all-files/wi/WiDust';",
     "description": "Import WiDust Weather icon from @react-icons/all-files/wi/WiDust"
   },
@@ -704,12 +704,12 @@
   },
 
   "Import WiEarthquake (Weather Icons)": {
-    "prefix": "ri:wi:import:earthquake",
+    "prefix": "ri:import:wi:earthquake",
     "body": "import { WiEarthquake } from 'react-icons/wi';",
     "description": "Import WiEarthquake Weather icon from react-icons"
   },
   "Import WiEarthquake (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:earthquake:all-files",
+    "prefix": "ri:import:wi:earthquake:all-files",
     "body": "import { WiEarthquake } from '@react-icons/all-files/wi/WiEarthquake';",
     "description": "Import WiEarthquake Weather icon from @react-icons/all-files/wi/WiEarthquake"
   },
@@ -720,12 +720,12 @@
   },
 
   "Import WiFahrenheit (Weather Icons)": {
-    "prefix": "ri:wi:import:fahrenheit",
+    "prefix": "ri:import:wi:fahrenheit",
     "body": "import { WiFahrenheit } from 'react-icons/wi';",
     "description": "Import WiFahrenheit Weather icon from react-icons"
   },
   "Import WiFahrenheit (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:fahrenheit:all-files",
+    "prefix": "ri:import:wi:fahrenheit:all-files",
     "body": "import { WiFahrenheit } from '@react-icons/all-files/wi/WiFahrenheit';",
     "description": "Import WiFahrenheit Weather icon from @react-icons/all-files/wi/WiFahrenheit"
   },
@@ -736,12 +736,12 @@
   },
 
   "Import WiFire (Weather Icons)": {
-    "prefix": "ri:wi:import:fire",
+    "prefix": "ri:import:wi:fire",
     "body": "import { WiFire } from 'react-icons/wi';",
     "description": "Import WiFire Weather icon from react-icons"
   },
   "Import WiFire (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:fire:all-files",
+    "prefix": "ri:import:wi:fire:all-files",
     "body": "import { WiFire } from '@react-icons/all-files/wi/WiFire';",
     "description": "Import WiFire Weather icon from @react-icons/all-files/wi/WiFire"
   },
@@ -752,12 +752,12 @@
   },
 
   "Import WiFlood (Weather Icons)": {
-    "prefix": "ri:wi:import:flood",
+    "prefix": "ri:import:wi:flood",
     "body": "import { WiFlood } from 'react-icons/wi';",
     "description": "Import WiFlood Weather icon from react-icons"
   },
   "Import WiFlood (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:flood:all-files",
+    "prefix": "ri:import:wi:flood:all-files",
     "body": "import { WiFlood } from '@react-icons/all-files/wi/WiFlood';",
     "description": "Import WiFlood Weather icon from @react-icons/all-files/wi/WiFlood"
   },
@@ -768,12 +768,12 @@
   },
 
   "Import WiFog (Weather Icons)": {
-    "prefix": "ri:wi:import:fog",
+    "prefix": "ri:import:wi:fog",
     "body": "import { WiFog } from 'react-icons/wi';",
     "description": "Import WiFog Weather icon from react-icons"
   },
   "Import WiFog (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:fog:all-files",
+    "prefix": "ri:import:wi:fog:all-files",
     "body": "import { WiFog } from '@react-icons/all-files/wi/WiFog';",
     "description": "Import WiFog Weather icon from @react-icons/all-files/wi/WiFog"
   },
@@ -784,12 +784,12 @@
   },
 
   "Import WiGaleWarning (Weather Icons)": {
-    "prefix": "ri:wi:import:gale-warning",
+    "prefix": "ri:import:wi:gale-warning",
     "body": "import { WiGaleWarning } from 'react-icons/wi';",
     "description": "Import WiGaleWarning Weather icon from react-icons"
   },
   "Import WiGaleWarning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:gale-warning:all-files",
+    "prefix": "ri:import:wi:gale-warning:all-files",
     "body": "import { WiGaleWarning } from '@react-icons/all-files/wi/WiGaleWarning';",
     "description": "Import WiGaleWarning Weather icon from @react-icons/all-files/wi/WiGaleWarning"
   },
@@ -800,12 +800,12 @@
   },
 
   "Import WiHail (Weather Icons)": {
-    "prefix": "ri:wi:import:hail",
+    "prefix": "ri:import:wi:hail",
     "body": "import { WiHail } from 'react-icons/wi';",
     "description": "Import WiHail Weather icon from react-icons"
   },
   "Import WiHail (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:hail:all-files",
+    "prefix": "ri:import:wi:hail:all-files",
     "body": "import { WiHail } from '@react-icons/all-files/wi/WiHail';",
     "description": "Import WiHail Weather icon from @react-icons/all-files/wi/WiHail"
   },
@@ -816,12 +816,12 @@
   },
 
   "Import WiHorizonAlt (Weather Icons)": {
-    "prefix": "ri:wi:import:horizon-alt",
+    "prefix": "ri:import:wi:horizon-alt",
     "body": "import { WiHorizonAlt } from 'react-icons/wi';",
     "description": "Import WiHorizonAlt Weather icon from react-icons"
   },
   "Import WiHorizonAlt (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:horizon-alt:all-files",
+    "prefix": "ri:import:wi:horizon-alt:all-files",
     "body": "import { WiHorizonAlt } from '@react-icons/all-files/wi/WiHorizonAlt';",
     "description": "Import WiHorizonAlt Weather icon from @react-icons/all-files/wi/WiHorizonAlt"
   },
@@ -832,12 +832,12 @@
   },
 
   "Import WiHorizon (Weather Icons)": {
-    "prefix": "ri:wi:import:horizon",
+    "prefix": "ri:import:wi:horizon",
     "body": "import { WiHorizon } from 'react-icons/wi';",
     "description": "Import WiHorizon Weather icon from react-icons"
   },
   "Import WiHorizon (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:horizon:all-files",
+    "prefix": "ri:import:wi:horizon:all-files",
     "body": "import { WiHorizon } from '@react-icons/all-files/wi/WiHorizon';",
     "description": "Import WiHorizon Weather icon from @react-icons/all-files/wi/WiHorizon"
   },
@@ -848,12 +848,12 @@
   },
 
   "Import WiHot (Weather Icons)": {
-    "prefix": "ri:wi:import:hot",
+    "prefix": "ri:import:wi:hot",
     "body": "import { WiHot } from 'react-icons/wi';",
     "description": "Import WiHot Weather icon from react-icons"
   },
   "Import WiHot (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:hot:all-files",
+    "prefix": "ri:import:wi:hot:all-files",
     "body": "import { WiHot } from '@react-icons/all-files/wi/WiHot';",
     "description": "Import WiHot Weather icon from @react-icons/all-files/wi/WiHot"
   },
@@ -864,12 +864,12 @@
   },
 
   "Import WiHumidity (Weather Icons)": {
-    "prefix": "ri:wi:import:humidity",
+    "prefix": "ri:import:wi:humidity",
     "body": "import { WiHumidity } from 'react-icons/wi';",
     "description": "Import WiHumidity Weather icon from react-icons"
   },
   "Import WiHumidity (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:humidity:all-files",
+    "prefix": "ri:import:wi:humidity:all-files",
     "body": "import { WiHumidity } from '@react-icons/all-files/wi/WiHumidity';",
     "description": "Import WiHumidity Weather icon from @react-icons/all-files/wi/WiHumidity"
   },
@@ -880,12 +880,12 @@
   },
 
   "Import WiHurricaneWarning (Weather Icons)": {
-    "prefix": "ri:wi:import:hurricane-warning",
+    "prefix": "ri:import:wi:hurricane-warning",
     "body": "import { WiHurricaneWarning } from 'react-icons/wi';",
     "description": "Import WiHurricaneWarning Weather icon from react-icons"
   },
   "Import WiHurricaneWarning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:hurricane-warning:all-files",
+    "prefix": "ri:import:wi:hurricane-warning:all-files",
     "body": "import { WiHurricaneWarning } from '@react-icons/all-files/wi/WiHurricaneWarning';",
     "description": "Import WiHurricaneWarning Weather icon from @react-icons/all-files/wi/WiHurricaneWarning"
   },
@@ -896,12 +896,12 @@
   },
 
   "Import WiHurricane (Weather Icons)": {
-    "prefix": "ri:wi:import:hurricane",
+    "prefix": "ri:import:wi:hurricane",
     "body": "import { WiHurricane } from 'react-icons/wi';",
     "description": "Import WiHurricane Weather icon from react-icons"
   },
   "Import WiHurricane (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:hurricane:all-files",
+    "prefix": "ri:import:wi:hurricane:all-files",
     "body": "import { WiHurricane } from '@react-icons/all-files/wi/WiHurricane';",
     "description": "Import WiHurricane Weather icon from @react-icons/all-files/wi/WiHurricane"
   },
@@ -912,12 +912,12 @@
   },
 
   "Import WiLightning (Weather Icons)": {
-    "prefix": "ri:wi:import:lightning",
+    "prefix": "ri:import:wi:lightning",
     "body": "import { WiLightning } from 'react-icons/wi';",
     "description": "Import WiLightning Weather icon from react-icons"
   },
   "Import WiLightning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:lightning:all-files",
+    "prefix": "ri:import:wi:lightning:all-files",
     "body": "import { WiLightning } from '@react-icons/all-files/wi/WiLightning';",
     "description": "Import WiLightning Weather icon from @react-icons/all-files/wi/WiLightning"
   },
@@ -928,12 +928,12 @@
   },
 
   "Import WiLunarEclipse (Weather Icons)": {
-    "prefix": "ri:wi:import:lunar-eclipse",
+    "prefix": "ri:import:wi:lunar-eclipse",
     "body": "import { WiLunarEclipse } from 'react-icons/wi';",
     "description": "Import WiLunarEclipse Weather icon from react-icons"
   },
   "Import WiLunarEclipse (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:lunar-eclipse:all-files",
+    "prefix": "ri:import:wi:lunar-eclipse:all-files",
     "body": "import { WiLunarEclipse } from '@react-icons/all-files/wi/WiLunarEclipse';",
     "description": "Import WiLunarEclipse Weather icon from @react-icons/all-files/wi/WiLunarEclipse"
   },
@@ -944,12 +944,12 @@
   },
 
   "Import WiMeteor (Weather Icons)": {
-    "prefix": "ri:wi:import:meteor",
+    "prefix": "ri:import:wi:meteor",
     "body": "import { WiMeteor } from 'react-icons/wi';",
     "description": "Import WiMeteor Weather icon from react-icons"
   },
   "Import WiMeteor (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:meteor:all-files",
+    "prefix": "ri:import:wi:meteor:all-files",
     "body": "import { WiMeteor } from '@react-icons/all-files/wi/WiMeteor';",
     "description": "Import WiMeteor Weather icon from @react-icons/all-files/wi/WiMeteor"
   },
@@ -960,12 +960,12 @@
   },
 
   "Import WiMoonAltFirstQuarter (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-first-quarter",
+    "prefix": "ri:import:wi:moon-alt-first-quarter",
     "body": "import { WiMoonAltFirstQuarter } from 'react-icons/wi';",
     "description": "Import WiMoonAltFirstQuarter Weather icon from react-icons"
   },
   "Import WiMoonAltFirstQuarter (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-first-quarter:all-files",
+    "prefix": "ri:import:wi:moon-alt-first-quarter:all-files",
     "body": "import { WiMoonAltFirstQuarter } from '@react-icons/all-files/wi/WiMoonAltFirstQuarter';",
     "description": "Import WiMoonAltFirstQuarter Weather icon from @react-icons/all-files/wi/WiMoonAltFirstQuarter"
   },
@@ -976,12 +976,12 @@
   },
 
   "Import WiMoonAltFull (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-full",
+    "prefix": "ri:import:wi:moon-alt-full",
     "body": "import { WiMoonAltFull } from 'react-icons/wi';",
     "description": "Import WiMoonAltFull Weather icon from react-icons"
   },
   "Import WiMoonAltFull (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-full:all-files",
+    "prefix": "ri:import:wi:moon-alt-full:all-files",
     "body": "import { WiMoonAltFull } from '@react-icons/all-files/wi/WiMoonAltFull';",
     "description": "Import WiMoonAltFull Weather icon from @react-icons/all-files/wi/WiMoonAltFull"
   },
@@ -992,12 +992,12 @@
   },
 
   "Import WiMoonAltNew (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-new",
+    "prefix": "ri:import:wi:moon-alt-new",
     "body": "import { WiMoonAltNew } from 'react-icons/wi';",
     "description": "Import WiMoonAltNew Weather icon from react-icons"
   },
   "Import WiMoonAltNew (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-new:all-files",
+    "prefix": "ri:import:wi:moon-alt-new:all-files",
     "body": "import { WiMoonAltNew } from '@react-icons/all-files/wi/WiMoonAltNew';",
     "description": "Import WiMoonAltNew Weather icon from @react-icons/all-files/wi/WiMoonAltNew"
   },
@@ -1008,12 +1008,12 @@
   },
 
   "Import WiMoonAltThirdQuarter (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-third-quarter",
+    "prefix": "ri:import:wi:moon-alt-third-quarter",
     "body": "import { WiMoonAltThirdQuarter } from 'react-icons/wi';",
     "description": "Import WiMoonAltThirdQuarter Weather icon from react-icons"
   },
   "Import WiMoonAltThirdQuarter (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-third-quarter:all-files",
+    "prefix": "ri:import:wi:moon-alt-third-quarter:all-files",
     "body": "import { WiMoonAltThirdQuarter } from '@react-icons/all-files/wi/WiMoonAltThirdQuarter';",
     "description": "Import WiMoonAltThirdQuarter Weather icon from @react-icons/all-files/wi/WiMoonAltThirdQuarter"
   },
@@ -1024,12 +1024,12 @@
   },
 
   "Import WiMoonAltWaningCrescent1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-1",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-1",
     "body": "import { WiMoonAltWaningCrescent1 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningCrescent1 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningCrescent1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-1:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-1:all-files",
     "body": "import { WiMoonAltWaningCrescent1 } from '@react-icons/all-files/wi/WiMoonAltWaningCrescent1';",
     "description": "Import WiMoonAltWaningCrescent1 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningCrescent1"
   },
@@ -1040,12 +1040,12 @@
   },
 
   "Import WiMoonAltWaningCrescent2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-2",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-2",
     "body": "import { WiMoonAltWaningCrescent2 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningCrescent2 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningCrescent2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-2:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-2:all-files",
     "body": "import { WiMoonAltWaningCrescent2 } from '@react-icons/all-files/wi/WiMoonAltWaningCrescent2';",
     "description": "Import WiMoonAltWaningCrescent2 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningCrescent2"
   },
@@ -1056,12 +1056,12 @@
   },
 
   "Import WiMoonAltWaningCrescent3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-3",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-3",
     "body": "import { WiMoonAltWaningCrescent3 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningCrescent3 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningCrescent3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-3:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-3:all-files",
     "body": "import { WiMoonAltWaningCrescent3 } from '@react-icons/all-files/wi/WiMoonAltWaningCrescent3';",
     "description": "Import WiMoonAltWaningCrescent3 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningCrescent3"
   },
@@ -1072,12 +1072,12 @@
   },
 
   "Import WiMoonAltWaningCrescent4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-4",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-4",
     "body": "import { WiMoonAltWaningCrescent4 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningCrescent4 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningCrescent4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-4:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-4:all-files",
     "body": "import { WiMoonAltWaningCrescent4 } from '@react-icons/all-files/wi/WiMoonAltWaningCrescent4';",
     "description": "Import WiMoonAltWaningCrescent4 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningCrescent4"
   },
@@ -1088,12 +1088,12 @@
   },
 
   "Import WiMoonAltWaningCrescent5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-5",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-5",
     "body": "import { WiMoonAltWaningCrescent5 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningCrescent5 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningCrescent5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-5:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-5:all-files",
     "body": "import { WiMoonAltWaningCrescent5 } from '@react-icons/all-files/wi/WiMoonAltWaningCrescent5';",
     "description": "Import WiMoonAltWaningCrescent5 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningCrescent5"
   },
@@ -1104,12 +1104,12 @@
   },
 
   "Import WiMoonAltWaningCrescent6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-6",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-6",
     "body": "import { WiMoonAltWaningCrescent6 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningCrescent6 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningCrescent6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-crescent-6:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-crescent-6:all-files",
     "body": "import { WiMoonAltWaningCrescent6 } from '@react-icons/all-files/wi/WiMoonAltWaningCrescent6';",
     "description": "Import WiMoonAltWaningCrescent6 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningCrescent6"
   },
@@ -1120,12 +1120,12 @@
   },
 
   "Import WiMoonAltWaningGibbous1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-1",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-1",
     "body": "import { WiMoonAltWaningGibbous1 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningGibbous1 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningGibbous1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-1:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-1:all-files",
     "body": "import { WiMoonAltWaningGibbous1 } from '@react-icons/all-files/wi/WiMoonAltWaningGibbous1';",
     "description": "Import WiMoonAltWaningGibbous1 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningGibbous1"
   },
@@ -1136,12 +1136,12 @@
   },
 
   "Import WiMoonAltWaningGibbous2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-2",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-2",
     "body": "import { WiMoonAltWaningGibbous2 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningGibbous2 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningGibbous2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-2:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-2:all-files",
     "body": "import { WiMoonAltWaningGibbous2 } from '@react-icons/all-files/wi/WiMoonAltWaningGibbous2';",
     "description": "Import WiMoonAltWaningGibbous2 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningGibbous2"
   },
@@ -1152,12 +1152,12 @@
   },
 
   "Import WiMoonAltWaningGibbous3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-3",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-3",
     "body": "import { WiMoonAltWaningGibbous3 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningGibbous3 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningGibbous3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-3:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-3:all-files",
     "body": "import { WiMoonAltWaningGibbous3 } from '@react-icons/all-files/wi/WiMoonAltWaningGibbous3';",
     "description": "Import WiMoonAltWaningGibbous3 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningGibbous3"
   },
@@ -1168,12 +1168,12 @@
   },
 
   "Import WiMoonAltWaningGibbous4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-4",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-4",
     "body": "import { WiMoonAltWaningGibbous4 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningGibbous4 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningGibbous4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-4:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-4:all-files",
     "body": "import { WiMoonAltWaningGibbous4 } from '@react-icons/all-files/wi/WiMoonAltWaningGibbous4';",
     "description": "Import WiMoonAltWaningGibbous4 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningGibbous4"
   },
@@ -1184,12 +1184,12 @@
   },
 
   "Import WiMoonAltWaningGibbous5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-5",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-5",
     "body": "import { WiMoonAltWaningGibbous5 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningGibbous5 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningGibbous5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-5:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-5:all-files",
     "body": "import { WiMoonAltWaningGibbous5 } from '@react-icons/all-files/wi/WiMoonAltWaningGibbous5';",
     "description": "Import WiMoonAltWaningGibbous5 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningGibbous5"
   },
@@ -1200,12 +1200,12 @@
   },
 
   "Import WiMoonAltWaningGibbous6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-6",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-6",
     "body": "import { WiMoonAltWaningGibbous6 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaningGibbous6 Weather icon from react-icons"
   },
   "Import WiMoonAltWaningGibbous6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waning-gibbous-6:all-files",
+    "prefix": "ri:import:wi:moon-alt-waning-gibbous-6:all-files",
     "body": "import { WiMoonAltWaningGibbous6 } from '@react-icons/all-files/wi/WiMoonAltWaningGibbous6';",
     "description": "Import WiMoonAltWaningGibbous6 Weather icon from @react-icons/all-files/wi/WiMoonAltWaningGibbous6"
   },
@@ -1216,12 +1216,12 @@
   },
 
   "Import WiMoonAltWaxingCrescent1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-1",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-1",
     "body": "import { WiMoonAltWaxingCrescent1 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingCrescent1 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingCrescent1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-1:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-1:all-files",
     "body": "import { WiMoonAltWaxingCrescent1 } from '@react-icons/all-files/wi/WiMoonAltWaxingCrescent1';",
     "description": "Import WiMoonAltWaxingCrescent1 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingCrescent1"
   },
@@ -1232,12 +1232,12 @@
   },
 
   "Import WiMoonAltWaxingCrescent2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-2",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-2",
     "body": "import { WiMoonAltWaxingCrescent2 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingCrescent2 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingCrescent2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-2:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-2:all-files",
     "body": "import { WiMoonAltWaxingCrescent2 } from '@react-icons/all-files/wi/WiMoonAltWaxingCrescent2';",
     "description": "Import WiMoonAltWaxingCrescent2 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingCrescent2"
   },
@@ -1248,12 +1248,12 @@
   },
 
   "Import WiMoonAltWaxingCrescent3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-3",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-3",
     "body": "import { WiMoonAltWaxingCrescent3 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingCrescent3 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingCrescent3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-3:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-3:all-files",
     "body": "import { WiMoonAltWaxingCrescent3 } from '@react-icons/all-files/wi/WiMoonAltWaxingCrescent3';",
     "description": "Import WiMoonAltWaxingCrescent3 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingCrescent3"
   },
@@ -1264,12 +1264,12 @@
   },
 
   "Import WiMoonAltWaxingCrescent4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-4",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-4",
     "body": "import { WiMoonAltWaxingCrescent4 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingCrescent4 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingCrescent4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-4:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-4:all-files",
     "body": "import { WiMoonAltWaxingCrescent4 } from '@react-icons/all-files/wi/WiMoonAltWaxingCrescent4';",
     "description": "Import WiMoonAltWaxingCrescent4 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingCrescent4"
   },
@@ -1280,12 +1280,12 @@
   },
 
   "Import WiMoonAltWaxingCrescent5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-5",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-5",
     "body": "import { WiMoonAltWaxingCrescent5 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingCrescent5 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingCrescent5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-5:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-5:all-files",
     "body": "import { WiMoonAltWaxingCrescent5 } from '@react-icons/all-files/wi/WiMoonAltWaxingCrescent5';",
     "description": "Import WiMoonAltWaxingCrescent5 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingCrescent5"
   },
@@ -1296,12 +1296,12 @@
   },
 
   "Import WiMoonAltWaxingCrescent6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-6",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-6",
     "body": "import { WiMoonAltWaxingCrescent6 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingCrescent6 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingCrescent6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-crescent-6:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-crescent-6:all-files",
     "body": "import { WiMoonAltWaxingCrescent6 } from '@react-icons/all-files/wi/WiMoonAltWaxingCrescent6';",
     "description": "Import WiMoonAltWaxingCrescent6 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingCrescent6"
   },
@@ -1312,12 +1312,12 @@
   },
 
   "Import WiMoonAltWaxingGibbous1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-1",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-1",
     "body": "import { WiMoonAltWaxingGibbous1 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingGibbous1 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingGibbous1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-1:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-1:all-files",
     "body": "import { WiMoonAltWaxingGibbous1 } from '@react-icons/all-files/wi/WiMoonAltWaxingGibbous1';",
     "description": "Import WiMoonAltWaxingGibbous1 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingGibbous1"
   },
@@ -1328,12 +1328,12 @@
   },
 
   "Import WiMoonAltWaxingGibbous2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-2",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-2",
     "body": "import { WiMoonAltWaxingGibbous2 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingGibbous2 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingGibbous2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-2:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-2:all-files",
     "body": "import { WiMoonAltWaxingGibbous2 } from '@react-icons/all-files/wi/WiMoonAltWaxingGibbous2';",
     "description": "Import WiMoonAltWaxingGibbous2 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingGibbous2"
   },
@@ -1344,12 +1344,12 @@
   },
 
   "Import WiMoonAltWaxingGibbous3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-3",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-3",
     "body": "import { WiMoonAltWaxingGibbous3 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingGibbous3 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingGibbous3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-3:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-3:all-files",
     "body": "import { WiMoonAltWaxingGibbous3 } from '@react-icons/all-files/wi/WiMoonAltWaxingGibbous3';",
     "description": "Import WiMoonAltWaxingGibbous3 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingGibbous3"
   },
@@ -1360,12 +1360,12 @@
   },
 
   "Import WiMoonAltWaxingGibbous4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-4",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-4",
     "body": "import { WiMoonAltWaxingGibbous4 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingGibbous4 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingGibbous4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-4:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-4:all-files",
     "body": "import { WiMoonAltWaxingGibbous4 } from '@react-icons/all-files/wi/WiMoonAltWaxingGibbous4';",
     "description": "Import WiMoonAltWaxingGibbous4 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingGibbous4"
   },
@@ -1376,12 +1376,12 @@
   },
 
   "Import WiMoonAltWaxingGibbous5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-5",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-5",
     "body": "import { WiMoonAltWaxingGibbous5 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingGibbous5 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingGibbous5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-5:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-5:all-files",
     "body": "import { WiMoonAltWaxingGibbous5 } from '@react-icons/all-files/wi/WiMoonAltWaxingGibbous5';",
     "description": "Import WiMoonAltWaxingGibbous5 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingGibbous5"
   },
@@ -1392,12 +1392,12 @@
   },
 
   "Import WiMoonAltWaxingGibbous6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-6",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-6",
     "body": "import { WiMoonAltWaxingGibbous6 } from 'react-icons/wi';",
     "description": "Import WiMoonAltWaxingGibbous6 Weather icon from react-icons"
   },
   "Import WiMoonAltWaxingGibbous6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-alt-waxing-gibbous-6:all-files",
+    "prefix": "ri:import:wi:moon-alt-waxing-gibbous-6:all-files",
     "body": "import { WiMoonAltWaxingGibbous6 } from '@react-icons/all-files/wi/WiMoonAltWaxingGibbous6';",
     "description": "Import WiMoonAltWaxingGibbous6 Weather icon from @react-icons/all-files/wi/WiMoonAltWaxingGibbous6"
   },
@@ -1408,12 +1408,12 @@
   },
 
   "Import WiMoonFirstQuarter (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-first-quarter",
+    "prefix": "ri:import:wi:moon-first-quarter",
     "body": "import { WiMoonFirstQuarter } from 'react-icons/wi';",
     "description": "Import WiMoonFirstQuarter Weather icon from react-icons"
   },
   "Import WiMoonFirstQuarter (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-first-quarter:all-files",
+    "prefix": "ri:import:wi:moon-first-quarter:all-files",
     "body": "import { WiMoonFirstQuarter } from '@react-icons/all-files/wi/WiMoonFirstQuarter';",
     "description": "Import WiMoonFirstQuarter Weather icon from @react-icons/all-files/wi/WiMoonFirstQuarter"
   },
@@ -1424,12 +1424,12 @@
   },
 
   "Import WiMoonFull (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-full",
+    "prefix": "ri:import:wi:moon-full",
     "body": "import { WiMoonFull } from 'react-icons/wi';",
     "description": "Import WiMoonFull Weather icon from react-icons"
   },
   "Import WiMoonFull (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-full:all-files",
+    "prefix": "ri:import:wi:moon-full:all-files",
     "body": "import { WiMoonFull } from '@react-icons/all-files/wi/WiMoonFull';",
     "description": "Import WiMoonFull Weather icon from @react-icons/all-files/wi/WiMoonFull"
   },
@@ -1440,12 +1440,12 @@
   },
 
   "Import WiMoonNew (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-new",
+    "prefix": "ri:import:wi:moon-new",
     "body": "import { WiMoonNew } from 'react-icons/wi';",
     "description": "Import WiMoonNew Weather icon from react-icons"
   },
   "Import WiMoonNew (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-new:all-files",
+    "prefix": "ri:import:wi:moon-new:all-files",
     "body": "import { WiMoonNew } from '@react-icons/all-files/wi/WiMoonNew';",
     "description": "Import WiMoonNew Weather icon from @react-icons/all-files/wi/WiMoonNew"
   },
@@ -1456,12 +1456,12 @@
   },
 
   "Import WiMoonThirdQuarter (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-third-quarter",
+    "prefix": "ri:import:wi:moon-third-quarter",
     "body": "import { WiMoonThirdQuarter } from 'react-icons/wi';",
     "description": "Import WiMoonThirdQuarter Weather icon from react-icons"
   },
   "Import WiMoonThirdQuarter (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-third-quarter:all-files",
+    "prefix": "ri:import:wi:moon-third-quarter:all-files",
     "body": "import { WiMoonThirdQuarter } from '@react-icons/all-files/wi/WiMoonThirdQuarter';",
     "description": "Import WiMoonThirdQuarter Weather icon from @react-icons/all-files/wi/WiMoonThirdQuarter"
   },
@@ -1472,12 +1472,12 @@
   },
 
   "Import WiMoonWaningCrescent1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-crescent-1",
+    "prefix": "ri:import:wi:moon-waning-crescent-1",
     "body": "import { WiMoonWaningCrescent1 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningCrescent1 Weather icon from react-icons"
   },
   "Import WiMoonWaningCrescent1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-crescent-1:all-files",
+    "prefix": "ri:import:wi:moon-waning-crescent-1:all-files",
     "body": "import { WiMoonWaningCrescent1 } from '@react-icons/all-files/wi/WiMoonWaningCrescent1';",
     "description": "Import WiMoonWaningCrescent1 Weather icon from @react-icons/all-files/wi/WiMoonWaningCrescent1"
   },
@@ -1488,12 +1488,12 @@
   },
 
   "Import WiMoonWaningCrescent2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-crescent-2",
+    "prefix": "ri:import:wi:moon-waning-crescent-2",
     "body": "import { WiMoonWaningCrescent2 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningCrescent2 Weather icon from react-icons"
   },
   "Import WiMoonWaningCrescent2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-crescent-2:all-files",
+    "prefix": "ri:import:wi:moon-waning-crescent-2:all-files",
     "body": "import { WiMoonWaningCrescent2 } from '@react-icons/all-files/wi/WiMoonWaningCrescent2';",
     "description": "Import WiMoonWaningCrescent2 Weather icon from @react-icons/all-files/wi/WiMoonWaningCrescent2"
   },
@@ -1504,12 +1504,12 @@
   },
 
   "Import WiMoonWaningCrescent3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-crescent-3",
+    "prefix": "ri:import:wi:moon-waning-crescent-3",
     "body": "import { WiMoonWaningCrescent3 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningCrescent3 Weather icon from react-icons"
   },
   "Import WiMoonWaningCrescent3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-crescent-3:all-files",
+    "prefix": "ri:import:wi:moon-waning-crescent-3:all-files",
     "body": "import { WiMoonWaningCrescent3 } from '@react-icons/all-files/wi/WiMoonWaningCrescent3';",
     "description": "Import WiMoonWaningCrescent3 Weather icon from @react-icons/all-files/wi/WiMoonWaningCrescent3"
   },
@@ -1520,12 +1520,12 @@
   },
 
   "Import WiMoonWaningCrescent4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-crescent-4",
+    "prefix": "ri:import:wi:moon-waning-crescent-4",
     "body": "import { WiMoonWaningCrescent4 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningCrescent4 Weather icon from react-icons"
   },
   "Import WiMoonWaningCrescent4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-crescent-4:all-files",
+    "prefix": "ri:import:wi:moon-waning-crescent-4:all-files",
     "body": "import { WiMoonWaningCrescent4 } from '@react-icons/all-files/wi/WiMoonWaningCrescent4';",
     "description": "Import WiMoonWaningCrescent4 Weather icon from @react-icons/all-files/wi/WiMoonWaningCrescent4"
   },
@@ -1536,12 +1536,12 @@
   },
 
   "Import WiMoonWaningCrescent5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-crescent-5",
+    "prefix": "ri:import:wi:moon-waning-crescent-5",
     "body": "import { WiMoonWaningCrescent5 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningCrescent5 Weather icon from react-icons"
   },
   "Import WiMoonWaningCrescent5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-crescent-5:all-files",
+    "prefix": "ri:import:wi:moon-waning-crescent-5:all-files",
     "body": "import { WiMoonWaningCrescent5 } from '@react-icons/all-files/wi/WiMoonWaningCrescent5';",
     "description": "Import WiMoonWaningCrescent5 Weather icon from @react-icons/all-files/wi/WiMoonWaningCrescent5"
   },
@@ -1552,12 +1552,12 @@
   },
 
   "Import WiMoonWaningCrescent6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-crescent-6",
+    "prefix": "ri:import:wi:moon-waning-crescent-6",
     "body": "import { WiMoonWaningCrescent6 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningCrescent6 Weather icon from react-icons"
   },
   "Import WiMoonWaningCrescent6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-crescent-6:all-files",
+    "prefix": "ri:import:wi:moon-waning-crescent-6:all-files",
     "body": "import { WiMoonWaningCrescent6 } from '@react-icons/all-files/wi/WiMoonWaningCrescent6';",
     "description": "Import WiMoonWaningCrescent6 Weather icon from @react-icons/all-files/wi/WiMoonWaningCrescent6"
   },
@@ -1568,12 +1568,12 @@
   },
 
   "Import WiMoonWaningGibbous1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-1",
+    "prefix": "ri:import:wi:moon-waning-gibbous-1",
     "body": "import { WiMoonWaningGibbous1 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningGibbous1 Weather icon from react-icons"
   },
   "Import WiMoonWaningGibbous1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-1:all-files",
+    "prefix": "ri:import:wi:moon-waning-gibbous-1:all-files",
     "body": "import { WiMoonWaningGibbous1 } from '@react-icons/all-files/wi/WiMoonWaningGibbous1';",
     "description": "Import WiMoonWaningGibbous1 Weather icon from @react-icons/all-files/wi/WiMoonWaningGibbous1"
   },
@@ -1584,12 +1584,12 @@
   },
 
   "Import WiMoonWaningGibbous2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-2",
+    "prefix": "ri:import:wi:moon-waning-gibbous-2",
     "body": "import { WiMoonWaningGibbous2 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningGibbous2 Weather icon from react-icons"
   },
   "Import WiMoonWaningGibbous2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-2:all-files",
+    "prefix": "ri:import:wi:moon-waning-gibbous-2:all-files",
     "body": "import { WiMoonWaningGibbous2 } from '@react-icons/all-files/wi/WiMoonWaningGibbous2';",
     "description": "Import WiMoonWaningGibbous2 Weather icon from @react-icons/all-files/wi/WiMoonWaningGibbous2"
   },
@@ -1600,12 +1600,12 @@
   },
 
   "Import WiMoonWaningGibbous3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-3",
+    "prefix": "ri:import:wi:moon-waning-gibbous-3",
     "body": "import { WiMoonWaningGibbous3 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningGibbous3 Weather icon from react-icons"
   },
   "Import WiMoonWaningGibbous3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-3:all-files",
+    "prefix": "ri:import:wi:moon-waning-gibbous-3:all-files",
     "body": "import { WiMoonWaningGibbous3 } from '@react-icons/all-files/wi/WiMoonWaningGibbous3';",
     "description": "Import WiMoonWaningGibbous3 Weather icon from @react-icons/all-files/wi/WiMoonWaningGibbous3"
   },
@@ -1616,12 +1616,12 @@
   },
 
   "Import WiMoonWaningGibbous4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-4",
+    "prefix": "ri:import:wi:moon-waning-gibbous-4",
     "body": "import { WiMoonWaningGibbous4 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningGibbous4 Weather icon from react-icons"
   },
   "Import WiMoonWaningGibbous4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-4:all-files",
+    "prefix": "ri:import:wi:moon-waning-gibbous-4:all-files",
     "body": "import { WiMoonWaningGibbous4 } from '@react-icons/all-files/wi/WiMoonWaningGibbous4';",
     "description": "Import WiMoonWaningGibbous4 Weather icon from @react-icons/all-files/wi/WiMoonWaningGibbous4"
   },
@@ -1632,12 +1632,12 @@
   },
 
   "Import WiMoonWaningGibbous5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-5",
+    "prefix": "ri:import:wi:moon-waning-gibbous-5",
     "body": "import { WiMoonWaningGibbous5 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningGibbous5 Weather icon from react-icons"
   },
   "Import WiMoonWaningGibbous5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-5:all-files",
+    "prefix": "ri:import:wi:moon-waning-gibbous-5:all-files",
     "body": "import { WiMoonWaningGibbous5 } from '@react-icons/all-files/wi/WiMoonWaningGibbous5';",
     "description": "Import WiMoonWaningGibbous5 Weather icon from @react-icons/all-files/wi/WiMoonWaningGibbous5"
   },
@@ -1648,12 +1648,12 @@
   },
 
   "Import WiMoonWaningGibbous6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-6",
+    "prefix": "ri:import:wi:moon-waning-gibbous-6",
     "body": "import { WiMoonWaningGibbous6 } from 'react-icons/wi';",
     "description": "Import WiMoonWaningGibbous6 Weather icon from react-icons"
   },
   "Import WiMoonWaningGibbous6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waning-gibbous-6:all-files",
+    "prefix": "ri:import:wi:moon-waning-gibbous-6:all-files",
     "body": "import { WiMoonWaningGibbous6 } from '@react-icons/all-files/wi/WiMoonWaningGibbous6';",
     "description": "Import WiMoonWaningGibbous6 Weather icon from @react-icons/all-files/wi/WiMoonWaningGibbous6"
   },
@@ -1664,12 +1664,12 @@
   },
 
   "Import WiMoonWaxingCrescent1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-1",
+    "prefix": "ri:import:wi:moon-waxing-crescent-1",
     "body": "import { WiMoonWaxingCrescent1 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingCrescent1 Weather icon from react-icons"
   },
   "Import WiMoonWaxingCrescent1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-1:all-files",
+    "prefix": "ri:import:wi:moon-waxing-crescent-1:all-files",
     "body": "import { WiMoonWaxingCrescent1 } from '@react-icons/all-files/wi/WiMoonWaxingCrescent1';",
     "description": "Import WiMoonWaxingCrescent1 Weather icon from @react-icons/all-files/wi/WiMoonWaxingCrescent1"
   },
@@ -1680,12 +1680,12 @@
   },
 
   "Import WiMoonWaxingCrescent2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-2",
+    "prefix": "ri:import:wi:moon-waxing-crescent-2",
     "body": "import { WiMoonWaxingCrescent2 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingCrescent2 Weather icon from react-icons"
   },
   "Import WiMoonWaxingCrescent2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-2:all-files",
+    "prefix": "ri:import:wi:moon-waxing-crescent-2:all-files",
     "body": "import { WiMoonWaxingCrescent2 } from '@react-icons/all-files/wi/WiMoonWaxingCrescent2';",
     "description": "Import WiMoonWaxingCrescent2 Weather icon from @react-icons/all-files/wi/WiMoonWaxingCrescent2"
   },
@@ -1696,12 +1696,12 @@
   },
 
   "Import WiMoonWaxingCrescent3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-3",
+    "prefix": "ri:import:wi:moon-waxing-crescent-3",
     "body": "import { WiMoonWaxingCrescent3 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingCrescent3 Weather icon from react-icons"
   },
   "Import WiMoonWaxingCrescent3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-3:all-files",
+    "prefix": "ri:import:wi:moon-waxing-crescent-3:all-files",
     "body": "import { WiMoonWaxingCrescent3 } from '@react-icons/all-files/wi/WiMoonWaxingCrescent3';",
     "description": "Import WiMoonWaxingCrescent3 Weather icon from @react-icons/all-files/wi/WiMoonWaxingCrescent3"
   },
@@ -1712,12 +1712,12 @@
   },
 
   "Import WiMoonWaxingCrescent4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-4",
+    "prefix": "ri:import:wi:moon-waxing-crescent-4",
     "body": "import { WiMoonWaxingCrescent4 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingCrescent4 Weather icon from react-icons"
   },
   "Import WiMoonWaxingCrescent4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-4:all-files",
+    "prefix": "ri:import:wi:moon-waxing-crescent-4:all-files",
     "body": "import { WiMoonWaxingCrescent4 } from '@react-icons/all-files/wi/WiMoonWaxingCrescent4';",
     "description": "Import WiMoonWaxingCrescent4 Weather icon from @react-icons/all-files/wi/WiMoonWaxingCrescent4"
   },
@@ -1728,12 +1728,12 @@
   },
 
   "Import WiMoonWaxingCrescent5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-5",
+    "prefix": "ri:import:wi:moon-waxing-crescent-5",
     "body": "import { WiMoonWaxingCrescent5 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingCrescent5 Weather icon from react-icons"
   },
   "Import WiMoonWaxingCrescent5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-5:all-files",
+    "prefix": "ri:import:wi:moon-waxing-crescent-5:all-files",
     "body": "import { WiMoonWaxingCrescent5 } from '@react-icons/all-files/wi/WiMoonWaxingCrescent5';",
     "description": "Import WiMoonWaxingCrescent5 Weather icon from @react-icons/all-files/wi/WiMoonWaxingCrescent5"
   },
@@ -1744,12 +1744,12 @@
   },
 
   "Import WiMoonWaxingCrescent6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-6",
+    "prefix": "ri:import:wi:moon-waxing-crescent-6",
     "body": "import { WiMoonWaxingCrescent6 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingCrescent6 Weather icon from react-icons"
   },
   "Import WiMoonWaxingCrescent6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-crescent-6:all-files",
+    "prefix": "ri:import:wi:moon-waxing-crescent-6:all-files",
     "body": "import { WiMoonWaxingCrescent6 } from '@react-icons/all-files/wi/WiMoonWaxingCrescent6';",
     "description": "Import WiMoonWaxingCrescent6 Weather icon from @react-icons/all-files/wi/WiMoonWaxingCrescent6"
   },
@@ -1760,12 +1760,12 @@
   },
 
   "Import WiMoonWaxingGibbous1 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-1",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-1",
     "body": "import { WiMoonWaxingGibbous1 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingGibbous1 Weather icon from react-icons"
   },
   "Import WiMoonWaxingGibbous1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-1:all-files",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-1:all-files",
     "body": "import { WiMoonWaxingGibbous1 } from '@react-icons/all-files/wi/WiMoonWaxingGibbous1';",
     "description": "Import WiMoonWaxingGibbous1 Weather icon from @react-icons/all-files/wi/WiMoonWaxingGibbous1"
   },
@@ -1776,12 +1776,12 @@
   },
 
   "Import WiMoonWaxingGibbous2 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-2",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-2",
     "body": "import { WiMoonWaxingGibbous2 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingGibbous2 Weather icon from react-icons"
   },
   "Import WiMoonWaxingGibbous2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-2:all-files",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-2:all-files",
     "body": "import { WiMoonWaxingGibbous2 } from '@react-icons/all-files/wi/WiMoonWaxingGibbous2';",
     "description": "Import WiMoonWaxingGibbous2 Weather icon from @react-icons/all-files/wi/WiMoonWaxingGibbous2"
   },
@@ -1792,12 +1792,12 @@
   },
 
   "Import WiMoonWaxingGibbous3 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-3",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-3",
     "body": "import { WiMoonWaxingGibbous3 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingGibbous3 Weather icon from react-icons"
   },
   "Import WiMoonWaxingGibbous3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-3:all-files",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-3:all-files",
     "body": "import { WiMoonWaxingGibbous3 } from '@react-icons/all-files/wi/WiMoonWaxingGibbous3';",
     "description": "Import WiMoonWaxingGibbous3 Weather icon from @react-icons/all-files/wi/WiMoonWaxingGibbous3"
   },
@@ -1808,12 +1808,12 @@
   },
 
   "Import WiMoonWaxingGibbous4 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-4",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-4",
     "body": "import { WiMoonWaxingGibbous4 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingGibbous4 Weather icon from react-icons"
   },
   "Import WiMoonWaxingGibbous4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-4:all-files",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-4:all-files",
     "body": "import { WiMoonWaxingGibbous4 } from '@react-icons/all-files/wi/WiMoonWaxingGibbous4';",
     "description": "Import WiMoonWaxingGibbous4 Weather icon from @react-icons/all-files/wi/WiMoonWaxingGibbous4"
   },
@@ -1824,12 +1824,12 @@
   },
 
   "Import WiMoonWaxingGibbous5 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-5",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-5",
     "body": "import { WiMoonWaxingGibbous5 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingGibbous5 Weather icon from react-icons"
   },
   "Import WiMoonWaxingGibbous5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-5:all-files",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-5:all-files",
     "body": "import { WiMoonWaxingGibbous5 } from '@react-icons/all-files/wi/WiMoonWaxingGibbous5';",
     "description": "Import WiMoonWaxingGibbous5 Weather icon from @react-icons/all-files/wi/WiMoonWaxingGibbous5"
   },
@@ -1840,12 +1840,12 @@
   },
 
   "Import WiMoonWaxingGibbous6 (Weather Icons)": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-6",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-6",
     "body": "import { WiMoonWaxingGibbous6 } from 'react-icons/wi';",
     "description": "Import WiMoonWaxingGibbous6 Weather icon from react-icons"
   },
   "Import WiMoonWaxingGibbous6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moon-waxing-gibbous-6:all-files",
+    "prefix": "ri:import:wi:moon-waxing-gibbous-6:all-files",
     "body": "import { WiMoonWaxingGibbous6 } from '@react-icons/all-files/wi/WiMoonWaxingGibbous6';",
     "description": "Import WiMoonWaxingGibbous6 Weather icon from @react-icons/all-files/wi/WiMoonWaxingGibbous6"
   },
@@ -1856,12 +1856,12 @@
   },
 
   "Import WiMoonrise (Weather Icons)": {
-    "prefix": "ri:wi:import:moonrise",
+    "prefix": "ri:import:wi:moonrise",
     "body": "import { WiMoonrise } from 'react-icons/wi';",
     "description": "Import WiMoonrise Weather icon from react-icons"
   },
   "Import WiMoonrise (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moonrise:all-files",
+    "prefix": "ri:import:wi:moonrise:all-files",
     "body": "import { WiMoonrise } from '@react-icons/all-files/wi/WiMoonrise';",
     "description": "Import WiMoonrise Weather icon from @react-icons/all-files/wi/WiMoonrise"
   },
@@ -1872,12 +1872,12 @@
   },
 
   "Import WiMoonset (Weather Icons)": {
-    "prefix": "ri:wi:import:moonset",
+    "prefix": "ri:import:wi:moonset",
     "body": "import { WiMoonset } from 'react-icons/wi';",
     "description": "Import WiMoonset Weather icon from react-icons"
   },
   "Import WiMoonset (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:moonset:all-files",
+    "prefix": "ri:import:wi:moonset:all-files",
     "body": "import { WiMoonset } from '@react-icons/all-files/wi/WiMoonset';",
     "description": "Import WiMoonset Weather icon from @react-icons/all-files/wi/WiMoonset"
   },
@@ -1888,12 +1888,12 @@
   },
 
   "Import WiNa (Weather Icons)": {
-    "prefix": "ri:wi:import:na",
+    "prefix": "ri:import:wi:na",
     "body": "import { WiNa } from 'react-icons/wi';",
     "description": "Import WiNa Weather icon from react-icons"
   },
   "Import WiNa (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:na:all-files",
+    "prefix": "ri:import:wi:na:all-files",
     "body": "import { WiNa } from '@react-icons/all-files/wi/WiNa';",
     "description": "Import WiNa Weather icon from @react-icons/all-files/wi/WiNa"
   },
@@ -1904,12 +1904,12 @@
   },
 
   "Import WiNightAltCloudyGusts (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-cloudy-gusts",
+    "prefix": "ri:import:wi:night-alt-cloudy-gusts",
     "body": "import { WiNightAltCloudyGusts } from 'react-icons/wi';",
     "description": "Import WiNightAltCloudyGusts Weather icon from react-icons"
   },
   "Import WiNightAltCloudyGusts (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-cloudy-gusts:all-files",
+    "prefix": "ri:import:wi:night-alt-cloudy-gusts:all-files",
     "body": "import { WiNightAltCloudyGusts } from '@react-icons/all-files/wi/WiNightAltCloudyGusts';",
     "description": "Import WiNightAltCloudyGusts Weather icon from @react-icons/all-files/wi/WiNightAltCloudyGusts"
   },
@@ -1920,12 +1920,12 @@
   },
 
   "Import WiNightAltCloudyHigh (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-cloudy-high",
+    "prefix": "ri:import:wi:night-alt-cloudy-high",
     "body": "import { WiNightAltCloudyHigh } from 'react-icons/wi';",
     "description": "Import WiNightAltCloudyHigh Weather icon from react-icons"
   },
   "Import WiNightAltCloudyHigh (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-cloudy-high:all-files",
+    "prefix": "ri:import:wi:night-alt-cloudy-high:all-files",
     "body": "import { WiNightAltCloudyHigh } from '@react-icons/all-files/wi/WiNightAltCloudyHigh';",
     "description": "Import WiNightAltCloudyHigh Weather icon from @react-icons/all-files/wi/WiNightAltCloudyHigh"
   },
@@ -1936,12 +1936,12 @@
   },
 
   "Import WiNightAltCloudyWindy (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-cloudy-windy",
+    "prefix": "ri:import:wi:night-alt-cloudy-windy",
     "body": "import { WiNightAltCloudyWindy } from 'react-icons/wi';",
     "description": "Import WiNightAltCloudyWindy Weather icon from react-icons"
   },
   "Import WiNightAltCloudyWindy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-cloudy-windy:all-files",
+    "prefix": "ri:import:wi:night-alt-cloudy-windy:all-files",
     "body": "import { WiNightAltCloudyWindy } from '@react-icons/all-files/wi/WiNightAltCloudyWindy';",
     "description": "Import WiNightAltCloudyWindy Weather icon from @react-icons/all-files/wi/WiNightAltCloudyWindy"
   },
@@ -1952,12 +1952,12 @@
   },
 
   "Import WiNightAltCloudy (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-cloudy",
+    "prefix": "ri:import:wi:night-alt-cloudy",
     "body": "import { WiNightAltCloudy } from 'react-icons/wi';",
     "description": "Import WiNightAltCloudy Weather icon from react-icons"
   },
   "Import WiNightAltCloudy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-cloudy:all-files",
+    "prefix": "ri:import:wi:night-alt-cloudy:all-files",
     "body": "import { WiNightAltCloudy } from '@react-icons/all-files/wi/WiNightAltCloudy';",
     "description": "Import WiNightAltCloudy Weather icon from @react-icons/all-files/wi/WiNightAltCloudy"
   },
@@ -1968,12 +1968,12 @@
   },
 
   "Import WiNightAltHail (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-hail",
+    "prefix": "ri:import:wi:night-alt-hail",
     "body": "import { WiNightAltHail } from 'react-icons/wi';",
     "description": "Import WiNightAltHail Weather icon from react-icons"
   },
   "Import WiNightAltHail (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-hail:all-files",
+    "prefix": "ri:import:wi:night-alt-hail:all-files",
     "body": "import { WiNightAltHail } from '@react-icons/all-files/wi/WiNightAltHail';",
     "description": "Import WiNightAltHail Weather icon from @react-icons/all-files/wi/WiNightAltHail"
   },
@@ -1984,12 +1984,12 @@
   },
 
   "Import WiNightAltLightning (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-lightning",
+    "prefix": "ri:import:wi:night-alt-lightning",
     "body": "import { WiNightAltLightning } from 'react-icons/wi';",
     "description": "Import WiNightAltLightning Weather icon from react-icons"
   },
   "Import WiNightAltLightning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-lightning:all-files",
+    "prefix": "ri:import:wi:night-alt-lightning:all-files",
     "body": "import { WiNightAltLightning } from '@react-icons/all-files/wi/WiNightAltLightning';",
     "description": "Import WiNightAltLightning Weather icon from @react-icons/all-files/wi/WiNightAltLightning"
   },
@@ -2000,12 +2000,12 @@
   },
 
   "Import WiNightAltPartlyCloudy (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-partly-cloudy",
+    "prefix": "ri:import:wi:night-alt-partly-cloudy",
     "body": "import { WiNightAltPartlyCloudy } from 'react-icons/wi';",
     "description": "Import WiNightAltPartlyCloudy Weather icon from react-icons"
   },
   "Import WiNightAltPartlyCloudy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-partly-cloudy:all-files",
+    "prefix": "ri:import:wi:night-alt-partly-cloudy:all-files",
     "body": "import { WiNightAltPartlyCloudy } from '@react-icons/all-files/wi/WiNightAltPartlyCloudy';",
     "description": "Import WiNightAltPartlyCloudy Weather icon from @react-icons/all-files/wi/WiNightAltPartlyCloudy"
   },
@@ -2016,12 +2016,12 @@
   },
 
   "Import WiNightAltRainMix (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-rain-mix",
+    "prefix": "ri:import:wi:night-alt-rain-mix",
     "body": "import { WiNightAltRainMix } from 'react-icons/wi';",
     "description": "Import WiNightAltRainMix Weather icon from react-icons"
   },
   "Import WiNightAltRainMix (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-rain-mix:all-files",
+    "prefix": "ri:import:wi:night-alt-rain-mix:all-files",
     "body": "import { WiNightAltRainMix } from '@react-icons/all-files/wi/WiNightAltRainMix';",
     "description": "Import WiNightAltRainMix Weather icon from @react-icons/all-files/wi/WiNightAltRainMix"
   },
@@ -2032,12 +2032,12 @@
   },
 
   "Import WiNightAltRainWind (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-rain-wind",
+    "prefix": "ri:import:wi:night-alt-rain-wind",
     "body": "import { WiNightAltRainWind } from 'react-icons/wi';",
     "description": "Import WiNightAltRainWind Weather icon from react-icons"
   },
   "Import WiNightAltRainWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-rain-wind:all-files",
+    "prefix": "ri:import:wi:night-alt-rain-wind:all-files",
     "body": "import { WiNightAltRainWind } from '@react-icons/all-files/wi/WiNightAltRainWind';",
     "description": "Import WiNightAltRainWind Weather icon from @react-icons/all-files/wi/WiNightAltRainWind"
   },
@@ -2048,12 +2048,12 @@
   },
 
   "Import WiNightAltRain (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-rain",
+    "prefix": "ri:import:wi:night-alt-rain",
     "body": "import { WiNightAltRain } from 'react-icons/wi';",
     "description": "Import WiNightAltRain Weather icon from react-icons"
   },
   "Import WiNightAltRain (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-rain:all-files",
+    "prefix": "ri:import:wi:night-alt-rain:all-files",
     "body": "import { WiNightAltRain } from '@react-icons/all-files/wi/WiNightAltRain';",
     "description": "Import WiNightAltRain Weather icon from @react-icons/all-files/wi/WiNightAltRain"
   },
@@ -2064,12 +2064,12 @@
   },
 
   "Import WiNightAltShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-showers",
+    "prefix": "ri:import:wi:night-alt-showers",
     "body": "import { WiNightAltShowers } from 'react-icons/wi';",
     "description": "Import WiNightAltShowers Weather icon from react-icons"
   },
   "Import WiNightAltShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-showers:all-files",
+    "prefix": "ri:import:wi:night-alt-showers:all-files",
     "body": "import { WiNightAltShowers } from '@react-icons/all-files/wi/WiNightAltShowers';",
     "description": "Import WiNightAltShowers Weather icon from @react-icons/all-files/wi/WiNightAltShowers"
   },
@@ -2080,12 +2080,12 @@
   },
 
   "Import WiNightAltSleetStorm (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-sleet-storm",
+    "prefix": "ri:import:wi:night-alt-sleet-storm",
     "body": "import { WiNightAltSleetStorm } from 'react-icons/wi';",
     "description": "Import WiNightAltSleetStorm Weather icon from react-icons"
   },
   "Import WiNightAltSleetStorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-sleet-storm:all-files",
+    "prefix": "ri:import:wi:night-alt-sleet-storm:all-files",
     "body": "import { WiNightAltSleetStorm } from '@react-icons/all-files/wi/WiNightAltSleetStorm';",
     "description": "Import WiNightAltSleetStorm Weather icon from @react-icons/all-files/wi/WiNightAltSleetStorm"
   },
@@ -2096,12 +2096,12 @@
   },
 
   "Import WiNightAltSleet (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-sleet",
+    "prefix": "ri:import:wi:night-alt-sleet",
     "body": "import { WiNightAltSleet } from 'react-icons/wi';",
     "description": "Import WiNightAltSleet Weather icon from react-icons"
   },
   "Import WiNightAltSleet (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-sleet:all-files",
+    "prefix": "ri:import:wi:night-alt-sleet:all-files",
     "body": "import { WiNightAltSleet } from '@react-icons/all-files/wi/WiNightAltSleet';",
     "description": "Import WiNightAltSleet Weather icon from @react-icons/all-files/wi/WiNightAltSleet"
   },
@@ -2112,12 +2112,12 @@
   },
 
   "Import WiNightAltSnowThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-snow-thunderstorm",
+    "prefix": "ri:import:wi:night-alt-snow-thunderstorm",
     "body": "import { WiNightAltSnowThunderstorm } from 'react-icons/wi';",
     "description": "Import WiNightAltSnowThunderstorm Weather icon from react-icons"
   },
   "Import WiNightAltSnowThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-snow-thunderstorm:all-files",
+    "prefix": "ri:import:wi:night-alt-snow-thunderstorm:all-files",
     "body": "import { WiNightAltSnowThunderstorm } from '@react-icons/all-files/wi/WiNightAltSnowThunderstorm';",
     "description": "Import WiNightAltSnowThunderstorm Weather icon from @react-icons/all-files/wi/WiNightAltSnowThunderstorm"
   },
@@ -2128,12 +2128,12 @@
   },
 
   "Import WiNightAltSnowWind (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-snow-wind",
+    "prefix": "ri:import:wi:night-alt-snow-wind",
     "body": "import { WiNightAltSnowWind } from 'react-icons/wi';",
     "description": "Import WiNightAltSnowWind Weather icon from react-icons"
   },
   "Import WiNightAltSnowWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-snow-wind:all-files",
+    "prefix": "ri:import:wi:night-alt-snow-wind:all-files",
     "body": "import { WiNightAltSnowWind } from '@react-icons/all-files/wi/WiNightAltSnowWind';",
     "description": "Import WiNightAltSnowWind Weather icon from @react-icons/all-files/wi/WiNightAltSnowWind"
   },
@@ -2144,12 +2144,12 @@
   },
 
   "Import WiNightAltSnow (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-snow",
+    "prefix": "ri:import:wi:night-alt-snow",
     "body": "import { WiNightAltSnow } from 'react-icons/wi';",
     "description": "Import WiNightAltSnow Weather icon from react-icons"
   },
   "Import WiNightAltSnow (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-snow:all-files",
+    "prefix": "ri:import:wi:night-alt-snow:all-files",
     "body": "import { WiNightAltSnow } from '@react-icons/all-files/wi/WiNightAltSnow';",
     "description": "Import WiNightAltSnow Weather icon from @react-icons/all-files/wi/WiNightAltSnow"
   },
@@ -2160,12 +2160,12 @@
   },
 
   "Import WiNightAltSprinkle (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-sprinkle",
+    "prefix": "ri:import:wi:night-alt-sprinkle",
     "body": "import { WiNightAltSprinkle } from 'react-icons/wi';",
     "description": "Import WiNightAltSprinkle Weather icon from react-icons"
   },
   "Import WiNightAltSprinkle (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-sprinkle:all-files",
+    "prefix": "ri:import:wi:night-alt-sprinkle:all-files",
     "body": "import { WiNightAltSprinkle } from '@react-icons/all-files/wi/WiNightAltSprinkle';",
     "description": "Import WiNightAltSprinkle Weather icon from @react-icons/all-files/wi/WiNightAltSprinkle"
   },
@@ -2176,12 +2176,12 @@
   },
 
   "Import WiNightAltStormShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-storm-showers",
+    "prefix": "ri:import:wi:night-alt-storm-showers",
     "body": "import { WiNightAltStormShowers } from 'react-icons/wi';",
     "description": "Import WiNightAltStormShowers Weather icon from react-icons"
   },
   "Import WiNightAltStormShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-storm-showers:all-files",
+    "prefix": "ri:import:wi:night-alt-storm-showers:all-files",
     "body": "import { WiNightAltStormShowers } from '@react-icons/all-files/wi/WiNightAltStormShowers';",
     "description": "Import WiNightAltStormShowers Weather icon from @react-icons/all-files/wi/WiNightAltStormShowers"
   },
@@ -2192,12 +2192,12 @@
   },
 
   "Import WiNightAltThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:night-alt-thunderstorm",
+    "prefix": "ri:import:wi:night-alt-thunderstorm",
     "body": "import { WiNightAltThunderstorm } from 'react-icons/wi';",
     "description": "Import WiNightAltThunderstorm Weather icon from react-icons"
   },
   "Import WiNightAltThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-alt-thunderstorm:all-files",
+    "prefix": "ri:import:wi:night-alt-thunderstorm:all-files",
     "body": "import { WiNightAltThunderstorm } from '@react-icons/all-files/wi/WiNightAltThunderstorm';",
     "description": "Import WiNightAltThunderstorm Weather icon from @react-icons/all-files/wi/WiNightAltThunderstorm"
   },
@@ -2208,12 +2208,12 @@
   },
 
   "Import WiNightClear (Weather Icons)": {
-    "prefix": "ri:wi:import:night-clear",
+    "prefix": "ri:import:wi:night-clear",
     "body": "import { WiNightClear } from 'react-icons/wi';",
     "description": "Import WiNightClear Weather icon from react-icons"
   },
   "Import WiNightClear (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-clear:all-files",
+    "prefix": "ri:import:wi:night-clear:all-files",
     "body": "import { WiNightClear } from '@react-icons/all-files/wi/WiNightClear';",
     "description": "Import WiNightClear Weather icon from @react-icons/all-files/wi/WiNightClear"
   },
@@ -2224,12 +2224,12 @@
   },
 
   "Import WiNightCloudyGusts (Weather Icons)": {
-    "prefix": "ri:wi:import:night-cloudy-gusts",
+    "prefix": "ri:import:wi:night-cloudy-gusts",
     "body": "import { WiNightCloudyGusts } from 'react-icons/wi';",
     "description": "Import WiNightCloudyGusts Weather icon from react-icons"
   },
   "Import WiNightCloudyGusts (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-cloudy-gusts:all-files",
+    "prefix": "ri:import:wi:night-cloudy-gusts:all-files",
     "body": "import { WiNightCloudyGusts } from '@react-icons/all-files/wi/WiNightCloudyGusts';",
     "description": "Import WiNightCloudyGusts Weather icon from @react-icons/all-files/wi/WiNightCloudyGusts"
   },
@@ -2240,12 +2240,12 @@
   },
 
   "Import WiNightCloudyHigh (Weather Icons)": {
-    "prefix": "ri:wi:import:night-cloudy-high",
+    "prefix": "ri:import:wi:night-cloudy-high",
     "body": "import { WiNightCloudyHigh } from 'react-icons/wi';",
     "description": "Import WiNightCloudyHigh Weather icon from react-icons"
   },
   "Import WiNightCloudyHigh (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-cloudy-high:all-files",
+    "prefix": "ri:import:wi:night-cloudy-high:all-files",
     "body": "import { WiNightCloudyHigh } from '@react-icons/all-files/wi/WiNightCloudyHigh';",
     "description": "Import WiNightCloudyHigh Weather icon from @react-icons/all-files/wi/WiNightCloudyHigh"
   },
@@ -2256,12 +2256,12 @@
   },
 
   "Import WiNightCloudyWindy (Weather Icons)": {
-    "prefix": "ri:wi:import:night-cloudy-windy",
+    "prefix": "ri:import:wi:night-cloudy-windy",
     "body": "import { WiNightCloudyWindy } from 'react-icons/wi';",
     "description": "Import WiNightCloudyWindy Weather icon from react-icons"
   },
   "Import WiNightCloudyWindy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-cloudy-windy:all-files",
+    "prefix": "ri:import:wi:night-cloudy-windy:all-files",
     "body": "import { WiNightCloudyWindy } from '@react-icons/all-files/wi/WiNightCloudyWindy';",
     "description": "Import WiNightCloudyWindy Weather icon from @react-icons/all-files/wi/WiNightCloudyWindy"
   },
@@ -2272,12 +2272,12 @@
   },
 
   "Import WiNightCloudy (Weather Icons)": {
-    "prefix": "ri:wi:import:night-cloudy",
+    "prefix": "ri:import:wi:night-cloudy",
     "body": "import { WiNightCloudy } from 'react-icons/wi';",
     "description": "Import WiNightCloudy Weather icon from react-icons"
   },
   "Import WiNightCloudy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-cloudy:all-files",
+    "prefix": "ri:import:wi:night-cloudy:all-files",
     "body": "import { WiNightCloudy } from '@react-icons/all-files/wi/WiNightCloudy';",
     "description": "Import WiNightCloudy Weather icon from @react-icons/all-files/wi/WiNightCloudy"
   },
@@ -2288,12 +2288,12 @@
   },
 
   "Import WiNightFog (Weather Icons)": {
-    "prefix": "ri:wi:import:night-fog",
+    "prefix": "ri:import:wi:night-fog",
     "body": "import { WiNightFog } from 'react-icons/wi';",
     "description": "Import WiNightFog Weather icon from react-icons"
   },
   "Import WiNightFog (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-fog:all-files",
+    "prefix": "ri:import:wi:night-fog:all-files",
     "body": "import { WiNightFog } from '@react-icons/all-files/wi/WiNightFog';",
     "description": "Import WiNightFog Weather icon from @react-icons/all-files/wi/WiNightFog"
   },
@@ -2304,12 +2304,12 @@
   },
 
   "Import WiNightHail (Weather Icons)": {
-    "prefix": "ri:wi:import:night-hail",
+    "prefix": "ri:import:wi:night-hail",
     "body": "import { WiNightHail } from 'react-icons/wi';",
     "description": "Import WiNightHail Weather icon from react-icons"
   },
   "Import WiNightHail (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-hail:all-files",
+    "prefix": "ri:import:wi:night-hail:all-files",
     "body": "import { WiNightHail } from '@react-icons/all-files/wi/WiNightHail';",
     "description": "Import WiNightHail Weather icon from @react-icons/all-files/wi/WiNightHail"
   },
@@ -2320,12 +2320,12 @@
   },
 
   "Import WiNightLightning (Weather Icons)": {
-    "prefix": "ri:wi:import:night-lightning",
+    "prefix": "ri:import:wi:night-lightning",
     "body": "import { WiNightLightning } from 'react-icons/wi';",
     "description": "Import WiNightLightning Weather icon from react-icons"
   },
   "Import WiNightLightning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-lightning:all-files",
+    "prefix": "ri:import:wi:night-lightning:all-files",
     "body": "import { WiNightLightning } from '@react-icons/all-files/wi/WiNightLightning';",
     "description": "Import WiNightLightning Weather icon from @react-icons/all-files/wi/WiNightLightning"
   },
@@ -2336,12 +2336,12 @@
   },
 
   "Import WiNightPartlyCloudy (Weather Icons)": {
-    "prefix": "ri:wi:import:night-partly-cloudy",
+    "prefix": "ri:import:wi:night-partly-cloudy",
     "body": "import { WiNightPartlyCloudy } from 'react-icons/wi';",
     "description": "Import WiNightPartlyCloudy Weather icon from react-icons"
   },
   "Import WiNightPartlyCloudy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-partly-cloudy:all-files",
+    "prefix": "ri:import:wi:night-partly-cloudy:all-files",
     "body": "import { WiNightPartlyCloudy } from '@react-icons/all-files/wi/WiNightPartlyCloudy';",
     "description": "Import WiNightPartlyCloudy Weather icon from @react-icons/all-files/wi/WiNightPartlyCloudy"
   },
@@ -2352,12 +2352,12 @@
   },
 
   "Import WiNightRainMix (Weather Icons)": {
-    "prefix": "ri:wi:import:night-rain-mix",
+    "prefix": "ri:import:wi:night-rain-mix",
     "body": "import { WiNightRainMix } from 'react-icons/wi';",
     "description": "Import WiNightRainMix Weather icon from react-icons"
   },
   "Import WiNightRainMix (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-rain-mix:all-files",
+    "prefix": "ri:import:wi:night-rain-mix:all-files",
     "body": "import { WiNightRainMix } from '@react-icons/all-files/wi/WiNightRainMix';",
     "description": "Import WiNightRainMix Weather icon from @react-icons/all-files/wi/WiNightRainMix"
   },
@@ -2368,12 +2368,12 @@
   },
 
   "Import WiNightRainWind (Weather Icons)": {
-    "prefix": "ri:wi:import:night-rain-wind",
+    "prefix": "ri:import:wi:night-rain-wind",
     "body": "import { WiNightRainWind } from 'react-icons/wi';",
     "description": "Import WiNightRainWind Weather icon from react-icons"
   },
   "Import WiNightRainWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-rain-wind:all-files",
+    "prefix": "ri:import:wi:night-rain-wind:all-files",
     "body": "import { WiNightRainWind } from '@react-icons/all-files/wi/WiNightRainWind';",
     "description": "Import WiNightRainWind Weather icon from @react-icons/all-files/wi/WiNightRainWind"
   },
@@ -2384,12 +2384,12 @@
   },
 
   "Import WiNightRain (Weather Icons)": {
-    "prefix": "ri:wi:import:night-rain",
+    "prefix": "ri:import:wi:night-rain",
     "body": "import { WiNightRain } from 'react-icons/wi';",
     "description": "Import WiNightRain Weather icon from react-icons"
   },
   "Import WiNightRain (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-rain:all-files",
+    "prefix": "ri:import:wi:night-rain:all-files",
     "body": "import { WiNightRain } from '@react-icons/all-files/wi/WiNightRain';",
     "description": "Import WiNightRain Weather icon from @react-icons/all-files/wi/WiNightRain"
   },
@@ -2400,12 +2400,12 @@
   },
 
   "Import WiNightShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:night-showers",
+    "prefix": "ri:import:wi:night-showers",
     "body": "import { WiNightShowers } from 'react-icons/wi';",
     "description": "Import WiNightShowers Weather icon from react-icons"
   },
   "Import WiNightShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-showers:all-files",
+    "prefix": "ri:import:wi:night-showers:all-files",
     "body": "import { WiNightShowers } from '@react-icons/all-files/wi/WiNightShowers';",
     "description": "Import WiNightShowers Weather icon from @react-icons/all-files/wi/WiNightShowers"
   },
@@ -2416,12 +2416,12 @@
   },
 
   "Import WiNightSleetStorm (Weather Icons)": {
-    "prefix": "ri:wi:import:night-sleet-storm",
+    "prefix": "ri:import:wi:night-sleet-storm",
     "body": "import { WiNightSleetStorm } from 'react-icons/wi';",
     "description": "Import WiNightSleetStorm Weather icon from react-icons"
   },
   "Import WiNightSleetStorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-sleet-storm:all-files",
+    "prefix": "ri:import:wi:night-sleet-storm:all-files",
     "body": "import { WiNightSleetStorm } from '@react-icons/all-files/wi/WiNightSleetStorm';",
     "description": "Import WiNightSleetStorm Weather icon from @react-icons/all-files/wi/WiNightSleetStorm"
   },
@@ -2432,12 +2432,12 @@
   },
 
   "Import WiNightSleet (Weather Icons)": {
-    "prefix": "ri:wi:import:night-sleet",
+    "prefix": "ri:import:wi:night-sleet",
     "body": "import { WiNightSleet } from 'react-icons/wi';",
     "description": "Import WiNightSleet Weather icon from react-icons"
   },
   "Import WiNightSleet (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-sleet:all-files",
+    "prefix": "ri:import:wi:night-sleet:all-files",
     "body": "import { WiNightSleet } from '@react-icons/all-files/wi/WiNightSleet';",
     "description": "Import WiNightSleet Weather icon from @react-icons/all-files/wi/WiNightSleet"
   },
@@ -2448,12 +2448,12 @@
   },
 
   "Import WiNightSnowThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:night-snow-thunderstorm",
+    "prefix": "ri:import:wi:night-snow-thunderstorm",
     "body": "import { WiNightSnowThunderstorm } from 'react-icons/wi';",
     "description": "Import WiNightSnowThunderstorm Weather icon from react-icons"
   },
   "Import WiNightSnowThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-snow-thunderstorm:all-files",
+    "prefix": "ri:import:wi:night-snow-thunderstorm:all-files",
     "body": "import { WiNightSnowThunderstorm } from '@react-icons/all-files/wi/WiNightSnowThunderstorm';",
     "description": "Import WiNightSnowThunderstorm Weather icon from @react-icons/all-files/wi/WiNightSnowThunderstorm"
   },
@@ -2464,12 +2464,12 @@
   },
 
   "Import WiNightSnowWind (Weather Icons)": {
-    "prefix": "ri:wi:import:night-snow-wind",
+    "prefix": "ri:import:wi:night-snow-wind",
     "body": "import { WiNightSnowWind } from 'react-icons/wi';",
     "description": "Import WiNightSnowWind Weather icon from react-icons"
   },
   "Import WiNightSnowWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-snow-wind:all-files",
+    "prefix": "ri:import:wi:night-snow-wind:all-files",
     "body": "import { WiNightSnowWind } from '@react-icons/all-files/wi/WiNightSnowWind';",
     "description": "Import WiNightSnowWind Weather icon from @react-icons/all-files/wi/WiNightSnowWind"
   },
@@ -2480,12 +2480,12 @@
   },
 
   "Import WiNightSnow (Weather Icons)": {
-    "prefix": "ri:wi:import:night-snow",
+    "prefix": "ri:import:wi:night-snow",
     "body": "import { WiNightSnow } from 'react-icons/wi';",
     "description": "Import WiNightSnow Weather icon from react-icons"
   },
   "Import WiNightSnow (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-snow:all-files",
+    "prefix": "ri:import:wi:night-snow:all-files",
     "body": "import { WiNightSnow } from '@react-icons/all-files/wi/WiNightSnow';",
     "description": "Import WiNightSnow Weather icon from @react-icons/all-files/wi/WiNightSnow"
   },
@@ -2496,12 +2496,12 @@
   },
 
   "Import WiNightSprinkle (Weather Icons)": {
-    "prefix": "ri:wi:import:night-sprinkle",
+    "prefix": "ri:import:wi:night-sprinkle",
     "body": "import { WiNightSprinkle } from 'react-icons/wi';",
     "description": "Import WiNightSprinkle Weather icon from react-icons"
   },
   "Import WiNightSprinkle (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-sprinkle:all-files",
+    "prefix": "ri:import:wi:night-sprinkle:all-files",
     "body": "import { WiNightSprinkle } from '@react-icons/all-files/wi/WiNightSprinkle';",
     "description": "Import WiNightSprinkle Weather icon from @react-icons/all-files/wi/WiNightSprinkle"
   },
@@ -2512,12 +2512,12 @@
   },
 
   "Import WiNightStormShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:night-storm-showers",
+    "prefix": "ri:import:wi:night-storm-showers",
     "body": "import { WiNightStormShowers } from 'react-icons/wi';",
     "description": "Import WiNightStormShowers Weather icon from react-icons"
   },
   "Import WiNightStormShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-storm-showers:all-files",
+    "prefix": "ri:import:wi:night-storm-showers:all-files",
     "body": "import { WiNightStormShowers } from '@react-icons/all-files/wi/WiNightStormShowers';",
     "description": "Import WiNightStormShowers Weather icon from @react-icons/all-files/wi/WiNightStormShowers"
   },
@@ -2528,12 +2528,12 @@
   },
 
   "Import WiNightThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:night-thunderstorm",
+    "prefix": "ri:import:wi:night-thunderstorm",
     "body": "import { WiNightThunderstorm } from 'react-icons/wi';",
     "description": "Import WiNightThunderstorm Weather icon from react-icons"
   },
   "Import WiNightThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:night-thunderstorm:all-files",
+    "prefix": "ri:import:wi:night-thunderstorm:all-files",
     "body": "import { WiNightThunderstorm } from '@react-icons/all-files/wi/WiNightThunderstorm';",
     "description": "Import WiNightThunderstorm Weather icon from @react-icons/all-files/wi/WiNightThunderstorm"
   },
@@ -2544,12 +2544,12 @@
   },
 
   "Import WiRainMix (Weather Icons)": {
-    "prefix": "ri:wi:import:rain-mix",
+    "prefix": "ri:import:wi:rain-mix",
     "body": "import { WiRainMix } from 'react-icons/wi';",
     "description": "Import WiRainMix Weather icon from react-icons"
   },
   "Import WiRainMix (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:rain-mix:all-files",
+    "prefix": "ri:import:wi:rain-mix:all-files",
     "body": "import { WiRainMix } from '@react-icons/all-files/wi/WiRainMix';",
     "description": "Import WiRainMix Weather icon from @react-icons/all-files/wi/WiRainMix"
   },
@@ -2560,12 +2560,12 @@
   },
 
   "Import WiRainWind (Weather Icons)": {
-    "prefix": "ri:wi:import:rain-wind",
+    "prefix": "ri:import:wi:rain-wind",
     "body": "import { WiRainWind } from 'react-icons/wi';",
     "description": "Import WiRainWind Weather icon from react-icons"
   },
   "Import WiRainWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:rain-wind:all-files",
+    "prefix": "ri:import:wi:rain-wind:all-files",
     "body": "import { WiRainWind } from '@react-icons/all-files/wi/WiRainWind';",
     "description": "Import WiRainWind Weather icon from @react-icons/all-files/wi/WiRainWind"
   },
@@ -2576,12 +2576,12 @@
   },
 
   "Import WiRain (Weather Icons)": {
-    "prefix": "ri:wi:import:rain",
+    "prefix": "ri:import:wi:rain",
     "body": "import { WiRain } from 'react-icons/wi';",
     "description": "Import WiRain Weather icon from react-icons"
   },
   "Import WiRain (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:rain:all-files",
+    "prefix": "ri:import:wi:rain:all-files",
     "body": "import { WiRain } from '@react-icons/all-files/wi/WiRain';",
     "description": "Import WiRain Weather icon from @react-icons/all-files/wi/WiRain"
   },
@@ -2592,12 +2592,12 @@
   },
 
   "Import WiRaindrop (Weather Icons)": {
-    "prefix": "ri:wi:import:raindrop",
+    "prefix": "ri:import:wi:raindrop",
     "body": "import { WiRaindrop } from 'react-icons/wi';",
     "description": "Import WiRaindrop Weather icon from react-icons"
   },
   "Import WiRaindrop (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:raindrop:all-files",
+    "prefix": "ri:import:wi:raindrop:all-files",
     "body": "import { WiRaindrop } from '@react-icons/all-files/wi/WiRaindrop';",
     "description": "Import WiRaindrop Weather icon from @react-icons/all-files/wi/WiRaindrop"
   },
@@ -2608,12 +2608,12 @@
   },
 
   "Import WiRaindrops (Weather Icons)": {
-    "prefix": "ri:wi:import:raindrops",
+    "prefix": "ri:import:wi:raindrops",
     "body": "import { WiRaindrops } from 'react-icons/wi';",
     "description": "Import WiRaindrops Weather icon from react-icons"
   },
   "Import WiRaindrops (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:raindrops:all-files",
+    "prefix": "ri:import:wi:raindrops:all-files",
     "body": "import { WiRaindrops } from '@react-icons/all-files/wi/WiRaindrops';",
     "description": "Import WiRaindrops Weather icon from @react-icons/all-files/wi/WiRaindrops"
   },
@@ -2624,12 +2624,12 @@
   },
 
   "Import WiRefreshAlt (Weather Icons)": {
-    "prefix": "ri:wi:import:refresh-alt",
+    "prefix": "ri:import:wi:refresh-alt",
     "body": "import { WiRefreshAlt } from 'react-icons/wi';",
     "description": "Import WiRefreshAlt Weather icon from react-icons"
   },
   "Import WiRefreshAlt (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:refresh-alt:all-files",
+    "prefix": "ri:import:wi:refresh-alt:all-files",
     "body": "import { WiRefreshAlt } from '@react-icons/all-files/wi/WiRefreshAlt';",
     "description": "Import WiRefreshAlt Weather icon from @react-icons/all-files/wi/WiRefreshAlt"
   },
@@ -2640,12 +2640,12 @@
   },
 
   "Import WiRefresh (Weather Icons)": {
-    "prefix": "ri:wi:import:refresh",
+    "prefix": "ri:import:wi:refresh",
     "body": "import { WiRefresh } from 'react-icons/wi';",
     "description": "Import WiRefresh Weather icon from react-icons"
   },
   "Import WiRefresh (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:refresh:all-files",
+    "prefix": "ri:import:wi:refresh:all-files",
     "body": "import { WiRefresh } from '@react-icons/all-files/wi/WiRefresh';",
     "description": "Import WiRefresh Weather icon from @react-icons/all-files/wi/WiRefresh"
   },
@@ -2656,12 +2656,12 @@
   },
 
   "Import WiSandstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:sandstorm",
+    "prefix": "ri:import:wi:sandstorm",
     "body": "import { WiSandstorm } from 'react-icons/wi';",
     "description": "Import WiSandstorm Weather icon from react-icons"
   },
   "Import WiSandstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:sandstorm:all-files",
+    "prefix": "ri:import:wi:sandstorm:all-files",
     "body": "import { WiSandstorm } from '@react-icons/all-files/wi/WiSandstorm';",
     "description": "Import WiSandstorm Weather icon from @react-icons/all-files/wi/WiSandstorm"
   },
@@ -2672,12 +2672,12 @@
   },
 
   "Import WiShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:showers",
+    "prefix": "ri:import:wi:showers",
     "body": "import { WiShowers } from 'react-icons/wi';",
     "description": "Import WiShowers Weather icon from react-icons"
   },
   "Import WiShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:showers:all-files",
+    "prefix": "ri:import:wi:showers:all-files",
     "body": "import { WiShowers } from '@react-icons/all-files/wi/WiShowers';",
     "description": "Import WiShowers Weather icon from @react-icons/all-files/wi/WiShowers"
   },
@@ -2688,12 +2688,12 @@
   },
 
   "Import WiSleet (Weather Icons)": {
-    "prefix": "ri:wi:import:sleet",
+    "prefix": "ri:import:wi:sleet",
     "body": "import { WiSleet } from 'react-icons/wi';",
     "description": "Import WiSleet Weather icon from react-icons"
   },
   "Import WiSleet (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:sleet:all-files",
+    "prefix": "ri:import:wi:sleet:all-files",
     "body": "import { WiSleet } from '@react-icons/all-files/wi/WiSleet';",
     "description": "Import WiSleet Weather icon from @react-icons/all-files/wi/WiSleet"
   },
@@ -2704,12 +2704,12 @@
   },
 
   "Import WiSmallCraftAdvisory (Weather Icons)": {
-    "prefix": "ri:wi:import:small-craft-advisory",
+    "prefix": "ri:import:wi:small-craft-advisory",
     "body": "import { WiSmallCraftAdvisory } from 'react-icons/wi';",
     "description": "Import WiSmallCraftAdvisory Weather icon from react-icons"
   },
   "Import WiSmallCraftAdvisory (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:small-craft-advisory:all-files",
+    "prefix": "ri:import:wi:small-craft-advisory:all-files",
     "body": "import { WiSmallCraftAdvisory } from '@react-icons/all-files/wi/WiSmallCraftAdvisory';",
     "description": "Import WiSmallCraftAdvisory Weather icon from @react-icons/all-files/wi/WiSmallCraftAdvisory"
   },
@@ -2720,12 +2720,12 @@
   },
 
   "Import WiSmog (Weather Icons)": {
-    "prefix": "ri:wi:import:smog",
+    "prefix": "ri:import:wi:smog",
     "body": "import { WiSmog } from 'react-icons/wi';",
     "description": "Import WiSmog Weather icon from react-icons"
   },
   "Import WiSmog (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:smog:all-files",
+    "prefix": "ri:import:wi:smog:all-files",
     "body": "import { WiSmog } from '@react-icons/all-files/wi/WiSmog';",
     "description": "Import WiSmog Weather icon from @react-icons/all-files/wi/WiSmog"
   },
@@ -2736,12 +2736,12 @@
   },
 
   "Import WiSmoke (Weather Icons)": {
-    "prefix": "ri:wi:import:smoke",
+    "prefix": "ri:import:wi:smoke",
     "body": "import { WiSmoke } from 'react-icons/wi';",
     "description": "Import WiSmoke Weather icon from react-icons"
   },
   "Import WiSmoke (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:smoke:all-files",
+    "prefix": "ri:import:wi:smoke:all-files",
     "body": "import { WiSmoke } from '@react-icons/all-files/wi/WiSmoke';",
     "description": "Import WiSmoke Weather icon from @react-icons/all-files/wi/WiSmoke"
   },
@@ -2752,12 +2752,12 @@
   },
 
   "Import WiSnowWind (Weather Icons)": {
-    "prefix": "ri:wi:import:snow-wind",
+    "prefix": "ri:import:wi:snow-wind",
     "body": "import { WiSnowWind } from 'react-icons/wi';",
     "description": "Import WiSnowWind Weather icon from react-icons"
   },
   "Import WiSnowWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:snow-wind:all-files",
+    "prefix": "ri:import:wi:snow-wind:all-files",
     "body": "import { WiSnowWind } from '@react-icons/all-files/wi/WiSnowWind';",
     "description": "Import WiSnowWind Weather icon from @react-icons/all-files/wi/WiSnowWind"
   },
@@ -2768,12 +2768,12 @@
   },
 
   "Import WiSnow (Weather Icons)": {
-    "prefix": "ri:wi:import:snow",
+    "prefix": "ri:import:wi:snow",
     "body": "import { WiSnow } from 'react-icons/wi';",
     "description": "Import WiSnow Weather icon from react-icons"
   },
   "Import WiSnow (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:snow:all-files",
+    "prefix": "ri:import:wi:snow:all-files",
     "body": "import { WiSnow } from '@react-icons/all-files/wi/WiSnow';",
     "description": "Import WiSnow Weather icon from @react-icons/all-files/wi/WiSnow"
   },
@@ -2784,12 +2784,12 @@
   },
 
   "Import WiSnowflakeCold (Weather Icons)": {
-    "prefix": "ri:wi:import:snowflake-cold",
+    "prefix": "ri:import:wi:snowflake-cold",
     "body": "import { WiSnowflakeCold } from 'react-icons/wi';",
     "description": "Import WiSnowflakeCold Weather icon from react-icons"
   },
   "Import WiSnowflakeCold (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:snowflake-cold:all-files",
+    "prefix": "ri:import:wi:snowflake-cold:all-files",
     "body": "import { WiSnowflakeCold } from '@react-icons/all-files/wi/WiSnowflakeCold';",
     "description": "Import WiSnowflakeCold Weather icon from @react-icons/all-files/wi/WiSnowflakeCold"
   },
@@ -2800,12 +2800,12 @@
   },
 
   "Import WiSolarEclipse (Weather Icons)": {
-    "prefix": "ri:wi:import:solar-eclipse",
+    "prefix": "ri:import:wi:solar-eclipse",
     "body": "import { WiSolarEclipse } from 'react-icons/wi';",
     "description": "Import WiSolarEclipse Weather icon from react-icons"
   },
   "Import WiSolarEclipse (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:solar-eclipse:all-files",
+    "prefix": "ri:import:wi:solar-eclipse:all-files",
     "body": "import { WiSolarEclipse } from '@react-icons/all-files/wi/WiSolarEclipse';",
     "description": "Import WiSolarEclipse Weather icon from @react-icons/all-files/wi/WiSolarEclipse"
   },
@@ -2816,12 +2816,12 @@
   },
 
   "Import WiSprinkle (Weather Icons)": {
-    "prefix": "ri:wi:import:sprinkle",
+    "prefix": "ri:import:wi:sprinkle",
     "body": "import { WiSprinkle } from 'react-icons/wi';",
     "description": "Import WiSprinkle Weather icon from react-icons"
   },
   "Import WiSprinkle (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:sprinkle:all-files",
+    "prefix": "ri:import:wi:sprinkle:all-files",
     "body": "import { WiSprinkle } from '@react-icons/all-files/wi/WiSprinkle';",
     "description": "Import WiSprinkle Weather icon from @react-icons/all-files/wi/WiSprinkle"
   },
@@ -2832,12 +2832,12 @@
   },
 
   "Import WiStars (Weather Icons)": {
-    "prefix": "ri:wi:import:stars",
+    "prefix": "ri:import:wi:stars",
     "body": "import { WiStars } from 'react-icons/wi';",
     "description": "Import WiStars Weather icon from react-icons"
   },
   "Import WiStars (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:stars:all-files",
+    "prefix": "ri:import:wi:stars:all-files",
     "body": "import { WiStars } from '@react-icons/all-files/wi/WiStars';",
     "description": "Import WiStars Weather icon from @react-icons/all-files/wi/WiStars"
   },
@@ -2848,12 +2848,12 @@
   },
 
   "Import WiStormShowers (Weather Icons)": {
-    "prefix": "ri:wi:import:storm-showers",
+    "prefix": "ri:import:wi:storm-showers",
     "body": "import { WiStormShowers } from 'react-icons/wi';",
     "description": "Import WiStormShowers Weather icon from react-icons"
   },
   "Import WiStormShowers (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:storm-showers:all-files",
+    "prefix": "ri:import:wi:storm-showers:all-files",
     "body": "import { WiStormShowers } from '@react-icons/all-files/wi/WiStormShowers';",
     "description": "Import WiStormShowers Weather icon from @react-icons/all-files/wi/WiStormShowers"
   },
@@ -2864,12 +2864,12 @@
   },
 
   "Import WiStormWarning (Weather Icons)": {
-    "prefix": "ri:wi:import:storm-warning",
+    "prefix": "ri:import:wi:storm-warning",
     "body": "import { WiStormWarning } from 'react-icons/wi';",
     "description": "Import WiStormWarning Weather icon from react-icons"
   },
   "Import WiStormWarning (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:storm-warning:all-files",
+    "prefix": "ri:import:wi:storm-warning:all-files",
     "body": "import { WiStormWarning } from '@react-icons/all-files/wi/WiStormWarning';",
     "description": "Import WiStormWarning Weather icon from @react-icons/all-files/wi/WiStormWarning"
   },
@@ -2880,12 +2880,12 @@
   },
 
   "Import WiStrongWind (Weather Icons)": {
-    "prefix": "ri:wi:import:strong-wind",
+    "prefix": "ri:import:wi:strong-wind",
     "body": "import { WiStrongWind } from 'react-icons/wi';",
     "description": "Import WiStrongWind Weather icon from react-icons"
   },
   "Import WiStrongWind (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:strong-wind:all-files",
+    "prefix": "ri:import:wi:strong-wind:all-files",
     "body": "import { WiStrongWind } from '@react-icons/all-files/wi/WiStrongWind';",
     "description": "Import WiStrongWind Weather icon from @react-icons/all-files/wi/WiStrongWind"
   },
@@ -2896,12 +2896,12 @@
   },
 
   "Import WiSunrise (Weather Icons)": {
-    "prefix": "ri:wi:import:sunrise",
+    "prefix": "ri:import:wi:sunrise",
     "body": "import { WiSunrise } from 'react-icons/wi';",
     "description": "Import WiSunrise Weather icon from react-icons"
   },
   "Import WiSunrise (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:sunrise:all-files",
+    "prefix": "ri:import:wi:sunrise:all-files",
     "body": "import { WiSunrise } from '@react-icons/all-files/wi/WiSunrise';",
     "description": "Import WiSunrise Weather icon from @react-icons/all-files/wi/WiSunrise"
   },
@@ -2912,12 +2912,12 @@
   },
 
   "Import WiSunset (Weather Icons)": {
-    "prefix": "ri:wi:import:sunset",
+    "prefix": "ri:import:wi:sunset",
     "body": "import { WiSunset } from 'react-icons/wi';",
     "description": "Import WiSunset Weather icon from react-icons"
   },
   "Import WiSunset (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:sunset:all-files",
+    "prefix": "ri:import:wi:sunset:all-files",
     "body": "import { WiSunset } from '@react-icons/all-files/wi/WiSunset';",
     "description": "Import WiSunset Weather icon from @react-icons/all-files/wi/WiSunset"
   },
@@ -2928,12 +2928,12 @@
   },
 
   "Import WiThermometerExterior (Weather Icons)": {
-    "prefix": "ri:wi:import:thermometer-exterior",
+    "prefix": "ri:import:wi:thermometer-exterior",
     "body": "import { WiThermometerExterior } from 'react-icons/wi';",
     "description": "Import WiThermometerExterior Weather icon from react-icons"
   },
   "Import WiThermometerExterior (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:thermometer-exterior:all-files",
+    "prefix": "ri:import:wi:thermometer-exterior:all-files",
     "body": "import { WiThermometerExterior } from '@react-icons/all-files/wi/WiThermometerExterior';",
     "description": "Import WiThermometerExterior Weather icon from @react-icons/all-files/wi/WiThermometerExterior"
   },
@@ -2944,12 +2944,12 @@
   },
 
   "Import WiThermometerInternal (Weather Icons)": {
-    "prefix": "ri:wi:import:thermometer-internal",
+    "prefix": "ri:import:wi:thermometer-internal",
     "body": "import { WiThermometerInternal } from 'react-icons/wi';",
     "description": "Import WiThermometerInternal Weather icon from react-icons"
   },
   "Import WiThermometerInternal (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:thermometer-internal:all-files",
+    "prefix": "ri:import:wi:thermometer-internal:all-files",
     "body": "import { WiThermometerInternal } from '@react-icons/all-files/wi/WiThermometerInternal';",
     "description": "Import WiThermometerInternal Weather icon from @react-icons/all-files/wi/WiThermometerInternal"
   },
@@ -2960,12 +2960,12 @@
   },
 
   "Import WiThermometer (Weather Icons)": {
-    "prefix": "ri:wi:import:thermometer",
+    "prefix": "ri:import:wi:thermometer",
     "body": "import { WiThermometer } from 'react-icons/wi';",
     "description": "Import WiThermometer Weather icon from react-icons"
   },
   "Import WiThermometer (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:thermometer:all-files",
+    "prefix": "ri:import:wi:thermometer:all-files",
     "body": "import { WiThermometer } from '@react-icons/all-files/wi/WiThermometer';",
     "description": "Import WiThermometer Weather icon from @react-icons/all-files/wi/WiThermometer"
   },
@@ -2976,12 +2976,12 @@
   },
 
   "Import WiThunderstorm (Weather Icons)": {
-    "prefix": "ri:wi:import:thunderstorm",
+    "prefix": "ri:import:wi:thunderstorm",
     "body": "import { WiThunderstorm } from 'react-icons/wi';",
     "description": "Import WiThunderstorm Weather icon from react-icons"
   },
   "Import WiThunderstorm (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:thunderstorm:all-files",
+    "prefix": "ri:import:wi:thunderstorm:all-files",
     "body": "import { WiThunderstorm } from '@react-icons/all-files/wi/WiThunderstorm';",
     "description": "Import WiThunderstorm Weather icon from @react-icons/all-files/wi/WiThunderstorm"
   },
@@ -2992,12 +2992,12 @@
   },
 
   "Import WiTime1 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-1",
+    "prefix": "ri:import:wi:time-1",
     "body": "import { WiTime1 } from 'react-icons/wi';",
     "description": "Import WiTime1 Weather icon from react-icons"
   },
   "Import WiTime1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-1:all-files",
+    "prefix": "ri:import:wi:time-1:all-files",
     "body": "import { WiTime1 } from '@react-icons/all-files/wi/WiTime1';",
     "description": "Import WiTime1 Weather icon from @react-icons/all-files/wi/WiTime1"
   },
@@ -3008,12 +3008,12 @@
   },
 
   "Import WiTime10 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-10",
+    "prefix": "ri:import:wi:time-10",
     "body": "import { WiTime10 } from 'react-icons/wi';",
     "description": "Import WiTime10 Weather icon from react-icons"
   },
   "Import WiTime10 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-10:all-files",
+    "prefix": "ri:import:wi:time-10:all-files",
     "body": "import { WiTime10 } from '@react-icons/all-files/wi/WiTime10';",
     "description": "Import WiTime10 Weather icon from @react-icons/all-files/wi/WiTime10"
   },
@@ -3024,12 +3024,12 @@
   },
 
   "Import WiTime11 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-11",
+    "prefix": "ri:import:wi:time-11",
     "body": "import { WiTime11 } from 'react-icons/wi';",
     "description": "Import WiTime11 Weather icon from react-icons"
   },
   "Import WiTime11 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-11:all-files",
+    "prefix": "ri:import:wi:time-11:all-files",
     "body": "import { WiTime11 } from '@react-icons/all-files/wi/WiTime11';",
     "description": "Import WiTime11 Weather icon from @react-icons/all-files/wi/WiTime11"
   },
@@ -3040,12 +3040,12 @@
   },
 
   "Import WiTime12 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-12",
+    "prefix": "ri:import:wi:time-12",
     "body": "import { WiTime12 } from 'react-icons/wi';",
     "description": "Import WiTime12 Weather icon from react-icons"
   },
   "Import WiTime12 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-12:all-files",
+    "prefix": "ri:import:wi:time-12:all-files",
     "body": "import { WiTime12 } from '@react-icons/all-files/wi/WiTime12';",
     "description": "Import WiTime12 Weather icon from @react-icons/all-files/wi/WiTime12"
   },
@@ -3056,12 +3056,12 @@
   },
 
   "Import WiTime2 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-2",
+    "prefix": "ri:import:wi:time-2",
     "body": "import { WiTime2 } from 'react-icons/wi';",
     "description": "Import WiTime2 Weather icon from react-icons"
   },
   "Import WiTime2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-2:all-files",
+    "prefix": "ri:import:wi:time-2:all-files",
     "body": "import { WiTime2 } from '@react-icons/all-files/wi/WiTime2';",
     "description": "Import WiTime2 Weather icon from @react-icons/all-files/wi/WiTime2"
   },
@@ -3072,12 +3072,12 @@
   },
 
   "Import WiTime3 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-3",
+    "prefix": "ri:import:wi:time-3",
     "body": "import { WiTime3 } from 'react-icons/wi';",
     "description": "Import WiTime3 Weather icon from react-icons"
   },
   "Import WiTime3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-3:all-files",
+    "prefix": "ri:import:wi:time-3:all-files",
     "body": "import { WiTime3 } from '@react-icons/all-files/wi/WiTime3';",
     "description": "Import WiTime3 Weather icon from @react-icons/all-files/wi/WiTime3"
   },
@@ -3088,12 +3088,12 @@
   },
 
   "Import WiTime4 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-4",
+    "prefix": "ri:import:wi:time-4",
     "body": "import { WiTime4 } from 'react-icons/wi';",
     "description": "Import WiTime4 Weather icon from react-icons"
   },
   "Import WiTime4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-4:all-files",
+    "prefix": "ri:import:wi:time-4:all-files",
     "body": "import { WiTime4 } from '@react-icons/all-files/wi/WiTime4';",
     "description": "Import WiTime4 Weather icon from @react-icons/all-files/wi/WiTime4"
   },
@@ -3104,12 +3104,12 @@
   },
 
   "Import WiTime5 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-5",
+    "prefix": "ri:import:wi:time-5",
     "body": "import { WiTime5 } from 'react-icons/wi';",
     "description": "Import WiTime5 Weather icon from react-icons"
   },
   "Import WiTime5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-5:all-files",
+    "prefix": "ri:import:wi:time-5:all-files",
     "body": "import { WiTime5 } from '@react-icons/all-files/wi/WiTime5';",
     "description": "Import WiTime5 Weather icon from @react-icons/all-files/wi/WiTime5"
   },
@@ -3120,12 +3120,12 @@
   },
 
   "Import WiTime6 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-6",
+    "prefix": "ri:import:wi:time-6",
     "body": "import { WiTime6 } from 'react-icons/wi';",
     "description": "Import WiTime6 Weather icon from react-icons"
   },
   "Import WiTime6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-6:all-files",
+    "prefix": "ri:import:wi:time-6:all-files",
     "body": "import { WiTime6 } from '@react-icons/all-files/wi/WiTime6';",
     "description": "Import WiTime6 Weather icon from @react-icons/all-files/wi/WiTime6"
   },
@@ -3136,12 +3136,12 @@
   },
 
   "Import WiTime7 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-7",
+    "prefix": "ri:import:wi:time-7",
     "body": "import { WiTime7 } from 'react-icons/wi';",
     "description": "Import WiTime7 Weather icon from react-icons"
   },
   "Import WiTime7 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-7:all-files",
+    "prefix": "ri:import:wi:time-7:all-files",
     "body": "import { WiTime7 } from '@react-icons/all-files/wi/WiTime7';",
     "description": "Import WiTime7 Weather icon from @react-icons/all-files/wi/WiTime7"
   },
@@ -3152,12 +3152,12 @@
   },
 
   "Import WiTime8 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-8",
+    "prefix": "ri:import:wi:time-8",
     "body": "import { WiTime8 } from 'react-icons/wi';",
     "description": "Import WiTime8 Weather icon from react-icons"
   },
   "Import WiTime8 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-8:all-files",
+    "prefix": "ri:import:wi:time-8:all-files",
     "body": "import { WiTime8 } from '@react-icons/all-files/wi/WiTime8';",
     "description": "Import WiTime8 Weather icon from @react-icons/all-files/wi/WiTime8"
   },
@@ -3168,12 +3168,12 @@
   },
 
   "Import WiTime9 (Weather Icons)": {
-    "prefix": "ri:wi:import:time-9",
+    "prefix": "ri:import:wi:time-9",
     "body": "import { WiTime9 } from 'react-icons/wi';",
     "description": "Import WiTime9 Weather icon from react-icons"
   },
   "Import WiTime9 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:time-9:all-files",
+    "prefix": "ri:import:wi:time-9:all-files",
     "body": "import { WiTime9 } from '@react-icons/all-files/wi/WiTime9';",
     "description": "Import WiTime9 Weather icon from @react-icons/all-files/wi/WiTime9"
   },
@@ -3184,12 +3184,12 @@
   },
 
   "Import WiTornado (Weather Icons)": {
-    "prefix": "ri:wi:import:tornado",
+    "prefix": "ri:import:wi:tornado",
     "body": "import { WiTornado } from 'react-icons/wi';",
     "description": "Import WiTornado Weather icon from react-icons"
   },
   "Import WiTornado (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:tornado:all-files",
+    "prefix": "ri:import:wi:tornado:all-files",
     "body": "import { WiTornado } from '@react-icons/all-files/wi/WiTornado';",
     "description": "Import WiTornado Weather icon from @react-icons/all-files/wi/WiTornado"
   },
@@ -3200,12 +3200,12 @@
   },
 
   "Import WiTrain (Weather Icons)": {
-    "prefix": "ri:wi:import:train",
+    "prefix": "ri:import:wi:train",
     "body": "import { WiTrain } from 'react-icons/wi';",
     "description": "Import WiTrain Weather icon from react-icons"
   },
   "Import WiTrain (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:train:all-files",
+    "prefix": "ri:import:wi:train:all-files",
     "body": "import { WiTrain } from '@react-icons/all-files/wi/WiTrain';",
     "description": "Import WiTrain Weather icon from @react-icons/all-files/wi/WiTrain"
   },
@@ -3216,12 +3216,12 @@
   },
 
   "Import WiTsunami (Weather Icons)": {
-    "prefix": "ri:wi:import:tsunami",
+    "prefix": "ri:import:wi:tsunami",
     "body": "import { WiTsunami } from 'react-icons/wi';",
     "description": "Import WiTsunami Weather icon from react-icons"
   },
   "Import WiTsunami (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:tsunami:all-files",
+    "prefix": "ri:import:wi:tsunami:all-files",
     "body": "import { WiTsunami } from '@react-icons/all-files/wi/WiTsunami';",
     "description": "Import WiTsunami Weather icon from @react-icons/all-files/wi/WiTsunami"
   },
@@ -3232,12 +3232,12 @@
   },
 
   "Import WiUmbrella (Weather Icons)": {
-    "prefix": "ri:wi:import:umbrella",
+    "prefix": "ri:import:wi:umbrella",
     "body": "import { WiUmbrella } from 'react-icons/wi';",
     "description": "Import WiUmbrella Weather icon from react-icons"
   },
   "Import WiUmbrella (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:umbrella:all-files",
+    "prefix": "ri:import:wi:umbrella:all-files",
     "body": "import { WiUmbrella } from '@react-icons/all-files/wi/WiUmbrella';",
     "description": "Import WiUmbrella Weather icon from @react-icons/all-files/wi/WiUmbrella"
   },
@@ -3248,12 +3248,12 @@
   },
 
   "Import WiVolcano (Weather Icons)": {
-    "prefix": "ri:wi:import:volcano",
+    "prefix": "ri:import:wi:volcano",
     "body": "import { WiVolcano } from 'react-icons/wi';",
     "description": "Import WiVolcano Weather icon from react-icons"
   },
   "Import WiVolcano (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:volcano:all-files",
+    "prefix": "ri:import:wi:volcano:all-files",
     "body": "import { WiVolcano } from '@react-icons/all-files/wi/WiVolcano';",
     "description": "Import WiVolcano Weather icon from @react-icons/all-files/wi/WiVolcano"
   },
@@ -3264,12 +3264,12 @@
   },
 
   "Import WiWindBeaufort0 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-0",
+    "prefix": "ri:import:wi:wind-beaufort-0",
     "body": "import { WiWindBeaufort0 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort0 Weather icon from react-icons"
   },
   "Import WiWindBeaufort0 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-0:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-0:all-files",
     "body": "import { WiWindBeaufort0 } from '@react-icons/all-files/wi/WiWindBeaufort0';",
     "description": "Import WiWindBeaufort0 Weather icon from @react-icons/all-files/wi/WiWindBeaufort0"
   },
@@ -3280,12 +3280,12 @@
   },
 
   "Import WiWindBeaufort1 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-1",
+    "prefix": "ri:import:wi:wind-beaufort-1",
     "body": "import { WiWindBeaufort1 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort1 Weather icon from react-icons"
   },
   "Import WiWindBeaufort1 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-1:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-1:all-files",
     "body": "import { WiWindBeaufort1 } from '@react-icons/all-files/wi/WiWindBeaufort1';",
     "description": "Import WiWindBeaufort1 Weather icon from @react-icons/all-files/wi/WiWindBeaufort1"
   },
@@ -3296,12 +3296,12 @@
   },
 
   "Import WiWindBeaufort10 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-10",
+    "prefix": "ri:import:wi:wind-beaufort-10",
     "body": "import { WiWindBeaufort10 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort10 Weather icon from react-icons"
   },
   "Import WiWindBeaufort10 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-10:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-10:all-files",
     "body": "import { WiWindBeaufort10 } from '@react-icons/all-files/wi/WiWindBeaufort10';",
     "description": "Import WiWindBeaufort10 Weather icon from @react-icons/all-files/wi/WiWindBeaufort10"
   },
@@ -3312,12 +3312,12 @@
   },
 
   "Import WiWindBeaufort11 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-11",
+    "prefix": "ri:import:wi:wind-beaufort-11",
     "body": "import { WiWindBeaufort11 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort11 Weather icon from react-icons"
   },
   "Import WiWindBeaufort11 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-11:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-11:all-files",
     "body": "import { WiWindBeaufort11 } from '@react-icons/all-files/wi/WiWindBeaufort11';",
     "description": "Import WiWindBeaufort11 Weather icon from @react-icons/all-files/wi/WiWindBeaufort11"
   },
@@ -3328,12 +3328,12 @@
   },
 
   "Import WiWindBeaufort12 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-12",
+    "prefix": "ri:import:wi:wind-beaufort-12",
     "body": "import { WiWindBeaufort12 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort12 Weather icon from react-icons"
   },
   "Import WiWindBeaufort12 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-12:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-12:all-files",
     "body": "import { WiWindBeaufort12 } from '@react-icons/all-files/wi/WiWindBeaufort12';",
     "description": "Import WiWindBeaufort12 Weather icon from @react-icons/all-files/wi/WiWindBeaufort12"
   },
@@ -3344,12 +3344,12 @@
   },
 
   "Import WiWindBeaufort2 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-2",
+    "prefix": "ri:import:wi:wind-beaufort-2",
     "body": "import { WiWindBeaufort2 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort2 Weather icon from react-icons"
   },
   "Import WiWindBeaufort2 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-2:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-2:all-files",
     "body": "import { WiWindBeaufort2 } from '@react-icons/all-files/wi/WiWindBeaufort2';",
     "description": "Import WiWindBeaufort2 Weather icon from @react-icons/all-files/wi/WiWindBeaufort2"
   },
@@ -3360,12 +3360,12 @@
   },
 
   "Import WiWindBeaufort3 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-3",
+    "prefix": "ri:import:wi:wind-beaufort-3",
     "body": "import { WiWindBeaufort3 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort3 Weather icon from react-icons"
   },
   "Import WiWindBeaufort3 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-3:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-3:all-files",
     "body": "import { WiWindBeaufort3 } from '@react-icons/all-files/wi/WiWindBeaufort3';",
     "description": "Import WiWindBeaufort3 Weather icon from @react-icons/all-files/wi/WiWindBeaufort3"
   },
@@ -3376,12 +3376,12 @@
   },
 
   "Import WiWindBeaufort4 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-4",
+    "prefix": "ri:import:wi:wind-beaufort-4",
     "body": "import { WiWindBeaufort4 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort4 Weather icon from react-icons"
   },
   "Import WiWindBeaufort4 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-4:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-4:all-files",
     "body": "import { WiWindBeaufort4 } from '@react-icons/all-files/wi/WiWindBeaufort4';",
     "description": "Import WiWindBeaufort4 Weather icon from @react-icons/all-files/wi/WiWindBeaufort4"
   },
@@ -3392,12 +3392,12 @@
   },
 
   "Import WiWindBeaufort5 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-5",
+    "prefix": "ri:import:wi:wind-beaufort-5",
     "body": "import { WiWindBeaufort5 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort5 Weather icon from react-icons"
   },
   "Import WiWindBeaufort5 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-5:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-5:all-files",
     "body": "import { WiWindBeaufort5 } from '@react-icons/all-files/wi/WiWindBeaufort5';",
     "description": "Import WiWindBeaufort5 Weather icon from @react-icons/all-files/wi/WiWindBeaufort5"
   },
@@ -3408,12 +3408,12 @@
   },
 
   "Import WiWindBeaufort6 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-6",
+    "prefix": "ri:import:wi:wind-beaufort-6",
     "body": "import { WiWindBeaufort6 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort6 Weather icon from react-icons"
   },
   "Import WiWindBeaufort6 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-6:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-6:all-files",
     "body": "import { WiWindBeaufort6 } from '@react-icons/all-files/wi/WiWindBeaufort6';",
     "description": "Import WiWindBeaufort6 Weather icon from @react-icons/all-files/wi/WiWindBeaufort6"
   },
@@ -3424,12 +3424,12 @@
   },
 
   "Import WiWindBeaufort7 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-7",
+    "prefix": "ri:import:wi:wind-beaufort-7",
     "body": "import { WiWindBeaufort7 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort7 Weather icon from react-icons"
   },
   "Import WiWindBeaufort7 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-7:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-7:all-files",
     "body": "import { WiWindBeaufort7 } from '@react-icons/all-files/wi/WiWindBeaufort7';",
     "description": "Import WiWindBeaufort7 Weather icon from @react-icons/all-files/wi/WiWindBeaufort7"
   },
@@ -3440,12 +3440,12 @@
   },
 
   "Import WiWindBeaufort8 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-8",
+    "prefix": "ri:import:wi:wind-beaufort-8",
     "body": "import { WiWindBeaufort8 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort8 Weather icon from react-icons"
   },
   "Import WiWindBeaufort8 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-8:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-8:all-files",
     "body": "import { WiWindBeaufort8 } from '@react-icons/all-files/wi/WiWindBeaufort8';",
     "description": "Import WiWindBeaufort8 Weather icon from @react-icons/all-files/wi/WiWindBeaufort8"
   },
@@ -3456,12 +3456,12 @@
   },
 
   "Import WiWindBeaufort9 (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-beaufort-9",
+    "prefix": "ri:import:wi:wind-beaufort-9",
     "body": "import { WiWindBeaufort9 } from 'react-icons/wi';",
     "description": "Import WiWindBeaufort9 Weather icon from react-icons"
   },
   "Import WiWindBeaufort9 (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-beaufort-9:all-files",
+    "prefix": "ri:import:wi:wind-beaufort-9:all-files",
     "body": "import { WiWindBeaufort9 } from '@react-icons/all-files/wi/WiWindBeaufort9';",
     "description": "Import WiWindBeaufort9 Weather icon from @react-icons/all-files/wi/WiWindBeaufort9"
   },
@@ -3472,12 +3472,12 @@
   },
 
   "Import WiWindDeg (Weather Icons)": {
-    "prefix": "ri:wi:import:wind-deg",
+    "prefix": "ri:import:wi:wind-deg",
     "body": "import { WiWindDeg } from 'react-icons/wi';",
     "description": "Import WiWindDeg Weather icon from react-icons"
   },
   "Import WiWindDeg (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:wind-deg:all-files",
+    "prefix": "ri:import:wi:wind-deg:all-files",
     "body": "import { WiWindDeg } from '@react-icons/all-files/wi/WiWindDeg';",
     "description": "Import WiWindDeg Weather icon from @react-icons/all-files/wi/WiWindDeg"
   },
@@ -3488,12 +3488,12 @@
   },
 
   "Import WiWindy (Weather Icons)": {
-    "prefix": "ri:wi:import:windy",
+    "prefix": "ri:import:wi:windy",
     "body": "import { WiWindy } from 'react-icons/wi';",
     "description": "Import WiWindy Weather icon from react-icons"
   },
   "Import WiWindy (Weather Icons) from all-files": {
-    "prefix": "ri:wi:import:windy:all-files",
+    "prefix": "ri:import:wi:windy:all-files",
     "body": "import { WiWindy } from '@react-icons/all-files/wi/WiWindy';",
     "description": "Import WiWindy Weather icon from @react-icons/all-files/wi/WiWindy"
   },

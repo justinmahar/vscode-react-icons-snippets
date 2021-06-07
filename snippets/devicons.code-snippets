@@ -1,11 +1,11 @@
 {
   "Import DiAndroid (Devicons)": {
-    "prefix": "ri:di:import:android",
+    "prefix": "ri:import:di:android",
     "body": "import { DiAndroid } from 'react-icons/di';",
     "description": "Import DiAndroid Devicons icon from react-icons"
   },
   "Import DiAndroid (Devicons) from all-files": {
-    "prefix": "ri:di:import:android:all-files",
+    "prefix": "ri:import:di:android:all-files",
     "body": "import { DiAndroid } from '@react-icons/all-files/di/DiAndroid';",
     "description": "Import DiAndroid Devicons icon from @react-icons/all-files/di/DiAndroid"
   },
@@ -16,12 +16,12 @@
   },
 
   "Import DiAngularSimple (Devicons)": {
-    "prefix": "ri:di:import:angular-simple",
+    "prefix": "ri:import:di:angular-simple",
     "body": "import { DiAngularSimple } from 'react-icons/di';",
     "description": "Import DiAngularSimple Devicons icon from react-icons"
   },
   "Import DiAngularSimple (Devicons) from all-files": {
-    "prefix": "ri:di:import:angular-simple:all-files",
+    "prefix": "ri:import:di:angular-simple:all-files",
     "body": "import { DiAngularSimple } from '@react-icons/all-files/di/DiAngularSimple';",
     "description": "Import DiAngularSimple Devicons icon from @react-icons/all-files/di/DiAngularSimple"
   },
@@ -32,12 +32,12 @@
   },
 
   "Import DiAppcelerator (Devicons)": {
-    "prefix": "ri:di:import:appcelerator",
+    "prefix": "ri:import:di:appcelerator",
     "body": "import { DiAppcelerator } from 'react-icons/di';",
     "description": "Import DiAppcelerator Devicons icon from react-icons"
   },
   "Import DiAppcelerator (Devicons) from all-files": {
-    "prefix": "ri:di:import:appcelerator:all-files",
+    "prefix": "ri:import:di:appcelerator:all-files",
     "body": "import { DiAppcelerator } from '@react-icons/all-files/di/DiAppcelerator';",
     "description": "Import DiAppcelerator Devicons icon from @react-icons/all-files/di/DiAppcelerator"
   },
@@ -48,12 +48,12 @@
   },
 
   "Import DiApple (Devicons)": {
-    "prefix": "ri:di:import:apple",
+    "prefix": "ri:import:di:apple",
     "body": "import { DiApple } from 'react-icons/di';",
     "description": "Import DiApple Devicons icon from react-icons"
   },
   "Import DiApple (Devicons) from all-files": {
-    "prefix": "ri:di:import:apple:all-files",
+    "prefix": "ri:import:di:apple:all-files",
     "body": "import { DiApple } from '@react-icons/all-files/di/DiApple';",
     "description": "Import DiApple Devicons icon from @react-icons/all-files/di/DiApple"
   },
@@ -64,12 +64,12 @@
   },
 
   "Import DiAppstore (Devicons)": {
-    "prefix": "ri:di:import:appstore",
+    "prefix": "ri:import:di:appstore",
     "body": "import { DiAppstore } from 'react-icons/di';",
     "description": "Import DiAppstore Devicons icon from react-icons"
   },
   "Import DiAppstore (Devicons) from all-files": {
-    "prefix": "ri:di:import:appstore:all-files",
+    "prefix": "ri:import:di:appstore:all-files",
     "body": "import { DiAppstore } from '@react-icons/all-files/di/DiAppstore';",
     "description": "Import DiAppstore Devicons icon from @react-icons/all-files/di/DiAppstore"
   },
@@ -80,12 +80,12 @@
   },
 
   "Import DiAptana (Devicons)": {
-    "prefix": "ri:di:import:aptana",
+    "prefix": "ri:import:di:aptana",
     "body": "import { DiAptana } from 'react-icons/di';",
     "description": "Import DiAptana Devicons icon from react-icons"
   },
   "Import DiAptana (Devicons) from all-files": {
-    "prefix": "ri:di:import:aptana:all-files",
+    "prefix": "ri:import:di:aptana:all-files",
     "body": "import { DiAptana } from '@react-icons/all-files/di/DiAptana';",
     "description": "Import DiAptana Devicons icon from @react-icons/all-files/di/DiAptana"
   },
@@ -96,12 +96,12 @@
   },
 
   "Import DiAsterisk (Devicons)": {
-    "prefix": "ri:di:import:asterisk",
+    "prefix": "ri:import:di:asterisk",
     "body": "import { DiAsterisk } from 'react-icons/di';",
     "description": "Import DiAsterisk Devicons icon from react-icons"
   },
   "Import DiAsterisk (Devicons) from all-files": {
-    "prefix": "ri:di:import:asterisk:all-files",
+    "prefix": "ri:import:di:asterisk:all-files",
     "body": "import { DiAsterisk } from '@react-icons/all-files/di/DiAsterisk';",
     "description": "Import DiAsterisk Devicons icon from @react-icons/all-files/di/DiAsterisk"
   },
@@ -112,12 +112,12 @@
   },
 
   "Import DiAtlassian (Devicons)": {
-    "prefix": "ri:di:import:atlassian",
+    "prefix": "ri:import:di:atlassian",
     "body": "import { DiAtlassian } from 'react-icons/di';",
     "description": "Import DiAtlassian Devicons icon from react-icons"
   },
   "Import DiAtlassian (Devicons) from all-files": {
-    "prefix": "ri:di:import:atlassian:all-files",
+    "prefix": "ri:import:di:atlassian:all-files",
     "body": "import { DiAtlassian } from '@react-icons/all-files/di/DiAtlassian';",
     "description": "Import DiAtlassian Devicons icon from @react-icons/all-files/di/DiAtlassian"
   },
@@ -128,12 +128,12 @@
   },
 
   "Import DiAtom (Devicons)": {
-    "prefix": "ri:di:import:atom",
+    "prefix": "ri:import:di:atom",
     "body": "import { DiAtom } from 'react-icons/di';",
     "description": "Import DiAtom Devicons icon from react-icons"
   },
   "Import DiAtom (Devicons) from all-files": {
-    "prefix": "ri:di:import:atom:all-files",
+    "prefix": "ri:import:di:atom:all-files",
     "body": "import { DiAtom } from '@react-icons/all-files/di/DiAtom';",
     "description": "Import DiAtom Devicons icon from @react-icons/all-files/di/DiAtom"
   },
@@ -144,12 +144,12 @@
   },
 
   "Import DiAws (Devicons)": {
-    "prefix": "ri:di:import:aws",
+    "prefix": "ri:import:di:aws",
     "body": "import { DiAws } from 'react-icons/di';",
     "description": "Import DiAws Devicons icon from react-icons"
   },
   "Import DiAws (Devicons) from all-files": {
-    "prefix": "ri:di:import:aws:all-files",
+    "prefix": "ri:import:di:aws:all-files",
     "body": "import { DiAws } from '@react-icons/all-files/di/DiAws';",
     "description": "Import DiAws Devicons icon from @react-icons/all-files/di/DiAws"
   },
@@ -160,12 +160,12 @@
   },
 
   "Import DiBackbone (Devicons)": {
-    "prefix": "ri:di:import:backbone",
+    "prefix": "ri:import:di:backbone",
     "body": "import { DiBackbone } from 'react-icons/di';",
     "description": "Import DiBackbone Devicons icon from react-icons"
   },
   "Import DiBackbone (Devicons) from all-files": {
-    "prefix": "ri:di:import:backbone:all-files",
+    "prefix": "ri:import:di:backbone:all-files",
     "body": "import { DiBackbone } from '@react-icons/all-files/di/DiBackbone';",
     "description": "Import DiBackbone Devicons icon from @react-icons/all-files/di/DiBackbone"
   },
@@ -176,12 +176,12 @@
   },
 
   "Import DiBingSmall (Devicons)": {
-    "prefix": "ri:di:import:bing-small",
+    "prefix": "ri:import:di:bing-small",
     "body": "import { DiBingSmall } from 'react-icons/di';",
     "description": "Import DiBingSmall Devicons icon from react-icons"
   },
   "Import DiBingSmall (Devicons) from all-files": {
-    "prefix": "ri:di:import:bing-small:all-files",
+    "prefix": "ri:import:di:bing-small:all-files",
     "body": "import { DiBingSmall } from '@react-icons/all-files/di/DiBingSmall';",
     "description": "Import DiBingSmall Devicons icon from @react-icons/all-files/di/DiBingSmall"
   },
@@ -192,12 +192,12 @@
   },
 
   "Import DiBintray (Devicons)": {
-    "prefix": "ri:di:import:bintray",
+    "prefix": "ri:import:di:bintray",
     "body": "import { DiBintray } from 'react-icons/di';",
     "description": "Import DiBintray Devicons icon from react-icons"
   },
   "Import DiBintray (Devicons) from all-files": {
-    "prefix": "ri:di:import:bintray:all-files",
+    "prefix": "ri:import:di:bintray:all-files",
     "body": "import { DiBintray } from '@react-icons/all-files/di/DiBintray';",
     "description": "Import DiBintray Devicons icon from @react-icons/all-files/di/DiBintray"
   },
@@ -208,12 +208,12 @@
   },
 
   "Import DiBitbucket (Devicons)": {
-    "prefix": "ri:di:import:bitbucket",
+    "prefix": "ri:import:di:bitbucket",
     "body": "import { DiBitbucket } from 'react-icons/di';",
     "description": "Import DiBitbucket Devicons icon from react-icons"
   },
   "Import DiBitbucket (Devicons) from all-files": {
-    "prefix": "ri:di:import:bitbucket:all-files",
+    "prefix": "ri:import:di:bitbucket:all-files",
     "body": "import { DiBitbucket } from '@react-icons/all-files/di/DiBitbucket';",
     "description": "Import DiBitbucket Devicons icon from @react-icons/all-files/di/DiBitbucket"
   },
@@ -224,12 +224,12 @@
   },
 
   "Import DiBlackberry (Devicons)": {
-    "prefix": "ri:di:import:blackberry",
+    "prefix": "ri:import:di:blackberry",
     "body": "import { DiBlackberry } from 'react-icons/di';",
     "description": "Import DiBlackberry Devicons icon from react-icons"
   },
   "Import DiBlackberry (Devicons) from all-files": {
-    "prefix": "ri:di:import:blackberry:all-files",
+    "prefix": "ri:import:di:blackberry:all-files",
     "body": "import { DiBlackberry } from '@react-icons/all-files/di/DiBlackberry';",
     "description": "Import DiBlackberry Devicons icon from @react-icons/all-files/di/DiBlackberry"
   },
@@ -240,12 +240,12 @@
   },
 
   "Import DiBootstrap (Devicons)": {
-    "prefix": "ri:di:import:bootstrap",
+    "prefix": "ri:import:di:bootstrap",
     "body": "import { DiBootstrap } from 'react-icons/di';",
     "description": "Import DiBootstrap Devicons icon from react-icons"
   },
   "Import DiBootstrap (Devicons) from all-files": {
-    "prefix": "ri:di:import:bootstrap:all-files",
+    "prefix": "ri:import:di:bootstrap:all-files",
     "body": "import { DiBootstrap } from '@react-icons/all-files/di/DiBootstrap';",
     "description": "Import DiBootstrap Devicons icon from @react-icons/all-files/di/DiBootstrap"
   },
@@ -256,12 +256,12 @@
   },
 
   "Import DiBower (Devicons)": {
-    "prefix": "ri:di:import:bower",
+    "prefix": "ri:import:di:bower",
     "body": "import { DiBower } from 'react-icons/di';",
     "description": "Import DiBower Devicons icon from react-icons"
   },
   "Import DiBower (Devicons) from all-files": {
-    "prefix": "ri:di:import:bower:all-files",
+    "prefix": "ri:import:di:bower:all-files",
     "body": "import { DiBower } from '@react-icons/all-files/di/DiBower';",
     "description": "Import DiBower Devicons icon from @react-icons/all-files/di/DiBower"
   },
@@ -272,12 +272,12 @@
   },
 
   "Import DiBrackets (Devicons)": {
-    "prefix": "ri:di:import:brackets",
+    "prefix": "ri:import:di:brackets",
     "body": "import { DiBrackets } from 'react-icons/di';",
     "description": "Import DiBrackets Devicons icon from react-icons"
   },
   "Import DiBrackets (Devicons) from all-files": {
-    "prefix": "ri:di:import:brackets:all-files",
+    "prefix": "ri:import:di:brackets:all-files",
     "body": "import { DiBrackets } from '@react-icons/all-files/di/DiBrackets';",
     "description": "Import DiBrackets Devicons icon from @react-icons/all-files/di/DiBrackets"
   },
@@ -288,12 +288,12 @@
   },
 
   "Import DiBugsense (Devicons)": {
-    "prefix": "ri:di:import:bugsense",
+    "prefix": "ri:import:di:bugsense",
     "body": "import { DiBugsense } from 'react-icons/di';",
     "description": "Import DiBugsense Devicons icon from react-icons"
   },
   "Import DiBugsense (Devicons) from all-files": {
-    "prefix": "ri:di:import:bugsense:all-files",
+    "prefix": "ri:import:di:bugsense:all-files",
     "body": "import { DiBugsense } from '@react-icons/all-files/di/DiBugsense';",
     "description": "Import DiBugsense Devicons icon from @react-icons/all-files/di/DiBugsense"
   },
@@ -304,12 +304,12 @@
   },
 
   "Import DiCelluloid (Devicons)": {
-    "prefix": "ri:di:import:celluloid",
+    "prefix": "ri:import:di:celluloid",
     "body": "import { DiCelluloid } from 'react-icons/di';",
     "description": "Import DiCelluloid Devicons icon from react-icons"
   },
   "Import DiCelluloid (Devicons) from all-files": {
-    "prefix": "ri:di:import:celluloid:all-files",
+    "prefix": "ri:import:di:celluloid:all-files",
     "body": "import { DiCelluloid } from '@react-icons/all-files/di/DiCelluloid';",
     "description": "Import DiCelluloid Devicons icon from @react-icons/all-files/di/DiCelluloid"
   },
@@ -320,12 +320,12 @@
   },
 
   "Import DiChrome (Devicons)": {
-    "prefix": "ri:di:import:chrome",
+    "prefix": "ri:import:di:chrome",
     "body": "import { DiChrome } from 'react-icons/di';",
     "description": "Import DiChrome Devicons icon from react-icons"
   },
   "Import DiChrome (Devicons) from all-files": {
-    "prefix": "ri:di:import:chrome:all-files",
+    "prefix": "ri:import:di:chrome:all-files",
     "body": "import { DiChrome } from '@react-icons/all-files/di/DiChrome';",
     "description": "Import DiChrome Devicons icon from @react-icons/all-files/di/DiChrome"
   },
@@ -336,12 +336,12 @@
   },
 
   "Import DiCisco (Devicons)": {
-    "prefix": "ri:di:import:cisco",
+    "prefix": "ri:import:di:cisco",
     "body": "import { DiCisco } from 'react-icons/di';",
     "description": "Import DiCisco Devicons icon from react-icons"
   },
   "Import DiCisco (Devicons) from all-files": {
-    "prefix": "ri:di:import:cisco:all-files",
+    "prefix": "ri:import:di:cisco:all-files",
     "body": "import { DiCisco } from '@react-icons/all-files/di/DiCisco';",
     "description": "Import DiCisco Devicons icon from @react-icons/all-files/di/DiCisco"
   },
@@ -352,12 +352,12 @@
   },
 
   "Import DiClojureAlt (Devicons)": {
-    "prefix": "ri:di:import:clojure-alt",
+    "prefix": "ri:import:di:clojure-alt",
     "body": "import { DiClojureAlt } from 'react-icons/di';",
     "description": "Import DiClojureAlt Devicons icon from react-icons"
   },
   "Import DiClojureAlt (Devicons) from all-files": {
-    "prefix": "ri:di:import:clojure-alt:all-files",
+    "prefix": "ri:import:di:clojure-alt:all-files",
     "body": "import { DiClojureAlt } from '@react-icons/all-files/di/DiClojureAlt';",
     "description": "Import DiClojureAlt Devicons icon from @react-icons/all-files/di/DiClojureAlt"
   },
@@ -368,12 +368,12 @@
   },
 
   "Import DiClojure (Devicons)": {
-    "prefix": "ri:di:import:clojure",
+    "prefix": "ri:import:di:clojure",
     "body": "import { DiClojure } from 'react-icons/di';",
     "description": "Import DiClojure Devicons icon from react-icons"
   },
   "Import DiClojure (Devicons) from all-files": {
-    "prefix": "ri:di:import:clojure:all-files",
+    "prefix": "ri:import:di:clojure:all-files",
     "body": "import { DiClojure } from '@react-icons/all-files/di/DiClojure';",
     "description": "Import DiClojure Devicons icon from @react-icons/all-files/di/DiClojure"
   },
@@ -384,12 +384,12 @@
   },
 
   "Import DiCloud9 (Devicons)": {
-    "prefix": "ri:di:import:cloud-9",
+    "prefix": "ri:import:di:cloud-9",
     "body": "import { DiCloud9 } from 'react-icons/di';",
     "description": "Import DiCloud9 Devicons icon from react-icons"
   },
   "Import DiCloud9 (Devicons) from all-files": {
-    "prefix": "ri:di:import:cloud-9:all-files",
+    "prefix": "ri:import:di:cloud-9:all-files",
     "body": "import { DiCloud9 } from '@react-icons/all-files/di/DiCloud9';",
     "description": "Import DiCloud9 Devicons icon from @react-icons/all-files/di/DiCloud9"
   },
@@ -400,12 +400,12 @@
   },
 
   "Import DiCoda (Devicons)": {
-    "prefix": "ri:di:import:coda",
+    "prefix": "ri:import:di:coda",
     "body": "import { DiCoda } from 'react-icons/di';",
     "description": "Import DiCoda Devicons icon from react-icons"
   },
   "Import DiCoda (Devicons) from all-files": {
-    "prefix": "ri:di:import:coda:all-files",
+    "prefix": "ri:import:di:coda:all-files",
     "body": "import { DiCoda } from '@react-icons/all-files/di/DiCoda';",
     "description": "Import DiCoda Devicons icon from @react-icons/all-files/di/DiCoda"
   },
@@ -416,12 +416,12 @@
   },
 
   "Import DiCodeBadge (Devicons)": {
-    "prefix": "ri:di:import:code-badge",
+    "prefix": "ri:import:di:code-badge",
     "body": "import { DiCodeBadge } from 'react-icons/di';",
     "description": "Import DiCodeBadge Devicons icon from react-icons"
   },
   "Import DiCodeBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:code-badge:all-files",
+    "prefix": "ri:import:di:code-badge:all-files",
     "body": "import { DiCodeBadge } from '@react-icons/all-files/di/DiCodeBadge';",
     "description": "Import DiCodeBadge Devicons icon from @react-icons/all-files/di/DiCodeBadge"
   },
@@ -432,12 +432,12 @@
   },
 
   "Import DiCode (Devicons)": {
-    "prefix": "ri:di:import:code",
+    "prefix": "ri:import:di:code",
     "body": "import { DiCode } from 'react-icons/di';",
     "description": "Import DiCode Devicons icon from react-icons"
   },
   "Import DiCode (Devicons) from all-files": {
-    "prefix": "ri:di:import:code:all-files",
+    "prefix": "ri:import:di:code:all-files",
     "body": "import { DiCode } from '@react-icons/all-files/di/DiCode';",
     "description": "Import DiCode Devicons icon from @react-icons/all-files/di/DiCode"
   },
@@ -448,12 +448,12 @@
   },
 
   "Import DiCodeigniter (Devicons)": {
-    "prefix": "ri:di:import:codeigniter",
+    "prefix": "ri:import:di:codeigniter",
     "body": "import { DiCodeigniter } from 'react-icons/di';",
     "description": "Import DiCodeigniter Devicons icon from react-icons"
   },
   "Import DiCodeigniter (Devicons) from all-files": {
-    "prefix": "ri:di:import:codeigniter:all-files",
+    "prefix": "ri:import:di:codeigniter:all-files",
     "body": "import { DiCodeigniter } from '@react-icons/all-files/di/DiCodeigniter';",
     "description": "Import DiCodeigniter Devicons icon from @react-icons/all-files/di/DiCodeigniter"
   },
@@ -464,12 +464,12 @@
   },
 
   "Import DiCodepen (Devicons)": {
-    "prefix": "ri:di:import:codepen",
+    "prefix": "ri:import:di:codepen",
     "body": "import { DiCodepen } from 'react-icons/di';",
     "description": "Import DiCodepen Devicons icon from react-icons"
   },
   "Import DiCodepen (Devicons) from all-files": {
-    "prefix": "ri:di:import:codepen:all-files",
+    "prefix": "ri:import:di:codepen:all-files",
     "body": "import { DiCodepen } from '@react-icons/all-files/di/DiCodepen';",
     "description": "Import DiCodepen Devicons icon from @react-icons/all-files/di/DiCodepen"
   },
@@ -480,12 +480,12 @@
   },
 
   "Import DiCodrops (Devicons)": {
-    "prefix": "ri:di:import:codrops",
+    "prefix": "ri:import:di:codrops",
     "body": "import { DiCodrops } from 'react-icons/di';",
     "description": "Import DiCodrops Devicons icon from react-icons"
   },
   "Import DiCodrops (Devicons) from all-files": {
-    "prefix": "ri:di:import:codrops:all-files",
+    "prefix": "ri:import:di:codrops:all-files",
     "body": "import { DiCodrops } from '@react-icons/all-files/di/DiCodrops';",
     "description": "Import DiCodrops Devicons icon from @react-icons/all-files/di/DiCodrops"
   },
@@ -496,12 +496,12 @@
   },
 
   "Import DiCoffeescript (Devicons)": {
-    "prefix": "ri:di:import:coffeescript",
+    "prefix": "ri:import:di:coffeescript",
     "body": "import { DiCoffeescript } from 'react-icons/di';",
     "description": "Import DiCoffeescript Devicons icon from react-icons"
   },
   "Import DiCoffeescript (Devicons) from all-files": {
-    "prefix": "ri:di:import:coffeescript:all-files",
+    "prefix": "ri:import:di:coffeescript:all-files",
     "body": "import { DiCoffeescript } from '@react-icons/all-files/di/DiCoffeescript';",
     "description": "Import DiCoffeescript Devicons icon from @react-icons/all-files/di/DiCoffeescript"
   },
@@ -512,12 +512,12 @@
   },
 
   "Import DiCompass (Devicons)": {
-    "prefix": "ri:di:import:compass",
+    "prefix": "ri:import:di:compass",
     "body": "import { DiCompass } from 'react-icons/di';",
     "description": "Import DiCompass Devicons icon from react-icons"
   },
   "Import DiCompass (Devicons) from all-files": {
-    "prefix": "ri:di:import:compass:all-files",
+    "prefix": "ri:import:di:compass:all-files",
     "body": "import { DiCompass } from '@react-icons/all-files/di/DiCompass';",
     "description": "Import DiCompass Devicons icon from @react-icons/all-files/di/DiCompass"
   },
@@ -528,12 +528,12 @@
   },
 
   "Import DiComposer (Devicons)": {
-    "prefix": "ri:di:import:composer",
+    "prefix": "ri:import:di:composer",
     "body": "import { DiComposer } from 'react-icons/di';",
     "description": "Import DiComposer Devicons icon from react-icons"
   },
   "Import DiComposer (Devicons) from all-files": {
-    "prefix": "ri:di:import:composer:all-files",
+    "prefix": "ri:import:di:composer:all-files",
     "body": "import { DiComposer } from '@react-icons/all-files/di/DiComposer';",
     "description": "Import DiComposer Devicons icon from @react-icons/all-files/di/DiComposer"
   },
@@ -544,12 +544,12 @@
   },
 
   "Import DiCreativecommonsBadge (Devicons)": {
-    "prefix": "ri:di:import:creativecommons-badge",
+    "prefix": "ri:import:di:creativecommons-badge",
     "body": "import { DiCreativecommonsBadge } from 'react-icons/di';",
     "description": "Import DiCreativecommonsBadge Devicons icon from react-icons"
   },
   "Import DiCreativecommonsBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:creativecommons-badge:all-files",
+    "prefix": "ri:import:di:creativecommons-badge:all-files",
     "body": "import { DiCreativecommonsBadge } from '@react-icons/all-files/di/DiCreativecommonsBadge';",
     "description": "Import DiCreativecommonsBadge Devicons icon from @react-icons/all-files/di/DiCreativecommonsBadge"
   },
@@ -560,12 +560,12 @@
   },
 
   "Import DiCreativecommons (Devicons)": {
-    "prefix": "ri:di:import:creativecommons",
+    "prefix": "ri:import:di:creativecommons",
     "body": "import { DiCreativecommons } from 'react-icons/di';",
     "description": "Import DiCreativecommons Devicons icon from react-icons"
   },
   "Import DiCreativecommons (Devicons) from all-files": {
-    "prefix": "ri:di:import:creativecommons:all-files",
+    "prefix": "ri:import:di:creativecommons:all-files",
     "body": "import { DiCreativecommons } from '@react-icons/all-files/di/DiCreativecommons';",
     "description": "Import DiCreativecommons Devicons icon from @react-icons/all-files/di/DiCreativecommons"
   },
@@ -576,12 +576,12 @@
   },
 
   "Import DiCssTricks (Devicons)": {
-    "prefix": "ri:di:import:css-tricks",
+    "prefix": "ri:import:di:css-tricks",
     "body": "import { DiCssTricks } from 'react-icons/di';",
     "description": "Import DiCssTricks Devicons icon from react-icons"
   },
   "Import DiCssTricks (Devicons) from all-files": {
-    "prefix": "ri:di:import:css-tricks:all-files",
+    "prefix": "ri:import:di:css-tricks:all-files",
     "body": "import { DiCssTricks } from '@react-icons/all-files/di/DiCssTricks';",
     "description": "Import DiCssTricks Devicons icon from @react-icons/all-files/di/DiCssTricks"
   },
@@ -592,12 +592,12 @@
   },
 
   "Import DiCss3Full (Devicons)": {
-    "prefix": "ri:di:import:css3-full",
+    "prefix": "ri:import:di:css3-full",
     "body": "import { DiCss3Full } from 'react-icons/di';",
     "description": "Import DiCss3Full Devicons icon from react-icons"
   },
   "Import DiCss3Full (Devicons) from all-files": {
-    "prefix": "ri:di:import:css3-full:all-files",
+    "prefix": "ri:import:di:css3-full:all-files",
     "body": "import { DiCss3Full } from '@react-icons/all-files/di/DiCss3Full';",
     "description": "Import DiCss3Full Devicons icon from @react-icons/all-files/di/DiCss3Full"
   },
@@ -608,12 +608,12 @@
   },
 
   "Import DiCss3 (Devicons)": {
-    "prefix": "ri:di:import:css3",
+    "prefix": "ri:import:di:css3",
     "body": "import { DiCss3 } from 'react-icons/di';",
     "description": "Import DiCss3 Devicons icon from react-icons"
   },
   "Import DiCss3 (Devicons) from all-files": {
-    "prefix": "ri:di:import:css3:all-files",
+    "prefix": "ri:import:di:css3:all-files",
     "body": "import { DiCss3 } from '@react-icons/all-files/di/DiCss3';",
     "description": "Import DiCss3 Devicons icon from @react-icons/all-files/di/DiCss3"
   },
@@ -624,12 +624,12 @@
   },
 
   "Import DiCssdeck (Devicons)": {
-    "prefix": "ri:di:import:cssdeck",
+    "prefix": "ri:import:di:cssdeck",
     "body": "import { DiCssdeck } from 'react-icons/di';",
     "description": "Import DiCssdeck Devicons icon from react-icons"
   },
   "Import DiCssdeck (Devicons) from all-files": {
-    "prefix": "ri:di:import:cssdeck:all-files",
+    "prefix": "ri:import:di:cssdeck:all-files",
     "body": "import { DiCssdeck } from '@react-icons/all-files/di/DiCssdeck';",
     "description": "Import DiCssdeck Devicons icon from @react-icons/all-files/di/DiCssdeck"
   },
@@ -640,12 +640,12 @@
   },
 
   "Import DiDart (Devicons)": {
-    "prefix": "ri:di:import:dart",
+    "prefix": "ri:import:di:dart",
     "body": "import { DiDart } from 'react-icons/di';",
     "description": "Import DiDart Devicons icon from react-icons"
   },
   "Import DiDart (Devicons) from all-files": {
-    "prefix": "ri:di:import:dart:all-files",
+    "prefix": "ri:import:di:dart:all-files",
     "body": "import { DiDart } from '@react-icons/all-files/di/DiDart';",
     "description": "Import DiDart Devicons icon from @react-icons/all-files/di/DiDart"
   },
@@ -656,12 +656,12 @@
   },
 
   "Import DiDatabase (Devicons)": {
-    "prefix": "ri:di:import:database",
+    "prefix": "ri:import:di:database",
     "body": "import { DiDatabase } from 'react-icons/di';",
     "description": "Import DiDatabase Devicons icon from react-icons"
   },
   "Import DiDatabase (Devicons) from all-files": {
-    "prefix": "ri:di:import:database:all-files",
+    "prefix": "ri:import:di:database:all-files",
     "body": "import { DiDatabase } from '@react-icons/all-files/di/DiDatabase';",
     "description": "Import DiDatabase Devicons icon from @react-icons/all-files/di/DiDatabase"
   },
@@ -672,12 +672,12 @@
   },
 
   "Import DiDebian (Devicons)": {
-    "prefix": "ri:di:import:debian",
+    "prefix": "ri:import:di:debian",
     "body": "import { DiDebian } from 'react-icons/di';",
     "description": "Import DiDebian Devicons icon from react-icons"
   },
   "Import DiDebian (Devicons) from all-files": {
-    "prefix": "ri:di:import:debian:all-files",
+    "prefix": "ri:import:di:debian:all-files",
     "body": "import { DiDebian } from '@react-icons/all-files/di/DiDebian';",
     "description": "Import DiDebian Devicons icon from @react-icons/all-files/di/DiDebian"
   },
@@ -688,12 +688,12 @@
   },
 
   "Import DiDigitalOcean (Devicons)": {
-    "prefix": "ri:di:import:digital-ocean",
+    "prefix": "ri:import:di:digital-ocean",
     "body": "import { DiDigitalOcean } from 'react-icons/di';",
     "description": "Import DiDigitalOcean Devicons icon from react-icons"
   },
   "Import DiDigitalOcean (Devicons) from all-files": {
-    "prefix": "ri:di:import:digital-ocean:all-files",
+    "prefix": "ri:import:di:digital-ocean:all-files",
     "body": "import { DiDigitalOcean } from '@react-icons/all-files/di/DiDigitalOcean';",
     "description": "Import DiDigitalOcean Devicons icon from @react-icons/all-files/di/DiDigitalOcean"
   },
@@ -704,12 +704,12 @@
   },
 
   "Import DiDjango (Devicons)": {
-    "prefix": "ri:di:import:django",
+    "prefix": "ri:import:di:django",
     "body": "import { DiDjango } from 'react-icons/di';",
     "description": "Import DiDjango Devicons icon from react-icons"
   },
   "Import DiDjango (Devicons) from all-files": {
-    "prefix": "ri:di:import:django:all-files",
+    "prefix": "ri:import:di:django:all-files",
     "body": "import { DiDjango } from '@react-icons/all-files/di/DiDjango';",
     "description": "Import DiDjango Devicons icon from @react-icons/all-files/di/DiDjango"
   },
@@ -720,12 +720,12 @@
   },
 
   "Import DiDlang (Devicons)": {
-    "prefix": "ri:di:import:dlang",
+    "prefix": "ri:import:di:dlang",
     "body": "import { DiDlang } from 'react-icons/di';",
     "description": "Import DiDlang Devicons icon from react-icons"
   },
   "Import DiDlang (Devicons) from all-files": {
-    "prefix": "ri:di:import:dlang:all-files",
+    "prefix": "ri:import:di:dlang:all-files",
     "body": "import { DiDlang } from '@react-icons/all-files/di/DiDlang';",
     "description": "Import DiDlang Devicons icon from @react-icons/all-files/di/DiDlang"
   },
@@ -736,12 +736,12 @@
   },
 
   "Import DiDocker (Devicons)": {
-    "prefix": "ri:di:import:docker",
+    "prefix": "ri:import:di:docker",
     "body": "import { DiDocker } from 'react-icons/di';",
     "description": "Import DiDocker Devicons icon from react-icons"
   },
   "Import DiDocker (Devicons) from all-files": {
-    "prefix": "ri:di:import:docker:all-files",
+    "prefix": "ri:import:di:docker:all-files",
     "body": "import { DiDocker } from '@react-icons/all-files/di/DiDocker';",
     "description": "Import DiDocker Devicons icon from @react-icons/all-files/di/DiDocker"
   },
@@ -752,12 +752,12 @@
   },
 
   "Import DiDoctrine (Devicons)": {
-    "prefix": "ri:di:import:doctrine",
+    "prefix": "ri:import:di:doctrine",
     "body": "import { DiDoctrine } from 'react-icons/di';",
     "description": "Import DiDoctrine Devicons icon from react-icons"
   },
   "Import DiDoctrine (Devicons) from all-files": {
-    "prefix": "ri:di:import:doctrine:all-files",
+    "prefix": "ri:import:di:doctrine:all-files",
     "body": "import { DiDoctrine } from '@react-icons/all-files/di/DiDoctrine';",
     "description": "Import DiDoctrine Devicons icon from @react-icons/all-files/di/DiDoctrine"
   },
@@ -768,12 +768,12 @@
   },
 
   "Import DiDojo (Devicons)": {
-    "prefix": "ri:di:import:dojo",
+    "prefix": "ri:import:di:dojo",
     "body": "import { DiDojo } from 'react-icons/di';",
     "description": "Import DiDojo Devicons icon from react-icons"
   },
   "Import DiDojo (Devicons) from all-files": {
-    "prefix": "ri:di:import:dojo:all-files",
+    "prefix": "ri:import:di:dojo:all-files",
     "body": "import { DiDojo } from '@react-icons/all-files/di/DiDojo';",
     "description": "Import DiDojo Devicons icon from @react-icons/all-files/di/DiDojo"
   },
@@ -784,12 +784,12 @@
   },
 
   "Import DiDotnet (Devicons)": {
-    "prefix": "ri:di:import:dotnet",
+    "prefix": "ri:import:di:dotnet",
     "body": "import { DiDotnet } from 'react-icons/di';",
     "description": "Import DiDotnet Devicons icon from react-icons"
   },
   "Import DiDotnet (Devicons) from all-files": {
-    "prefix": "ri:di:import:dotnet:all-files",
+    "prefix": "ri:import:di:dotnet:all-files",
     "body": "import { DiDotnet } from '@react-icons/all-files/di/DiDotnet';",
     "description": "Import DiDotnet Devicons icon from @react-icons/all-files/di/DiDotnet"
   },
@@ -800,12 +800,12 @@
   },
 
   "Import DiDreamweaver (Devicons)": {
-    "prefix": "ri:di:import:dreamweaver",
+    "prefix": "ri:import:di:dreamweaver",
     "body": "import { DiDreamweaver } from 'react-icons/di';",
     "description": "Import DiDreamweaver Devicons icon from react-icons"
   },
   "Import DiDreamweaver (Devicons) from all-files": {
-    "prefix": "ri:di:import:dreamweaver:all-files",
+    "prefix": "ri:import:di:dreamweaver:all-files",
     "body": "import { DiDreamweaver } from '@react-icons/all-files/di/DiDreamweaver';",
     "description": "Import DiDreamweaver Devicons icon from @react-icons/all-files/di/DiDreamweaver"
   },
@@ -816,12 +816,12 @@
   },
 
   "Import DiDropbox (Devicons)": {
-    "prefix": "ri:di:import:dropbox",
+    "prefix": "ri:import:di:dropbox",
     "body": "import { DiDropbox } from 'react-icons/di';",
     "description": "Import DiDropbox Devicons icon from react-icons"
   },
   "Import DiDropbox (Devicons) from all-files": {
-    "prefix": "ri:di:import:dropbox:all-files",
+    "prefix": "ri:import:di:dropbox:all-files",
     "body": "import { DiDropbox } from '@react-icons/all-files/di/DiDropbox';",
     "description": "Import DiDropbox Devicons icon from @react-icons/all-files/di/DiDropbox"
   },
@@ -832,12 +832,12 @@
   },
 
   "Import DiDrupal (Devicons)": {
-    "prefix": "ri:di:import:drupal",
+    "prefix": "ri:import:di:drupal",
     "body": "import { DiDrupal } from 'react-icons/di';",
     "description": "Import DiDrupal Devicons icon from react-icons"
   },
   "Import DiDrupal (Devicons) from all-files": {
-    "prefix": "ri:di:import:drupal:all-files",
+    "prefix": "ri:import:di:drupal:all-files",
     "body": "import { DiDrupal } from '@react-icons/all-files/di/DiDrupal';",
     "description": "Import DiDrupal Devicons icon from @react-icons/all-files/di/DiDrupal"
   },
@@ -848,12 +848,12 @@
   },
 
   "Import DiEclipse (Devicons)": {
-    "prefix": "ri:di:import:eclipse",
+    "prefix": "ri:import:di:eclipse",
     "body": "import { DiEclipse } from 'react-icons/di';",
     "description": "Import DiEclipse Devicons icon from react-icons"
   },
   "Import DiEclipse (Devicons) from all-files": {
-    "prefix": "ri:di:import:eclipse:all-files",
+    "prefix": "ri:import:di:eclipse:all-files",
     "body": "import { DiEclipse } from '@react-icons/all-files/di/DiEclipse';",
     "description": "Import DiEclipse Devicons icon from @react-icons/all-files/di/DiEclipse"
   },
@@ -864,12 +864,12 @@
   },
 
   "Import DiEmber (Devicons)": {
-    "prefix": "ri:di:import:ember",
+    "prefix": "ri:import:di:ember",
     "body": "import { DiEmber } from 'react-icons/di';",
     "description": "Import DiEmber Devicons icon from react-icons"
   },
   "Import DiEmber (Devicons) from all-files": {
-    "prefix": "ri:di:import:ember:all-files",
+    "prefix": "ri:import:di:ember:all-files",
     "body": "import { DiEmber } from '@react-icons/all-files/di/DiEmber';",
     "description": "Import DiEmber Devicons icon from @react-icons/all-files/di/DiEmber"
   },
@@ -880,12 +880,12 @@
   },
 
   "Import DiEnvato (Devicons)": {
-    "prefix": "ri:di:import:envato",
+    "prefix": "ri:import:di:envato",
     "body": "import { DiEnvato } from 'react-icons/di';",
     "description": "Import DiEnvato Devicons icon from react-icons"
   },
   "Import DiEnvato (Devicons) from all-files": {
-    "prefix": "ri:di:import:envato:all-files",
+    "prefix": "ri:import:di:envato:all-files",
     "body": "import { DiEnvato } from '@react-icons/all-files/di/DiEnvato';",
     "description": "Import DiEnvato Devicons icon from @react-icons/all-files/di/DiEnvato"
   },
@@ -896,12 +896,12 @@
   },
 
   "Import DiErlang (Devicons)": {
-    "prefix": "ri:di:import:erlang",
+    "prefix": "ri:import:di:erlang",
     "body": "import { DiErlang } from 'react-icons/di';",
     "description": "Import DiErlang Devicons icon from react-icons"
   },
   "Import DiErlang (Devicons) from all-files": {
-    "prefix": "ri:di:import:erlang:all-files",
+    "prefix": "ri:import:di:erlang:all-files",
     "body": "import { DiErlang } from '@react-icons/all-files/di/DiErlang';",
     "description": "Import DiErlang Devicons icon from @react-icons/all-files/di/DiErlang"
   },
@@ -912,12 +912,12 @@
   },
 
   "Import DiExtjs (Devicons)": {
-    "prefix": "ri:di:import:extjs",
+    "prefix": "ri:import:di:extjs",
     "body": "import { DiExtjs } from 'react-icons/di';",
     "description": "Import DiExtjs Devicons icon from react-icons"
   },
   "Import DiExtjs (Devicons) from all-files": {
-    "prefix": "ri:di:import:extjs:all-files",
+    "prefix": "ri:import:di:extjs:all-files",
     "body": "import { DiExtjs } from '@react-icons/all-files/di/DiExtjs';",
     "description": "Import DiExtjs Devicons icon from @react-icons/all-files/di/DiExtjs"
   },
@@ -928,12 +928,12 @@
   },
 
   "Import DiFirebase (Devicons)": {
-    "prefix": "ri:di:import:firebase",
+    "prefix": "ri:import:di:firebase",
     "body": "import { DiFirebase } from 'react-icons/di';",
     "description": "Import DiFirebase Devicons icon from react-icons"
   },
   "Import DiFirebase (Devicons) from all-files": {
-    "prefix": "ri:di:import:firebase:all-files",
+    "prefix": "ri:import:di:firebase:all-files",
     "body": "import { DiFirebase } from '@react-icons/all-files/di/DiFirebase';",
     "description": "Import DiFirebase Devicons icon from @react-icons/all-files/di/DiFirebase"
   },
@@ -944,12 +944,12 @@
   },
 
   "Import DiFirefox (Devicons)": {
-    "prefix": "ri:di:import:firefox",
+    "prefix": "ri:import:di:firefox",
     "body": "import { DiFirefox } from 'react-icons/di';",
     "description": "Import DiFirefox Devicons icon from react-icons"
   },
   "Import DiFirefox (Devicons) from all-files": {
-    "prefix": "ri:di:import:firefox:all-files",
+    "prefix": "ri:import:di:firefox:all-files",
     "body": "import { DiFirefox } from '@react-icons/all-files/di/DiFirefox';",
     "description": "Import DiFirefox Devicons icon from @react-icons/all-files/di/DiFirefox"
   },
@@ -960,12 +960,12 @@
   },
 
   "Import DiFsharp (Devicons)": {
-    "prefix": "ri:di:import:fsharp",
+    "prefix": "ri:import:di:fsharp",
     "body": "import { DiFsharp } from 'react-icons/di';",
     "description": "Import DiFsharp Devicons icon from react-icons"
   },
   "Import DiFsharp (Devicons) from all-files": {
-    "prefix": "ri:di:import:fsharp:all-files",
+    "prefix": "ri:import:di:fsharp:all-files",
     "body": "import { DiFsharp } from '@react-icons/all-files/di/DiFsharp';",
     "description": "Import DiFsharp Devicons icon from @react-icons/all-files/di/DiFsharp"
   },
@@ -976,12 +976,12 @@
   },
 
   "Import DiGhostSmall (Devicons)": {
-    "prefix": "ri:di:import:ghost-small",
+    "prefix": "ri:import:di:ghost-small",
     "body": "import { DiGhostSmall } from 'react-icons/di';",
     "description": "Import DiGhostSmall Devicons icon from react-icons"
   },
   "Import DiGhostSmall (Devicons) from all-files": {
-    "prefix": "ri:di:import:ghost-small:all-files",
+    "prefix": "ri:import:di:ghost-small:all-files",
     "body": "import { DiGhostSmall } from '@react-icons/all-files/di/DiGhostSmall';",
     "description": "Import DiGhostSmall Devicons icon from @react-icons/all-files/di/DiGhostSmall"
   },
@@ -992,12 +992,12 @@
   },
 
   "Import DiGhost (Devicons)": {
-    "prefix": "ri:di:import:ghost",
+    "prefix": "ri:import:di:ghost",
     "body": "import { DiGhost } from 'react-icons/di';",
     "description": "Import DiGhost Devicons icon from react-icons"
   },
   "Import DiGhost (Devicons) from all-files": {
-    "prefix": "ri:di:import:ghost:all-files",
+    "prefix": "ri:import:di:ghost:all-files",
     "body": "import { DiGhost } from '@react-icons/all-files/di/DiGhost';",
     "description": "Import DiGhost Devicons icon from @react-icons/all-files/di/DiGhost"
   },
@@ -1008,12 +1008,12 @@
   },
 
   "Import DiGitBranch (Devicons)": {
-    "prefix": "ri:di:import:git-branch",
+    "prefix": "ri:import:di:git-branch",
     "body": "import { DiGitBranch } from 'react-icons/di';",
     "description": "Import DiGitBranch Devicons icon from react-icons"
   },
   "Import DiGitBranch (Devicons) from all-files": {
-    "prefix": "ri:di:import:git-branch:all-files",
+    "prefix": "ri:import:di:git-branch:all-files",
     "body": "import { DiGitBranch } from '@react-icons/all-files/di/DiGitBranch';",
     "description": "Import DiGitBranch Devicons icon from @react-icons/all-files/di/DiGitBranch"
   },
@@ -1024,12 +1024,12 @@
   },
 
   "Import DiGitCommit (Devicons)": {
-    "prefix": "ri:di:import:git-commit",
+    "prefix": "ri:import:di:git-commit",
     "body": "import { DiGitCommit } from 'react-icons/di';",
     "description": "Import DiGitCommit Devicons icon from react-icons"
   },
   "Import DiGitCommit (Devicons) from all-files": {
-    "prefix": "ri:di:import:git-commit:all-files",
+    "prefix": "ri:import:di:git-commit:all-files",
     "body": "import { DiGitCommit } from '@react-icons/all-files/di/DiGitCommit';",
     "description": "Import DiGitCommit Devicons icon from @react-icons/all-files/di/DiGitCommit"
   },
@@ -1040,12 +1040,12 @@
   },
 
   "Import DiGitCompare (Devicons)": {
-    "prefix": "ri:di:import:git-compare",
+    "prefix": "ri:import:di:git-compare",
     "body": "import { DiGitCompare } from 'react-icons/di';",
     "description": "Import DiGitCompare Devicons icon from react-icons"
   },
   "Import DiGitCompare (Devicons) from all-files": {
-    "prefix": "ri:di:import:git-compare:all-files",
+    "prefix": "ri:import:di:git-compare:all-files",
     "body": "import { DiGitCompare } from '@react-icons/all-files/di/DiGitCompare';",
     "description": "Import DiGitCompare Devicons icon from @react-icons/all-files/di/DiGitCompare"
   },
@@ -1056,12 +1056,12 @@
   },
 
   "Import DiGitMerge (Devicons)": {
-    "prefix": "ri:di:import:git-merge",
+    "prefix": "ri:import:di:git-merge",
     "body": "import { DiGitMerge } from 'react-icons/di';",
     "description": "Import DiGitMerge Devicons icon from react-icons"
   },
   "Import DiGitMerge (Devicons) from all-files": {
-    "prefix": "ri:di:import:git-merge:all-files",
+    "prefix": "ri:import:di:git-merge:all-files",
     "body": "import { DiGitMerge } from '@react-icons/all-files/di/DiGitMerge';",
     "description": "Import DiGitMerge Devicons icon from @react-icons/all-files/di/DiGitMerge"
   },
@@ -1072,12 +1072,12 @@
   },
 
   "Import DiGitPullRequest (Devicons)": {
-    "prefix": "ri:di:import:git-pull-request",
+    "prefix": "ri:import:di:git-pull-request",
     "body": "import { DiGitPullRequest } from 'react-icons/di';",
     "description": "Import DiGitPullRequest Devicons icon from react-icons"
   },
   "Import DiGitPullRequest (Devicons) from all-files": {
-    "prefix": "ri:di:import:git-pull-request:all-files",
+    "prefix": "ri:import:di:git-pull-request:all-files",
     "body": "import { DiGitPullRequest } from '@react-icons/all-files/di/DiGitPullRequest';",
     "description": "Import DiGitPullRequest Devicons icon from @react-icons/all-files/di/DiGitPullRequest"
   },
@@ -1088,12 +1088,12 @@
   },
 
   "Import DiGit (Devicons)": {
-    "prefix": "ri:di:import:git",
+    "prefix": "ri:import:di:git",
     "body": "import { DiGit } from 'react-icons/di';",
     "description": "Import DiGit Devicons icon from react-icons"
   },
   "Import DiGit (Devicons) from all-files": {
-    "prefix": "ri:di:import:git:all-files",
+    "prefix": "ri:import:di:git:all-files",
     "body": "import { DiGit } from '@react-icons/all-files/di/DiGit';",
     "description": "Import DiGit Devicons icon from @react-icons/all-files/di/DiGit"
   },
@@ -1104,12 +1104,12 @@
   },
 
   "Import DiGithubAlt (Devicons)": {
-    "prefix": "ri:di:import:github-alt",
+    "prefix": "ri:import:di:github-alt",
     "body": "import { DiGithubAlt } from 'react-icons/di';",
     "description": "Import DiGithubAlt Devicons icon from react-icons"
   },
   "Import DiGithubAlt (Devicons) from all-files": {
-    "prefix": "ri:di:import:github-alt:all-files",
+    "prefix": "ri:import:di:github-alt:all-files",
     "body": "import { DiGithubAlt } from '@react-icons/all-files/di/DiGithubAlt';",
     "description": "Import DiGithubAlt Devicons icon from @react-icons/all-files/di/DiGithubAlt"
   },
@@ -1120,12 +1120,12 @@
   },
 
   "Import DiGithubBadge (Devicons)": {
-    "prefix": "ri:di:import:github-badge",
+    "prefix": "ri:import:di:github-badge",
     "body": "import { DiGithubBadge } from 'react-icons/di';",
     "description": "Import DiGithubBadge Devicons icon from react-icons"
   },
   "Import DiGithubBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:github-badge:all-files",
+    "prefix": "ri:import:di:github-badge:all-files",
     "body": "import { DiGithubBadge } from '@react-icons/all-files/di/DiGithubBadge';",
     "description": "Import DiGithubBadge Devicons icon from @react-icons/all-files/di/DiGithubBadge"
   },
@@ -1136,12 +1136,12 @@
   },
 
   "Import DiGithubFull (Devicons)": {
-    "prefix": "ri:di:import:github-full",
+    "prefix": "ri:import:di:github-full",
     "body": "import { DiGithubFull } from 'react-icons/di';",
     "description": "Import DiGithubFull Devicons icon from react-icons"
   },
   "Import DiGithubFull (Devicons) from all-files": {
-    "prefix": "ri:di:import:github-full:all-files",
+    "prefix": "ri:import:di:github-full:all-files",
     "body": "import { DiGithubFull } from '@react-icons/all-files/di/DiGithubFull';",
     "description": "Import DiGithubFull Devicons icon from @react-icons/all-files/di/DiGithubFull"
   },
@@ -1152,12 +1152,12 @@
   },
 
   "Import DiGithub (Devicons)": {
-    "prefix": "ri:di:import:github",
+    "prefix": "ri:import:di:github",
     "body": "import { DiGithub } from 'react-icons/di';",
     "description": "Import DiGithub Devicons icon from react-icons"
   },
   "Import DiGithub (Devicons) from all-files": {
-    "prefix": "ri:di:import:github:all-files",
+    "prefix": "ri:import:di:github:all-files",
     "body": "import { DiGithub } from '@react-icons/all-files/di/DiGithub';",
     "description": "Import DiGithub Devicons icon from @react-icons/all-files/di/DiGithub"
   },
@@ -1168,12 +1168,12 @@
   },
 
   "Import DiGnu (Devicons)": {
-    "prefix": "ri:di:import:gnu",
+    "prefix": "ri:import:di:gnu",
     "body": "import { DiGnu } from 'react-icons/di';",
     "description": "Import DiGnu Devicons icon from react-icons"
   },
   "Import DiGnu (Devicons) from all-files": {
-    "prefix": "ri:di:import:gnu:all-files",
+    "prefix": "ri:import:di:gnu:all-files",
     "body": "import { DiGnu } from '@react-icons/all-files/di/DiGnu';",
     "description": "Import DiGnu Devicons icon from @react-icons/all-files/di/DiGnu"
   },
@@ -1184,12 +1184,12 @@
   },
 
   "Import DiGo (Devicons)": {
-    "prefix": "ri:di:import:go",
+    "prefix": "ri:import:di:go",
     "body": "import { DiGo } from 'react-icons/di';",
     "description": "Import DiGo Devicons icon from react-icons"
   },
   "Import DiGo (Devicons) from all-files": {
-    "prefix": "ri:di:import:go:all-files",
+    "prefix": "ri:import:di:go:all-files",
     "body": "import { DiGo } from '@react-icons/all-files/di/DiGo';",
     "description": "Import DiGo Devicons icon from @react-icons/all-files/di/DiGo"
   },
@@ -1200,12 +1200,12 @@
   },
 
   "Import DiGoogleAnalytics (Devicons)": {
-    "prefix": "ri:di:import:google-analytics",
+    "prefix": "ri:import:di:google-analytics",
     "body": "import { DiGoogleAnalytics } from 'react-icons/di';",
     "description": "Import DiGoogleAnalytics Devicons icon from react-icons"
   },
   "Import DiGoogleAnalytics (Devicons) from all-files": {
-    "prefix": "ri:di:import:google-analytics:all-files",
+    "prefix": "ri:import:di:google-analytics:all-files",
     "body": "import { DiGoogleAnalytics } from '@react-icons/all-files/di/DiGoogleAnalytics';",
     "description": "Import DiGoogleAnalytics Devicons icon from @react-icons/all-files/di/DiGoogleAnalytics"
   },
@@ -1216,12 +1216,12 @@
   },
 
   "Import DiGoogleDrive (Devicons)": {
-    "prefix": "ri:di:import:google-drive",
+    "prefix": "ri:import:di:google-drive",
     "body": "import { DiGoogleDrive } from 'react-icons/di';",
     "description": "Import DiGoogleDrive Devicons icon from react-icons"
   },
   "Import DiGoogleDrive (Devicons) from all-files": {
-    "prefix": "ri:di:import:google-drive:all-files",
+    "prefix": "ri:import:di:google-drive:all-files",
     "body": "import { DiGoogleDrive } from '@react-icons/all-files/di/DiGoogleDrive';",
     "description": "Import DiGoogleDrive Devicons icon from @react-icons/all-files/di/DiGoogleDrive"
   },
@@ -1232,12 +1232,12 @@
   },
 
   "Import DiGoogleCloudPlatform (Devicons)": {
-    "prefix": "ri:di:import:google-cloud-platform",
+    "prefix": "ri:import:di:google-cloud-platform",
     "body": "import { DiGoogleCloudPlatform } from 'react-icons/di';",
     "description": "Import DiGoogleCloudPlatform Devicons icon from react-icons"
   },
   "Import DiGoogleCloudPlatform (Devicons) from all-files": {
-    "prefix": "ri:di:import:google-cloud-platform:all-files",
+    "prefix": "ri:import:di:google-cloud-platform:all-files",
     "body": "import { DiGoogleCloudPlatform } from '@react-icons/all-files/di/DiGoogleCloudPlatform';",
     "description": "Import DiGoogleCloudPlatform Devicons icon from @react-icons/all-files/di/DiGoogleCloudPlatform"
   },
@@ -1248,12 +1248,12 @@
   },
 
   "Import DiGrails (Devicons)": {
-    "prefix": "ri:di:import:grails",
+    "prefix": "ri:import:di:grails",
     "body": "import { DiGrails } from 'react-icons/di';",
     "description": "Import DiGrails Devicons icon from react-icons"
   },
   "Import DiGrails (Devicons) from all-files": {
-    "prefix": "ri:di:import:grails:all-files",
+    "prefix": "ri:import:di:grails:all-files",
     "body": "import { DiGrails } from '@react-icons/all-files/di/DiGrails';",
     "description": "Import DiGrails Devicons icon from @react-icons/all-files/di/DiGrails"
   },
@@ -1264,12 +1264,12 @@
   },
 
   "Import DiGroovy (Devicons)": {
-    "prefix": "ri:di:import:groovy",
+    "prefix": "ri:import:di:groovy",
     "body": "import { DiGroovy } from 'react-icons/di';",
     "description": "Import DiGroovy Devicons icon from react-icons"
   },
   "Import DiGroovy (Devicons) from all-files": {
-    "prefix": "ri:di:import:groovy:all-files",
+    "prefix": "ri:import:di:groovy:all-files",
     "body": "import { DiGroovy } from '@react-icons/all-files/di/DiGroovy';",
     "description": "Import DiGroovy Devicons icon from @react-icons/all-files/di/DiGroovy"
   },
@@ -1280,12 +1280,12 @@
   },
 
   "Import DiGrunt (Devicons)": {
-    "prefix": "ri:di:import:grunt",
+    "prefix": "ri:import:di:grunt",
     "body": "import { DiGrunt } from 'react-icons/di';",
     "description": "Import DiGrunt Devicons icon from react-icons"
   },
   "Import DiGrunt (Devicons) from all-files": {
-    "prefix": "ri:di:import:grunt:all-files",
+    "prefix": "ri:import:di:grunt:all-files",
     "body": "import { DiGrunt } from '@react-icons/all-files/di/DiGrunt';",
     "description": "Import DiGrunt Devicons icon from @react-icons/all-files/di/DiGrunt"
   },
@@ -1296,12 +1296,12 @@
   },
 
   "Import DiGulp (Devicons)": {
-    "prefix": "ri:di:import:gulp",
+    "prefix": "ri:import:di:gulp",
     "body": "import { DiGulp } from 'react-icons/di';",
     "description": "Import DiGulp Devicons icon from react-icons"
   },
   "Import DiGulp (Devicons) from all-files": {
-    "prefix": "ri:di:import:gulp:all-files",
+    "prefix": "ri:import:di:gulp:all-files",
     "body": "import { DiGulp } from '@react-icons/all-files/di/DiGulp';",
     "description": "Import DiGulp Devicons icon from @react-icons/all-files/di/DiGulp"
   },
@@ -1312,12 +1312,12 @@
   },
 
   "Import DiHackernews (Devicons)": {
-    "prefix": "ri:di:import:hackernews",
+    "prefix": "ri:import:di:hackernews",
     "body": "import { DiHackernews } from 'react-icons/di';",
     "description": "Import DiHackernews Devicons icon from react-icons"
   },
   "Import DiHackernews (Devicons) from all-files": {
-    "prefix": "ri:di:import:hackernews:all-files",
+    "prefix": "ri:import:di:hackernews:all-files",
     "body": "import { DiHackernews } from '@react-icons/all-files/di/DiHackernews';",
     "description": "Import DiHackernews Devicons icon from @react-icons/all-files/di/DiHackernews"
   },
@@ -1328,12 +1328,12 @@
   },
 
   "Import DiHaskell (Devicons)": {
-    "prefix": "ri:di:import:haskell",
+    "prefix": "ri:import:di:haskell",
     "body": "import { DiHaskell } from 'react-icons/di';",
     "description": "Import DiHaskell Devicons icon from react-icons"
   },
   "Import DiHaskell (Devicons) from all-files": {
-    "prefix": "ri:di:import:haskell:all-files",
+    "prefix": "ri:import:di:haskell:all-files",
     "body": "import { DiHaskell } from '@react-icons/all-files/di/DiHaskell';",
     "description": "Import DiHaskell Devicons icon from @react-icons/all-files/di/DiHaskell"
   },
@@ -1344,12 +1344,12 @@
   },
 
   "Import DiHeroku (Devicons)": {
-    "prefix": "ri:di:import:heroku",
+    "prefix": "ri:import:di:heroku",
     "body": "import { DiHeroku } from 'react-icons/di';",
     "description": "Import DiHeroku Devicons icon from react-icons"
   },
   "Import DiHeroku (Devicons) from all-files": {
-    "prefix": "ri:di:import:heroku:all-files",
+    "prefix": "ri:import:di:heroku:all-files",
     "body": "import { DiHeroku } from '@react-icons/all-files/di/DiHeroku';",
     "description": "Import DiHeroku Devicons icon from @react-icons/all-files/di/DiHeroku"
   },
@@ -1360,12 +1360,12 @@
   },
 
   "Import DiHtml53DEffects (Devicons)": {
-    "prefix": "ri:di:import:html5-3d-effects",
+    "prefix": "ri:import:di:html5-3d-effects",
     "body": "import { DiHtml53DEffects } from 'react-icons/di';",
     "description": "Import DiHtml53DEffects Devicons icon from react-icons"
   },
   "Import DiHtml53DEffects (Devicons) from all-files": {
-    "prefix": "ri:di:import:html5-3d-effects:all-files",
+    "prefix": "ri:import:di:html5-3d-effects:all-files",
     "body": "import { DiHtml53DEffects } from '@react-icons/all-files/di/DiHtml53DEffects';",
     "description": "Import DiHtml53DEffects Devicons icon from @react-icons/all-files/di/DiHtml53DEffects"
   },
@@ -1376,12 +1376,12 @@
   },
 
   "Import DiHtml5Connectivity (Devicons)": {
-    "prefix": "ri:di:import:html5-connectivity",
+    "prefix": "ri:import:di:html5-connectivity",
     "body": "import { DiHtml5Connectivity } from 'react-icons/di';",
     "description": "Import DiHtml5Connectivity Devicons icon from react-icons"
   },
   "Import DiHtml5Connectivity (Devicons) from all-files": {
-    "prefix": "ri:di:import:html5-connectivity:all-files",
+    "prefix": "ri:import:di:html5-connectivity:all-files",
     "body": "import { DiHtml5Connectivity } from '@react-icons/all-files/di/DiHtml5Connectivity';",
     "description": "Import DiHtml5Connectivity Devicons icon from @react-icons/all-files/di/DiHtml5Connectivity"
   },
@@ -1392,12 +1392,12 @@
   },
 
   "Import DiHtml5DeviceAccess (Devicons)": {
-    "prefix": "ri:di:import:html5-device-access",
+    "prefix": "ri:import:di:html5-device-access",
     "body": "import { DiHtml5DeviceAccess } from 'react-icons/di';",
     "description": "Import DiHtml5DeviceAccess Devicons icon from react-icons"
   },
   "Import DiHtml5DeviceAccess (Devicons) from all-files": {
-    "prefix": "ri:di:import:html5-device-access:all-files",
+    "prefix": "ri:import:di:html5-device-access:all-files",
     "body": "import { DiHtml5DeviceAccess } from '@react-icons/all-files/di/DiHtml5DeviceAccess';",
     "description": "Import DiHtml5DeviceAccess Devicons icon from @react-icons/all-files/di/DiHtml5DeviceAccess"
   },
@@ -1408,12 +1408,12 @@
   },
 
   "Import DiHtml5Multimedia (Devicons)": {
-    "prefix": "ri:di:import:html5-multimedia",
+    "prefix": "ri:import:di:html5-multimedia",
     "body": "import { DiHtml5Multimedia } from 'react-icons/di';",
     "description": "Import DiHtml5Multimedia Devicons icon from react-icons"
   },
   "Import DiHtml5Multimedia (Devicons) from all-files": {
-    "prefix": "ri:di:import:html5-multimedia:all-files",
+    "prefix": "ri:import:di:html5-multimedia:all-files",
     "body": "import { DiHtml5Multimedia } from '@react-icons/all-files/di/DiHtml5Multimedia';",
     "description": "Import DiHtml5Multimedia Devicons icon from @react-icons/all-files/di/DiHtml5Multimedia"
   },
@@ -1424,12 +1424,12 @@
   },
 
   "Import DiHtml5 (Devicons)": {
-    "prefix": "ri:di:import:html5",
+    "prefix": "ri:import:di:html5",
     "body": "import { DiHtml5 } from 'react-icons/di';",
     "description": "Import DiHtml5 Devicons icon from react-icons"
   },
   "Import DiHtml5 (Devicons) from all-files": {
-    "prefix": "ri:di:import:html5:all-files",
+    "prefix": "ri:import:di:html5:all-files",
     "body": "import { DiHtml5 } from '@react-icons/all-files/di/DiHtml5';",
     "description": "Import DiHtml5 Devicons icon from @react-icons/all-files/di/DiHtml5"
   },
@@ -1440,12 +1440,12 @@
   },
 
   "Import DiIe (Devicons)": {
-    "prefix": "ri:di:import:ie",
+    "prefix": "ri:import:di:ie",
     "body": "import { DiIe } from 'react-icons/di';",
     "description": "Import DiIe Devicons icon from react-icons"
   },
   "Import DiIe (Devicons) from all-files": {
-    "prefix": "ri:di:import:ie:all-files",
+    "prefix": "ri:import:di:ie:all-files",
     "body": "import { DiIe } from '@react-icons/all-files/di/DiIe';",
     "description": "Import DiIe Devicons icon from @react-icons/all-files/di/DiIe"
   },
@@ -1456,12 +1456,12 @@
   },
 
   "Import DiIllustrator (Devicons)": {
-    "prefix": "ri:di:import:illustrator",
+    "prefix": "ri:import:di:illustrator",
     "body": "import { DiIllustrator } from 'react-icons/di';",
     "description": "Import DiIllustrator Devicons icon from react-icons"
   },
   "Import DiIllustrator (Devicons) from all-files": {
-    "prefix": "ri:di:import:illustrator:all-files",
+    "prefix": "ri:import:di:illustrator:all-files",
     "body": "import { DiIllustrator } from '@react-icons/all-files/di/DiIllustrator';",
     "description": "Import DiIllustrator Devicons icon from @react-icons/all-files/di/DiIllustrator"
   },
@@ -1472,12 +1472,12 @@
   },
 
   "Import DiIntellij (Devicons)": {
-    "prefix": "ri:di:import:intellij",
+    "prefix": "ri:import:di:intellij",
     "body": "import { DiIntellij } from 'react-icons/di';",
     "description": "Import DiIntellij Devicons icon from react-icons"
   },
   "Import DiIntellij (Devicons) from all-files": {
-    "prefix": "ri:di:import:intellij:all-files",
+    "prefix": "ri:import:di:intellij:all-files",
     "body": "import { DiIntellij } from '@react-icons/all-files/di/DiIntellij';",
     "description": "Import DiIntellij Devicons icon from @react-icons/all-files/di/DiIntellij"
   },
@@ -1488,12 +1488,12 @@
   },
 
   "Import DiIonic (Devicons)": {
-    "prefix": "ri:di:import:ionic",
+    "prefix": "ri:import:di:ionic",
     "body": "import { DiIonic } from 'react-icons/di';",
     "description": "Import DiIonic Devicons icon from react-icons"
   },
   "Import DiIonic (Devicons) from all-files": {
-    "prefix": "ri:di:import:ionic:all-files",
+    "prefix": "ri:import:di:ionic:all-files",
     "body": "import { DiIonic } from '@react-icons/all-files/di/DiIonic';",
     "description": "Import DiIonic Devicons icon from @react-icons/all-files/di/DiIonic"
   },
@@ -1504,12 +1504,12 @@
   },
 
   "Import DiJava (Devicons)": {
-    "prefix": "ri:di:import:java",
+    "prefix": "ri:import:di:java",
     "body": "import { DiJava } from 'react-icons/di';",
     "description": "Import DiJava Devicons icon from react-icons"
   },
   "Import DiJava (Devicons) from all-files": {
-    "prefix": "ri:di:import:java:all-files",
+    "prefix": "ri:import:di:java:all-files",
     "body": "import { DiJava } from '@react-icons/all-files/di/DiJava';",
     "description": "Import DiJava Devicons icon from @react-icons/all-files/di/DiJava"
   },
@@ -1520,12 +1520,12 @@
   },
 
   "Import DiJavascript1 (Devicons)": {
-    "prefix": "ri:di:import:javascript-1",
+    "prefix": "ri:import:di:javascript-1",
     "body": "import { DiJavascript1 } from 'react-icons/di';",
     "description": "Import DiJavascript1 Devicons icon from react-icons"
   },
   "Import DiJavascript1 (Devicons) from all-files": {
-    "prefix": "ri:di:import:javascript-1:all-files",
+    "prefix": "ri:import:di:javascript-1:all-files",
     "body": "import { DiJavascript1 } from '@react-icons/all-files/di/DiJavascript1';",
     "description": "Import DiJavascript1 Devicons icon from @react-icons/all-files/di/DiJavascript1"
   },
@@ -1536,12 +1536,12 @@
   },
 
   "Import DiJavascript (Devicons)": {
-    "prefix": "ri:di:import:javascript",
+    "prefix": "ri:import:di:javascript",
     "body": "import { DiJavascript } from 'react-icons/di';",
     "description": "Import DiJavascript Devicons icon from react-icons"
   },
   "Import DiJavascript (Devicons) from all-files": {
-    "prefix": "ri:di:import:javascript:all-files",
+    "prefix": "ri:import:di:javascript:all-files",
     "body": "import { DiJavascript } from '@react-icons/all-files/di/DiJavascript';",
     "description": "Import DiJavascript Devicons icon from @react-icons/all-files/di/DiJavascript"
   },
@@ -1552,12 +1552,12 @@
   },
 
   "Import DiJekyllSmall (Devicons)": {
-    "prefix": "ri:di:import:jekyll-small",
+    "prefix": "ri:import:di:jekyll-small",
     "body": "import { DiJekyllSmall } from 'react-icons/di';",
     "description": "Import DiJekyllSmall Devicons icon from react-icons"
   },
   "Import DiJekyllSmall (Devicons) from all-files": {
-    "prefix": "ri:di:import:jekyll-small:all-files",
+    "prefix": "ri:import:di:jekyll-small:all-files",
     "body": "import { DiJekyllSmall } from '@react-icons/all-files/di/DiJekyllSmall';",
     "description": "Import DiJekyllSmall Devicons icon from @react-icons/all-files/di/DiJekyllSmall"
   },
@@ -1568,12 +1568,12 @@
   },
 
   "Import DiJenkins (Devicons)": {
-    "prefix": "ri:di:import:jenkins",
+    "prefix": "ri:import:di:jenkins",
     "body": "import { DiJenkins } from 'react-icons/di';",
     "description": "Import DiJenkins Devicons icon from react-icons"
   },
   "Import DiJenkins (Devicons) from all-files": {
-    "prefix": "ri:di:import:jenkins:all-files",
+    "prefix": "ri:import:di:jenkins:all-files",
     "body": "import { DiJenkins } from '@react-icons/all-files/di/DiJenkins';",
     "description": "Import DiJenkins Devicons icon from @react-icons/all-files/di/DiJenkins"
   },
@@ -1584,12 +1584,12 @@
   },
 
   "Import DiJira (Devicons)": {
-    "prefix": "ri:di:import:jira",
+    "prefix": "ri:import:di:jira",
     "body": "import { DiJira } from 'react-icons/di';",
     "description": "Import DiJira Devicons icon from react-icons"
   },
   "Import DiJira (Devicons) from all-files": {
-    "prefix": "ri:di:import:jira:all-files",
+    "prefix": "ri:import:di:jira:all-files",
     "body": "import { DiJira } from '@react-icons/all-files/di/DiJira';",
     "description": "Import DiJira Devicons icon from @react-icons/all-files/di/DiJira"
   },
@@ -1600,12 +1600,12 @@
   },
 
   "Import DiJoomla (Devicons)": {
-    "prefix": "ri:di:import:joomla",
+    "prefix": "ri:import:di:joomla",
     "body": "import { DiJoomla } from 'react-icons/di';",
     "description": "Import DiJoomla Devicons icon from react-icons"
   },
   "Import DiJoomla (Devicons) from all-files": {
-    "prefix": "ri:di:import:joomla:all-files",
+    "prefix": "ri:import:di:joomla:all-files",
     "body": "import { DiJoomla } from '@react-icons/all-files/di/DiJoomla';",
     "description": "Import DiJoomla Devicons icon from @react-icons/all-files/di/DiJoomla"
   },
@@ -1616,12 +1616,12 @@
   },
 
   "Import DiJqueryLogo (Devicons)": {
-    "prefix": "ri:di:import:jquery-logo",
+    "prefix": "ri:import:di:jquery-logo",
     "body": "import { DiJqueryLogo } from 'react-icons/di';",
     "description": "Import DiJqueryLogo Devicons icon from react-icons"
   },
   "Import DiJqueryLogo (Devicons) from all-files": {
-    "prefix": "ri:di:import:jquery-logo:all-files",
+    "prefix": "ri:import:di:jquery-logo:all-files",
     "body": "import { DiJqueryLogo } from '@react-icons/all-files/di/DiJqueryLogo';",
     "description": "Import DiJqueryLogo Devicons icon from @react-icons/all-files/di/DiJqueryLogo"
   },
@@ -1632,12 +1632,12 @@
   },
 
   "Import DiJqueryUiLogo (Devicons)": {
-    "prefix": "ri:di:import:jquery-ui-logo",
+    "prefix": "ri:import:di:jquery-ui-logo",
     "body": "import { DiJqueryUiLogo } from 'react-icons/di';",
     "description": "Import DiJqueryUiLogo Devicons icon from react-icons"
   },
   "Import DiJqueryUiLogo (Devicons) from all-files": {
-    "prefix": "ri:di:import:jquery-ui-logo:all-files",
+    "prefix": "ri:import:di:jquery-ui-logo:all-files",
     "body": "import { DiJqueryUiLogo } from '@react-icons/all-files/di/DiJqueryUiLogo';",
     "description": "Import DiJqueryUiLogo Devicons icon from @react-icons/all-files/di/DiJqueryUiLogo"
   },
@@ -1648,12 +1648,12 @@
   },
 
   "Import DiJsBadge (Devicons)": {
-    "prefix": "ri:di:import:js-badge",
+    "prefix": "ri:import:di:js-badge",
     "body": "import { DiJsBadge } from 'react-icons/di';",
     "description": "Import DiJsBadge Devicons icon from react-icons"
   },
   "Import DiJsBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:js-badge:all-files",
+    "prefix": "ri:import:di:js-badge:all-files",
     "body": "import { DiJsBadge } from '@react-icons/all-files/di/DiJsBadge';",
     "description": "Import DiJsBadge Devicons icon from @react-icons/all-files/di/DiJsBadge"
   },
@@ -1664,12 +1664,12 @@
   },
 
   "Import DiKomodo (Devicons)": {
-    "prefix": "ri:di:import:komodo",
+    "prefix": "ri:import:di:komodo",
     "body": "import { DiKomodo } from 'react-icons/di';",
     "description": "Import DiKomodo Devicons icon from react-icons"
   },
   "Import DiKomodo (Devicons) from all-files": {
-    "prefix": "ri:di:import:komodo:all-files",
+    "prefix": "ri:import:di:komodo:all-files",
     "body": "import { DiKomodo } from '@react-icons/all-files/di/DiKomodo';",
     "description": "Import DiKomodo Devicons icon from @react-icons/all-files/di/DiKomodo"
   },
@@ -1680,12 +1680,12 @@
   },
 
   "Import DiKrakenjsBadge (Devicons)": {
-    "prefix": "ri:di:import:krakenjs-badge",
+    "prefix": "ri:import:di:krakenjs-badge",
     "body": "import { DiKrakenjsBadge } from 'react-icons/di';",
     "description": "Import DiKrakenjsBadge Devicons icon from react-icons"
   },
   "Import DiKrakenjsBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:krakenjs-badge:all-files",
+    "prefix": "ri:import:di:krakenjs-badge:all-files",
     "body": "import { DiKrakenjsBadge } from '@react-icons/all-files/di/DiKrakenjsBadge';",
     "description": "Import DiKrakenjsBadge Devicons icon from @react-icons/all-files/di/DiKrakenjsBadge"
   },
@@ -1696,12 +1696,12 @@
   },
 
   "Import DiKrakenjs (Devicons)": {
-    "prefix": "ri:di:import:krakenjs",
+    "prefix": "ri:import:di:krakenjs",
     "body": "import { DiKrakenjs } from 'react-icons/di';",
     "description": "Import DiKrakenjs Devicons icon from react-icons"
   },
   "Import DiKrakenjs (Devicons) from all-files": {
-    "prefix": "ri:di:import:krakenjs:all-files",
+    "prefix": "ri:import:di:krakenjs:all-files",
     "body": "import { DiKrakenjs } from '@react-icons/all-files/di/DiKrakenjs';",
     "description": "Import DiKrakenjs Devicons icon from @react-icons/all-files/di/DiKrakenjs"
   },
@@ -1712,12 +1712,12 @@
   },
 
   "Import DiLaravel (Devicons)": {
-    "prefix": "ri:di:import:laravel",
+    "prefix": "ri:import:di:laravel",
     "body": "import { DiLaravel } from 'react-icons/di';",
     "description": "Import DiLaravel Devicons icon from react-icons"
   },
   "Import DiLaravel (Devicons) from all-files": {
-    "prefix": "ri:di:import:laravel:all-files",
+    "prefix": "ri:import:di:laravel:all-files",
     "body": "import { DiLaravel } from '@react-icons/all-files/di/DiLaravel';",
     "description": "Import DiLaravel Devicons icon from @react-icons/all-files/di/DiLaravel"
   },
@@ -1728,12 +1728,12 @@
   },
 
   "Import DiLess (Devicons)": {
-    "prefix": "ri:di:import:less",
+    "prefix": "ri:import:di:less",
     "body": "import { DiLess } from 'react-icons/di';",
     "description": "Import DiLess Devicons icon from react-icons"
   },
   "Import DiLess (Devicons) from all-files": {
-    "prefix": "ri:di:import:less:all-files",
+    "prefix": "ri:import:di:less:all-files",
     "body": "import { DiLess } from '@react-icons/all-files/di/DiLess';",
     "description": "Import DiLess Devicons icon from @react-icons/all-files/di/DiLess"
   },
@@ -1744,12 +1744,12 @@
   },
 
   "Import DiLinux (Devicons)": {
-    "prefix": "ri:di:import:linux",
+    "prefix": "ri:import:di:linux",
     "body": "import { DiLinux } from 'react-icons/di';",
     "description": "Import DiLinux Devicons icon from react-icons"
   },
   "Import DiLinux (Devicons) from all-files": {
-    "prefix": "ri:di:import:linux:all-files",
+    "prefix": "ri:import:di:linux:all-files",
     "body": "import { DiLinux } from '@react-icons/all-files/di/DiLinux';",
     "description": "Import DiLinux Devicons icon from @react-icons/all-files/di/DiLinux"
   },
@@ -1760,12 +1760,12 @@
   },
 
   "Import DiMagento (Devicons)": {
-    "prefix": "ri:di:import:magento",
+    "prefix": "ri:import:di:magento",
     "body": "import { DiMagento } from 'react-icons/di';",
     "description": "Import DiMagento Devicons icon from react-icons"
   },
   "Import DiMagento (Devicons) from all-files": {
-    "prefix": "ri:di:import:magento:all-files",
+    "prefix": "ri:import:di:magento:all-files",
     "body": "import { DiMagento } from '@react-icons/all-files/di/DiMagento';",
     "description": "Import DiMagento Devicons icon from @react-icons/all-files/di/DiMagento"
   },
@@ -1776,12 +1776,12 @@
   },
 
   "Import DiMailchimp (Devicons)": {
-    "prefix": "ri:di:import:mailchimp",
+    "prefix": "ri:import:di:mailchimp",
     "body": "import { DiMailchimp } from 'react-icons/di';",
     "description": "Import DiMailchimp Devicons icon from react-icons"
   },
   "Import DiMailchimp (Devicons) from all-files": {
-    "prefix": "ri:di:import:mailchimp:all-files",
+    "prefix": "ri:import:di:mailchimp:all-files",
     "body": "import { DiMailchimp } from '@react-icons/all-files/di/DiMailchimp';",
     "description": "Import DiMailchimp Devicons icon from @react-icons/all-files/di/DiMailchimp"
   },
@@ -1792,12 +1792,12 @@
   },
 
   "Import DiMarkdown (Devicons)": {
-    "prefix": "ri:di:import:markdown",
+    "prefix": "ri:import:di:markdown",
     "body": "import { DiMarkdown } from 'react-icons/di';",
     "description": "Import DiMarkdown Devicons icon from react-icons"
   },
   "Import DiMarkdown (Devicons) from all-files": {
-    "prefix": "ri:di:import:markdown:all-files",
+    "prefix": "ri:import:di:markdown:all-files",
     "body": "import { DiMarkdown } from '@react-icons/all-files/di/DiMarkdown';",
     "description": "Import DiMarkdown Devicons icon from @react-icons/all-files/di/DiMarkdown"
   },
@@ -1808,12 +1808,12 @@
   },
 
   "Import DiMaterializecss (Devicons)": {
-    "prefix": "ri:di:import:materializecss",
+    "prefix": "ri:import:di:materializecss",
     "body": "import { DiMaterializecss } from 'react-icons/di';",
     "description": "Import DiMaterializecss Devicons icon from react-icons"
   },
   "Import DiMaterializecss (Devicons) from all-files": {
-    "prefix": "ri:di:import:materializecss:all-files",
+    "prefix": "ri:import:di:materializecss:all-files",
     "body": "import { DiMaterializecss } from '@react-icons/all-files/di/DiMaterializecss';",
     "description": "Import DiMaterializecss Devicons icon from @react-icons/all-files/di/DiMaterializecss"
   },
@@ -1824,12 +1824,12 @@
   },
 
   "Import DiMeteor (Devicons)": {
-    "prefix": "ri:di:import:meteor",
+    "prefix": "ri:import:di:meteor",
     "body": "import { DiMeteor } from 'react-icons/di';",
     "description": "Import DiMeteor Devicons icon from react-icons"
   },
   "Import DiMeteor (Devicons) from all-files": {
-    "prefix": "ri:di:import:meteor:all-files",
+    "prefix": "ri:import:di:meteor:all-files",
     "body": "import { DiMeteor } from '@react-icons/all-files/di/DiMeteor';",
     "description": "Import DiMeteor Devicons icon from @react-icons/all-files/di/DiMeteor"
   },
@@ -1840,12 +1840,12 @@
   },
 
   "Import DiMeteorfull (Devicons)": {
-    "prefix": "ri:di:import:meteorfull",
+    "prefix": "ri:import:di:meteorfull",
     "body": "import { DiMeteorfull } from 'react-icons/di';",
     "description": "Import DiMeteorfull Devicons icon from react-icons"
   },
   "Import DiMeteorfull (Devicons) from all-files": {
-    "prefix": "ri:di:import:meteorfull:all-files",
+    "prefix": "ri:import:di:meteorfull:all-files",
     "body": "import { DiMeteorfull } from '@react-icons/all-files/di/DiMeteorfull';",
     "description": "Import DiMeteorfull Devicons icon from @react-icons/all-files/di/DiMeteorfull"
   },
@@ -1856,12 +1856,12 @@
   },
 
   "Import DiMitlicence (Devicons)": {
-    "prefix": "ri:di:import:mitlicence",
+    "prefix": "ri:import:di:mitlicence",
     "body": "import { DiMitlicence } from 'react-icons/di';",
     "description": "Import DiMitlicence Devicons icon from react-icons"
   },
   "Import DiMitlicence (Devicons) from all-files": {
-    "prefix": "ri:di:import:mitlicence:all-files",
+    "prefix": "ri:import:di:mitlicence:all-files",
     "body": "import { DiMitlicence } from '@react-icons/all-files/di/DiMitlicence';",
     "description": "Import DiMitlicence Devicons icon from @react-icons/all-files/di/DiMitlicence"
   },
@@ -1872,12 +1872,12 @@
   },
 
   "Import DiModernizr (Devicons)": {
-    "prefix": "ri:di:import:modernizr",
+    "prefix": "ri:import:di:modernizr",
     "body": "import { DiModernizr } from 'react-icons/di';",
     "description": "Import DiModernizr Devicons icon from react-icons"
   },
   "Import DiModernizr (Devicons) from all-files": {
-    "prefix": "ri:di:import:modernizr:all-files",
+    "prefix": "ri:import:di:modernizr:all-files",
     "body": "import { DiModernizr } from '@react-icons/all-files/di/DiModernizr';",
     "description": "Import DiModernizr Devicons icon from @react-icons/all-files/di/DiModernizr"
   },
@@ -1888,12 +1888,12 @@
   },
 
   "Import DiMongodb (Devicons)": {
-    "prefix": "ri:di:import:mongodb",
+    "prefix": "ri:import:di:mongodb",
     "body": "import { DiMongodb } from 'react-icons/di';",
     "description": "Import DiMongodb Devicons icon from react-icons"
   },
   "Import DiMongodb (Devicons) from all-files": {
-    "prefix": "ri:di:import:mongodb:all-files",
+    "prefix": "ri:import:di:mongodb:all-files",
     "body": "import { DiMongodb } from '@react-icons/all-files/di/DiMongodb';",
     "description": "Import DiMongodb Devicons icon from @react-icons/all-files/di/DiMongodb"
   },
@@ -1904,12 +1904,12 @@
   },
 
   "Import DiMootoolsBadge (Devicons)": {
-    "prefix": "ri:di:import:mootools-badge",
+    "prefix": "ri:import:di:mootools-badge",
     "body": "import { DiMootoolsBadge } from 'react-icons/di';",
     "description": "Import DiMootoolsBadge Devicons icon from react-icons"
   },
   "Import DiMootoolsBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:mootools-badge:all-files",
+    "prefix": "ri:import:di:mootools-badge:all-files",
     "body": "import { DiMootoolsBadge } from '@react-icons/all-files/di/DiMootoolsBadge';",
     "description": "Import DiMootoolsBadge Devicons icon from @react-icons/all-files/di/DiMootoolsBadge"
   },
@@ -1920,12 +1920,12 @@
   },
 
   "Import DiMootools (Devicons)": {
-    "prefix": "ri:di:import:mootools",
+    "prefix": "ri:import:di:mootools",
     "body": "import { DiMootools } from 'react-icons/di';",
     "description": "Import DiMootools Devicons icon from react-icons"
   },
   "Import DiMootools (Devicons) from all-files": {
-    "prefix": "ri:di:import:mootools:all-files",
+    "prefix": "ri:import:di:mootools:all-files",
     "body": "import { DiMootools } from '@react-icons/all-files/di/DiMootools';",
     "description": "Import DiMootools Devicons icon from @react-icons/all-files/di/DiMootools"
   },
@@ -1936,12 +1936,12 @@
   },
 
   "Import DiMozilla (Devicons)": {
-    "prefix": "ri:di:import:mozilla",
+    "prefix": "ri:import:di:mozilla",
     "body": "import { DiMozilla } from 'react-icons/di';",
     "description": "Import DiMozilla Devicons icon from react-icons"
   },
   "Import DiMozilla (Devicons) from all-files": {
-    "prefix": "ri:di:import:mozilla:all-files",
+    "prefix": "ri:import:di:mozilla:all-files",
     "body": "import { DiMozilla } from '@react-icons/all-files/di/DiMozilla';",
     "description": "Import DiMozilla Devicons icon from @react-icons/all-files/di/DiMozilla"
   },
@@ -1952,12 +1952,12 @@
   },
 
   "Import DiMsqlServer (Devicons)": {
-    "prefix": "ri:di:import:msql-server",
+    "prefix": "ri:import:di:msql-server",
     "body": "import { DiMsqlServer } from 'react-icons/di';",
     "description": "Import DiMsqlServer Devicons icon from react-icons"
   },
   "Import DiMsqlServer (Devicons) from all-files": {
-    "prefix": "ri:di:import:msql-server:all-files",
+    "prefix": "ri:import:di:msql-server:all-files",
     "body": "import { DiMsqlServer } from '@react-icons/all-files/di/DiMsqlServer';",
     "description": "Import DiMsqlServer Devicons icon from @react-icons/all-files/di/DiMsqlServer"
   },
@@ -1968,12 +1968,12 @@
   },
 
   "Import DiMysql (Devicons)": {
-    "prefix": "ri:di:import:mysql",
+    "prefix": "ri:import:di:mysql",
     "body": "import { DiMysql } from 'react-icons/di';",
     "description": "Import DiMysql Devicons icon from react-icons"
   },
   "Import DiMysql (Devicons) from all-files": {
-    "prefix": "ri:di:import:mysql:all-files",
+    "prefix": "ri:import:di:mysql:all-files",
     "body": "import { DiMysql } from '@react-icons/all-files/di/DiMysql';",
     "description": "Import DiMysql Devicons icon from @react-icons/all-files/di/DiMysql"
   },
@@ -1984,12 +1984,12 @@
   },
 
   "Import DiNancy (Devicons)": {
-    "prefix": "ri:di:import:nancy",
+    "prefix": "ri:import:di:nancy",
     "body": "import { DiNancy } from 'react-icons/di';",
     "description": "Import DiNancy Devicons icon from react-icons"
   },
   "Import DiNancy (Devicons) from all-files": {
-    "prefix": "ri:di:import:nancy:all-files",
+    "prefix": "ri:import:di:nancy:all-files",
     "body": "import { DiNancy } from '@react-icons/all-files/di/DiNancy';",
     "description": "Import DiNancy Devicons icon from @react-icons/all-files/di/DiNancy"
   },
@@ -2000,12 +2000,12 @@
   },
 
   "Import DiNetbeans (Devicons)": {
-    "prefix": "ri:di:import:netbeans",
+    "prefix": "ri:import:di:netbeans",
     "body": "import { DiNetbeans } from 'react-icons/di';",
     "description": "Import DiNetbeans Devicons icon from react-icons"
   },
   "Import DiNetbeans (Devicons) from all-files": {
-    "prefix": "ri:di:import:netbeans:all-files",
+    "prefix": "ri:import:di:netbeans:all-files",
     "body": "import { DiNetbeans } from '@react-icons/all-files/di/DiNetbeans';",
     "description": "Import DiNetbeans Devicons icon from @react-icons/all-files/di/DiNetbeans"
   },
@@ -2016,12 +2016,12 @@
   },
 
   "Import DiNetmagazine (Devicons)": {
-    "prefix": "ri:di:import:netmagazine",
+    "prefix": "ri:import:di:netmagazine",
     "body": "import { DiNetmagazine } from 'react-icons/di';",
     "description": "Import DiNetmagazine Devicons icon from react-icons"
   },
   "Import DiNetmagazine (Devicons) from all-files": {
-    "prefix": "ri:di:import:netmagazine:all-files",
+    "prefix": "ri:import:di:netmagazine:all-files",
     "body": "import { DiNetmagazine } from '@react-icons/all-files/di/DiNetmagazine';",
     "description": "Import DiNetmagazine Devicons icon from @react-icons/all-files/di/DiNetmagazine"
   },
@@ -2032,12 +2032,12 @@
   },
 
   "Import DiNginx (Devicons)": {
-    "prefix": "ri:di:import:nginx",
+    "prefix": "ri:import:di:nginx",
     "body": "import { DiNginx } from 'react-icons/di';",
     "description": "Import DiNginx Devicons icon from react-icons"
   },
   "Import DiNginx (Devicons) from all-files": {
-    "prefix": "ri:di:import:nginx:all-files",
+    "prefix": "ri:import:di:nginx:all-files",
     "body": "import { DiNginx } from '@react-icons/all-files/di/DiNginx';",
     "description": "Import DiNginx Devicons icon from @react-icons/all-files/di/DiNginx"
   },
@@ -2048,12 +2048,12 @@
   },
 
   "Import DiNodejsSmall (Devicons)": {
-    "prefix": "ri:di:import:nodejs-small",
+    "prefix": "ri:import:di:nodejs-small",
     "body": "import { DiNodejsSmall } from 'react-icons/di';",
     "description": "Import DiNodejsSmall Devicons icon from react-icons"
   },
   "Import DiNodejsSmall (Devicons) from all-files": {
-    "prefix": "ri:di:import:nodejs-small:all-files",
+    "prefix": "ri:import:di:nodejs-small:all-files",
     "body": "import { DiNodejsSmall } from '@react-icons/all-files/di/DiNodejsSmall';",
     "description": "Import DiNodejsSmall Devicons icon from @react-icons/all-files/di/DiNodejsSmall"
   },
@@ -2064,12 +2064,12 @@
   },
 
   "Import DiNodejs (Devicons)": {
-    "prefix": "ri:di:import:nodejs",
+    "prefix": "ri:import:di:nodejs",
     "body": "import { DiNodejs } from 'react-icons/di';",
     "description": "Import DiNodejs Devicons icon from react-icons"
   },
   "Import DiNodejs (Devicons) from all-files": {
-    "prefix": "ri:di:import:nodejs:all-files",
+    "prefix": "ri:import:di:nodejs:all-files",
     "body": "import { DiNodejs } from '@react-icons/all-files/di/DiNodejs';",
     "description": "Import DiNodejs Devicons icon from @react-icons/all-files/di/DiNodejs"
   },
@@ -2080,12 +2080,12 @@
   },
 
   "Import DiNpm (Devicons)": {
-    "prefix": "ri:di:import:npm",
+    "prefix": "ri:import:di:npm",
     "body": "import { DiNpm } from 'react-icons/di';",
     "description": "Import DiNpm Devicons icon from react-icons"
   },
   "Import DiNpm (Devicons) from all-files": {
-    "prefix": "ri:di:import:npm:all-files",
+    "prefix": "ri:import:di:npm:all-files",
     "body": "import { DiNpm } from '@react-icons/all-files/di/DiNpm';",
     "description": "Import DiNpm Devicons icon from @react-icons/all-files/di/DiNpm"
   },
@@ -2096,12 +2096,12 @@
   },
 
   "Import DiOnedrive (Devicons)": {
-    "prefix": "ri:di:import:onedrive",
+    "prefix": "ri:import:di:onedrive",
     "body": "import { DiOnedrive } from 'react-icons/di';",
     "description": "Import DiOnedrive Devicons icon from react-icons"
   },
   "Import DiOnedrive (Devicons) from all-files": {
-    "prefix": "ri:di:import:onedrive:all-files",
+    "prefix": "ri:import:di:onedrive:all-files",
     "body": "import { DiOnedrive } from '@react-icons/all-files/di/DiOnedrive';",
     "description": "Import DiOnedrive Devicons icon from @react-icons/all-files/di/DiOnedrive"
   },
@@ -2112,12 +2112,12 @@
   },
 
   "Import DiOpenshift (Devicons)": {
-    "prefix": "ri:di:import:openshift",
+    "prefix": "ri:import:di:openshift",
     "body": "import { DiOpenshift } from 'react-icons/di';",
     "description": "Import DiOpenshift Devicons icon from react-icons"
   },
   "Import DiOpenshift (Devicons) from all-files": {
-    "prefix": "ri:di:import:openshift:all-files",
+    "prefix": "ri:import:di:openshift:all-files",
     "body": "import { DiOpenshift } from '@react-icons/all-files/di/DiOpenshift';",
     "description": "Import DiOpenshift Devicons icon from @react-icons/all-files/di/DiOpenshift"
   },
@@ -2128,12 +2128,12 @@
   },
 
   "Import DiOpensource (Devicons)": {
-    "prefix": "ri:di:import:opensource",
+    "prefix": "ri:import:di:opensource",
     "body": "import { DiOpensource } from 'react-icons/di';",
     "description": "Import DiOpensource Devicons icon from react-icons"
   },
   "Import DiOpensource (Devicons) from all-files": {
-    "prefix": "ri:di:import:opensource:all-files",
+    "prefix": "ri:import:di:opensource:all-files",
     "body": "import { DiOpensource } from '@react-icons/all-files/di/DiOpensource';",
     "description": "Import DiOpensource Devicons icon from @react-icons/all-files/di/DiOpensource"
   },
@@ -2144,12 +2144,12 @@
   },
 
   "Import DiOpera (Devicons)": {
-    "prefix": "ri:di:import:opera",
+    "prefix": "ri:import:di:opera",
     "body": "import { DiOpera } from 'react-icons/di';",
     "description": "Import DiOpera Devicons icon from react-icons"
   },
   "Import DiOpera (Devicons) from all-files": {
-    "prefix": "ri:di:import:opera:all-files",
+    "prefix": "ri:import:di:opera:all-files",
     "body": "import { DiOpera } from '@react-icons/all-files/di/DiOpera';",
     "description": "Import DiOpera Devicons icon from @react-icons/all-files/di/DiOpera"
   },
@@ -2160,12 +2160,12 @@
   },
 
   "Import DiPerl (Devicons)": {
-    "prefix": "ri:di:import:perl",
+    "prefix": "ri:import:di:perl",
     "body": "import { DiPerl } from 'react-icons/di';",
     "description": "Import DiPerl Devicons icon from react-icons"
   },
   "Import DiPerl (Devicons) from all-files": {
-    "prefix": "ri:di:import:perl:all-files",
+    "prefix": "ri:import:di:perl:all-files",
     "body": "import { DiPerl } from '@react-icons/all-files/di/DiPerl';",
     "description": "Import DiPerl Devicons icon from @react-icons/all-files/di/DiPerl"
   },
@@ -2176,12 +2176,12 @@
   },
 
   "Import DiPhonegap (Devicons)": {
-    "prefix": "ri:di:import:phonegap",
+    "prefix": "ri:import:di:phonegap",
     "body": "import { DiPhonegap } from 'react-icons/di';",
     "description": "Import DiPhonegap Devicons icon from react-icons"
   },
   "Import DiPhonegap (Devicons) from all-files": {
-    "prefix": "ri:di:import:phonegap:all-files",
+    "prefix": "ri:import:di:phonegap:all-files",
     "body": "import { DiPhonegap } from '@react-icons/all-files/di/DiPhonegap';",
     "description": "Import DiPhonegap Devicons icon from @react-icons/all-files/di/DiPhonegap"
   },
@@ -2192,12 +2192,12 @@
   },
 
   "Import DiPhotoshop (Devicons)": {
-    "prefix": "ri:di:import:photoshop",
+    "prefix": "ri:import:di:photoshop",
     "body": "import { DiPhotoshop } from 'react-icons/di';",
     "description": "Import DiPhotoshop Devicons icon from react-icons"
   },
   "Import DiPhotoshop (Devicons) from all-files": {
-    "prefix": "ri:di:import:photoshop:all-files",
+    "prefix": "ri:import:di:photoshop:all-files",
     "body": "import { DiPhotoshop } from '@react-icons/all-files/di/DiPhotoshop';",
     "description": "Import DiPhotoshop Devicons icon from @react-icons/all-files/di/DiPhotoshop"
   },
@@ -2208,12 +2208,12 @@
   },
 
   "Import DiPhp (Devicons)": {
-    "prefix": "ri:di:import:php",
+    "prefix": "ri:import:di:php",
     "body": "import { DiPhp } from 'react-icons/di';",
     "description": "Import DiPhp Devicons icon from react-icons"
   },
   "Import DiPhp (Devicons) from all-files": {
-    "prefix": "ri:di:import:php:all-files",
+    "prefix": "ri:import:di:php:all-files",
     "body": "import { DiPhp } from '@react-icons/all-files/di/DiPhp';",
     "description": "Import DiPhp Devicons icon from @react-icons/all-files/di/DiPhp"
   },
@@ -2224,12 +2224,12 @@
   },
 
   "Import DiPostgresql (Devicons)": {
-    "prefix": "ri:di:import:postgresql",
+    "prefix": "ri:import:di:postgresql",
     "body": "import { DiPostgresql } from 'react-icons/di';",
     "description": "Import DiPostgresql Devicons icon from react-icons"
   },
   "Import DiPostgresql (Devicons) from all-files": {
-    "prefix": "ri:di:import:postgresql:all-files",
+    "prefix": "ri:import:di:postgresql:all-files",
     "body": "import { DiPostgresql } from '@react-icons/all-files/di/DiPostgresql';",
     "description": "Import DiPostgresql Devicons icon from @react-icons/all-files/di/DiPostgresql"
   },
@@ -2240,12 +2240,12 @@
   },
 
   "Import DiProlog (Devicons)": {
-    "prefix": "ri:di:import:prolog",
+    "prefix": "ri:import:di:prolog",
     "body": "import { DiProlog } from 'react-icons/di';",
     "description": "Import DiProlog Devicons icon from react-icons"
   },
   "Import DiProlog (Devicons) from all-files": {
-    "prefix": "ri:di:import:prolog:all-files",
+    "prefix": "ri:import:di:prolog:all-files",
     "body": "import { DiProlog } from '@react-icons/all-files/di/DiProlog';",
     "description": "Import DiProlog Devicons icon from @react-icons/all-files/di/DiProlog"
   },
@@ -2256,12 +2256,12 @@
   },
 
   "Import DiPython (Devicons)": {
-    "prefix": "ri:di:import:python",
+    "prefix": "ri:import:di:python",
     "body": "import { DiPython } from 'react-icons/di';",
     "description": "Import DiPython Devicons icon from react-icons"
   },
   "Import DiPython (Devicons) from all-files": {
-    "prefix": "ri:di:import:python:all-files",
+    "prefix": "ri:import:di:python:all-files",
     "body": "import { DiPython } from '@react-icons/all-files/di/DiPython';",
     "description": "Import DiPython Devicons icon from @react-icons/all-files/di/DiPython"
   },
@@ -2272,12 +2272,12 @@
   },
 
   "Import DiRackspace (Devicons)": {
-    "prefix": "ri:di:import:rackspace",
+    "prefix": "ri:import:di:rackspace",
     "body": "import { DiRackspace } from 'react-icons/di';",
     "description": "Import DiRackspace Devicons icon from react-icons"
   },
   "Import DiRackspace (Devicons) from all-files": {
-    "prefix": "ri:di:import:rackspace:all-files",
+    "prefix": "ri:import:di:rackspace:all-files",
     "body": "import { DiRackspace } from '@react-icons/all-files/di/DiRackspace';",
     "description": "Import DiRackspace Devicons icon from @react-icons/all-files/di/DiRackspace"
   },
@@ -2288,12 +2288,12 @@
   },
 
   "Import DiRaphael (Devicons)": {
-    "prefix": "ri:di:import:raphael",
+    "prefix": "ri:import:di:raphael",
     "body": "import { DiRaphael } from 'react-icons/di';",
     "description": "Import DiRaphael Devicons icon from react-icons"
   },
   "Import DiRaphael (Devicons) from all-files": {
-    "prefix": "ri:di:import:raphael:all-files",
+    "prefix": "ri:import:di:raphael:all-files",
     "body": "import { DiRaphael } from '@react-icons/all-files/di/DiRaphael';",
     "description": "Import DiRaphael Devicons icon from @react-icons/all-files/di/DiRaphael"
   },
@@ -2304,12 +2304,12 @@
   },
 
   "Import DiRasberryPi (Devicons)": {
-    "prefix": "ri:di:import:rasberry-pi",
+    "prefix": "ri:import:di:rasberry-pi",
     "body": "import { DiRasberryPi } from 'react-icons/di';",
     "description": "Import DiRasberryPi Devicons icon from react-icons"
   },
   "Import DiRasberryPi (Devicons) from all-files": {
-    "prefix": "ri:di:import:rasberry-pi:all-files",
+    "prefix": "ri:import:di:rasberry-pi:all-files",
     "body": "import { DiRasberryPi } from '@react-icons/all-files/di/DiRasberryPi';",
     "description": "Import DiRasberryPi Devicons icon from @react-icons/all-files/di/DiRasberryPi"
   },
@@ -2320,12 +2320,12 @@
   },
 
   "Import DiReact (Devicons)": {
-    "prefix": "ri:di:import:react",
+    "prefix": "ri:import:di:react",
     "body": "import { DiReact } from 'react-icons/di';",
     "description": "Import DiReact Devicons icon from react-icons"
   },
   "Import DiReact (Devicons) from all-files": {
-    "prefix": "ri:di:import:react:all-files",
+    "prefix": "ri:import:di:react:all-files",
     "body": "import { DiReact } from '@react-icons/all-files/di/DiReact';",
     "description": "Import DiReact Devicons icon from @react-icons/all-files/di/DiReact"
   },
@@ -2336,12 +2336,12 @@
   },
 
   "Import DiRedhat (Devicons)": {
-    "prefix": "ri:di:import:redhat",
+    "prefix": "ri:import:di:redhat",
     "body": "import { DiRedhat } from 'react-icons/di';",
     "description": "Import DiRedhat Devicons icon from react-icons"
   },
   "Import DiRedhat (Devicons) from all-files": {
-    "prefix": "ri:di:import:redhat:all-files",
+    "prefix": "ri:import:di:redhat:all-files",
     "body": "import { DiRedhat } from '@react-icons/all-files/di/DiRedhat';",
     "description": "Import DiRedhat Devicons icon from @react-icons/all-files/di/DiRedhat"
   },
@@ -2352,12 +2352,12 @@
   },
 
   "Import DiRedis (Devicons)": {
-    "prefix": "ri:di:import:redis",
+    "prefix": "ri:import:di:redis",
     "body": "import { DiRedis } from 'react-icons/di';",
     "description": "Import DiRedis Devicons icon from react-icons"
   },
   "Import DiRedis (Devicons) from all-files": {
-    "prefix": "ri:di:import:redis:all-files",
+    "prefix": "ri:import:di:redis:all-files",
     "body": "import { DiRedis } from '@react-icons/all-files/di/DiRedis';",
     "description": "Import DiRedis Devicons icon from @react-icons/all-files/di/DiRedis"
   },
@@ -2368,12 +2368,12 @@
   },
 
   "Import DiRequirejs (Devicons)": {
-    "prefix": "ri:di:import:requirejs",
+    "prefix": "ri:import:di:requirejs",
     "body": "import { DiRequirejs } from 'react-icons/di';",
     "description": "Import DiRequirejs Devicons icon from react-icons"
   },
   "Import DiRequirejs (Devicons) from all-files": {
-    "prefix": "ri:di:import:requirejs:all-files",
+    "prefix": "ri:import:di:requirejs:all-files",
     "body": "import { DiRequirejs } from '@react-icons/all-files/di/DiRequirejs';",
     "description": "Import DiRequirejs Devicons icon from @react-icons/all-files/di/DiRequirejs"
   },
@@ -2384,12 +2384,12 @@
   },
 
   "Import DiResponsive (Devicons)": {
-    "prefix": "ri:di:import:responsive",
+    "prefix": "ri:import:di:responsive",
     "body": "import { DiResponsive } from 'react-icons/di';",
     "description": "Import DiResponsive Devicons icon from react-icons"
   },
   "Import DiResponsive (Devicons) from all-files": {
-    "prefix": "ri:di:import:responsive:all-files",
+    "prefix": "ri:import:di:responsive:all-files",
     "body": "import { DiResponsive } from '@react-icons/all-files/di/DiResponsive';",
     "description": "Import DiResponsive Devicons icon from @react-icons/all-files/di/DiResponsive"
   },
@@ -2400,12 +2400,12 @@
   },
 
   "Import DiRor (Devicons)": {
-    "prefix": "ri:di:import:ror",
+    "prefix": "ri:import:di:ror",
     "body": "import { DiRor } from 'react-icons/di';",
     "description": "Import DiRor Devicons icon from react-icons"
   },
   "Import DiRor (Devicons) from all-files": {
-    "prefix": "ri:di:import:ror:all-files",
+    "prefix": "ri:import:di:ror:all-files",
     "body": "import { DiRor } from '@react-icons/all-files/di/DiRor';",
     "description": "Import DiRor Devicons icon from @react-icons/all-files/di/DiRor"
   },
@@ -2416,12 +2416,12 @@
   },
 
   "Import DiRubyRough (Devicons)": {
-    "prefix": "ri:di:import:ruby-rough",
+    "prefix": "ri:import:di:ruby-rough",
     "body": "import { DiRubyRough } from 'react-icons/di';",
     "description": "Import DiRubyRough Devicons icon from react-icons"
   },
   "Import DiRubyRough (Devicons) from all-files": {
-    "prefix": "ri:di:import:ruby-rough:all-files",
+    "prefix": "ri:import:di:ruby-rough:all-files",
     "body": "import { DiRubyRough } from '@react-icons/all-files/di/DiRubyRough';",
     "description": "Import DiRubyRough Devicons icon from @react-icons/all-files/di/DiRubyRough"
   },
@@ -2432,12 +2432,12 @@
   },
 
   "Import DiRuby (Devicons)": {
-    "prefix": "ri:di:import:ruby",
+    "prefix": "ri:import:di:ruby",
     "body": "import { DiRuby } from 'react-icons/di';",
     "description": "Import DiRuby Devicons icon from react-icons"
   },
   "Import DiRuby (Devicons) from all-files": {
-    "prefix": "ri:di:import:ruby:all-files",
+    "prefix": "ri:import:di:ruby:all-files",
     "body": "import { DiRuby } from '@react-icons/all-files/di/DiRuby';",
     "description": "Import DiRuby Devicons icon from @react-icons/all-files/di/DiRuby"
   },
@@ -2448,12 +2448,12 @@
   },
 
   "Import DiRust (Devicons)": {
-    "prefix": "ri:di:import:rust",
+    "prefix": "ri:import:di:rust",
     "body": "import { DiRust } from 'react-icons/di';",
     "description": "Import DiRust Devicons icon from react-icons"
   },
   "Import DiRust (Devicons) from all-files": {
-    "prefix": "ri:di:import:rust:all-files",
+    "prefix": "ri:import:di:rust:all-files",
     "body": "import { DiRust } from '@react-icons/all-files/di/DiRust';",
     "description": "Import DiRust Devicons icon from @react-icons/all-files/di/DiRust"
   },
@@ -2464,12 +2464,12 @@
   },
 
   "Import DiSafari (Devicons)": {
-    "prefix": "ri:di:import:safari",
+    "prefix": "ri:import:di:safari",
     "body": "import { DiSafari } from 'react-icons/di';",
     "description": "Import DiSafari Devicons icon from react-icons"
   },
   "Import DiSafari (Devicons) from all-files": {
-    "prefix": "ri:di:import:safari:all-files",
+    "prefix": "ri:import:di:safari:all-files",
     "body": "import { DiSafari } from '@react-icons/all-files/di/DiSafari';",
     "description": "Import DiSafari Devicons icon from @react-icons/all-files/di/DiSafari"
   },
@@ -2480,12 +2480,12 @@
   },
 
   "Import DiSass (Devicons)": {
-    "prefix": "ri:di:import:sass",
+    "prefix": "ri:import:di:sass",
     "body": "import { DiSass } from 'react-icons/di';",
     "description": "Import DiSass Devicons icon from react-icons"
   },
   "Import DiSass (Devicons) from all-files": {
-    "prefix": "ri:di:import:sass:all-files",
+    "prefix": "ri:import:di:sass:all-files",
     "body": "import { DiSass } from '@react-icons/all-files/di/DiSass';",
     "description": "Import DiSass Devicons icon from @react-icons/all-files/di/DiSass"
   },
@@ -2496,12 +2496,12 @@
   },
 
   "Import DiScala (Devicons)": {
-    "prefix": "ri:di:import:scala",
+    "prefix": "ri:import:di:scala",
     "body": "import { DiScala } from 'react-icons/di';",
     "description": "Import DiScala Devicons icon from react-icons"
   },
   "Import DiScala (Devicons) from all-files": {
-    "prefix": "ri:di:import:scala:all-files",
+    "prefix": "ri:import:di:scala:all-files",
     "body": "import { DiScala } from '@react-icons/all-files/di/DiScala';",
     "description": "Import DiScala Devicons icon from @react-icons/all-files/di/DiScala"
   },
@@ -2512,12 +2512,12 @@
   },
 
   "Import DiScriptcs (Devicons)": {
-    "prefix": "ri:di:import:scriptcs",
+    "prefix": "ri:import:di:scriptcs",
     "body": "import { DiScriptcs } from 'react-icons/di';",
     "description": "Import DiScriptcs Devicons icon from react-icons"
   },
   "Import DiScriptcs (Devicons) from all-files": {
-    "prefix": "ri:di:import:scriptcs:all-files",
+    "prefix": "ri:import:di:scriptcs:all-files",
     "body": "import { DiScriptcs } from '@react-icons/all-files/di/DiScriptcs';",
     "description": "Import DiScriptcs Devicons icon from @react-icons/all-files/di/DiScriptcs"
   },
@@ -2528,12 +2528,12 @@
   },
 
   "Import DiScrum (Devicons)": {
-    "prefix": "ri:di:import:scrum",
+    "prefix": "ri:import:di:scrum",
     "body": "import { DiScrum } from 'react-icons/di';",
     "description": "Import DiScrum Devicons icon from react-icons"
   },
   "Import DiScrum (Devicons) from all-files": {
-    "prefix": "ri:di:import:scrum:all-files",
+    "prefix": "ri:import:di:scrum:all-files",
     "body": "import { DiScrum } from '@react-icons/all-files/di/DiScrum';",
     "description": "Import DiScrum Devicons icon from @react-icons/all-files/di/DiScrum"
   },
@@ -2544,12 +2544,12 @@
   },
 
   "Import DiSenchatouch (Devicons)": {
-    "prefix": "ri:di:import:senchatouch",
+    "prefix": "ri:import:di:senchatouch",
     "body": "import { DiSenchatouch } from 'react-icons/di';",
     "description": "Import DiSenchatouch Devicons icon from react-icons"
   },
   "Import DiSenchatouch (Devicons) from all-files": {
-    "prefix": "ri:di:import:senchatouch:all-files",
+    "prefix": "ri:import:di:senchatouch:all-files",
     "body": "import { DiSenchatouch } from '@react-icons/all-files/di/DiSenchatouch';",
     "description": "Import DiSenchatouch Devicons icon from @react-icons/all-files/di/DiSenchatouch"
   },
@@ -2560,12 +2560,12 @@
   },
 
   "Import DiSizzlejs (Devicons)": {
-    "prefix": "ri:di:import:sizzlejs",
+    "prefix": "ri:import:di:sizzlejs",
     "body": "import { DiSizzlejs } from 'react-icons/di';",
     "description": "Import DiSizzlejs Devicons icon from react-icons"
   },
   "Import DiSizzlejs (Devicons) from all-files": {
-    "prefix": "ri:di:import:sizzlejs:all-files",
+    "prefix": "ri:import:di:sizzlejs:all-files",
     "body": "import { DiSizzlejs } from '@react-icons/all-files/di/DiSizzlejs';",
     "description": "Import DiSizzlejs Devicons icon from @react-icons/all-files/di/DiSizzlejs"
   },
@@ -2576,12 +2576,12 @@
   },
 
   "Import DiSmashingMagazine (Devicons)": {
-    "prefix": "ri:di:import:smashing-magazine",
+    "prefix": "ri:import:di:smashing-magazine",
     "body": "import { DiSmashingMagazine } from 'react-icons/di';",
     "description": "Import DiSmashingMagazine Devicons icon from react-icons"
   },
   "Import DiSmashingMagazine (Devicons) from all-files": {
-    "prefix": "ri:di:import:smashing-magazine:all-files",
+    "prefix": "ri:import:di:smashing-magazine:all-files",
     "body": "import { DiSmashingMagazine } from '@react-icons/all-files/di/DiSmashingMagazine';",
     "description": "Import DiSmashingMagazine Devicons icon from @react-icons/all-files/di/DiSmashingMagazine"
   },
@@ -2592,12 +2592,12 @@
   },
 
   "Import DiSnapSvg (Devicons)": {
-    "prefix": "ri:di:import:snap-svg",
+    "prefix": "ri:import:di:snap-svg",
     "body": "import { DiSnapSvg } from 'react-icons/di';",
     "description": "Import DiSnapSvg Devicons icon from react-icons"
   },
   "Import DiSnapSvg (Devicons) from all-files": {
-    "prefix": "ri:di:import:snap-svg:all-files",
+    "prefix": "ri:import:di:snap-svg:all-files",
     "body": "import { DiSnapSvg } from '@react-icons/all-files/di/DiSnapSvg';",
     "description": "Import DiSnapSvg Devicons icon from @react-icons/all-files/di/DiSnapSvg"
   },
@@ -2608,12 +2608,12 @@
   },
 
   "Import DiSpark (Devicons)": {
-    "prefix": "ri:di:import:spark",
+    "prefix": "ri:import:di:spark",
     "body": "import { DiSpark } from 'react-icons/di';",
     "description": "Import DiSpark Devicons icon from react-icons"
   },
   "Import DiSpark (Devicons) from all-files": {
-    "prefix": "ri:di:import:spark:all-files",
+    "prefix": "ri:import:di:spark:all-files",
     "body": "import { DiSpark } from '@react-icons/all-files/di/DiSpark';",
     "description": "Import DiSpark Devicons icon from @react-icons/all-files/di/DiSpark"
   },
@@ -2624,12 +2624,12 @@
   },
 
   "Import DiSqllite (Devicons)": {
-    "prefix": "ri:di:import:sqllite",
+    "prefix": "ri:import:di:sqllite",
     "body": "import { DiSqllite } from 'react-icons/di';",
     "description": "Import DiSqllite Devicons icon from react-icons"
   },
   "Import DiSqllite (Devicons) from all-files": {
-    "prefix": "ri:di:import:sqllite:all-files",
+    "prefix": "ri:import:di:sqllite:all-files",
     "body": "import { DiSqllite } from '@react-icons/all-files/di/DiSqllite';",
     "description": "Import DiSqllite Devicons icon from @react-icons/all-files/di/DiSqllite"
   },
@@ -2640,12 +2640,12 @@
   },
 
   "Import DiStackoverflow (Devicons)": {
-    "prefix": "ri:di:import:stackoverflow",
+    "prefix": "ri:import:di:stackoverflow",
     "body": "import { DiStackoverflow } from 'react-icons/di';",
     "description": "Import DiStackoverflow Devicons icon from react-icons"
   },
   "Import DiStackoverflow (Devicons) from all-files": {
-    "prefix": "ri:di:import:stackoverflow:all-files",
+    "prefix": "ri:import:di:stackoverflow:all-files",
     "body": "import { DiStackoverflow } from '@react-icons/all-files/di/DiStackoverflow';",
     "description": "Import DiStackoverflow Devicons icon from @react-icons/all-files/di/DiStackoverflow"
   },
@@ -2656,12 +2656,12 @@
   },
 
   "Import DiStreamline (Devicons)": {
-    "prefix": "ri:di:import:streamline",
+    "prefix": "ri:import:di:streamline",
     "body": "import { DiStreamline } from 'react-icons/di';",
     "description": "Import DiStreamline Devicons icon from react-icons"
   },
   "Import DiStreamline (Devicons) from all-files": {
-    "prefix": "ri:di:import:streamline:all-files",
+    "prefix": "ri:import:di:streamline:all-files",
     "body": "import { DiStreamline } from '@react-icons/all-files/di/DiStreamline';",
     "description": "Import DiStreamline Devicons icon from @react-icons/all-files/di/DiStreamline"
   },
@@ -2672,12 +2672,12 @@
   },
 
   "Import DiStylus (Devicons)": {
-    "prefix": "ri:di:import:stylus",
+    "prefix": "ri:import:di:stylus",
     "body": "import { DiStylus } from 'react-icons/di';",
     "description": "Import DiStylus Devicons icon from react-icons"
   },
   "Import DiStylus (Devicons) from all-files": {
-    "prefix": "ri:di:import:stylus:all-files",
+    "prefix": "ri:import:di:stylus:all-files",
     "body": "import { DiStylus } from '@react-icons/all-files/di/DiStylus';",
     "description": "Import DiStylus Devicons icon from @react-icons/all-files/di/DiStylus"
   },
@@ -2688,12 +2688,12 @@
   },
 
   "Import DiSublime (Devicons)": {
-    "prefix": "ri:di:import:sublime",
+    "prefix": "ri:import:di:sublime",
     "body": "import { DiSublime } from 'react-icons/di';",
     "description": "Import DiSublime Devicons icon from react-icons"
   },
   "Import DiSublime (Devicons) from all-files": {
-    "prefix": "ri:di:import:sublime:all-files",
+    "prefix": "ri:import:di:sublime:all-files",
     "body": "import { DiSublime } from '@react-icons/all-files/di/DiSublime';",
     "description": "Import DiSublime Devicons icon from @react-icons/all-files/di/DiSublime"
   },
@@ -2704,12 +2704,12 @@
   },
 
   "Import DiSwift (Devicons)": {
-    "prefix": "ri:di:import:swift",
+    "prefix": "ri:import:di:swift",
     "body": "import { DiSwift } from 'react-icons/di';",
     "description": "Import DiSwift Devicons icon from react-icons"
   },
   "Import DiSwift (Devicons) from all-files": {
-    "prefix": "ri:di:import:swift:all-files",
+    "prefix": "ri:import:di:swift:all-files",
     "body": "import { DiSwift } from '@react-icons/all-files/di/DiSwift';",
     "description": "Import DiSwift Devicons icon from @react-icons/all-files/di/DiSwift"
   },
@@ -2720,12 +2720,12 @@
   },
 
   "Import DiSymfonyBadge (Devicons)": {
-    "prefix": "ri:di:import:symfony-badge",
+    "prefix": "ri:import:di:symfony-badge",
     "body": "import { DiSymfonyBadge } from 'react-icons/di';",
     "description": "Import DiSymfonyBadge Devicons icon from react-icons"
   },
   "Import DiSymfonyBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:symfony-badge:all-files",
+    "prefix": "ri:import:di:symfony-badge:all-files",
     "body": "import { DiSymfonyBadge } from '@react-icons/all-files/di/DiSymfonyBadge';",
     "description": "Import DiSymfonyBadge Devicons icon from @react-icons/all-files/di/DiSymfonyBadge"
   },
@@ -2736,12 +2736,12 @@
   },
 
   "Import DiSymfony (Devicons)": {
-    "prefix": "ri:di:import:symfony",
+    "prefix": "ri:import:di:symfony",
     "body": "import { DiSymfony } from 'react-icons/di';",
     "description": "Import DiSymfony Devicons icon from react-icons"
   },
   "Import DiSymfony (Devicons) from all-files": {
-    "prefix": "ri:di:import:symfony:all-files",
+    "prefix": "ri:import:di:symfony:all-files",
     "body": "import { DiSymfony } from '@react-icons/all-files/di/DiSymfony';",
     "description": "Import DiSymfony Devicons icon from @react-icons/all-files/di/DiSymfony"
   },
@@ -2752,12 +2752,12 @@
   },
 
   "Import DiTechcrunch (Devicons)": {
-    "prefix": "ri:di:import:techcrunch",
+    "prefix": "ri:import:di:techcrunch",
     "body": "import { DiTechcrunch } from 'react-icons/di';",
     "description": "Import DiTechcrunch Devicons icon from react-icons"
   },
   "Import DiTechcrunch (Devicons) from all-files": {
-    "prefix": "ri:di:import:techcrunch:all-files",
+    "prefix": "ri:import:di:techcrunch:all-files",
     "body": "import { DiTechcrunch } from '@react-icons/all-files/di/DiTechcrunch';",
     "description": "Import DiTechcrunch Devicons icon from @react-icons/all-files/di/DiTechcrunch"
   },
@@ -2768,12 +2768,12 @@
   },
 
   "Import DiTerminalBadge (Devicons)": {
-    "prefix": "ri:di:import:terminal-badge",
+    "prefix": "ri:import:di:terminal-badge",
     "body": "import { DiTerminalBadge } from 'react-icons/di';",
     "description": "Import DiTerminalBadge Devicons icon from react-icons"
   },
   "Import DiTerminalBadge (Devicons) from all-files": {
-    "prefix": "ri:di:import:terminal-badge:all-files",
+    "prefix": "ri:import:di:terminal-badge:all-files",
     "body": "import { DiTerminalBadge } from '@react-icons/all-files/di/DiTerminalBadge';",
     "description": "Import DiTerminalBadge Devicons icon from @react-icons/all-files/di/DiTerminalBadge"
   },
@@ -2784,12 +2784,12 @@
   },
 
   "Import DiTerminal (Devicons)": {
-    "prefix": "ri:di:import:terminal",
+    "prefix": "ri:import:di:terminal",
     "body": "import { DiTerminal } from 'react-icons/di';",
     "description": "Import DiTerminal Devicons icon from react-icons"
   },
   "Import DiTerminal (Devicons) from all-files": {
-    "prefix": "ri:di:import:terminal:all-files",
+    "prefix": "ri:import:di:terminal:all-files",
     "body": "import { DiTerminal } from '@react-icons/all-files/di/DiTerminal';",
     "description": "Import DiTerminal Devicons icon from @react-icons/all-files/di/DiTerminal"
   },
@@ -2800,12 +2800,12 @@
   },
 
   "Import DiTravis (Devicons)": {
-    "prefix": "ri:di:import:travis",
+    "prefix": "ri:import:di:travis",
     "body": "import { DiTravis } from 'react-icons/di';",
     "description": "Import DiTravis Devicons icon from react-icons"
   },
   "Import DiTravis (Devicons) from all-files": {
-    "prefix": "ri:di:import:travis:all-files",
+    "prefix": "ri:import:di:travis:all-files",
     "body": "import { DiTravis } from '@react-icons/all-files/di/DiTravis';",
     "description": "Import DiTravis Devicons icon from @react-icons/all-files/di/DiTravis"
   },
@@ -2816,12 +2816,12 @@
   },
 
   "Import DiTrello (Devicons)": {
-    "prefix": "ri:di:import:trello",
+    "prefix": "ri:import:di:trello",
     "body": "import { DiTrello } from 'react-icons/di';",
     "description": "Import DiTrello Devicons icon from react-icons"
   },
   "Import DiTrello (Devicons) from all-files": {
-    "prefix": "ri:di:import:trello:all-files",
+    "prefix": "ri:import:di:trello:all-files",
     "body": "import { DiTrello } from '@react-icons/all-files/di/DiTrello';",
     "description": "Import DiTrello Devicons icon from @react-icons/all-files/di/DiTrello"
   },
@@ -2832,12 +2832,12 @@
   },
 
   "Import DiTypo3 (Devicons)": {
-    "prefix": "ri:di:import:typo-3",
+    "prefix": "ri:import:di:typo-3",
     "body": "import { DiTypo3 } from 'react-icons/di';",
     "description": "Import DiTypo3 Devicons icon from react-icons"
   },
   "Import DiTypo3 (Devicons) from all-files": {
-    "prefix": "ri:di:import:typo-3:all-files",
+    "prefix": "ri:import:di:typo-3:all-files",
     "body": "import { DiTypo3 } from '@react-icons/all-files/di/DiTypo3';",
     "description": "Import DiTypo3 Devicons icon from @react-icons/all-files/di/DiTypo3"
   },
@@ -2848,12 +2848,12 @@
   },
 
   "Import DiUbuntu (Devicons)": {
-    "prefix": "ri:di:import:ubuntu",
+    "prefix": "ri:import:di:ubuntu",
     "body": "import { DiUbuntu } from 'react-icons/di';",
     "description": "Import DiUbuntu Devicons icon from react-icons"
   },
   "Import DiUbuntu (Devicons) from all-files": {
-    "prefix": "ri:di:import:ubuntu:all-files",
+    "prefix": "ri:import:di:ubuntu:all-files",
     "body": "import { DiUbuntu } from '@react-icons/all-files/di/DiUbuntu';",
     "description": "Import DiUbuntu Devicons icon from @react-icons/all-files/di/DiUbuntu"
   },
@@ -2864,12 +2864,12 @@
   },
 
   "Import DiUikit (Devicons)": {
-    "prefix": "ri:di:import:uikit",
+    "prefix": "ri:import:di:uikit",
     "body": "import { DiUikit } from 'react-icons/di';",
     "description": "Import DiUikit Devicons icon from react-icons"
   },
   "Import DiUikit (Devicons) from all-files": {
-    "prefix": "ri:di:import:uikit:all-files",
+    "prefix": "ri:import:di:uikit:all-files",
     "body": "import { DiUikit } from '@react-icons/all-files/di/DiUikit';",
     "description": "Import DiUikit Devicons icon from @react-icons/all-files/di/DiUikit"
   },
@@ -2880,12 +2880,12 @@
   },
 
   "Import DiUnitySmall (Devicons)": {
-    "prefix": "ri:di:import:unity-small",
+    "prefix": "ri:import:di:unity-small",
     "body": "import { DiUnitySmall } from 'react-icons/di';",
     "description": "Import DiUnitySmall Devicons icon from react-icons"
   },
   "Import DiUnitySmall (Devicons) from all-files": {
-    "prefix": "ri:di:import:unity-small:all-files",
+    "prefix": "ri:import:di:unity-small:all-files",
     "body": "import { DiUnitySmall } from '@react-icons/all-files/di/DiUnitySmall';",
     "description": "Import DiUnitySmall Devicons icon from @react-icons/all-files/di/DiUnitySmall"
   },
@@ -2896,12 +2896,12 @@
   },
 
   "Import DiVim (Devicons)": {
-    "prefix": "ri:di:import:vim",
+    "prefix": "ri:import:di:vim",
     "body": "import { DiVim } from 'react-icons/di';",
     "description": "Import DiVim Devicons icon from react-icons"
   },
   "Import DiVim (Devicons) from all-files": {
-    "prefix": "ri:di:import:vim:all-files",
+    "prefix": "ri:import:di:vim:all-files",
     "body": "import { DiVim } from '@react-icons/all-files/di/DiVim';",
     "description": "Import DiVim Devicons icon from @react-icons/all-files/di/DiVim"
   },
@@ -2912,12 +2912,12 @@
   },
 
   "Import DiVisualstudio (Devicons)": {
-    "prefix": "ri:di:import:visualstudio",
+    "prefix": "ri:import:di:visualstudio",
     "body": "import { DiVisualstudio } from 'react-icons/di';",
     "description": "Import DiVisualstudio Devicons icon from react-icons"
   },
   "Import DiVisualstudio (Devicons) from all-files": {
-    "prefix": "ri:di:import:visualstudio:all-files",
+    "prefix": "ri:import:di:visualstudio:all-files",
     "body": "import { DiVisualstudio } from '@react-icons/all-files/di/DiVisualstudio';",
     "description": "Import DiVisualstudio Devicons icon from @react-icons/all-files/di/DiVisualstudio"
   },
@@ -2928,12 +2928,12 @@
   },
 
   "Import DiW3C (Devicons)": {
-    "prefix": "ri:di:import:w3-c",
+    "prefix": "ri:import:di:w3-c",
     "body": "import { DiW3C } from 'react-icons/di';",
     "description": "Import DiW3C Devicons icon from react-icons"
   },
   "Import DiW3C (Devicons) from all-files": {
-    "prefix": "ri:di:import:w3-c:all-files",
+    "prefix": "ri:import:di:w3-c:all-files",
     "body": "import { DiW3C } from '@react-icons/all-files/di/DiW3C';",
     "description": "Import DiW3C Devicons icon from @react-icons/all-files/di/DiW3C"
   },
@@ -2944,12 +2944,12 @@
   },
 
   "Import DiWebplatform (Devicons)": {
-    "prefix": "ri:di:import:webplatform",
+    "prefix": "ri:import:di:webplatform",
     "body": "import { DiWebplatform } from 'react-icons/di';",
     "description": "Import DiWebplatform Devicons icon from react-icons"
   },
   "Import DiWebplatform (Devicons) from all-files": {
-    "prefix": "ri:di:import:webplatform:all-files",
+    "prefix": "ri:import:di:webplatform:all-files",
     "body": "import { DiWebplatform } from '@react-icons/all-files/di/DiWebplatform';",
     "description": "Import DiWebplatform Devicons icon from @react-icons/all-files/di/DiWebplatform"
   },
@@ -2960,12 +2960,12 @@
   },
 
   "Import DiWindows (Devicons)": {
-    "prefix": "ri:di:import:windows",
+    "prefix": "ri:import:di:windows",
     "body": "import { DiWindows } from 'react-icons/di';",
     "description": "Import DiWindows Devicons icon from react-icons"
   },
   "Import DiWindows (Devicons) from all-files": {
-    "prefix": "ri:di:import:windows:all-files",
+    "prefix": "ri:import:di:windows:all-files",
     "body": "import { DiWindows } from '@react-icons/all-files/di/DiWindows';",
     "description": "Import DiWindows Devicons icon from @react-icons/all-files/di/DiWindows"
   },
@@ -2976,12 +2976,12 @@
   },
 
   "Import DiWordpress (Devicons)": {
-    "prefix": "ri:di:import:wordpress",
+    "prefix": "ri:import:di:wordpress",
     "body": "import { DiWordpress } from 'react-icons/di';",
     "description": "Import DiWordpress Devicons icon from react-icons"
   },
   "Import DiWordpress (Devicons) from all-files": {
-    "prefix": "ri:di:import:wordpress:all-files",
+    "prefix": "ri:import:di:wordpress:all-files",
     "body": "import { DiWordpress } from '@react-icons/all-files/di/DiWordpress';",
     "description": "Import DiWordpress Devicons icon from @react-icons/all-files/di/DiWordpress"
   },
@@ -2992,12 +2992,12 @@
   },
 
   "Import DiYahooSmall (Devicons)": {
-    "prefix": "ri:di:import:yahoo-small",
+    "prefix": "ri:import:di:yahoo-small",
     "body": "import { DiYahooSmall } from 'react-icons/di';",
     "description": "Import DiYahooSmall Devicons icon from react-icons"
   },
   "Import DiYahooSmall (Devicons) from all-files": {
-    "prefix": "ri:di:import:yahoo-small:all-files",
+    "prefix": "ri:import:di:yahoo-small:all-files",
     "body": "import { DiYahooSmall } from '@react-icons/all-files/di/DiYahooSmall';",
     "description": "Import DiYahooSmall Devicons icon from @react-icons/all-files/di/DiYahooSmall"
   },
@@ -3008,12 +3008,12 @@
   },
 
   "Import DiYahoo (Devicons)": {
-    "prefix": "ri:di:import:yahoo",
+    "prefix": "ri:import:di:yahoo",
     "body": "import { DiYahoo } from 'react-icons/di';",
     "description": "Import DiYahoo Devicons icon from react-icons"
   },
   "Import DiYahoo (Devicons) from all-files": {
-    "prefix": "ri:di:import:yahoo:all-files",
+    "prefix": "ri:import:di:yahoo:all-files",
     "body": "import { DiYahoo } from '@react-icons/all-files/di/DiYahoo';",
     "description": "Import DiYahoo Devicons icon from @react-icons/all-files/di/DiYahoo"
   },
@@ -3024,12 +3024,12 @@
   },
 
   "Import DiYeoman (Devicons)": {
-    "prefix": "ri:di:import:yeoman",
+    "prefix": "ri:import:di:yeoman",
     "body": "import { DiYeoman } from 'react-icons/di';",
     "description": "Import DiYeoman Devicons icon from react-icons"
   },
   "Import DiYeoman (Devicons) from all-files": {
-    "prefix": "ri:di:import:yeoman:all-files",
+    "prefix": "ri:import:di:yeoman:all-files",
     "body": "import { DiYeoman } from '@react-icons/all-files/di/DiYeoman';",
     "description": "Import DiYeoman Devicons icon from @react-icons/all-files/di/DiYeoman"
   },
@@ -3040,12 +3040,12 @@
   },
 
   "Import DiYii (Devicons)": {
-    "prefix": "ri:di:import:yii",
+    "prefix": "ri:import:di:yii",
     "body": "import { DiYii } from 'react-icons/di';",
     "description": "Import DiYii Devicons icon from react-icons"
   },
   "Import DiYii (Devicons) from all-files": {
-    "prefix": "ri:di:import:yii:all-files",
+    "prefix": "ri:import:di:yii:all-files",
     "body": "import { DiYii } from '@react-icons/all-files/di/DiYii';",
     "description": "Import DiYii Devicons icon from @react-icons/all-files/di/DiYii"
   },
@@ -3056,12 +3056,12 @@
   },
 
   "Import DiZend (Devicons)": {
-    "prefix": "ri:di:import:zend",
+    "prefix": "ri:import:di:zend",
     "body": "import { DiZend } from 'react-icons/di';",
     "description": "Import DiZend Devicons icon from react-icons"
   },
   "Import DiZend (Devicons) from all-files": {
-    "prefix": "ri:di:import:zend:all-files",
+    "prefix": "ri:import:di:zend:all-files",
     "body": "import { DiZend } from '@react-icons/all-files/di/DiZend';",
     "description": "Import DiZend Devicons icon from @react-icons/all-files/di/DiZend"
   },

@@ -1,11 +1,11 @@
 {
   "Import FiActivity (Feather)": {
-    "prefix": "ri:fi:import:activity",
+    "prefix": "ri:import:fi:activity",
     "body": "import { FiActivity } from 'react-icons/fi';",
     "description": "Import FiActivity Feather icon from react-icons"
   },
   "Import FiActivity (Feather) from all-files": {
-    "prefix": "ri:fi:import:activity:all-files",
+    "prefix": "ri:import:fi:activity:all-files",
     "body": "import { FiActivity } from '@react-icons/all-files/fi/FiActivity';",
     "description": "Import FiActivity Feather icon from @react-icons/all-files/fi/FiActivity"
   },
@@ -16,12 +16,12 @@
   },
 
   "Import FiAirplay (Feather)": {
-    "prefix": "ri:fi:import:airplay",
+    "prefix": "ri:import:fi:airplay",
     "body": "import { FiAirplay } from 'react-icons/fi';",
     "description": "Import FiAirplay Feather icon from react-icons"
   },
   "Import FiAirplay (Feather) from all-files": {
-    "prefix": "ri:fi:import:airplay:all-files",
+    "prefix": "ri:import:fi:airplay:all-files",
     "body": "import { FiAirplay } from '@react-icons/all-files/fi/FiAirplay';",
     "description": "Import FiAirplay Feather icon from @react-icons/all-files/fi/FiAirplay"
   },
@@ -32,12 +32,12 @@
   },
 
   "Import FiAlertCircle (Feather)": {
-    "prefix": "ri:fi:import:alert-circle",
+    "prefix": "ri:import:fi:alert-circle",
     "body": "import { FiAlertCircle } from 'react-icons/fi';",
     "description": "Import FiAlertCircle Feather icon from react-icons"
   },
   "Import FiAlertCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:alert-circle:all-files",
+    "prefix": "ri:import:fi:alert-circle:all-files",
     "body": "import { FiAlertCircle } from '@react-icons/all-files/fi/FiAlertCircle';",
     "description": "Import FiAlertCircle Feather icon from @react-icons/all-files/fi/FiAlertCircle"
   },
@@ -48,12 +48,12 @@
   },
 
   "Import FiAlertOctagon (Feather)": {
-    "prefix": "ri:fi:import:alert-octagon",
+    "prefix": "ri:import:fi:alert-octagon",
     "body": "import { FiAlertOctagon } from 'react-icons/fi';",
     "description": "Import FiAlertOctagon Feather icon from react-icons"
   },
   "Import FiAlertOctagon (Feather) from all-files": {
-    "prefix": "ri:fi:import:alert-octagon:all-files",
+    "prefix": "ri:import:fi:alert-octagon:all-files",
     "body": "import { FiAlertOctagon } from '@react-icons/all-files/fi/FiAlertOctagon';",
     "description": "Import FiAlertOctagon Feather icon from @react-icons/all-files/fi/FiAlertOctagon"
   },
@@ -64,12 +64,12 @@
   },
 
   "Import FiAlertTriangle (Feather)": {
-    "prefix": "ri:fi:import:alert-triangle",
+    "prefix": "ri:import:fi:alert-triangle",
     "body": "import { FiAlertTriangle } from 'react-icons/fi';",
     "description": "Import FiAlertTriangle Feather icon from react-icons"
   },
   "Import FiAlertTriangle (Feather) from all-files": {
-    "prefix": "ri:fi:import:alert-triangle:all-files",
+    "prefix": "ri:import:fi:alert-triangle:all-files",
     "body": "import { FiAlertTriangle } from '@react-icons/all-files/fi/FiAlertTriangle';",
     "description": "Import FiAlertTriangle Feather icon from @react-icons/all-files/fi/FiAlertTriangle"
   },
@@ -80,12 +80,12 @@
   },
 
   "Import FiAlignCenter (Feather)": {
-    "prefix": "ri:fi:import:align-center",
+    "prefix": "ri:import:fi:align-center",
     "body": "import { FiAlignCenter } from 'react-icons/fi';",
     "description": "Import FiAlignCenter Feather icon from react-icons"
   },
   "Import FiAlignCenter (Feather) from all-files": {
-    "prefix": "ri:fi:import:align-center:all-files",
+    "prefix": "ri:import:fi:align-center:all-files",
     "body": "import { FiAlignCenter } from '@react-icons/all-files/fi/FiAlignCenter';",
     "description": "Import FiAlignCenter Feather icon from @react-icons/all-files/fi/FiAlignCenter"
   },
@@ -96,12 +96,12 @@
   },
 
   "Import FiAlignJustify (Feather)": {
-    "prefix": "ri:fi:import:align-justify",
+    "prefix": "ri:import:fi:align-justify",
     "body": "import { FiAlignJustify } from 'react-icons/fi';",
     "description": "Import FiAlignJustify Feather icon from react-icons"
   },
   "Import FiAlignJustify (Feather) from all-files": {
-    "prefix": "ri:fi:import:align-justify:all-files",
+    "prefix": "ri:import:fi:align-justify:all-files",
     "body": "import { FiAlignJustify } from '@react-icons/all-files/fi/FiAlignJustify';",
     "description": "Import FiAlignJustify Feather icon from @react-icons/all-files/fi/FiAlignJustify"
   },
@@ -112,12 +112,12 @@
   },
 
   "Import FiAlignLeft (Feather)": {
-    "prefix": "ri:fi:import:align-left",
+    "prefix": "ri:import:fi:align-left",
     "body": "import { FiAlignLeft } from 'react-icons/fi';",
     "description": "Import FiAlignLeft Feather icon from react-icons"
   },
   "Import FiAlignLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:align-left:all-files",
+    "prefix": "ri:import:fi:align-left:all-files",
     "body": "import { FiAlignLeft } from '@react-icons/all-files/fi/FiAlignLeft';",
     "description": "Import FiAlignLeft Feather icon from @react-icons/all-files/fi/FiAlignLeft"
   },
@@ -128,12 +128,12 @@
   },
 
   "Import FiAlignRight (Feather)": {
-    "prefix": "ri:fi:import:align-right",
+    "prefix": "ri:import:fi:align-right",
     "body": "import { FiAlignRight } from 'react-icons/fi';",
     "description": "Import FiAlignRight Feather icon from react-icons"
   },
   "Import FiAlignRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:align-right:all-files",
+    "prefix": "ri:import:fi:align-right:all-files",
     "body": "import { FiAlignRight } from '@react-icons/all-files/fi/FiAlignRight';",
     "description": "Import FiAlignRight Feather icon from @react-icons/all-files/fi/FiAlignRight"
   },
@@ -144,12 +144,12 @@
   },
 
   "Import FiAnchor (Feather)": {
-    "prefix": "ri:fi:import:anchor",
+    "prefix": "ri:import:fi:anchor",
     "body": "import { FiAnchor } from 'react-icons/fi';",
     "description": "Import FiAnchor Feather icon from react-icons"
   },
   "Import FiAnchor (Feather) from all-files": {
-    "prefix": "ri:fi:import:anchor:all-files",
+    "prefix": "ri:import:fi:anchor:all-files",
     "body": "import { FiAnchor } from '@react-icons/all-files/fi/FiAnchor';",
     "description": "Import FiAnchor Feather icon from @react-icons/all-files/fi/FiAnchor"
   },
@@ -160,12 +160,12 @@
   },
 
   "Import FiAperture (Feather)": {
-    "prefix": "ri:fi:import:aperture",
+    "prefix": "ri:import:fi:aperture",
     "body": "import { FiAperture } from 'react-icons/fi';",
     "description": "Import FiAperture Feather icon from react-icons"
   },
   "Import FiAperture (Feather) from all-files": {
-    "prefix": "ri:fi:import:aperture:all-files",
+    "prefix": "ri:import:fi:aperture:all-files",
     "body": "import { FiAperture } from '@react-icons/all-files/fi/FiAperture';",
     "description": "Import FiAperture Feather icon from @react-icons/all-files/fi/FiAperture"
   },
@@ -176,12 +176,12 @@
   },
 
   "Import FiArchive (Feather)": {
-    "prefix": "ri:fi:import:archive",
+    "prefix": "ri:import:fi:archive",
     "body": "import { FiArchive } from 'react-icons/fi';",
     "description": "Import FiArchive Feather icon from react-icons"
   },
   "Import FiArchive (Feather) from all-files": {
-    "prefix": "ri:fi:import:archive:all-files",
+    "prefix": "ri:import:fi:archive:all-files",
     "body": "import { FiArchive } from '@react-icons/all-files/fi/FiArchive';",
     "description": "Import FiArchive Feather icon from @react-icons/all-files/fi/FiArchive"
   },
@@ -192,12 +192,12 @@
   },
 
   "Import FiArrowDownCircle (Feather)": {
-    "prefix": "ri:fi:import:arrow-down-circle",
+    "prefix": "ri:import:fi:arrow-down-circle",
     "body": "import { FiArrowDownCircle } from 'react-icons/fi';",
     "description": "Import FiArrowDownCircle Feather icon from react-icons"
   },
   "Import FiArrowDownCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-down-circle:all-files",
+    "prefix": "ri:import:fi:arrow-down-circle:all-files",
     "body": "import { FiArrowDownCircle } from '@react-icons/all-files/fi/FiArrowDownCircle';",
     "description": "Import FiArrowDownCircle Feather icon from @react-icons/all-files/fi/FiArrowDownCircle"
   },
@@ -208,12 +208,12 @@
   },
 
   "Import FiArrowDownLeft (Feather)": {
-    "prefix": "ri:fi:import:arrow-down-left",
+    "prefix": "ri:import:fi:arrow-down-left",
     "body": "import { FiArrowDownLeft } from 'react-icons/fi';",
     "description": "Import FiArrowDownLeft Feather icon from react-icons"
   },
   "Import FiArrowDownLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-down-left:all-files",
+    "prefix": "ri:import:fi:arrow-down-left:all-files",
     "body": "import { FiArrowDownLeft } from '@react-icons/all-files/fi/FiArrowDownLeft';",
     "description": "Import FiArrowDownLeft Feather icon from @react-icons/all-files/fi/FiArrowDownLeft"
   },
@@ -224,12 +224,12 @@
   },
 
   "Import FiArrowDownRight (Feather)": {
-    "prefix": "ri:fi:import:arrow-down-right",
+    "prefix": "ri:import:fi:arrow-down-right",
     "body": "import { FiArrowDownRight } from 'react-icons/fi';",
     "description": "Import FiArrowDownRight Feather icon from react-icons"
   },
   "Import FiArrowDownRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-down-right:all-files",
+    "prefix": "ri:import:fi:arrow-down-right:all-files",
     "body": "import { FiArrowDownRight } from '@react-icons/all-files/fi/FiArrowDownRight';",
     "description": "Import FiArrowDownRight Feather icon from @react-icons/all-files/fi/FiArrowDownRight"
   },
@@ -240,12 +240,12 @@
   },
 
   "Import FiArrowDown (Feather)": {
-    "prefix": "ri:fi:import:arrow-down",
+    "prefix": "ri:import:fi:arrow-down",
     "body": "import { FiArrowDown } from 'react-icons/fi';",
     "description": "Import FiArrowDown Feather icon from react-icons"
   },
   "Import FiArrowDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-down:all-files",
+    "prefix": "ri:import:fi:arrow-down:all-files",
     "body": "import { FiArrowDown } from '@react-icons/all-files/fi/FiArrowDown';",
     "description": "Import FiArrowDown Feather icon from @react-icons/all-files/fi/FiArrowDown"
   },
@@ -256,12 +256,12 @@
   },
 
   "Import FiArrowLeftCircle (Feather)": {
-    "prefix": "ri:fi:import:arrow-left-circle",
+    "prefix": "ri:import:fi:arrow-left-circle",
     "body": "import { FiArrowLeftCircle } from 'react-icons/fi';",
     "description": "Import FiArrowLeftCircle Feather icon from react-icons"
   },
   "Import FiArrowLeftCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-left-circle:all-files",
+    "prefix": "ri:import:fi:arrow-left-circle:all-files",
     "body": "import { FiArrowLeftCircle } from '@react-icons/all-files/fi/FiArrowLeftCircle';",
     "description": "Import FiArrowLeftCircle Feather icon from @react-icons/all-files/fi/FiArrowLeftCircle"
   },
@@ -272,12 +272,12 @@
   },
 
   "Import FiArrowLeft (Feather)": {
-    "prefix": "ri:fi:import:arrow-left",
+    "prefix": "ri:import:fi:arrow-left",
     "body": "import { FiArrowLeft } from 'react-icons/fi';",
     "description": "Import FiArrowLeft Feather icon from react-icons"
   },
   "Import FiArrowLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-left:all-files",
+    "prefix": "ri:import:fi:arrow-left:all-files",
     "body": "import { FiArrowLeft } from '@react-icons/all-files/fi/FiArrowLeft';",
     "description": "Import FiArrowLeft Feather icon from @react-icons/all-files/fi/FiArrowLeft"
   },
@@ -288,12 +288,12 @@
   },
 
   "Import FiArrowRightCircle (Feather)": {
-    "prefix": "ri:fi:import:arrow-right-circle",
+    "prefix": "ri:import:fi:arrow-right-circle",
     "body": "import { FiArrowRightCircle } from 'react-icons/fi';",
     "description": "Import FiArrowRightCircle Feather icon from react-icons"
   },
   "Import FiArrowRightCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-right-circle:all-files",
+    "prefix": "ri:import:fi:arrow-right-circle:all-files",
     "body": "import { FiArrowRightCircle } from '@react-icons/all-files/fi/FiArrowRightCircle';",
     "description": "Import FiArrowRightCircle Feather icon from @react-icons/all-files/fi/FiArrowRightCircle"
   },
@@ -304,12 +304,12 @@
   },
 
   "Import FiArrowRight (Feather)": {
-    "prefix": "ri:fi:import:arrow-right",
+    "prefix": "ri:import:fi:arrow-right",
     "body": "import { FiArrowRight } from 'react-icons/fi';",
     "description": "Import FiArrowRight Feather icon from react-icons"
   },
   "Import FiArrowRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-right:all-files",
+    "prefix": "ri:import:fi:arrow-right:all-files",
     "body": "import { FiArrowRight } from '@react-icons/all-files/fi/FiArrowRight';",
     "description": "Import FiArrowRight Feather icon from @react-icons/all-files/fi/FiArrowRight"
   },
@@ -320,12 +320,12 @@
   },
 
   "Import FiArrowUpCircle (Feather)": {
-    "prefix": "ri:fi:import:arrow-up-circle",
+    "prefix": "ri:import:fi:arrow-up-circle",
     "body": "import { FiArrowUpCircle } from 'react-icons/fi';",
     "description": "Import FiArrowUpCircle Feather icon from react-icons"
   },
   "Import FiArrowUpCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-up-circle:all-files",
+    "prefix": "ri:import:fi:arrow-up-circle:all-files",
     "body": "import { FiArrowUpCircle } from '@react-icons/all-files/fi/FiArrowUpCircle';",
     "description": "Import FiArrowUpCircle Feather icon from @react-icons/all-files/fi/FiArrowUpCircle"
   },
@@ -336,12 +336,12 @@
   },
 
   "Import FiArrowUpLeft (Feather)": {
-    "prefix": "ri:fi:import:arrow-up-left",
+    "prefix": "ri:import:fi:arrow-up-left",
     "body": "import { FiArrowUpLeft } from 'react-icons/fi';",
     "description": "Import FiArrowUpLeft Feather icon from react-icons"
   },
   "Import FiArrowUpLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-up-left:all-files",
+    "prefix": "ri:import:fi:arrow-up-left:all-files",
     "body": "import { FiArrowUpLeft } from '@react-icons/all-files/fi/FiArrowUpLeft';",
     "description": "Import FiArrowUpLeft Feather icon from @react-icons/all-files/fi/FiArrowUpLeft"
   },
@@ -352,12 +352,12 @@
   },
 
   "Import FiArrowUpRight (Feather)": {
-    "prefix": "ri:fi:import:arrow-up-right",
+    "prefix": "ri:import:fi:arrow-up-right",
     "body": "import { FiArrowUpRight } from 'react-icons/fi';",
     "description": "Import FiArrowUpRight Feather icon from react-icons"
   },
   "Import FiArrowUpRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-up-right:all-files",
+    "prefix": "ri:import:fi:arrow-up-right:all-files",
     "body": "import { FiArrowUpRight } from '@react-icons/all-files/fi/FiArrowUpRight';",
     "description": "Import FiArrowUpRight Feather icon from @react-icons/all-files/fi/FiArrowUpRight"
   },
@@ -368,12 +368,12 @@
   },
 
   "Import FiArrowUp (Feather)": {
-    "prefix": "ri:fi:import:arrow-up",
+    "prefix": "ri:import:fi:arrow-up",
     "body": "import { FiArrowUp } from 'react-icons/fi';",
     "description": "Import FiArrowUp Feather icon from react-icons"
   },
   "Import FiArrowUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:arrow-up:all-files",
+    "prefix": "ri:import:fi:arrow-up:all-files",
     "body": "import { FiArrowUp } from '@react-icons/all-files/fi/FiArrowUp';",
     "description": "Import FiArrowUp Feather icon from @react-icons/all-files/fi/FiArrowUp"
   },
@@ -384,12 +384,12 @@
   },
 
   "Import FiAtSign (Feather)": {
-    "prefix": "ri:fi:import:at-sign",
+    "prefix": "ri:import:fi:at-sign",
     "body": "import { FiAtSign } from 'react-icons/fi';",
     "description": "Import FiAtSign Feather icon from react-icons"
   },
   "Import FiAtSign (Feather) from all-files": {
-    "prefix": "ri:fi:import:at-sign:all-files",
+    "prefix": "ri:import:fi:at-sign:all-files",
     "body": "import { FiAtSign } from '@react-icons/all-files/fi/FiAtSign';",
     "description": "Import FiAtSign Feather icon from @react-icons/all-files/fi/FiAtSign"
   },
@@ -400,12 +400,12 @@
   },
 
   "Import FiAward (Feather)": {
-    "prefix": "ri:fi:import:award",
+    "prefix": "ri:import:fi:award",
     "body": "import { FiAward } from 'react-icons/fi';",
     "description": "Import FiAward Feather icon from react-icons"
   },
   "Import FiAward (Feather) from all-files": {
-    "prefix": "ri:fi:import:award:all-files",
+    "prefix": "ri:import:fi:award:all-files",
     "body": "import { FiAward } from '@react-icons/all-files/fi/FiAward';",
     "description": "Import FiAward Feather icon from @react-icons/all-files/fi/FiAward"
   },
@@ -416,12 +416,12 @@
   },
 
   "Import FiBarChart2 (Feather)": {
-    "prefix": "ri:fi:import:bar-chart-2",
+    "prefix": "ri:import:fi:bar-chart-2",
     "body": "import { FiBarChart2 } from 'react-icons/fi';",
     "description": "Import FiBarChart2 Feather icon from react-icons"
   },
   "Import FiBarChart2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:bar-chart-2:all-files",
+    "prefix": "ri:import:fi:bar-chart-2:all-files",
     "body": "import { FiBarChart2 } from '@react-icons/all-files/fi/FiBarChart2';",
     "description": "Import FiBarChart2 Feather icon from @react-icons/all-files/fi/FiBarChart2"
   },
@@ -432,12 +432,12 @@
   },
 
   "Import FiBarChart (Feather)": {
-    "prefix": "ri:fi:import:bar-chart",
+    "prefix": "ri:import:fi:bar-chart",
     "body": "import { FiBarChart } from 'react-icons/fi';",
     "description": "Import FiBarChart Feather icon from react-icons"
   },
   "Import FiBarChart (Feather) from all-files": {
-    "prefix": "ri:fi:import:bar-chart:all-files",
+    "prefix": "ri:import:fi:bar-chart:all-files",
     "body": "import { FiBarChart } from '@react-icons/all-files/fi/FiBarChart';",
     "description": "Import FiBarChart Feather icon from @react-icons/all-files/fi/FiBarChart"
   },
@@ -448,12 +448,12 @@
   },
 
   "Import FiBatteryCharging (Feather)": {
-    "prefix": "ri:fi:import:battery-charging",
+    "prefix": "ri:import:fi:battery-charging",
     "body": "import { FiBatteryCharging } from 'react-icons/fi';",
     "description": "Import FiBatteryCharging Feather icon from react-icons"
   },
   "Import FiBatteryCharging (Feather) from all-files": {
-    "prefix": "ri:fi:import:battery-charging:all-files",
+    "prefix": "ri:import:fi:battery-charging:all-files",
     "body": "import { FiBatteryCharging } from '@react-icons/all-files/fi/FiBatteryCharging';",
     "description": "Import FiBatteryCharging Feather icon from @react-icons/all-files/fi/FiBatteryCharging"
   },
@@ -464,12 +464,12 @@
   },
 
   "Import FiBattery (Feather)": {
-    "prefix": "ri:fi:import:battery",
+    "prefix": "ri:import:fi:battery",
     "body": "import { FiBattery } from 'react-icons/fi';",
     "description": "Import FiBattery Feather icon from react-icons"
   },
   "Import FiBattery (Feather) from all-files": {
-    "prefix": "ri:fi:import:battery:all-files",
+    "prefix": "ri:import:fi:battery:all-files",
     "body": "import { FiBattery } from '@react-icons/all-files/fi/FiBattery';",
     "description": "Import FiBattery Feather icon from @react-icons/all-files/fi/FiBattery"
   },
@@ -480,12 +480,12 @@
   },
 
   "Import FiBellOff (Feather)": {
-    "prefix": "ri:fi:import:bell-off",
+    "prefix": "ri:import:fi:bell-off",
     "body": "import { FiBellOff } from 'react-icons/fi';",
     "description": "Import FiBellOff Feather icon from react-icons"
   },
   "Import FiBellOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:bell-off:all-files",
+    "prefix": "ri:import:fi:bell-off:all-files",
     "body": "import { FiBellOff } from '@react-icons/all-files/fi/FiBellOff';",
     "description": "Import FiBellOff Feather icon from @react-icons/all-files/fi/FiBellOff"
   },
@@ -496,12 +496,12 @@
   },
 
   "Import FiBell (Feather)": {
-    "prefix": "ri:fi:import:bell",
+    "prefix": "ri:import:fi:bell",
     "body": "import { FiBell } from 'react-icons/fi';",
     "description": "Import FiBell Feather icon from react-icons"
   },
   "Import FiBell (Feather) from all-files": {
-    "prefix": "ri:fi:import:bell:all-files",
+    "prefix": "ri:import:fi:bell:all-files",
     "body": "import { FiBell } from '@react-icons/all-files/fi/FiBell';",
     "description": "Import FiBell Feather icon from @react-icons/all-files/fi/FiBell"
   },
@@ -512,12 +512,12 @@
   },
 
   "Import FiBluetooth (Feather)": {
-    "prefix": "ri:fi:import:bluetooth",
+    "prefix": "ri:import:fi:bluetooth",
     "body": "import { FiBluetooth } from 'react-icons/fi';",
     "description": "Import FiBluetooth Feather icon from react-icons"
   },
   "Import FiBluetooth (Feather) from all-files": {
-    "prefix": "ri:fi:import:bluetooth:all-files",
+    "prefix": "ri:import:fi:bluetooth:all-files",
     "body": "import { FiBluetooth } from '@react-icons/all-files/fi/FiBluetooth';",
     "description": "Import FiBluetooth Feather icon from @react-icons/all-files/fi/FiBluetooth"
   },
@@ -528,12 +528,12 @@
   },
 
   "Import FiBold (Feather)": {
-    "prefix": "ri:fi:import:bold",
+    "prefix": "ri:import:fi:bold",
     "body": "import { FiBold } from 'react-icons/fi';",
     "description": "Import FiBold Feather icon from react-icons"
   },
   "Import FiBold (Feather) from all-files": {
-    "prefix": "ri:fi:import:bold:all-files",
+    "prefix": "ri:import:fi:bold:all-files",
     "body": "import { FiBold } from '@react-icons/all-files/fi/FiBold';",
     "description": "Import FiBold Feather icon from @react-icons/all-files/fi/FiBold"
   },
@@ -544,12 +544,12 @@
   },
 
   "Import FiBookOpen (Feather)": {
-    "prefix": "ri:fi:import:book-open",
+    "prefix": "ri:import:fi:book-open",
     "body": "import { FiBookOpen } from 'react-icons/fi';",
     "description": "Import FiBookOpen Feather icon from react-icons"
   },
   "Import FiBookOpen (Feather) from all-files": {
-    "prefix": "ri:fi:import:book-open:all-files",
+    "prefix": "ri:import:fi:book-open:all-files",
     "body": "import { FiBookOpen } from '@react-icons/all-files/fi/FiBookOpen';",
     "description": "Import FiBookOpen Feather icon from @react-icons/all-files/fi/FiBookOpen"
   },
@@ -560,12 +560,12 @@
   },
 
   "Import FiBook (Feather)": {
-    "prefix": "ri:fi:import:book",
+    "prefix": "ri:import:fi:book",
     "body": "import { FiBook } from 'react-icons/fi';",
     "description": "Import FiBook Feather icon from react-icons"
   },
   "Import FiBook (Feather) from all-files": {
-    "prefix": "ri:fi:import:book:all-files",
+    "prefix": "ri:import:fi:book:all-files",
     "body": "import { FiBook } from '@react-icons/all-files/fi/FiBook';",
     "description": "Import FiBook Feather icon from @react-icons/all-files/fi/FiBook"
   },
@@ -576,12 +576,12 @@
   },
 
   "Import FiBookmark (Feather)": {
-    "prefix": "ri:fi:import:bookmark",
+    "prefix": "ri:import:fi:bookmark",
     "body": "import { FiBookmark } from 'react-icons/fi';",
     "description": "Import FiBookmark Feather icon from react-icons"
   },
   "Import FiBookmark (Feather) from all-files": {
-    "prefix": "ri:fi:import:bookmark:all-files",
+    "prefix": "ri:import:fi:bookmark:all-files",
     "body": "import { FiBookmark } from '@react-icons/all-files/fi/FiBookmark';",
     "description": "Import FiBookmark Feather icon from @react-icons/all-files/fi/FiBookmark"
   },
@@ -592,12 +592,12 @@
   },
 
   "Import FiBox (Feather)": {
-    "prefix": "ri:fi:import:box",
+    "prefix": "ri:import:fi:box",
     "body": "import { FiBox } from 'react-icons/fi';",
     "description": "Import FiBox Feather icon from react-icons"
   },
   "Import FiBox (Feather) from all-files": {
-    "prefix": "ri:fi:import:box:all-files",
+    "prefix": "ri:import:fi:box:all-files",
     "body": "import { FiBox } from '@react-icons/all-files/fi/FiBox';",
     "description": "Import FiBox Feather icon from @react-icons/all-files/fi/FiBox"
   },
@@ -608,12 +608,12 @@
   },
 
   "Import FiBriefcase (Feather)": {
-    "prefix": "ri:fi:import:briefcase",
+    "prefix": "ri:import:fi:briefcase",
     "body": "import { FiBriefcase } from 'react-icons/fi';",
     "description": "Import FiBriefcase Feather icon from react-icons"
   },
   "Import FiBriefcase (Feather) from all-files": {
-    "prefix": "ri:fi:import:briefcase:all-files",
+    "prefix": "ri:import:fi:briefcase:all-files",
     "body": "import { FiBriefcase } from '@react-icons/all-files/fi/FiBriefcase';",
     "description": "Import FiBriefcase Feather icon from @react-icons/all-files/fi/FiBriefcase"
   },
@@ -624,12 +624,12 @@
   },
 
   "Import FiCalendar (Feather)": {
-    "prefix": "ri:fi:import:calendar",
+    "prefix": "ri:import:fi:calendar",
     "body": "import { FiCalendar } from 'react-icons/fi';",
     "description": "Import FiCalendar Feather icon from react-icons"
   },
   "Import FiCalendar (Feather) from all-files": {
-    "prefix": "ri:fi:import:calendar:all-files",
+    "prefix": "ri:import:fi:calendar:all-files",
     "body": "import { FiCalendar } from '@react-icons/all-files/fi/FiCalendar';",
     "description": "Import FiCalendar Feather icon from @react-icons/all-files/fi/FiCalendar"
   },
@@ -640,12 +640,12 @@
   },
 
   "Import FiCameraOff (Feather)": {
-    "prefix": "ri:fi:import:camera-off",
+    "prefix": "ri:import:fi:camera-off",
     "body": "import { FiCameraOff } from 'react-icons/fi';",
     "description": "Import FiCameraOff Feather icon from react-icons"
   },
   "Import FiCameraOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:camera-off:all-files",
+    "prefix": "ri:import:fi:camera-off:all-files",
     "body": "import { FiCameraOff } from '@react-icons/all-files/fi/FiCameraOff';",
     "description": "Import FiCameraOff Feather icon from @react-icons/all-files/fi/FiCameraOff"
   },
@@ -656,12 +656,12 @@
   },
 
   "Import FiCamera (Feather)": {
-    "prefix": "ri:fi:import:camera",
+    "prefix": "ri:import:fi:camera",
     "body": "import { FiCamera } from 'react-icons/fi';",
     "description": "Import FiCamera Feather icon from react-icons"
   },
   "Import FiCamera (Feather) from all-files": {
-    "prefix": "ri:fi:import:camera:all-files",
+    "prefix": "ri:import:fi:camera:all-files",
     "body": "import { FiCamera } from '@react-icons/all-files/fi/FiCamera';",
     "description": "Import FiCamera Feather icon from @react-icons/all-files/fi/FiCamera"
   },
@@ -672,12 +672,12 @@
   },
 
   "Import FiCast (Feather)": {
-    "prefix": "ri:fi:import:cast",
+    "prefix": "ri:import:fi:cast",
     "body": "import { FiCast } from 'react-icons/fi';",
     "description": "Import FiCast Feather icon from react-icons"
   },
   "Import FiCast (Feather) from all-files": {
-    "prefix": "ri:fi:import:cast:all-files",
+    "prefix": "ri:import:fi:cast:all-files",
     "body": "import { FiCast } from '@react-icons/all-files/fi/FiCast';",
     "description": "Import FiCast Feather icon from @react-icons/all-files/fi/FiCast"
   },
@@ -688,12 +688,12 @@
   },
 
   "Import FiCheckCircle (Feather)": {
-    "prefix": "ri:fi:import:check-circle",
+    "prefix": "ri:import:fi:check-circle",
     "body": "import { FiCheckCircle } from 'react-icons/fi';",
     "description": "Import FiCheckCircle Feather icon from react-icons"
   },
   "Import FiCheckCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:check-circle:all-files",
+    "prefix": "ri:import:fi:check-circle:all-files",
     "body": "import { FiCheckCircle } from '@react-icons/all-files/fi/FiCheckCircle';",
     "description": "Import FiCheckCircle Feather icon from @react-icons/all-files/fi/FiCheckCircle"
   },
@@ -704,12 +704,12 @@
   },
 
   "Import FiCheckSquare (Feather)": {
-    "prefix": "ri:fi:import:check-square",
+    "prefix": "ri:import:fi:check-square",
     "body": "import { FiCheckSquare } from 'react-icons/fi';",
     "description": "Import FiCheckSquare Feather icon from react-icons"
   },
   "Import FiCheckSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:check-square:all-files",
+    "prefix": "ri:import:fi:check-square:all-files",
     "body": "import { FiCheckSquare } from '@react-icons/all-files/fi/FiCheckSquare';",
     "description": "Import FiCheckSquare Feather icon from @react-icons/all-files/fi/FiCheckSquare"
   },
@@ -720,12 +720,12 @@
   },
 
   "Import FiCheck (Feather)": {
-    "prefix": "ri:fi:import:check",
+    "prefix": "ri:import:fi:check",
     "body": "import { FiCheck } from 'react-icons/fi';",
     "description": "Import FiCheck Feather icon from react-icons"
   },
   "Import FiCheck (Feather) from all-files": {
-    "prefix": "ri:fi:import:check:all-files",
+    "prefix": "ri:import:fi:check:all-files",
     "body": "import { FiCheck } from '@react-icons/all-files/fi/FiCheck';",
     "description": "Import FiCheck Feather icon from @react-icons/all-files/fi/FiCheck"
   },
@@ -736,12 +736,12 @@
   },
 
   "Import FiChevronDown (Feather)": {
-    "prefix": "ri:fi:import:chevron-down",
+    "prefix": "ri:import:fi:chevron-down",
     "body": "import { FiChevronDown } from 'react-icons/fi';",
     "description": "Import FiChevronDown Feather icon from react-icons"
   },
   "Import FiChevronDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevron-down:all-files",
+    "prefix": "ri:import:fi:chevron-down:all-files",
     "body": "import { FiChevronDown } from '@react-icons/all-files/fi/FiChevronDown';",
     "description": "Import FiChevronDown Feather icon from @react-icons/all-files/fi/FiChevronDown"
   },
@@ -752,12 +752,12 @@
   },
 
   "Import FiChevronLeft (Feather)": {
-    "prefix": "ri:fi:import:chevron-left",
+    "prefix": "ri:import:fi:chevron-left",
     "body": "import { FiChevronLeft } from 'react-icons/fi';",
     "description": "Import FiChevronLeft Feather icon from react-icons"
   },
   "Import FiChevronLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevron-left:all-files",
+    "prefix": "ri:import:fi:chevron-left:all-files",
     "body": "import { FiChevronLeft } from '@react-icons/all-files/fi/FiChevronLeft';",
     "description": "Import FiChevronLeft Feather icon from @react-icons/all-files/fi/FiChevronLeft"
   },
@@ -768,12 +768,12 @@
   },
 
   "Import FiChevronRight (Feather)": {
-    "prefix": "ri:fi:import:chevron-right",
+    "prefix": "ri:import:fi:chevron-right",
     "body": "import { FiChevronRight } from 'react-icons/fi';",
     "description": "Import FiChevronRight Feather icon from react-icons"
   },
   "Import FiChevronRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevron-right:all-files",
+    "prefix": "ri:import:fi:chevron-right:all-files",
     "body": "import { FiChevronRight } from '@react-icons/all-files/fi/FiChevronRight';",
     "description": "Import FiChevronRight Feather icon from @react-icons/all-files/fi/FiChevronRight"
   },
@@ -784,12 +784,12 @@
   },
 
   "Import FiChevronUp (Feather)": {
-    "prefix": "ri:fi:import:chevron-up",
+    "prefix": "ri:import:fi:chevron-up",
     "body": "import { FiChevronUp } from 'react-icons/fi';",
     "description": "Import FiChevronUp Feather icon from react-icons"
   },
   "Import FiChevronUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevron-up:all-files",
+    "prefix": "ri:import:fi:chevron-up:all-files",
     "body": "import { FiChevronUp } from '@react-icons/all-files/fi/FiChevronUp';",
     "description": "Import FiChevronUp Feather icon from @react-icons/all-files/fi/FiChevronUp"
   },
@@ -800,12 +800,12 @@
   },
 
   "Import FiChevronsDown (Feather)": {
-    "prefix": "ri:fi:import:chevrons-down",
+    "prefix": "ri:import:fi:chevrons-down",
     "body": "import { FiChevronsDown } from 'react-icons/fi';",
     "description": "Import FiChevronsDown Feather icon from react-icons"
   },
   "Import FiChevronsDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevrons-down:all-files",
+    "prefix": "ri:import:fi:chevrons-down:all-files",
     "body": "import { FiChevronsDown } from '@react-icons/all-files/fi/FiChevronsDown';",
     "description": "Import FiChevronsDown Feather icon from @react-icons/all-files/fi/FiChevronsDown"
   },
@@ -816,12 +816,12 @@
   },
 
   "Import FiChevronsLeft (Feather)": {
-    "prefix": "ri:fi:import:chevrons-left",
+    "prefix": "ri:import:fi:chevrons-left",
     "body": "import { FiChevronsLeft } from 'react-icons/fi';",
     "description": "Import FiChevronsLeft Feather icon from react-icons"
   },
   "Import FiChevronsLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevrons-left:all-files",
+    "prefix": "ri:import:fi:chevrons-left:all-files",
     "body": "import { FiChevronsLeft } from '@react-icons/all-files/fi/FiChevronsLeft';",
     "description": "Import FiChevronsLeft Feather icon from @react-icons/all-files/fi/FiChevronsLeft"
   },
@@ -832,12 +832,12 @@
   },
 
   "Import FiChevronsRight (Feather)": {
-    "prefix": "ri:fi:import:chevrons-right",
+    "prefix": "ri:import:fi:chevrons-right",
     "body": "import { FiChevronsRight } from 'react-icons/fi';",
     "description": "Import FiChevronsRight Feather icon from react-icons"
   },
   "Import FiChevronsRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevrons-right:all-files",
+    "prefix": "ri:import:fi:chevrons-right:all-files",
     "body": "import { FiChevronsRight } from '@react-icons/all-files/fi/FiChevronsRight';",
     "description": "Import FiChevronsRight Feather icon from @react-icons/all-files/fi/FiChevronsRight"
   },
@@ -848,12 +848,12 @@
   },
 
   "Import FiChevronsUp (Feather)": {
-    "prefix": "ri:fi:import:chevrons-up",
+    "prefix": "ri:import:fi:chevrons-up",
     "body": "import { FiChevronsUp } from 'react-icons/fi';",
     "description": "Import FiChevronsUp Feather icon from react-icons"
   },
   "Import FiChevronsUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:chevrons-up:all-files",
+    "prefix": "ri:import:fi:chevrons-up:all-files",
     "body": "import { FiChevronsUp } from '@react-icons/all-files/fi/FiChevronsUp';",
     "description": "Import FiChevronsUp Feather icon from @react-icons/all-files/fi/FiChevronsUp"
   },
@@ -864,12 +864,12 @@
   },
 
   "Import FiChrome (Feather)": {
-    "prefix": "ri:fi:import:chrome",
+    "prefix": "ri:import:fi:chrome",
     "body": "import { FiChrome } from 'react-icons/fi';",
     "description": "Import FiChrome Feather icon from react-icons"
   },
   "Import FiChrome (Feather) from all-files": {
-    "prefix": "ri:fi:import:chrome:all-files",
+    "prefix": "ri:import:fi:chrome:all-files",
     "body": "import { FiChrome } from '@react-icons/all-files/fi/FiChrome';",
     "description": "Import FiChrome Feather icon from @react-icons/all-files/fi/FiChrome"
   },
@@ -880,12 +880,12 @@
   },
 
   "Import FiCircle (Feather)": {
-    "prefix": "ri:fi:import:circle",
+    "prefix": "ri:import:fi:circle",
     "body": "import { FiCircle } from 'react-icons/fi';",
     "description": "Import FiCircle Feather icon from react-icons"
   },
   "Import FiCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:circle:all-files",
+    "prefix": "ri:import:fi:circle:all-files",
     "body": "import { FiCircle } from '@react-icons/all-files/fi/FiCircle';",
     "description": "Import FiCircle Feather icon from @react-icons/all-files/fi/FiCircle"
   },
@@ -896,12 +896,12 @@
   },
 
   "Import FiClipboard (Feather)": {
-    "prefix": "ri:fi:import:clipboard",
+    "prefix": "ri:import:fi:clipboard",
     "body": "import { FiClipboard } from 'react-icons/fi';",
     "description": "Import FiClipboard Feather icon from react-icons"
   },
   "Import FiClipboard (Feather) from all-files": {
-    "prefix": "ri:fi:import:clipboard:all-files",
+    "prefix": "ri:import:fi:clipboard:all-files",
     "body": "import { FiClipboard } from '@react-icons/all-files/fi/FiClipboard';",
     "description": "Import FiClipboard Feather icon from @react-icons/all-files/fi/FiClipboard"
   },
@@ -912,12 +912,12 @@
   },
 
   "Import FiClock (Feather)": {
-    "prefix": "ri:fi:import:clock",
+    "prefix": "ri:import:fi:clock",
     "body": "import { FiClock } from 'react-icons/fi';",
     "description": "Import FiClock Feather icon from react-icons"
   },
   "Import FiClock (Feather) from all-files": {
-    "prefix": "ri:fi:import:clock:all-files",
+    "prefix": "ri:import:fi:clock:all-files",
     "body": "import { FiClock } from '@react-icons/all-files/fi/FiClock';",
     "description": "Import FiClock Feather icon from @react-icons/all-files/fi/FiClock"
   },
@@ -928,12 +928,12 @@
   },
 
   "Import FiCloudDrizzle (Feather)": {
-    "prefix": "ri:fi:import:cloud-drizzle",
+    "prefix": "ri:import:fi:cloud-drizzle",
     "body": "import { FiCloudDrizzle } from 'react-icons/fi';",
     "description": "Import FiCloudDrizzle Feather icon from react-icons"
   },
   "Import FiCloudDrizzle (Feather) from all-files": {
-    "prefix": "ri:fi:import:cloud-drizzle:all-files",
+    "prefix": "ri:import:fi:cloud-drizzle:all-files",
     "body": "import { FiCloudDrizzle } from '@react-icons/all-files/fi/FiCloudDrizzle';",
     "description": "Import FiCloudDrizzle Feather icon from @react-icons/all-files/fi/FiCloudDrizzle"
   },
@@ -944,12 +944,12 @@
   },
 
   "Import FiCloudLightning (Feather)": {
-    "prefix": "ri:fi:import:cloud-lightning",
+    "prefix": "ri:import:fi:cloud-lightning",
     "body": "import { FiCloudLightning } from 'react-icons/fi';",
     "description": "Import FiCloudLightning Feather icon from react-icons"
   },
   "Import FiCloudLightning (Feather) from all-files": {
-    "prefix": "ri:fi:import:cloud-lightning:all-files",
+    "prefix": "ri:import:fi:cloud-lightning:all-files",
     "body": "import { FiCloudLightning } from '@react-icons/all-files/fi/FiCloudLightning';",
     "description": "Import FiCloudLightning Feather icon from @react-icons/all-files/fi/FiCloudLightning"
   },
@@ -960,12 +960,12 @@
   },
 
   "Import FiCloudOff (Feather)": {
-    "prefix": "ri:fi:import:cloud-off",
+    "prefix": "ri:import:fi:cloud-off",
     "body": "import { FiCloudOff } from 'react-icons/fi';",
     "description": "Import FiCloudOff Feather icon from react-icons"
   },
   "Import FiCloudOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:cloud-off:all-files",
+    "prefix": "ri:import:fi:cloud-off:all-files",
     "body": "import { FiCloudOff } from '@react-icons/all-files/fi/FiCloudOff';",
     "description": "Import FiCloudOff Feather icon from @react-icons/all-files/fi/FiCloudOff"
   },
@@ -976,12 +976,12 @@
   },
 
   "Import FiCloudRain (Feather)": {
-    "prefix": "ri:fi:import:cloud-rain",
+    "prefix": "ri:import:fi:cloud-rain",
     "body": "import { FiCloudRain } from 'react-icons/fi';",
     "description": "Import FiCloudRain Feather icon from react-icons"
   },
   "Import FiCloudRain (Feather) from all-files": {
-    "prefix": "ri:fi:import:cloud-rain:all-files",
+    "prefix": "ri:import:fi:cloud-rain:all-files",
     "body": "import { FiCloudRain } from '@react-icons/all-files/fi/FiCloudRain';",
     "description": "Import FiCloudRain Feather icon from @react-icons/all-files/fi/FiCloudRain"
   },
@@ -992,12 +992,12 @@
   },
 
   "Import FiCloudSnow (Feather)": {
-    "prefix": "ri:fi:import:cloud-snow",
+    "prefix": "ri:import:fi:cloud-snow",
     "body": "import { FiCloudSnow } from 'react-icons/fi';",
     "description": "Import FiCloudSnow Feather icon from react-icons"
   },
   "Import FiCloudSnow (Feather) from all-files": {
-    "prefix": "ri:fi:import:cloud-snow:all-files",
+    "prefix": "ri:import:fi:cloud-snow:all-files",
     "body": "import { FiCloudSnow } from '@react-icons/all-files/fi/FiCloudSnow';",
     "description": "Import FiCloudSnow Feather icon from @react-icons/all-files/fi/FiCloudSnow"
   },
@@ -1008,12 +1008,12 @@
   },
 
   "Import FiCloud (Feather)": {
-    "prefix": "ri:fi:import:cloud",
+    "prefix": "ri:import:fi:cloud",
     "body": "import { FiCloud } from 'react-icons/fi';",
     "description": "Import FiCloud Feather icon from react-icons"
   },
   "Import FiCloud (Feather) from all-files": {
-    "prefix": "ri:fi:import:cloud:all-files",
+    "prefix": "ri:import:fi:cloud:all-files",
     "body": "import { FiCloud } from '@react-icons/all-files/fi/FiCloud';",
     "description": "Import FiCloud Feather icon from @react-icons/all-files/fi/FiCloud"
   },
@@ -1024,12 +1024,12 @@
   },
 
   "Import FiCode (Feather)": {
-    "prefix": "ri:fi:import:code",
+    "prefix": "ri:import:fi:code",
     "body": "import { FiCode } from 'react-icons/fi';",
     "description": "Import FiCode Feather icon from react-icons"
   },
   "Import FiCode (Feather) from all-files": {
-    "prefix": "ri:fi:import:code:all-files",
+    "prefix": "ri:import:fi:code:all-files",
     "body": "import { FiCode } from '@react-icons/all-files/fi/FiCode';",
     "description": "Import FiCode Feather icon from @react-icons/all-files/fi/FiCode"
   },
@@ -1040,12 +1040,12 @@
   },
 
   "Import FiCodepen (Feather)": {
-    "prefix": "ri:fi:import:codepen",
+    "prefix": "ri:import:fi:codepen",
     "body": "import { FiCodepen } from 'react-icons/fi';",
     "description": "Import FiCodepen Feather icon from react-icons"
   },
   "Import FiCodepen (Feather) from all-files": {
-    "prefix": "ri:fi:import:codepen:all-files",
+    "prefix": "ri:import:fi:codepen:all-files",
     "body": "import { FiCodepen } from '@react-icons/all-files/fi/FiCodepen';",
     "description": "Import FiCodepen Feather icon from @react-icons/all-files/fi/FiCodepen"
   },
@@ -1056,12 +1056,12 @@
   },
 
   "Import FiCodesandbox (Feather)": {
-    "prefix": "ri:fi:import:codesandbox",
+    "prefix": "ri:import:fi:codesandbox",
     "body": "import { FiCodesandbox } from 'react-icons/fi';",
     "description": "Import FiCodesandbox Feather icon from react-icons"
   },
   "Import FiCodesandbox (Feather) from all-files": {
-    "prefix": "ri:fi:import:codesandbox:all-files",
+    "prefix": "ri:import:fi:codesandbox:all-files",
     "body": "import { FiCodesandbox } from '@react-icons/all-files/fi/FiCodesandbox';",
     "description": "Import FiCodesandbox Feather icon from @react-icons/all-files/fi/FiCodesandbox"
   },
@@ -1072,12 +1072,12 @@
   },
 
   "Import FiCoffee (Feather)": {
-    "prefix": "ri:fi:import:coffee",
+    "prefix": "ri:import:fi:coffee",
     "body": "import { FiCoffee } from 'react-icons/fi';",
     "description": "Import FiCoffee Feather icon from react-icons"
   },
   "Import FiCoffee (Feather) from all-files": {
-    "prefix": "ri:fi:import:coffee:all-files",
+    "prefix": "ri:import:fi:coffee:all-files",
     "body": "import { FiCoffee } from '@react-icons/all-files/fi/FiCoffee';",
     "description": "Import FiCoffee Feather icon from @react-icons/all-files/fi/FiCoffee"
   },
@@ -1088,12 +1088,12 @@
   },
 
   "Import FiColumns (Feather)": {
-    "prefix": "ri:fi:import:columns",
+    "prefix": "ri:import:fi:columns",
     "body": "import { FiColumns } from 'react-icons/fi';",
     "description": "Import FiColumns Feather icon from react-icons"
   },
   "Import FiColumns (Feather) from all-files": {
-    "prefix": "ri:fi:import:columns:all-files",
+    "prefix": "ri:import:fi:columns:all-files",
     "body": "import { FiColumns } from '@react-icons/all-files/fi/FiColumns';",
     "description": "Import FiColumns Feather icon from @react-icons/all-files/fi/FiColumns"
   },
@@ -1104,12 +1104,12 @@
   },
 
   "Import FiCommand (Feather)": {
-    "prefix": "ri:fi:import:command",
+    "prefix": "ri:import:fi:command",
     "body": "import { FiCommand } from 'react-icons/fi';",
     "description": "Import FiCommand Feather icon from react-icons"
   },
   "Import FiCommand (Feather) from all-files": {
-    "prefix": "ri:fi:import:command:all-files",
+    "prefix": "ri:import:fi:command:all-files",
     "body": "import { FiCommand } from '@react-icons/all-files/fi/FiCommand';",
     "description": "Import FiCommand Feather icon from @react-icons/all-files/fi/FiCommand"
   },
@@ -1120,12 +1120,12 @@
   },
 
   "Import FiCompass (Feather)": {
-    "prefix": "ri:fi:import:compass",
+    "prefix": "ri:import:fi:compass",
     "body": "import { FiCompass } from 'react-icons/fi';",
     "description": "Import FiCompass Feather icon from react-icons"
   },
   "Import FiCompass (Feather) from all-files": {
-    "prefix": "ri:fi:import:compass:all-files",
+    "prefix": "ri:import:fi:compass:all-files",
     "body": "import { FiCompass } from '@react-icons/all-files/fi/FiCompass';",
     "description": "Import FiCompass Feather icon from @react-icons/all-files/fi/FiCompass"
   },
@@ -1136,12 +1136,12 @@
   },
 
   "Import FiCopy (Feather)": {
-    "prefix": "ri:fi:import:copy",
+    "prefix": "ri:import:fi:copy",
     "body": "import { FiCopy } from 'react-icons/fi';",
     "description": "Import FiCopy Feather icon from react-icons"
   },
   "Import FiCopy (Feather) from all-files": {
-    "prefix": "ri:fi:import:copy:all-files",
+    "prefix": "ri:import:fi:copy:all-files",
     "body": "import { FiCopy } from '@react-icons/all-files/fi/FiCopy';",
     "description": "Import FiCopy Feather icon from @react-icons/all-files/fi/FiCopy"
   },
@@ -1152,12 +1152,12 @@
   },
 
   "Import FiCornerDownLeft (Feather)": {
-    "prefix": "ri:fi:import:corner-down-left",
+    "prefix": "ri:import:fi:corner-down-left",
     "body": "import { FiCornerDownLeft } from 'react-icons/fi';",
     "description": "Import FiCornerDownLeft Feather icon from react-icons"
   },
   "Import FiCornerDownLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-down-left:all-files",
+    "prefix": "ri:import:fi:corner-down-left:all-files",
     "body": "import { FiCornerDownLeft } from '@react-icons/all-files/fi/FiCornerDownLeft';",
     "description": "Import FiCornerDownLeft Feather icon from @react-icons/all-files/fi/FiCornerDownLeft"
   },
@@ -1168,12 +1168,12 @@
   },
 
   "Import FiCornerDownRight (Feather)": {
-    "prefix": "ri:fi:import:corner-down-right",
+    "prefix": "ri:import:fi:corner-down-right",
     "body": "import { FiCornerDownRight } from 'react-icons/fi';",
     "description": "Import FiCornerDownRight Feather icon from react-icons"
   },
   "Import FiCornerDownRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-down-right:all-files",
+    "prefix": "ri:import:fi:corner-down-right:all-files",
     "body": "import { FiCornerDownRight } from '@react-icons/all-files/fi/FiCornerDownRight';",
     "description": "Import FiCornerDownRight Feather icon from @react-icons/all-files/fi/FiCornerDownRight"
   },
@@ -1184,12 +1184,12 @@
   },
 
   "Import FiCornerLeftDown (Feather)": {
-    "prefix": "ri:fi:import:corner-left-down",
+    "prefix": "ri:import:fi:corner-left-down",
     "body": "import { FiCornerLeftDown } from 'react-icons/fi';",
     "description": "Import FiCornerLeftDown Feather icon from react-icons"
   },
   "Import FiCornerLeftDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-left-down:all-files",
+    "prefix": "ri:import:fi:corner-left-down:all-files",
     "body": "import { FiCornerLeftDown } from '@react-icons/all-files/fi/FiCornerLeftDown';",
     "description": "Import FiCornerLeftDown Feather icon from @react-icons/all-files/fi/FiCornerLeftDown"
   },
@@ -1200,12 +1200,12 @@
   },
 
   "Import FiCornerLeftUp (Feather)": {
-    "prefix": "ri:fi:import:corner-left-up",
+    "prefix": "ri:import:fi:corner-left-up",
     "body": "import { FiCornerLeftUp } from 'react-icons/fi';",
     "description": "Import FiCornerLeftUp Feather icon from react-icons"
   },
   "Import FiCornerLeftUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-left-up:all-files",
+    "prefix": "ri:import:fi:corner-left-up:all-files",
     "body": "import { FiCornerLeftUp } from '@react-icons/all-files/fi/FiCornerLeftUp';",
     "description": "Import FiCornerLeftUp Feather icon from @react-icons/all-files/fi/FiCornerLeftUp"
   },
@@ -1216,12 +1216,12 @@
   },
 
   "Import FiCornerRightDown (Feather)": {
-    "prefix": "ri:fi:import:corner-right-down",
+    "prefix": "ri:import:fi:corner-right-down",
     "body": "import { FiCornerRightDown } from 'react-icons/fi';",
     "description": "Import FiCornerRightDown Feather icon from react-icons"
   },
   "Import FiCornerRightDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-right-down:all-files",
+    "prefix": "ri:import:fi:corner-right-down:all-files",
     "body": "import { FiCornerRightDown } from '@react-icons/all-files/fi/FiCornerRightDown';",
     "description": "Import FiCornerRightDown Feather icon from @react-icons/all-files/fi/FiCornerRightDown"
   },
@@ -1232,12 +1232,12 @@
   },
 
   "Import FiCornerRightUp (Feather)": {
-    "prefix": "ri:fi:import:corner-right-up",
+    "prefix": "ri:import:fi:corner-right-up",
     "body": "import { FiCornerRightUp } from 'react-icons/fi';",
     "description": "Import FiCornerRightUp Feather icon from react-icons"
   },
   "Import FiCornerRightUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-right-up:all-files",
+    "prefix": "ri:import:fi:corner-right-up:all-files",
     "body": "import { FiCornerRightUp } from '@react-icons/all-files/fi/FiCornerRightUp';",
     "description": "Import FiCornerRightUp Feather icon from @react-icons/all-files/fi/FiCornerRightUp"
   },
@@ -1248,12 +1248,12 @@
   },
 
   "Import FiCornerUpLeft (Feather)": {
-    "prefix": "ri:fi:import:corner-up-left",
+    "prefix": "ri:import:fi:corner-up-left",
     "body": "import { FiCornerUpLeft } from 'react-icons/fi';",
     "description": "Import FiCornerUpLeft Feather icon from react-icons"
   },
   "Import FiCornerUpLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-up-left:all-files",
+    "prefix": "ri:import:fi:corner-up-left:all-files",
     "body": "import { FiCornerUpLeft } from '@react-icons/all-files/fi/FiCornerUpLeft';",
     "description": "Import FiCornerUpLeft Feather icon from @react-icons/all-files/fi/FiCornerUpLeft"
   },
@@ -1264,12 +1264,12 @@
   },
 
   "Import FiCornerUpRight (Feather)": {
-    "prefix": "ri:fi:import:corner-up-right",
+    "prefix": "ri:import:fi:corner-up-right",
     "body": "import { FiCornerUpRight } from 'react-icons/fi';",
     "description": "Import FiCornerUpRight Feather icon from react-icons"
   },
   "Import FiCornerUpRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:corner-up-right:all-files",
+    "prefix": "ri:import:fi:corner-up-right:all-files",
     "body": "import { FiCornerUpRight } from '@react-icons/all-files/fi/FiCornerUpRight';",
     "description": "Import FiCornerUpRight Feather icon from @react-icons/all-files/fi/FiCornerUpRight"
   },
@@ -1280,12 +1280,12 @@
   },
 
   "Import FiCpu (Feather)": {
-    "prefix": "ri:fi:import:cpu",
+    "prefix": "ri:import:fi:cpu",
     "body": "import { FiCpu } from 'react-icons/fi';",
     "description": "Import FiCpu Feather icon from react-icons"
   },
   "Import FiCpu (Feather) from all-files": {
-    "prefix": "ri:fi:import:cpu:all-files",
+    "prefix": "ri:import:fi:cpu:all-files",
     "body": "import { FiCpu } from '@react-icons/all-files/fi/FiCpu';",
     "description": "Import FiCpu Feather icon from @react-icons/all-files/fi/FiCpu"
   },
@@ -1296,12 +1296,12 @@
   },
 
   "Import FiCreditCard (Feather)": {
-    "prefix": "ri:fi:import:credit-card",
+    "prefix": "ri:import:fi:credit-card",
     "body": "import { FiCreditCard } from 'react-icons/fi';",
     "description": "Import FiCreditCard Feather icon from react-icons"
   },
   "Import FiCreditCard (Feather) from all-files": {
-    "prefix": "ri:fi:import:credit-card:all-files",
+    "prefix": "ri:import:fi:credit-card:all-files",
     "body": "import { FiCreditCard } from '@react-icons/all-files/fi/FiCreditCard';",
     "description": "Import FiCreditCard Feather icon from @react-icons/all-files/fi/FiCreditCard"
   },
@@ -1312,12 +1312,12 @@
   },
 
   "Import FiCrop (Feather)": {
-    "prefix": "ri:fi:import:crop",
+    "prefix": "ri:import:fi:crop",
     "body": "import { FiCrop } from 'react-icons/fi';",
     "description": "Import FiCrop Feather icon from react-icons"
   },
   "Import FiCrop (Feather) from all-files": {
-    "prefix": "ri:fi:import:crop:all-files",
+    "prefix": "ri:import:fi:crop:all-files",
     "body": "import { FiCrop } from '@react-icons/all-files/fi/FiCrop';",
     "description": "Import FiCrop Feather icon from @react-icons/all-files/fi/FiCrop"
   },
@@ -1328,12 +1328,12 @@
   },
 
   "Import FiCrosshair (Feather)": {
-    "prefix": "ri:fi:import:crosshair",
+    "prefix": "ri:import:fi:crosshair",
     "body": "import { FiCrosshair } from 'react-icons/fi';",
     "description": "Import FiCrosshair Feather icon from react-icons"
   },
   "Import FiCrosshair (Feather) from all-files": {
-    "prefix": "ri:fi:import:crosshair:all-files",
+    "prefix": "ri:import:fi:crosshair:all-files",
     "body": "import { FiCrosshair } from '@react-icons/all-files/fi/FiCrosshair';",
     "description": "Import FiCrosshair Feather icon from @react-icons/all-files/fi/FiCrosshair"
   },
@@ -1344,12 +1344,12 @@
   },
 
   "Import FiDatabase (Feather)": {
-    "prefix": "ri:fi:import:database",
+    "prefix": "ri:import:fi:database",
     "body": "import { FiDatabase } from 'react-icons/fi';",
     "description": "Import FiDatabase Feather icon from react-icons"
   },
   "Import FiDatabase (Feather) from all-files": {
-    "prefix": "ri:fi:import:database:all-files",
+    "prefix": "ri:import:fi:database:all-files",
     "body": "import { FiDatabase } from '@react-icons/all-files/fi/FiDatabase';",
     "description": "Import FiDatabase Feather icon from @react-icons/all-files/fi/FiDatabase"
   },
@@ -1360,12 +1360,12 @@
   },
 
   "Import FiDelete (Feather)": {
-    "prefix": "ri:fi:import:delete",
+    "prefix": "ri:import:fi:delete",
     "body": "import { FiDelete } from 'react-icons/fi';",
     "description": "Import FiDelete Feather icon from react-icons"
   },
   "Import FiDelete (Feather) from all-files": {
-    "prefix": "ri:fi:import:delete:all-files",
+    "prefix": "ri:import:fi:delete:all-files",
     "body": "import { FiDelete } from '@react-icons/all-files/fi/FiDelete';",
     "description": "Import FiDelete Feather icon from @react-icons/all-files/fi/FiDelete"
   },
@@ -1376,12 +1376,12 @@
   },
 
   "Import FiDisc (Feather)": {
-    "prefix": "ri:fi:import:disc",
+    "prefix": "ri:import:fi:disc",
     "body": "import { FiDisc } from 'react-icons/fi';",
     "description": "Import FiDisc Feather icon from react-icons"
   },
   "Import FiDisc (Feather) from all-files": {
-    "prefix": "ri:fi:import:disc:all-files",
+    "prefix": "ri:import:fi:disc:all-files",
     "body": "import { FiDisc } from '@react-icons/all-files/fi/FiDisc';",
     "description": "Import FiDisc Feather icon from @react-icons/all-files/fi/FiDisc"
   },
@@ -1392,12 +1392,12 @@
   },
 
   "Import FiDivideCircle (Feather)": {
-    "prefix": "ri:fi:import:divide-circle",
+    "prefix": "ri:import:fi:divide-circle",
     "body": "import { FiDivideCircle } from 'react-icons/fi';",
     "description": "Import FiDivideCircle Feather icon from react-icons"
   },
   "Import FiDivideCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:divide-circle:all-files",
+    "prefix": "ri:import:fi:divide-circle:all-files",
     "body": "import { FiDivideCircle } from '@react-icons/all-files/fi/FiDivideCircle';",
     "description": "Import FiDivideCircle Feather icon from @react-icons/all-files/fi/FiDivideCircle"
   },
@@ -1408,12 +1408,12 @@
   },
 
   "Import FiDivideSquare (Feather)": {
-    "prefix": "ri:fi:import:divide-square",
+    "prefix": "ri:import:fi:divide-square",
     "body": "import { FiDivideSquare } from 'react-icons/fi';",
     "description": "Import FiDivideSquare Feather icon from react-icons"
   },
   "Import FiDivideSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:divide-square:all-files",
+    "prefix": "ri:import:fi:divide-square:all-files",
     "body": "import { FiDivideSquare } from '@react-icons/all-files/fi/FiDivideSquare';",
     "description": "Import FiDivideSquare Feather icon from @react-icons/all-files/fi/FiDivideSquare"
   },
@@ -1424,12 +1424,12 @@
   },
 
   "Import FiDivide (Feather)": {
-    "prefix": "ri:fi:import:divide",
+    "prefix": "ri:import:fi:divide",
     "body": "import { FiDivide } from 'react-icons/fi';",
     "description": "Import FiDivide Feather icon from react-icons"
   },
   "Import FiDivide (Feather) from all-files": {
-    "prefix": "ri:fi:import:divide:all-files",
+    "prefix": "ri:import:fi:divide:all-files",
     "body": "import { FiDivide } from '@react-icons/all-files/fi/FiDivide';",
     "description": "Import FiDivide Feather icon from @react-icons/all-files/fi/FiDivide"
   },
@@ -1440,12 +1440,12 @@
   },
 
   "Import FiDollarSign (Feather)": {
-    "prefix": "ri:fi:import:dollar-sign",
+    "prefix": "ri:import:fi:dollar-sign",
     "body": "import { FiDollarSign } from 'react-icons/fi';",
     "description": "Import FiDollarSign Feather icon from react-icons"
   },
   "Import FiDollarSign (Feather) from all-files": {
-    "prefix": "ri:fi:import:dollar-sign:all-files",
+    "prefix": "ri:import:fi:dollar-sign:all-files",
     "body": "import { FiDollarSign } from '@react-icons/all-files/fi/FiDollarSign';",
     "description": "Import FiDollarSign Feather icon from @react-icons/all-files/fi/FiDollarSign"
   },
@@ -1456,12 +1456,12 @@
   },
 
   "Import FiDownloadCloud (Feather)": {
-    "prefix": "ri:fi:import:download-cloud",
+    "prefix": "ri:import:fi:download-cloud",
     "body": "import { FiDownloadCloud } from 'react-icons/fi';",
     "description": "Import FiDownloadCloud Feather icon from react-icons"
   },
   "Import FiDownloadCloud (Feather) from all-files": {
-    "prefix": "ri:fi:import:download-cloud:all-files",
+    "prefix": "ri:import:fi:download-cloud:all-files",
     "body": "import { FiDownloadCloud } from '@react-icons/all-files/fi/FiDownloadCloud';",
     "description": "Import FiDownloadCloud Feather icon from @react-icons/all-files/fi/FiDownloadCloud"
   },
@@ -1472,12 +1472,12 @@
   },
 
   "Import FiDownload (Feather)": {
-    "prefix": "ri:fi:import:download",
+    "prefix": "ri:import:fi:download",
     "body": "import { FiDownload } from 'react-icons/fi';",
     "description": "Import FiDownload Feather icon from react-icons"
   },
   "Import FiDownload (Feather) from all-files": {
-    "prefix": "ri:fi:import:download:all-files",
+    "prefix": "ri:import:fi:download:all-files",
     "body": "import { FiDownload } from '@react-icons/all-files/fi/FiDownload';",
     "description": "Import FiDownload Feather icon from @react-icons/all-files/fi/FiDownload"
   },
@@ -1488,12 +1488,12 @@
   },
 
   "Import FiDribbble (Feather)": {
-    "prefix": "ri:fi:import:dribbble",
+    "prefix": "ri:import:fi:dribbble",
     "body": "import { FiDribbble } from 'react-icons/fi';",
     "description": "Import FiDribbble Feather icon from react-icons"
   },
   "Import FiDribbble (Feather) from all-files": {
-    "prefix": "ri:fi:import:dribbble:all-files",
+    "prefix": "ri:import:fi:dribbble:all-files",
     "body": "import { FiDribbble } from '@react-icons/all-files/fi/FiDribbble';",
     "description": "Import FiDribbble Feather icon from @react-icons/all-files/fi/FiDribbble"
   },
@@ -1504,12 +1504,12 @@
   },
 
   "Import FiDroplet (Feather)": {
-    "prefix": "ri:fi:import:droplet",
+    "prefix": "ri:import:fi:droplet",
     "body": "import { FiDroplet } from 'react-icons/fi';",
     "description": "Import FiDroplet Feather icon from react-icons"
   },
   "Import FiDroplet (Feather) from all-files": {
-    "prefix": "ri:fi:import:droplet:all-files",
+    "prefix": "ri:import:fi:droplet:all-files",
     "body": "import { FiDroplet } from '@react-icons/all-files/fi/FiDroplet';",
     "description": "Import FiDroplet Feather icon from @react-icons/all-files/fi/FiDroplet"
   },
@@ -1520,12 +1520,12 @@
   },
 
   "Import FiEdit2 (Feather)": {
-    "prefix": "ri:fi:import:edit-2",
+    "prefix": "ri:import:fi:edit-2",
     "body": "import { FiEdit2 } from 'react-icons/fi';",
     "description": "Import FiEdit2 Feather icon from react-icons"
   },
   "Import FiEdit2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:edit-2:all-files",
+    "prefix": "ri:import:fi:edit-2:all-files",
     "body": "import { FiEdit2 } from '@react-icons/all-files/fi/FiEdit2';",
     "description": "Import FiEdit2 Feather icon from @react-icons/all-files/fi/FiEdit2"
   },
@@ -1536,12 +1536,12 @@
   },
 
   "Import FiEdit3 (Feather)": {
-    "prefix": "ri:fi:import:edit-3",
+    "prefix": "ri:import:fi:edit-3",
     "body": "import { FiEdit3 } from 'react-icons/fi';",
     "description": "Import FiEdit3 Feather icon from react-icons"
   },
   "Import FiEdit3 (Feather) from all-files": {
-    "prefix": "ri:fi:import:edit-3:all-files",
+    "prefix": "ri:import:fi:edit-3:all-files",
     "body": "import { FiEdit3 } from '@react-icons/all-files/fi/FiEdit3';",
     "description": "Import FiEdit3 Feather icon from @react-icons/all-files/fi/FiEdit3"
   },
@@ -1552,12 +1552,12 @@
   },
 
   "Import FiEdit (Feather)": {
-    "prefix": "ri:fi:import:edit",
+    "prefix": "ri:import:fi:edit",
     "body": "import { FiEdit } from 'react-icons/fi';",
     "description": "Import FiEdit Feather icon from react-icons"
   },
   "Import FiEdit (Feather) from all-files": {
-    "prefix": "ri:fi:import:edit:all-files",
+    "prefix": "ri:import:fi:edit:all-files",
     "body": "import { FiEdit } from '@react-icons/all-files/fi/FiEdit';",
     "description": "Import FiEdit Feather icon from @react-icons/all-files/fi/FiEdit"
   },
@@ -1568,12 +1568,12 @@
   },
 
   "Import FiExternalLink (Feather)": {
-    "prefix": "ri:fi:import:external-link",
+    "prefix": "ri:import:fi:external-link",
     "body": "import { FiExternalLink } from 'react-icons/fi';",
     "description": "Import FiExternalLink Feather icon from react-icons"
   },
   "Import FiExternalLink (Feather) from all-files": {
-    "prefix": "ri:fi:import:external-link:all-files",
+    "prefix": "ri:import:fi:external-link:all-files",
     "body": "import { FiExternalLink } from '@react-icons/all-files/fi/FiExternalLink';",
     "description": "Import FiExternalLink Feather icon from @react-icons/all-files/fi/FiExternalLink"
   },
@@ -1584,12 +1584,12 @@
   },
 
   "Import FiEyeOff (Feather)": {
-    "prefix": "ri:fi:import:eye-off",
+    "prefix": "ri:import:fi:eye-off",
     "body": "import { FiEyeOff } from 'react-icons/fi';",
     "description": "Import FiEyeOff Feather icon from react-icons"
   },
   "Import FiEyeOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:eye-off:all-files",
+    "prefix": "ri:import:fi:eye-off:all-files",
     "body": "import { FiEyeOff } from '@react-icons/all-files/fi/FiEyeOff';",
     "description": "Import FiEyeOff Feather icon from @react-icons/all-files/fi/FiEyeOff"
   },
@@ -1600,12 +1600,12 @@
   },
 
   "Import FiEye (Feather)": {
-    "prefix": "ri:fi:import:eye",
+    "prefix": "ri:import:fi:eye",
     "body": "import { FiEye } from 'react-icons/fi';",
     "description": "Import FiEye Feather icon from react-icons"
   },
   "Import FiEye (Feather) from all-files": {
-    "prefix": "ri:fi:import:eye:all-files",
+    "prefix": "ri:import:fi:eye:all-files",
     "body": "import { FiEye } from '@react-icons/all-files/fi/FiEye';",
     "description": "Import FiEye Feather icon from @react-icons/all-files/fi/FiEye"
   },
@@ -1616,12 +1616,12 @@
   },
 
   "Import FiFacebook (Feather)": {
-    "prefix": "ri:fi:import:facebook",
+    "prefix": "ri:import:fi:facebook",
     "body": "import { FiFacebook } from 'react-icons/fi';",
     "description": "Import FiFacebook Feather icon from react-icons"
   },
   "Import FiFacebook (Feather) from all-files": {
-    "prefix": "ri:fi:import:facebook:all-files",
+    "prefix": "ri:import:fi:facebook:all-files",
     "body": "import { FiFacebook } from '@react-icons/all-files/fi/FiFacebook';",
     "description": "Import FiFacebook Feather icon from @react-icons/all-files/fi/FiFacebook"
   },
@@ -1632,12 +1632,12 @@
   },
 
   "Import FiFastForward (Feather)": {
-    "prefix": "ri:fi:import:fast-forward",
+    "prefix": "ri:import:fi:fast-forward",
     "body": "import { FiFastForward } from 'react-icons/fi';",
     "description": "Import FiFastForward Feather icon from react-icons"
   },
   "Import FiFastForward (Feather) from all-files": {
-    "prefix": "ri:fi:import:fast-forward:all-files",
+    "prefix": "ri:import:fi:fast-forward:all-files",
     "body": "import { FiFastForward } from '@react-icons/all-files/fi/FiFastForward';",
     "description": "Import FiFastForward Feather icon from @react-icons/all-files/fi/FiFastForward"
   },
@@ -1648,12 +1648,12 @@
   },
 
   "Import FiFeather (Feather)": {
-    "prefix": "ri:fi:import:feather",
+    "prefix": "ri:import:fi:feather",
     "body": "import { FiFeather } from 'react-icons/fi';",
     "description": "Import FiFeather Feather icon from react-icons"
   },
   "Import FiFeather (Feather) from all-files": {
-    "prefix": "ri:fi:import:feather:all-files",
+    "prefix": "ri:import:fi:feather:all-files",
     "body": "import { FiFeather } from '@react-icons/all-files/fi/FiFeather';",
     "description": "Import FiFeather Feather icon from @react-icons/all-files/fi/FiFeather"
   },
@@ -1664,12 +1664,12 @@
   },
 
   "Import FiFigma (Feather)": {
-    "prefix": "ri:fi:import:figma",
+    "prefix": "ri:import:fi:figma",
     "body": "import { FiFigma } from 'react-icons/fi';",
     "description": "Import FiFigma Feather icon from react-icons"
   },
   "Import FiFigma (Feather) from all-files": {
-    "prefix": "ri:fi:import:figma:all-files",
+    "prefix": "ri:import:fi:figma:all-files",
     "body": "import { FiFigma } from '@react-icons/all-files/fi/FiFigma';",
     "description": "Import FiFigma Feather icon from @react-icons/all-files/fi/FiFigma"
   },
@@ -1680,12 +1680,12 @@
   },
 
   "Import FiFileMinus (Feather)": {
-    "prefix": "ri:fi:import:file-minus",
+    "prefix": "ri:import:fi:file-minus",
     "body": "import { FiFileMinus } from 'react-icons/fi';",
     "description": "Import FiFileMinus Feather icon from react-icons"
   },
   "Import FiFileMinus (Feather) from all-files": {
-    "prefix": "ri:fi:import:file-minus:all-files",
+    "prefix": "ri:import:fi:file-minus:all-files",
     "body": "import { FiFileMinus } from '@react-icons/all-files/fi/FiFileMinus';",
     "description": "Import FiFileMinus Feather icon from @react-icons/all-files/fi/FiFileMinus"
   },
@@ -1696,12 +1696,12 @@
   },
 
   "Import FiFilePlus (Feather)": {
-    "prefix": "ri:fi:import:file-plus",
+    "prefix": "ri:import:fi:file-plus",
     "body": "import { FiFilePlus } from 'react-icons/fi';",
     "description": "Import FiFilePlus Feather icon from react-icons"
   },
   "Import FiFilePlus (Feather) from all-files": {
-    "prefix": "ri:fi:import:file-plus:all-files",
+    "prefix": "ri:import:fi:file-plus:all-files",
     "body": "import { FiFilePlus } from '@react-icons/all-files/fi/FiFilePlus';",
     "description": "Import FiFilePlus Feather icon from @react-icons/all-files/fi/FiFilePlus"
   },
@@ -1712,12 +1712,12 @@
   },
 
   "Import FiFileText (Feather)": {
-    "prefix": "ri:fi:import:file-text",
+    "prefix": "ri:import:fi:file-text",
     "body": "import { FiFileText } from 'react-icons/fi';",
     "description": "Import FiFileText Feather icon from react-icons"
   },
   "Import FiFileText (Feather) from all-files": {
-    "prefix": "ri:fi:import:file-text:all-files",
+    "prefix": "ri:import:fi:file-text:all-files",
     "body": "import { FiFileText } from '@react-icons/all-files/fi/FiFileText';",
     "description": "Import FiFileText Feather icon from @react-icons/all-files/fi/FiFileText"
   },
@@ -1728,12 +1728,12 @@
   },
 
   "Import FiFile (Feather)": {
-    "prefix": "ri:fi:import:file",
+    "prefix": "ri:import:fi:file",
     "body": "import { FiFile } from 'react-icons/fi';",
     "description": "Import FiFile Feather icon from react-icons"
   },
   "Import FiFile (Feather) from all-files": {
-    "prefix": "ri:fi:import:file:all-files",
+    "prefix": "ri:import:fi:file:all-files",
     "body": "import { FiFile } from '@react-icons/all-files/fi/FiFile';",
     "description": "Import FiFile Feather icon from @react-icons/all-files/fi/FiFile"
   },
@@ -1744,12 +1744,12 @@
   },
 
   "Import FiFilm (Feather)": {
-    "prefix": "ri:fi:import:film",
+    "prefix": "ri:import:fi:film",
     "body": "import { FiFilm } from 'react-icons/fi';",
     "description": "Import FiFilm Feather icon from react-icons"
   },
   "Import FiFilm (Feather) from all-files": {
-    "prefix": "ri:fi:import:film:all-files",
+    "prefix": "ri:import:fi:film:all-files",
     "body": "import { FiFilm } from '@react-icons/all-files/fi/FiFilm';",
     "description": "Import FiFilm Feather icon from @react-icons/all-files/fi/FiFilm"
   },
@@ -1760,12 +1760,12 @@
   },
 
   "Import FiFilter (Feather)": {
-    "prefix": "ri:fi:import:filter",
+    "prefix": "ri:import:fi:filter",
     "body": "import { FiFilter } from 'react-icons/fi';",
     "description": "Import FiFilter Feather icon from react-icons"
   },
   "Import FiFilter (Feather) from all-files": {
-    "prefix": "ri:fi:import:filter:all-files",
+    "prefix": "ri:import:fi:filter:all-files",
     "body": "import { FiFilter } from '@react-icons/all-files/fi/FiFilter';",
     "description": "Import FiFilter Feather icon from @react-icons/all-files/fi/FiFilter"
   },
@@ -1776,12 +1776,12 @@
   },
 
   "Import FiFlag (Feather)": {
-    "prefix": "ri:fi:import:flag",
+    "prefix": "ri:import:fi:flag",
     "body": "import { FiFlag } from 'react-icons/fi';",
     "description": "Import FiFlag Feather icon from react-icons"
   },
   "Import FiFlag (Feather) from all-files": {
-    "prefix": "ri:fi:import:flag:all-files",
+    "prefix": "ri:import:fi:flag:all-files",
     "body": "import { FiFlag } from '@react-icons/all-files/fi/FiFlag';",
     "description": "Import FiFlag Feather icon from @react-icons/all-files/fi/FiFlag"
   },
@@ -1792,12 +1792,12 @@
   },
 
   "Import FiFolderMinus (Feather)": {
-    "prefix": "ri:fi:import:folder-minus",
+    "prefix": "ri:import:fi:folder-minus",
     "body": "import { FiFolderMinus } from 'react-icons/fi';",
     "description": "Import FiFolderMinus Feather icon from react-icons"
   },
   "Import FiFolderMinus (Feather) from all-files": {
-    "prefix": "ri:fi:import:folder-minus:all-files",
+    "prefix": "ri:import:fi:folder-minus:all-files",
     "body": "import { FiFolderMinus } from '@react-icons/all-files/fi/FiFolderMinus';",
     "description": "Import FiFolderMinus Feather icon from @react-icons/all-files/fi/FiFolderMinus"
   },
@@ -1808,12 +1808,12 @@
   },
 
   "Import FiFolderPlus (Feather)": {
-    "prefix": "ri:fi:import:folder-plus",
+    "prefix": "ri:import:fi:folder-plus",
     "body": "import { FiFolderPlus } from 'react-icons/fi';",
     "description": "Import FiFolderPlus Feather icon from react-icons"
   },
   "Import FiFolderPlus (Feather) from all-files": {
-    "prefix": "ri:fi:import:folder-plus:all-files",
+    "prefix": "ri:import:fi:folder-plus:all-files",
     "body": "import { FiFolderPlus } from '@react-icons/all-files/fi/FiFolderPlus';",
     "description": "Import FiFolderPlus Feather icon from @react-icons/all-files/fi/FiFolderPlus"
   },
@@ -1824,12 +1824,12 @@
   },
 
   "Import FiFolder (Feather)": {
-    "prefix": "ri:fi:import:folder",
+    "prefix": "ri:import:fi:folder",
     "body": "import { FiFolder } from 'react-icons/fi';",
     "description": "Import FiFolder Feather icon from react-icons"
   },
   "Import FiFolder (Feather) from all-files": {
-    "prefix": "ri:fi:import:folder:all-files",
+    "prefix": "ri:import:fi:folder:all-files",
     "body": "import { FiFolder } from '@react-icons/all-files/fi/FiFolder';",
     "description": "Import FiFolder Feather icon from @react-icons/all-files/fi/FiFolder"
   },
@@ -1840,12 +1840,12 @@
   },
 
   "Import FiFramer (Feather)": {
-    "prefix": "ri:fi:import:framer",
+    "prefix": "ri:import:fi:framer",
     "body": "import { FiFramer } from 'react-icons/fi';",
     "description": "Import FiFramer Feather icon from react-icons"
   },
   "Import FiFramer (Feather) from all-files": {
-    "prefix": "ri:fi:import:framer:all-files",
+    "prefix": "ri:import:fi:framer:all-files",
     "body": "import { FiFramer } from '@react-icons/all-files/fi/FiFramer';",
     "description": "Import FiFramer Feather icon from @react-icons/all-files/fi/FiFramer"
   },
@@ -1856,12 +1856,12 @@
   },
 
   "Import FiFrown (Feather)": {
-    "prefix": "ri:fi:import:frown",
+    "prefix": "ri:import:fi:frown",
     "body": "import { FiFrown } from 'react-icons/fi';",
     "description": "Import FiFrown Feather icon from react-icons"
   },
   "Import FiFrown (Feather) from all-files": {
-    "prefix": "ri:fi:import:frown:all-files",
+    "prefix": "ri:import:fi:frown:all-files",
     "body": "import { FiFrown } from '@react-icons/all-files/fi/FiFrown';",
     "description": "Import FiFrown Feather icon from @react-icons/all-files/fi/FiFrown"
   },
@@ -1872,12 +1872,12 @@
   },
 
   "Import FiGift (Feather)": {
-    "prefix": "ri:fi:import:gift",
+    "prefix": "ri:import:fi:gift",
     "body": "import { FiGift } from 'react-icons/fi';",
     "description": "Import FiGift Feather icon from react-icons"
   },
   "Import FiGift (Feather) from all-files": {
-    "prefix": "ri:fi:import:gift:all-files",
+    "prefix": "ri:import:fi:gift:all-files",
     "body": "import { FiGift } from '@react-icons/all-files/fi/FiGift';",
     "description": "Import FiGift Feather icon from @react-icons/all-files/fi/FiGift"
   },
@@ -1888,12 +1888,12 @@
   },
 
   "Import FiGitBranch (Feather)": {
-    "prefix": "ri:fi:import:git-branch",
+    "prefix": "ri:import:fi:git-branch",
     "body": "import { FiGitBranch } from 'react-icons/fi';",
     "description": "Import FiGitBranch Feather icon from react-icons"
   },
   "Import FiGitBranch (Feather) from all-files": {
-    "prefix": "ri:fi:import:git-branch:all-files",
+    "prefix": "ri:import:fi:git-branch:all-files",
     "body": "import { FiGitBranch } from '@react-icons/all-files/fi/FiGitBranch';",
     "description": "Import FiGitBranch Feather icon from @react-icons/all-files/fi/FiGitBranch"
   },
@@ -1904,12 +1904,12 @@
   },
 
   "Import FiGitCommit (Feather)": {
-    "prefix": "ri:fi:import:git-commit",
+    "prefix": "ri:import:fi:git-commit",
     "body": "import { FiGitCommit } from 'react-icons/fi';",
     "description": "Import FiGitCommit Feather icon from react-icons"
   },
   "Import FiGitCommit (Feather) from all-files": {
-    "prefix": "ri:fi:import:git-commit:all-files",
+    "prefix": "ri:import:fi:git-commit:all-files",
     "body": "import { FiGitCommit } from '@react-icons/all-files/fi/FiGitCommit';",
     "description": "Import FiGitCommit Feather icon from @react-icons/all-files/fi/FiGitCommit"
   },
@@ -1920,12 +1920,12 @@
   },
 
   "Import FiGitMerge (Feather)": {
-    "prefix": "ri:fi:import:git-merge",
+    "prefix": "ri:import:fi:git-merge",
     "body": "import { FiGitMerge } from 'react-icons/fi';",
     "description": "Import FiGitMerge Feather icon from react-icons"
   },
   "Import FiGitMerge (Feather) from all-files": {
-    "prefix": "ri:fi:import:git-merge:all-files",
+    "prefix": "ri:import:fi:git-merge:all-files",
     "body": "import { FiGitMerge } from '@react-icons/all-files/fi/FiGitMerge';",
     "description": "Import FiGitMerge Feather icon from @react-icons/all-files/fi/FiGitMerge"
   },
@@ -1936,12 +1936,12 @@
   },
 
   "Import FiGitPullRequest (Feather)": {
-    "prefix": "ri:fi:import:git-pull-request",
+    "prefix": "ri:import:fi:git-pull-request",
     "body": "import { FiGitPullRequest } from 'react-icons/fi';",
     "description": "Import FiGitPullRequest Feather icon from react-icons"
   },
   "Import FiGitPullRequest (Feather) from all-files": {
-    "prefix": "ri:fi:import:git-pull-request:all-files",
+    "prefix": "ri:import:fi:git-pull-request:all-files",
     "body": "import { FiGitPullRequest } from '@react-icons/all-files/fi/FiGitPullRequest';",
     "description": "Import FiGitPullRequest Feather icon from @react-icons/all-files/fi/FiGitPullRequest"
   },
@@ -1952,12 +1952,12 @@
   },
 
   "Import FiGithub (Feather)": {
-    "prefix": "ri:fi:import:github",
+    "prefix": "ri:import:fi:github",
     "body": "import { FiGithub } from 'react-icons/fi';",
     "description": "Import FiGithub Feather icon from react-icons"
   },
   "Import FiGithub (Feather) from all-files": {
-    "prefix": "ri:fi:import:github:all-files",
+    "prefix": "ri:import:fi:github:all-files",
     "body": "import { FiGithub } from '@react-icons/all-files/fi/FiGithub';",
     "description": "Import FiGithub Feather icon from @react-icons/all-files/fi/FiGithub"
   },
@@ -1968,12 +1968,12 @@
   },
 
   "Import FiGitlab (Feather)": {
-    "prefix": "ri:fi:import:gitlab",
+    "prefix": "ri:import:fi:gitlab",
     "body": "import { FiGitlab } from 'react-icons/fi';",
     "description": "Import FiGitlab Feather icon from react-icons"
   },
   "Import FiGitlab (Feather) from all-files": {
-    "prefix": "ri:fi:import:gitlab:all-files",
+    "prefix": "ri:import:fi:gitlab:all-files",
     "body": "import { FiGitlab } from '@react-icons/all-files/fi/FiGitlab';",
     "description": "Import FiGitlab Feather icon from @react-icons/all-files/fi/FiGitlab"
   },
@@ -1984,12 +1984,12 @@
   },
 
   "Import FiGlobe (Feather)": {
-    "prefix": "ri:fi:import:globe",
+    "prefix": "ri:import:fi:globe",
     "body": "import { FiGlobe } from 'react-icons/fi';",
     "description": "Import FiGlobe Feather icon from react-icons"
   },
   "Import FiGlobe (Feather) from all-files": {
-    "prefix": "ri:fi:import:globe:all-files",
+    "prefix": "ri:import:fi:globe:all-files",
     "body": "import { FiGlobe } from '@react-icons/all-files/fi/FiGlobe';",
     "description": "Import FiGlobe Feather icon from @react-icons/all-files/fi/FiGlobe"
   },
@@ -2000,12 +2000,12 @@
   },
 
   "Import FiGrid (Feather)": {
-    "prefix": "ri:fi:import:grid",
+    "prefix": "ri:import:fi:grid",
     "body": "import { FiGrid } from 'react-icons/fi';",
     "description": "Import FiGrid Feather icon from react-icons"
   },
   "Import FiGrid (Feather) from all-files": {
-    "prefix": "ri:fi:import:grid:all-files",
+    "prefix": "ri:import:fi:grid:all-files",
     "body": "import { FiGrid } from '@react-icons/all-files/fi/FiGrid';",
     "description": "Import FiGrid Feather icon from @react-icons/all-files/fi/FiGrid"
   },
@@ -2016,12 +2016,12 @@
   },
 
   "Import FiHardDrive (Feather)": {
-    "prefix": "ri:fi:import:hard-drive",
+    "prefix": "ri:import:fi:hard-drive",
     "body": "import { FiHardDrive } from 'react-icons/fi';",
     "description": "Import FiHardDrive Feather icon from react-icons"
   },
   "Import FiHardDrive (Feather) from all-files": {
-    "prefix": "ri:fi:import:hard-drive:all-files",
+    "prefix": "ri:import:fi:hard-drive:all-files",
     "body": "import { FiHardDrive } from '@react-icons/all-files/fi/FiHardDrive';",
     "description": "Import FiHardDrive Feather icon from @react-icons/all-files/fi/FiHardDrive"
   },
@@ -2032,12 +2032,12 @@
   },
 
   "Import FiHash (Feather)": {
-    "prefix": "ri:fi:import:hash",
+    "prefix": "ri:import:fi:hash",
     "body": "import { FiHash } from 'react-icons/fi';",
     "description": "Import FiHash Feather icon from react-icons"
   },
   "Import FiHash (Feather) from all-files": {
-    "prefix": "ri:fi:import:hash:all-files",
+    "prefix": "ri:import:fi:hash:all-files",
     "body": "import { FiHash } from '@react-icons/all-files/fi/FiHash';",
     "description": "Import FiHash Feather icon from @react-icons/all-files/fi/FiHash"
   },
@@ -2048,12 +2048,12 @@
   },
 
   "Import FiHeadphones (Feather)": {
-    "prefix": "ri:fi:import:headphones",
+    "prefix": "ri:import:fi:headphones",
     "body": "import { FiHeadphones } from 'react-icons/fi';",
     "description": "Import FiHeadphones Feather icon from react-icons"
   },
   "Import FiHeadphones (Feather) from all-files": {
-    "prefix": "ri:fi:import:headphones:all-files",
+    "prefix": "ri:import:fi:headphones:all-files",
     "body": "import { FiHeadphones } from '@react-icons/all-files/fi/FiHeadphones';",
     "description": "Import FiHeadphones Feather icon from @react-icons/all-files/fi/FiHeadphones"
   },
@@ -2064,12 +2064,12 @@
   },
 
   "Import FiHeart (Feather)": {
-    "prefix": "ri:fi:import:heart",
+    "prefix": "ri:import:fi:heart",
     "body": "import { FiHeart } from 'react-icons/fi';",
     "description": "Import FiHeart Feather icon from react-icons"
   },
   "Import FiHeart (Feather) from all-files": {
-    "prefix": "ri:fi:import:heart:all-files",
+    "prefix": "ri:import:fi:heart:all-files",
     "body": "import { FiHeart } from '@react-icons/all-files/fi/FiHeart';",
     "description": "Import FiHeart Feather icon from @react-icons/all-files/fi/FiHeart"
   },
@@ -2080,12 +2080,12 @@
   },
 
   "Import FiHelpCircle (Feather)": {
-    "prefix": "ri:fi:import:help-circle",
+    "prefix": "ri:import:fi:help-circle",
     "body": "import { FiHelpCircle } from 'react-icons/fi';",
     "description": "Import FiHelpCircle Feather icon from react-icons"
   },
   "Import FiHelpCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:help-circle:all-files",
+    "prefix": "ri:import:fi:help-circle:all-files",
     "body": "import { FiHelpCircle } from '@react-icons/all-files/fi/FiHelpCircle';",
     "description": "Import FiHelpCircle Feather icon from @react-icons/all-files/fi/FiHelpCircle"
   },
@@ -2096,12 +2096,12 @@
   },
 
   "Import FiHexagon (Feather)": {
-    "prefix": "ri:fi:import:hexagon",
+    "prefix": "ri:import:fi:hexagon",
     "body": "import { FiHexagon } from 'react-icons/fi';",
     "description": "Import FiHexagon Feather icon from react-icons"
   },
   "Import FiHexagon (Feather) from all-files": {
-    "prefix": "ri:fi:import:hexagon:all-files",
+    "prefix": "ri:import:fi:hexagon:all-files",
     "body": "import { FiHexagon } from '@react-icons/all-files/fi/FiHexagon';",
     "description": "Import FiHexagon Feather icon from @react-icons/all-files/fi/FiHexagon"
   },
@@ -2112,12 +2112,12 @@
   },
 
   "Import FiHome (Feather)": {
-    "prefix": "ri:fi:import:home",
+    "prefix": "ri:import:fi:home",
     "body": "import { FiHome } from 'react-icons/fi';",
     "description": "Import FiHome Feather icon from react-icons"
   },
   "Import FiHome (Feather) from all-files": {
-    "prefix": "ri:fi:import:home:all-files",
+    "prefix": "ri:import:fi:home:all-files",
     "body": "import { FiHome } from '@react-icons/all-files/fi/FiHome';",
     "description": "Import FiHome Feather icon from @react-icons/all-files/fi/FiHome"
   },
@@ -2128,12 +2128,12 @@
   },
 
   "Import FiImage (Feather)": {
-    "prefix": "ri:fi:import:image",
+    "prefix": "ri:import:fi:image",
     "body": "import { FiImage } from 'react-icons/fi';",
     "description": "Import FiImage Feather icon from react-icons"
   },
   "Import FiImage (Feather) from all-files": {
-    "prefix": "ri:fi:import:image:all-files",
+    "prefix": "ri:import:fi:image:all-files",
     "body": "import { FiImage } from '@react-icons/all-files/fi/FiImage';",
     "description": "Import FiImage Feather icon from @react-icons/all-files/fi/FiImage"
   },
@@ -2144,12 +2144,12 @@
   },
 
   "Import FiInbox (Feather)": {
-    "prefix": "ri:fi:import:inbox",
+    "prefix": "ri:import:fi:inbox",
     "body": "import { FiInbox } from 'react-icons/fi';",
     "description": "Import FiInbox Feather icon from react-icons"
   },
   "Import FiInbox (Feather) from all-files": {
-    "prefix": "ri:fi:import:inbox:all-files",
+    "prefix": "ri:import:fi:inbox:all-files",
     "body": "import { FiInbox } from '@react-icons/all-files/fi/FiInbox';",
     "description": "Import FiInbox Feather icon from @react-icons/all-files/fi/FiInbox"
   },
@@ -2160,12 +2160,12 @@
   },
 
   "Import FiInfo (Feather)": {
-    "prefix": "ri:fi:import:info",
+    "prefix": "ri:import:fi:info",
     "body": "import { FiInfo } from 'react-icons/fi';",
     "description": "Import FiInfo Feather icon from react-icons"
   },
   "Import FiInfo (Feather) from all-files": {
-    "prefix": "ri:fi:import:info:all-files",
+    "prefix": "ri:import:fi:info:all-files",
     "body": "import { FiInfo } from '@react-icons/all-files/fi/FiInfo';",
     "description": "Import FiInfo Feather icon from @react-icons/all-files/fi/FiInfo"
   },
@@ -2176,12 +2176,12 @@
   },
 
   "Import FiInstagram (Feather)": {
-    "prefix": "ri:fi:import:instagram",
+    "prefix": "ri:import:fi:instagram",
     "body": "import { FiInstagram } from 'react-icons/fi';",
     "description": "Import FiInstagram Feather icon from react-icons"
   },
   "Import FiInstagram (Feather) from all-files": {
-    "prefix": "ri:fi:import:instagram:all-files",
+    "prefix": "ri:import:fi:instagram:all-files",
     "body": "import { FiInstagram } from '@react-icons/all-files/fi/FiInstagram';",
     "description": "Import FiInstagram Feather icon from @react-icons/all-files/fi/FiInstagram"
   },
@@ -2192,12 +2192,12 @@
   },
 
   "Import FiItalic (Feather)": {
-    "prefix": "ri:fi:import:italic",
+    "prefix": "ri:import:fi:italic",
     "body": "import { FiItalic } from 'react-icons/fi';",
     "description": "Import FiItalic Feather icon from react-icons"
   },
   "Import FiItalic (Feather) from all-files": {
-    "prefix": "ri:fi:import:italic:all-files",
+    "prefix": "ri:import:fi:italic:all-files",
     "body": "import { FiItalic } from '@react-icons/all-files/fi/FiItalic';",
     "description": "Import FiItalic Feather icon from @react-icons/all-files/fi/FiItalic"
   },
@@ -2208,12 +2208,12 @@
   },
 
   "Import FiKey (Feather)": {
-    "prefix": "ri:fi:import:key",
+    "prefix": "ri:import:fi:key",
     "body": "import { FiKey } from 'react-icons/fi';",
     "description": "Import FiKey Feather icon from react-icons"
   },
   "Import FiKey (Feather) from all-files": {
-    "prefix": "ri:fi:import:key:all-files",
+    "prefix": "ri:import:fi:key:all-files",
     "body": "import { FiKey } from '@react-icons/all-files/fi/FiKey';",
     "description": "Import FiKey Feather icon from @react-icons/all-files/fi/FiKey"
   },
@@ -2224,12 +2224,12 @@
   },
 
   "Import FiLayers (Feather)": {
-    "prefix": "ri:fi:import:layers",
+    "prefix": "ri:import:fi:layers",
     "body": "import { FiLayers } from 'react-icons/fi';",
     "description": "Import FiLayers Feather icon from react-icons"
   },
   "Import FiLayers (Feather) from all-files": {
-    "prefix": "ri:fi:import:layers:all-files",
+    "prefix": "ri:import:fi:layers:all-files",
     "body": "import { FiLayers } from '@react-icons/all-files/fi/FiLayers';",
     "description": "Import FiLayers Feather icon from @react-icons/all-files/fi/FiLayers"
   },
@@ -2240,12 +2240,12 @@
   },
 
   "Import FiLayout (Feather)": {
-    "prefix": "ri:fi:import:layout",
+    "prefix": "ri:import:fi:layout",
     "body": "import { FiLayout } from 'react-icons/fi';",
     "description": "Import FiLayout Feather icon from react-icons"
   },
   "Import FiLayout (Feather) from all-files": {
-    "prefix": "ri:fi:import:layout:all-files",
+    "prefix": "ri:import:fi:layout:all-files",
     "body": "import { FiLayout } from '@react-icons/all-files/fi/FiLayout';",
     "description": "Import FiLayout Feather icon from @react-icons/all-files/fi/FiLayout"
   },
@@ -2256,12 +2256,12 @@
   },
 
   "Import FiLifeBuoy (Feather)": {
-    "prefix": "ri:fi:import:life-buoy",
+    "prefix": "ri:import:fi:life-buoy",
     "body": "import { FiLifeBuoy } from 'react-icons/fi';",
     "description": "Import FiLifeBuoy Feather icon from react-icons"
   },
   "Import FiLifeBuoy (Feather) from all-files": {
-    "prefix": "ri:fi:import:life-buoy:all-files",
+    "prefix": "ri:import:fi:life-buoy:all-files",
     "body": "import { FiLifeBuoy } from '@react-icons/all-files/fi/FiLifeBuoy';",
     "description": "Import FiLifeBuoy Feather icon from @react-icons/all-files/fi/FiLifeBuoy"
   },
@@ -2272,12 +2272,12 @@
   },
 
   "Import FiLink2 (Feather)": {
-    "prefix": "ri:fi:import:link-2",
+    "prefix": "ri:import:fi:link-2",
     "body": "import { FiLink2 } from 'react-icons/fi';",
     "description": "Import FiLink2 Feather icon from react-icons"
   },
   "Import FiLink2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:link-2:all-files",
+    "prefix": "ri:import:fi:link-2:all-files",
     "body": "import { FiLink2 } from '@react-icons/all-files/fi/FiLink2';",
     "description": "Import FiLink2 Feather icon from @react-icons/all-files/fi/FiLink2"
   },
@@ -2288,12 +2288,12 @@
   },
 
   "Import FiLink (Feather)": {
-    "prefix": "ri:fi:import:link",
+    "prefix": "ri:import:fi:link",
     "body": "import { FiLink } from 'react-icons/fi';",
     "description": "Import FiLink Feather icon from react-icons"
   },
   "Import FiLink (Feather) from all-files": {
-    "prefix": "ri:fi:import:link:all-files",
+    "prefix": "ri:import:fi:link:all-files",
     "body": "import { FiLink } from '@react-icons/all-files/fi/FiLink';",
     "description": "Import FiLink Feather icon from @react-icons/all-files/fi/FiLink"
   },
@@ -2304,12 +2304,12 @@
   },
 
   "Import FiLinkedin (Feather)": {
-    "prefix": "ri:fi:import:linkedin",
+    "prefix": "ri:import:fi:linkedin",
     "body": "import { FiLinkedin } from 'react-icons/fi';",
     "description": "Import FiLinkedin Feather icon from react-icons"
   },
   "Import FiLinkedin (Feather) from all-files": {
-    "prefix": "ri:fi:import:linkedin:all-files",
+    "prefix": "ri:import:fi:linkedin:all-files",
     "body": "import { FiLinkedin } from '@react-icons/all-files/fi/FiLinkedin';",
     "description": "Import FiLinkedin Feather icon from @react-icons/all-files/fi/FiLinkedin"
   },
@@ -2320,12 +2320,12 @@
   },
 
   "Import FiList (Feather)": {
-    "prefix": "ri:fi:import:list",
+    "prefix": "ri:import:fi:list",
     "body": "import { FiList } from 'react-icons/fi';",
     "description": "Import FiList Feather icon from react-icons"
   },
   "Import FiList (Feather) from all-files": {
-    "prefix": "ri:fi:import:list:all-files",
+    "prefix": "ri:import:fi:list:all-files",
     "body": "import { FiList } from '@react-icons/all-files/fi/FiList';",
     "description": "Import FiList Feather icon from @react-icons/all-files/fi/FiList"
   },
@@ -2336,12 +2336,12 @@
   },
 
   "Import FiLoader (Feather)": {
-    "prefix": "ri:fi:import:loader",
+    "prefix": "ri:import:fi:loader",
     "body": "import { FiLoader } from 'react-icons/fi';",
     "description": "Import FiLoader Feather icon from react-icons"
   },
   "Import FiLoader (Feather) from all-files": {
-    "prefix": "ri:fi:import:loader:all-files",
+    "prefix": "ri:import:fi:loader:all-files",
     "body": "import { FiLoader } from '@react-icons/all-files/fi/FiLoader';",
     "description": "Import FiLoader Feather icon from @react-icons/all-files/fi/FiLoader"
   },
@@ -2352,12 +2352,12 @@
   },
 
   "Import FiLock (Feather)": {
-    "prefix": "ri:fi:import:lock",
+    "prefix": "ri:import:fi:lock",
     "body": "import { FiLock } from 'react-icons/fi';",
     "description": "Import FiLock Feather icon from react-icons"
   },
   "Import FiLock (Feather) from all-files": {
-    "prefix": "ri:fi:import:lock:all-files",
+    "prefix": "ri:import:fi:lock:all-files",
     "body": "import { FiLock } from '@react-icons/all-files/fi/FiLock';",
     "description": "Import FiLock Feather icon from @react-icons/all-files/fi/FiLock"
   },
@@ -2368,12 +2368,12 @@
   },
 
   "Import FiLogIn (Feather)": {
-    "prefix": "ri:fi:import:log-in",
+    "prefix": "ri:import:fi:log-in",
     "body": "import { FiLogIn } from 'react-icons/fi';",
     "description": "Import FiLogIn Feather icon from react-icons"
   },
   "Import FiLogIn (Feather) from all-files": {
-    "prefix": "ri:fi:import:log-in:all-files",
+    "prefix": "ri:import:fi:log-in:all-files",
     "body": "import { FiLogIn } from '@react-icons/all-files/fi/FiLogIn';",
     "description": "Import FiLogIn Feather icon from @react-icons/all-files/fi/FiLogIn"
   },
@@ -2384,12 +2384,12 @@
   },
 
   "Import FiLogOut (Feather)": {
-    "prefix": "ri:fi:import:log-out",
+    "prefix": "ri:import:fi:log-out",
     "body": "import { FiLogOut } from 'react-icons/fi';",
     "description": "Import FiLogOut Feather icon from react-icons"
   },
   "Import FiLogOut (Feather) from all-files": {
-    "prefix": "ri:fi:import:log-out:all-files",
+    "prefix": "ri:import:fi:log-out:all-files",
     "body": "import { FiLogOut } from '@react-icons/all-files/fi/FiLogOut';",
     "description": "Import FiLogOut Feather icon from @react-icons/all-files/fi/FiLogOut"
   },
@@ -2400,12 +2400,12 @@
   },
 
   "Import FiMail (Feather)": {
-    "prefix": "ri:fi:import:mail",
+    "prefix": "ri:import:fi:mail",
     "body": "import { FiMail } from 'react-icons/fi';",
     "description": "Import FiMail Feather icon from react-icons"
   },
   "Import FiMail (Feather) from all-files": {
-    "prefix": "ri:fi:import:mail:all-files",
+    "prefix": "ri:import:fi:mail:all-files",
     "body": "import { FiMail } from '@react-icons/all-files/fi/FiMail';",
     "description": "Import FiMail Feather icon from @react-icons/all-files/fi/FiMail"
   },
@@ -2416,12 +2416,12 @@
   },
 
   "Import FiMapPin (Feather)": {
-    "prefix": "ri:fi:import:map-pin",
+    "prefix": "ri:import:fi:map-pin",
     "body": "import { FiMapPin } from 'react-icons/fi';",
     "description": "Import FiMapPin Feather icon from react-icons"
   },
   "Import FiMapPin (Feather) from all-files": {
-    "prefix": "ri:fi:import:map-pin:all-files",
+    "prefix": "ri:import:fi:map-pin:all-files",
     "body": "import { FiMapPin } from '@react-icons/all-files/fi/FiMapPin';",
     "description": "Import FiMapPin Feather icon from @react-icons/all-files/fi/FiMapPin"
   },
@@ -2432,12 +2432,12 @@
   },
 
   "Import FiMap (Feather)": {
-    "prefix": "ri:fi:import:map",
+    "prefix": "ri:import:fi:map",
     "body": "import { FiMap } from 'react-icons/fi';",
     "description": "Import FiMap Feather icon from react-icons"
   },
   "Import FiMap (Feather) from all-files": {
-    "prefix": "ri:fi:import:map:all-files",
+    "prefix": "ri:import:fi:map:all-files",
     "body": "import { FiMap } from '@react-icons/all-files/fi/FiMap';",
     "description": "Import FiMap Feather icon from @react-icons/all-files/fi/FiMap"
   },
@@ -2448,12 +2448,12 @@
   },
 
   "Import FiMaximize2 (Feather)": {
-    "prefix": "ri:fi:import:maximize-2",
+    "prefix": "ri:import:fi:maximize-2",
     "body": "import { FiMaximize2 } from 'react-icons/fi';",
     "description": "Import FiMaximize2 Feather icon from react-icons"
   },
   "Import FiMaximize2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:maximize-2:all-files",
+    "prefix": "ri:import:fi:maximize-2:all-files",
     "body": "import { FiMaximize2 } from '@react-icons/all-files/fi/FiMaximize2';",
     "description": "Import FiMaximize2 Feather icon from @react-icons/all-files/fi/FiMaximize2"
   },
@@ -2464,12 +2464,12 @@
   },
 
   "Import FiMaximize (Feather)": {
-    "prefix": "ri:fi:import:maximize",
+    "prefix": "ri:import:fi:maximize",
     "body": "import { FiMaximize } from 'react-icons/fi';",
     "description": "Import FiMaximize Feather icon from react-icons"
   },
   "Import FiMaximize (Feather) from all-files": {
-    "prefix": "ri:fi:import:maximize:all-files",
+    "prefix": "ri:import:fi:maximize:all-files",
     "body": "import { FiMaximize } from '@react-icons/all-files/fi/FiMaximize';",
     "description": "Import FiMaximize Feather icon from @react-icons/all-files/fi/FiMaximize"
   },
@@ -2480,12 +2480,12 @@
   },
 
   "Import FiMeh (Feather)": {
-    "prefix": "ri:fi:import:meh",
+    "prefix": "ri:import:fi:meh",
     "body": "import { FiMeh } from 'react-icons/fi';",
     "description": "Import FiMeh Feather icon from react-icons"
   },
   "Import FiMeh (Feather) from all-files": {
-    "prefix": "ri:fi:import:meh:all-files",
+    "prefix": "ri:import:fi:meh:all-files",
     "body": "import { FiMeh } from '@react-icons/all-files/fi/FiMeh';",
     "description": "Import FiMeh Feather icon from @react-icons/all-files/fi/FiMeh"
   },
@@ -2496,12 +2496,12 @@
   },
 
   "Import FiMenu (Feather)": {
-    "prefix": "ri:fi:import:menu",
+    "prefix": "ri:import:fi:menu",
     "body": "import { FiMenu } from 'react-icons/fi';",
     "description": "Import FiMenu Feather icon from react-icons"
   },
   "Import FiMenu (Feather) from all-files": {
-    "prefix": "ri:fi:import:menu:all-files",
+    "prefix": "ri:import:fi:menu:all-files",
     "body": "import { FiMenu } from '@react-icons/all-files/fi/FiMenu';",
     "description": "Import FiMenu Feather icon from @react-icons/all-files/fi/FiMenu"
   },
@@ -2512,12 +2512,12 @@
   },
 
   "Import FiMessageCircle (Feather)": {
-    "prefix": "ri:fi:import:message-circle",
+    "prefix": "ri:import:fi:message-circle",
     "body": "import { FiMessageCircle } from 'react-icons/fi';",
     "description": "Import FiMessageCircle Feather icon from react-icons"
   },
   "Import FiMessageCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:message-circle:all-files",
+    "prefix": "ri:import:fi:message-circle:all-files",
     "body": "import { FiMessageCircle } from '@react-icons/all-files/fi/FiMessageCircle';",
     "description": "Import FiMessageCircle Feather icon from @react-icons/all-files/fi/FiMessageCircle"
   },
@@ -2528,12 +2528,12 @@
   },
 
   "Import FiMessageSquare (Feather)": {
-    "prefix": "ri:fi:import:message-square",
+    "prefix": "ri:import:fi:message-square",
     "body": "import { FiMessageSquare } from 'react-icons/fi';",
     "description": "Import FiMessageSquare Feather icon from react-icons"
   },
   "Import FiMessageSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:message-square:all-files",
+    "prefix": "ri:import:fi:message-square:all-files",
     "body": "import { FiMessageSquare } from '@react-icons/all-files/fi/FiMessageSquare';",
     "description": "Import FiMessageSquare Feather icon from @react-icons/all-files/fi/FiMessageSquare"
   },
@@ -2544,12 +2544,12 @@
   },
 
   "Import FiMicOff (Feather)": {
-    "prefix": "ri:fi:import:mic-off",
+    "prefix": "ri:import:fi:mic-off",
     "body": "import { FiMicOff } from 'react-icons/fi';",
     "description": "Import FiMicOff Feather icon from react-icons"
   },
   "Import FiMicOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:mic-off:all-files",
+    "prefix": "ri:import:fi:mic-off:all-files",
     "body": "import { FiMicOff } from '@react-icons/all-files/fi/FiMicOff';",
     "description": "Import FiMicOff Feather icon from @react-icons/all-files/fi/FiMicOff"
   },
@@ -2560,12 +2560,12 @@
   },
 
   "Import FiMic (Feather)": {
-    "prefix": "ri:fi:import:mic",
+    "prefix": "ri:import:fi:mic",
     "body": "import { FiMic } from 'react-icons/fi';",
     "description": "Import FiMic Feather icon from react-icons"
   },
   "Import FiMic (Feather) from all-files": {
-    "prefix": "ri:fi:import:mic:all-files",
+    "prefix": "ri:import:fi:mic:all-files",
     "body": "import { FiMic } from '@react-icons/all-files/fi/FiMic';",
     "description": "Import FiMic Feather icon from @react-icons/all-files/fi/FiMic"
   },
@@ -2576,12 +2576,12 @@
   },
 
   "Import FiMinimize2 (Feather)": {
-    "prefix": "ri:fi:import:minimize-2",
+    "prefix": "ri:import:fi:minimize-2",
     "body": "import { FiMinimize2 } from 'react-icons/fi';",
     "description": "Import FiMinimize2 Feather icon from react-icons"
   },
   "Import FiMinimize2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:minimize-2:all-files",
+    "prefix": "ri:import:fi:minimize-2:all-files",
     "body": "import { FiMinimize2 } from '@react-icons/all-files/fi/FiMinimize2';",
     "description": "Import FiMinimize2 Feather icon from @react-icons/all-files/fi/FiMinimize2"
   },
@@ -2592,12 +2592,12 @@
   },
 
   "Import FiMinimize (Feather)": {
-    "prefix": "ri:fi:import:minimize",
+    "prefix": "ri:import:fi:minimize",
     "body": "import { FiMinimize } from 'react-icons/fi';",
     "description": "Import FiMinimize Feather icon from react-icons"
   },
   "Import FiMinimize (Feather) from all-files": {
-    "prefix": "ri:fi:import:minimize:all-files",
+    "prefix": "ri:import:fi:minimize:all-files",
     "body": "import { FiMinimize } from '@react-icons/all-files/fi/FiMinimize';",
     "description": "Import FiMinimize Feather icon from @react-icons/all-files/fi/FiMinimize"
   },
@@ -2608,12 +2608,12 @@
   },
 
   "Import FiMinusCircle (Feather)": {
-    "prefix": "ri:fi:import:minus-circle",
+    "prefix": "ri:import:fi:minus-circle",
     "body": "import { FiMinusCircle } from 'react-icons/fi';",
     "description": "Import FiMinusCircle Feather icon from react-icons"
   },
   "Import FiMinusCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:minus-circle:all-files",
+    "prefix": "ri:import:fi:minus-circle:all-files",
     "body": "import { FiMinusCircle } from '@react-icons/all-files/fi/FiMinusCircle';",
     "description": "Import FiMinusCircle Feather icon from @react-icons/all-files/fi/FiMinusCircle"
   },
@@ -2624,12 +2624,12 @@
   },
 
   "Import FiMinusSquare (Feather)": {
-    "prefix": "ri:fi:import:minus-square",
+    "prefix": "ri:import:fi:minus-square",
     "body": "import { FiMinusSquare } from 'react-icons/fi';",
     "description": "Import FiMinusSquare Feather icon from react-icons"
   },
   "Import FiMinusSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:minus-square:all-files",
+    "prefix": "ri:import:fi:minus-square:all-files",
     "body": "import { FiMinusSquare } from '@react-icons/all-files/fi/FiMinusSquare';",
     "description": "Import FiMinusSquare Feather icon from @react-icons/all-files/fi/FiMinusSquare"
   },
@@ -2640,12 +2640,12 @@
   },
 
   "Import FiMinus (Feather)": {
-    "prefix": "ri:fi:import:minus",
+    "prefix": "ri:import:fi:minus",
     "body": "import { FiMinus } from 'react-icons/fi';",
     "description": "Import FiMinus Feather icon from react-icons"
   },
   "Import FiMinus (Feather) from all-files": {
-    "prefix": "ri:fi:import:minus:all-files",
+    "prefix": "ri:import:fi:minus:all-files",
     "body": "import { FiMinus } from '@react-icons/all-files/fi/FiMinus';",
     "description": "Import FiMinus Feather icon from @react-icons/all-files/fi/FiMinus"
   },
@@ -2656,12 +2656,12 @@
   },
 
   "Import FiMonitor (Feather)": {
-    "prefix": "ri:fi:import:monitor",
+    "prefix": "ri:import:fi:monitor",
     "body": "import { FiMonitor } from 'react-icons/fi';",
     "description": "Import FiMonitor Feather icon from react-icons"
   },
   "Import FiMonitor (Feather) from all-files": {
-    "prefix": "ri:fi:import:monitor:all-files",
+    "prefix": "ri:import:fi:monitor:all-files",
     "body": "import { FiMonitor } from '@react-icons/all-files/fi/FiMonitor';",
     "description": "Import FiMonitor Feather icon from @react-icons/all-files/fi/FiMonitor"
   },
@@ -2672,12 +2672,12 @@
   },
 
   "Import FiMoon (Feather)": {
-    "prefix": "ri:fi:import:moon",
+    "prefix": "ri:import:fi:moon",
     "body": "import { FiMoon } from 'react-icons/fi';",
     "description": "Import FiMoon Feather icon from react-icons"
   },
   "Import FiMoon (Feather) from all-files": {
-    "prefix": "ri:fi:import:moon:all-files",
+    "prefix": "ri:import:fi:moon:all-files",
     "body": "import { FiMoon } from '@react-icons/all-files/fi/FiMoon';",
     "description": "Import FiMoon Feather icon from @react-icons/all-files/fi/FiMoon"
   },
@@ -2688,12 +2688,12 @@
   },
 
   "Import FiMoreHorizontal (Feather)": {
-    "prefix": "ri:fi:import:more-horizontal",
+    "prefix": "ri:import:fi:more-horizontal",
     "body": "import { FiMoreHorizontal } from 'react-icons/fi';",
     "description": "Import FiMoreHorizontal Feather icon from react-icons"
   },
   "Import FiMoreHorizontal (Feather) from all-files": {
-    "prefix": "ri:fi:import:more-horizontal:all-files",
+    "prefix": "ri:import:fi:more-horizontal:all-files",
     "body": "import { FiMoreHorizontal } from '@react-icons/all-files/fi/FiMoreHorizontal';",
     "description": "Import FiMoreHorizontal Feather icon from @react-icons/all-files/fi/FiMoreHorizontal"
   },
@@ -2704,12 +2704,12 @@
   },
 
   "Import FiMoreVertical (Feather)": {
-    "prefix": "ri:fi:import:more-vertical",
+    "prefix": "ri:import:fi:more-vertical",
     "body": "import { FiMoreVertical } from 'react-icons/fi';",
     "description": "Import FiMoreVertical Feather icon from react-icons"
   },
   "Import FiMoreVertical (Feather) from all-files": {
-    "prefix": "ri:fi:import:more-vertical:all-files",
+    "prefix": "ri:import:fi:more-vertical:all-files",
     "body": "import { FiMoreVertical } from '@react-icons/all-files/fi/FiMoreVertical';",
     "description": "Import FiMoreVertical Feather icon from @react-icons/all-files/fi/FiMoreVertical"
   },
@@ -2720,12 +2720,12 @@
   },
 
   "Import FiMousePointer (Feather)": {
-    "prefix": "ri:fi:import:mouse-pointer",
+    "prefix": "ri:import:fi:mouse-pointer",
     "body": "import { FiMousePointer } from 'react-icons/fi';",
     "description": "Import FiMousePointer Feather icon from react-icons"
   },
   "Import FiMousePointer (Feather) from all-files": {
-    "prefix": "ri:fi:import:mouse-pointer:all-files",
+    "prefix": "ri:import:fi:mouse-pointer:all-files",
     "body": "import { FiMousePointer } from '@react-icons/all-files/fi/FiMousePointer';",
     "description": "Import FiMousePointer Feather icon from @react-icons/all-files/fi/FiMousePointer"
   },
@@ -2736,12 +2736,12 @@
   },
 
   "Import FiMove (Feather)": {
-    "prefix": "ri:fi:import:move",
+    "prefix": "ri:import:fi:move",
     "body": "import { FiMove } from 'react-icons/fi';",
     "description": "Import FiMove Feather icon from react-icons"
   },
   "Import FiMove (Feather) from all-files": {
-    "prefix": "ri:fi:import:move:all-files",
+    "prefix": "ri:import:fi:move:all-files",
     "body": "import { FiMove } from '@react-icons/all-files/fi/FiMove';",
     "description": "Import FiMove Feather icon from @react-icons/all-files/fi/FiMove"
   },
@@ -2752,12 +2752,12 @@
   },
 
   "Import FiMusic (Feather)": {
-    "prefix": "ri:fi:import:music",
+    "prefix": "ri:import:fi:music",
     "body": "import { FiMusic } from 'react-icons/fi';",
     "description": "Import FiMusic Feather icon from react-icons"
   },
   "Import FiMusic (Feather) from all-files": {
-    "prefix": "ri:fi:import:music:all-files",
+    "prefix": "ri:import:fi:music:all-files",
     "body": "import { FiMusic } from '@react-icons/all-files/fi/FiMusic';",
     "description": "Import FiMusic Feather icon from @react-icons/all-files/fi/FiMusic"
   },
@@ -2768,12 +2768,12 @@
   },
 
   "Import FiNavigation2 (Feather)": {
-    "prefix": "ri:fi:import:navigation-2",
+    "prefix": "ri:import:fi:navigation-2",
     "body": "import { FiNavigation2 } from 'react-icons/fi';",
     "description": "Import FiNavigation2 Feather icon from react-icons"
   },
   "Import FiNavigation2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:navigation-2:all-files",
+    "prefix": "ri:import:fi:navigation-2:all-files",
     "body": "import { FiNavigation2 } from '@react-icons/all-files/fi/FiNavigation2';",
     "description": "Import FiNavigation2 Feather icon from @react-icons/all-files/fi/FiNavigation2"
   },
@@ -2784,12 +2784,12 @@
   },
 
   "Import FiNavigation (Feather)": {
-    "prefix": "ri:fi:import:navigation",
+    "prefix": "ri:import:fi:navigation",
     "body": "import { FiNavigation } from 'react-icons/fi';",
     "description": "Import FiNavigation Feather icon from react-icons"
   },
   "Import FiNavigation (Feather) from all-files": {
-    "prefix": "ri:fi:import:navigation:all-files",
+    "prefix": "ri:import:fi:navigation:all-files",
     "body": "import { FiNavigation } from '@react-icons/all-files/fi/FiNavigation';",
     "description": "Import FiNavigation Feather icon from @react-icons/all-files/fi/FiNavigation"
   },
@@ -2800,12 +2800,12 @@
   },
 
   "Import FiOctagon (Feather)": {
-    "prefix": "ri:fi:import:octagon",
+    "prefix": "ri:import:fi:octagon",
     "body": "import { FiOctagon } from 'react-icons/fi';",
     "description": "Import FiOctagon Feather icon from react-icons"
   },
   "Import FiOctagon (Feather) from all-files": {
-    "prefix": "ri:fi:import:octagon:all-files",
+    "prefix": "ri:import:fi:octagon:all-files",
     "body": "import { FiOctagon } from '@react-icons/all-files/fi/FiOctagon';",
     "description": "Import FiOctagon Feather icon from @react-icons/all-files/fi/FiOctagon"
   },
@@ -2816,12 +2816,12 @@
   },
 
   "Import FiPackage (Feather)": {
-    "prefix": "ri:fi:import:package",
+    "prefix": "ri:import:fi:package",
     "body": "import { FiPackage } from 'react-icons/fi';",
     "description": "Import FiPackage Feather icon from react-icons"
   },
   "Import FiPackage (Feather) from all-files": {
-    "prefix": "ri:fi:import:package:all-files",
+    "prefix": "ri:import:fi:package:all-files",
     "body": "import { FiPackage } from '@react-icons/all-files/fi/FiPackage';",
     "description": "Import FiPackage Feather icon from @react-icons/all-files/fi/FiPackage"
   },
@@ -2832,12 +2832,12 @@
   },
 
   "Import FiPaperclip (Feather)": {
-    "prefix": "ri:fi:import:paperclip",
+    "prefix": "ri:import:fi:paperclip",
     "body": "import { FiPaperclip } from 'react-icons/fi';",
     "description": "Import FiPaperclip Feather icon from react-icons"
   },
   "Import FiPaperclip (Feather) from all-files": {
-    "prefix": "ri:fi:import:paperclip:all-files",
+    "prefix": "ri:import:fi:paperclip:all-files",
     "body": "import { FiPaperclip } from '@react-icons/all-files/fi/FiPaperclip';",
     "description": "Import FiPaperclip Feather icon from @react-icons/all-files/fi/FiPaperclip"
   },
@@ -2848,12 +2848,12 @@
   },
 
   "Import FiPauseCircle (Feather)": {
-    "prefix": "ri:fi:import:pause-circle",
+    "prefix": "ri:import:fi:pause-circle",
     "body": "import { FiPauseCircle } from 'react-icons/fi';",
     "description": "Import FiPauseCircle Feather icon from react-icons"
   },
   "Import FiPauseCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:pause-circle:all-files",
+    "prefix": "ri:import:fi:pause-circle:all-files",
     "body": "import { FiPauseCircle } from '@react-icons/all-files/fi/FiPauseCircle';",
     "description": "Import FiPauseCircle Feather icon from @react-icons/all-files/fi/FiPauseCircle"
   },
@@ -2864,12 +2864,12 @@
   },
 
   "Import FiPause (Feather)": {
-    "prefix": "ri:fi:import:pause",
+    "prefix": "ri:import:fi:pause",
     "body": "import { FiPause } from 'react-icons/fi';",
     "description": "Import FiPause Feather icon from react-icons"
   },
   "Import FiPause (Feather) from all-files": {
-    "prefix": "ri:fi:import:pause:all-files",
+    "prefix": "ri:import:fi:pause:all-files",
     "body": "import { FiPause } from '@react-icons/all-files/fi/FiPause';",
     "description": "Import FiPause Feather icon from @react-icons/all-files/fi/FiPause"
   },
@@ -2880,12 +2880,12 @@
   },
 
   "Import FiPenTool (Feather)": {
-    "prefix": "ri:fi:import:pen-tool",
+    "prefix": "ri:import:fi:pen-tool",
     "body": "import { FiPenTool } from 'react-icons/fi';",
     "description": "Import FiPenTool Feather icon from react-icons"
   },
   "Import FiPenTool (Feather) from all-files": {
-    "prefix": "ri:fi:import:pen-tool:all-files",
+    "prefix": "ri:import:fi:pen-tool:all-files",
     "body": "import { FiPenTool } from '@react-icons/all-files/fi/FiPenTool';",
     "description": "Import FiPenTool Feather icon from @react-icons/all-files/fi/FiPenTool"
   },
@@ -2896,12 +2896,12 @@
   },
 
   "Import FiPercent (Feather)": {
-    "prefix": "ri:fi:import:percent",
+    "prefix": "ri:import:fi:percent",
     "body": "import { FiPercent } from 'react-icons/fi';",
     "description": "Import FiPercent Feather icon from react-icons"
   },
   "Import FiPercent (Feather) from all-files": {
-    "prefix": "ri:fi:import:percent:all-files",
+    "prefix": "ri:import:fi:percent:all-files",
     "body": "import { FiPercent } from '@react-icons/all-files/fi/FiPercent';",
     "description": "Import FiPercent Feather icon from @react-icons/all-files/fi/FiPercent"
   },
@@ -2912,12 +2912,12 @@
   },
 
   "Import FiPhoneCall (Feather)": {
-    "prefix": "ri:fi:import:phone-call",
+    "prefix": "ri:import:fi:phone-call",
     "body": "import { FiPhoneCall } from 'react-icons/fi';",
     "description": "Import FiPhoneCall Feather icon from react-icons"
   },
   "Import FiPhoneCall (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone-call:all-files",
+    "prefix": "ri:import:fi:phone-call:all-files",
     "body": "import { FiPhoneCall } from '@react-icons/all-files/fi/FiPhoneCall';",
     "description": "Import FiPhoneCall Feather icon from @react-icons/all-files/fi/FiPhoneCall"
   },
@@ -2928,12 +2928,12 @@
   },
 
   "Import FiPhoneForwarded (Feather)": {
-    "prefix": "ri:fi:import:phone-forwarded",
+    "prefix": "ri:import:fi:phone-forwarded",
     "body": "import { FiPhoneForwarded } from 'react-icons/fi';",
     "description": "Import FiPhoneForwarded Feather icon from react-icons"
   },
   "Import FiPhoneForwarded (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone-forwarded:all-files",
+    "prefix": "ri:import:fi:phone-forwarded:all-files",
     "body": "import { FiPhoneForwarded } from '@react-icons/all-files/fi/FiPhoneForwarded';",
     "description": "Import FiPhoneForwarded Feather icon from @react-icons/all-files/fi/FiPhoneForwarded"
   },
@@ -2944,12 +2944,12 @@
   },
 
   "Import FiPhoneIncoming (Feather)": {
-    "prefix": "ri:fi:import:phone-incoming",
+    "prefix": "ri:import:fi:phone-incoming",
     "body": "import { FiPhoneIncoming } from 'react-icons/fi';",
     "description": "Import FiPhoneIncoming Feather icon from react-icons"
   },
   "Import FiPhoneIncoming (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone-incoming:all-files",
+    "prefix": "ri:import:fi:phone-incoming:all-files",
     "body": "import { FiPhoneIncoming } from '@react-icons/all-files/fi/FiPhoneIncoming';",
     "description": "Import FiPhoneIncoming Feather icon from @react-icons/all-files/fi/FiPhoneIncoming"
   },
@@ -2960,12 +2960,12 @@
   },
 
   "Import FiPhoneMissed (Feather)": {
-    "prefix": "ri:fi:import:phone-missed",
+    "prefix": "ri:import:fi:phone-missed",
     "body": "import { FiPhoneMissed } from 'react-icons/fi';",
     "description": "Import FiPhoneMissed Feather icon from react-icons"
   },
   "Import FiPhoneMissed (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone-missed:all-files",
+    "prefix": "ri:import:fi:phone-missed:all-files",
     "body": "import { FiPhoneMissed } from '@react-icons/all-files/fi/FiPhoneMissed';",
     "description": "Import FiPhoneMissed Feather icon from @react-icons/all-files/fi/FiPhoneMissed"
   },
@@ -2976,12 +2976,12 @@
   },
 
   "Import FiPhoneOff (Feather)": {
-    "prefix": "ri:fi:import:phone-off",
+    "prefix": "ri:import:fi:phone-off",
     "body": "import { FiPhoneOff } from 'react-icons/fi';",
     "description": "Import FiPhoneOff Feather icon from react-icons"
   },
   "Import FiPhoneOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone-off:all-files",
+    "prefix": "ri:import:fi:phone-off:all-files",
     "body": "import { FiPhoneOff } from '@react-icons/all-files/fi/FiPhoneOff';",
     "description": "Import FiPhoneOff Feather icon from @react-icons/all-files/fi/FiPhoneOff"
   },
@@ -2992,12 +2992,12 @@
   },
 
   "Import FiPhoneOutgoing (Feather)": {
-    "prefix": "ri:fi:import:phone-outgoing",
+    "prefix": "ri:import:fi:phone-outgoing",
     "body": "import { FiPhoneOutgoing } from 'react-icons/fi';",
     "description": "Import FiPhoneOutgoing Feather icon from react-icons"
   },
   "Import FiPhoneOutgoing (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone-outgoing:all-files",
+    "prefix": "ri:import:fi:phone-outgoing:all-files",
     "body": "import { FiPhoneOutgoing } from '@react-icons/all-files/fi/FiPhoneOutgoing';",
     "description": "Import FiPhoneOutgoing Feather icon from @react-icons/all-files/fi/FiPhoneOutgoing"
   },
@@ -3008,12 +3008,12 @@
   },
 
   "Import FiPhone (Feather)": {
-    "prefix": "ri:fi:import:phone",
+    "prefix": "ri:import:fi:phone",
     "body": "import { FiPhone } from 'react-icons/fi';",
     "description": "Import FiPhone Feather icon from react-icons"
   },
   "Import FiPhone (Feather) from all-files": {
-    "prefix": "ri:fi:import:phone:all-files",
+    "prefix": "ri:import:fi:phone:all-files",
     "body": "import { FiPhone } from '@react-icons/all-files/fi/FiPhone';",
     "description": "Import FiPhone Feather icon from @react-icons/all-files/fi/FiPhone"
   },
@@ -3024,12 +3024,12 @@
   },
 
   "Import FiPieChart (Feather)": {
-    "prefix": "ri:fi:import:pie-chart",
+    "prefix": "ri:import:fi:pie-chart",
     "body": "import { FiPieChart } from 'react-icons/fi';",
     "description": "Import FiPieChart Feather icon from react-icons"
   },
   "Import FiPieChart (Feather) from all-files": {
-    "prefix": "ri:fi:import:pie-chart:all-files",
+    "prefix": "ri:import:fi:pie-chart:all-files",
     "body": "import { FiPieChart } from '@react-icons/all-files/fi/FiPieChart';",
     "description": "Import FiPieChart Feather icon from @react-icons/all-files/fi/FiPieChart"
   },
@@ -3040,12 +3040,12 @@
   },
 
   "Import FiPlayCircle (Feather)": {
-    "prefix": "ri:fi:import:play-circle",
+    "prefix": "ri:import:fi:play-circle",
     "body": "import { FiPlayCircle } from 'react-icons/fi';",
     "description": "Import FiPlayCircle Feather icon from react-icons"
   },
   "Import FiPlayCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:play-circle:all-files",
+    "prefix": "ri:import:fi:play-circle:all-files",
     "body": "import { FiPlayCircle } from '@react-icons/all-files/fi/FiPlayCircle';",
     "description": "Import FiPlayCircle Feather icon from @react-icons/all-files/fi/FiPlayCircle"
   },
@@ -3056,12 +3056,12 @@
   },
 
   "Import FiPlay (Feather)": {
-    "prefix": "ri:fi:import:play",
+    "prefix": "ri:import:fi:play",
     "body": "import { FiPlay } from 'react-icons/fi';",
     "description": "Import FiPlay Feather icon from react-icons"
   },
   "Import FiPlay (Feather) from all-files": {
-    "prefix": "ri:fi:import:play:all-files",
+    "prefix": "ri:import:fi:play:all-files",
     "body": "import { FiPlay } from '@react-icons/all-files/fi/FiPlay';",
     "description": "Import FiPlay Feather icon from @react-icons/all-files/fi/FiPlay"
   },
@@ -3072,12 +3072,12 @@
   },
 
   "Import FiPlusCircle (Feather)": {
-    "prefix": "ri:fi:import:plus-circle",
+    "prefix": "ri:import:fi:plus-circle",
     "body": "import { FiPlusCircle } from 'react-icons/fi';",
     "description": "Import FiPlusCircle Feather icon from react-icons"
   },
   "Import FiPlusCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:plus-circle:all-files",
+    "prefix": "ri:import:fi:plus-circle:all-files",
     "body": "import { FiPlusCircle } from '@react-icons/all-files/fi/FiPlusCircle';",
     "description": "Import FiPlusCircle Feather icon from @react-icons/all-files/fi/FiPlusCircle"
   },
@@ -3088,12 +3088,12 @@
   },
 
   "Import FiPlusSquare (Feather)": {
-    "prefix": "ri:fi:import:plus-square",
+    "prefix": "ri:import:fi:plus-square",
     "body": "import { FiPlusSquare } from 'react-icons/fi';",
     "description": "Import FiPlusSquare Feather icon from react-icons"
   },
   "Import FiPlusSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:plus-square:all-files",
+    "prefix": "ri:import:fi:plus-square:all-files",
     "body": "import { FiPlusSquare } from '@react-icons/all-files/fi/FiPlusSquare';",
     "description": "Import FiPlusSquare Feather icon from @react-icons/all-files/fi/FiPlusSquare"
   },
@@ -3104,12 +3104,12 @@
   },
 
   "Import FiPlus (Feather)": {
-    "prefix": "ri:fi:import:plus",
+    "prefix": "ri:import:fi:plus",
     "body": "import { FiPlus } from 'react-icons/fi';",
     "description": "Import FiPlus Feather icon from react-icons"
   },
   "Import FiPlus (Feather) from all-files": {
-    "prefix": "ri:fi:import:plus:all-files",
+    "prefix": "ri:import:fi:plus:all-files",
     "body": "import { FiPlus } from '@react-icons/all-files/fi/FiPlus';",
     "description": "Import FiPlus Feather icon from @react-icons/all-files/fi/FiPlus"
   },
@@ -3120,12 +3120,12 @@
   },
 
   "Import FiPocket (Feather)": {
-    "prefix": "ri:fi:import:pocket",
+    "prefix": "ri:import:fi:pocket",
     "body": "import { FiPocket } from 'react-icons/fi';",
     "description": "Import FiPocket Feather icon from react-icons"
   },
   "Import FiPocket (Feather) from all-files": {
-    "prefix": "ri:fi:import:pocket:all-files",
+    "prefix": "ri:import:fi:pocket:all-files",
     "body": "import { FiPocket } from '@react-icons/all-files/fi/FiPocket';",
     "description": "Import FiPocket Feather icon from @react-icons/all-files/fi/FiPocket"
   },
@@ -3136,12 +3136,12 @@
   },
 
   "Import FiPower (Feather)": {
-    "prefix": "ri:fi:import:power",
+    "prefix": "ri:import:fi:power",
     "body": "import { FiPower } from 'react-icons/fi';",
     "description": "Import FiPower Feather icon from react-icons"
   },
   "Import FiPower (Feather) from all-files": {
-    "prefix": "ri:fi:import:power:all-files",
+    "prefix": "ri:import:fi:power:all-files",
     "body": "import { FiPower } from '@react-icons/all-files/fi/FiPower';",
     "description": "Import FiPower Feather icon from @react-icons/all-files/fi/FiPower"
   },
@@ -3152,12 +3152,12 @@
   },
 
   "Import FiPrinter (Feather)": {
-    "prefix": "ri:fi:import:printer",
+    "prefix": "ri:import:fi:printer",
     "body": "import { FiPrinter } from 'react-icons/fi';",
     "description": "Import FiPrinter Feather icon from react-icons"
   },
   "Import FiPrinter (Feather) from all-files": {
-    "prefix": "ri:fi:import:printer:all-files",
+    "prefix": "ri:import:fi:printer:all-files",
     "body": "import { FiPrinter } from '@react-icons/all-files/fi/FiPrinter';",
     "description": "Import FiPrinter Feather icon from @react-icons/all-files/fi/FiPrinter"
   },
@@ -3168,12 +3168,12 @@
   },
 
   "Import FiRadio (Feather)": {
-    "prefix": "ri:fi:import:radio",
+    "prefix": "ri:import:fi:radio",
     "body": "import { FiRadio } from 'react-icons/fi';",
     "description": "Import FiRadio Feather icon from react-icons"
   },
   "Import FiRadio (Feather) from all-files": {
-    "prefix": "ri:fi:import:radio:all-files",
+    "prefix": "ri:import:fi:radio:all-files",
     "body": "import { FiRadio } from '@react-icons/all-files/fi/FiRadio';",
     "description": "Import FiRadio Feather icon from @react-icons/all-files/fi/FiRadio"
   },
@@ -3184,12 +3184,12 @@
   },
 
   "Import FiRefreshCcw (Feather)": {
-    "prefix": "ri:fi:import:refresh-ccw",
+    "prefix": "ri:import:fi:refresh-ccw",
     "body": "import { FiRefreshCcw } from 'react-icons/fi';",
     "description": "Import FiRefreshCcw Feather icon from react-icons"
   },
   "Import FiRefreshCcw (Feather) from all-files": {
-    "prefix": "ri:fi:import:refresh-ccw:all-files",
+    "prefix": "ri:import:fi:refresh-ccw:all-files",
     "body": "import { FiRefreshCcw } from '@react-icons/all-files/fi/FiRefreshCcw';",
     "description": "Import FiRefreshCcw Feather icon from @react-icons/all-files/fi/FiRefreshCcw"
   },
@@ -3200,12 +3200,12 @@
   },
 
   "Import FiRefreshCw (Feather)": {
-    "prefix": "ri:fi:import:refresh-cw",
+    "prefix": "ri:import:fi:refresh-cw",
     "body": "import { FiRefreshCw } from 'react-icons/fi';",
     "description": "Import FiRefreshCw Feather icon from react-icons"
   },
   "Import FiRefreshCw (Feather) from all-files": {
-    "prefix": "ri:fi:import:refresh-cw:all-files",
+    "prefix": "ri:import:fi:refresh-cw:all-files",
     "body": "import { FiRefreshCw } from '@react-icons/all-files/fi/FiRefreshCw';",
     "description": "Import FiRefreshCw Feather icon from @react-icons/all-files/fi/FiRefreshCw"
   },
@@ -3216,12 +3216,12 @@
   },
 
   "Import FiRepeat (Feather)": {
-    "prefix": "ri:fi:import:repeat",
+    "prefix": "ri:import:fi:repeat",
     "body": "import { FiRepeat } from 'react-icons/fi';",
     "description": "Import FiRepeat Feather icon from react-icons"
   },
   "Import FiRepeat (Feather) from all-files": {
-    "prefix": "ri:fi:import:repeat:all-files",
+    "prefix": "ri:import:fi:repeat:all-files",
     "body": "import { FiRepeat } from '@react-icons/all-files/fi/FiRepeat';",
     "description": "Import FiRepeat Feather icon from @react-icons/all-files/fi/FiRepeat"
   },
@@ -3232,12 +3232,12 @@
   },
 
   "Import FiRewind (Feather)": {
-    "prefix": "ri:fi:import:rewind",
+    "prefix": "ri:import:fi:rewind",
     "body": "import { FiRewind } from 'react-icons/fi';",
     "description": "Import FiRewind Feather icon from react-icons"
   },
   "Import FiRewind (Feather) from all-files": {
-    "prefix": "ri:fi:import:rewind:all-files",
+    "prefix": "ri:import:fi:rewind:all-files",
     "body": "import { FiRewind } from '@react-icons/all-files/fi/FiRewind';",
     "description": "Import FiRewind Feather icon from @react-icons/all-files/fi/FiRewind"
   },
@@ -3248,12 +3248,12 @@
   },
 
   "Import FiRotateCcw (Feather)": {
-    "prefix": "ri:fi:import:rotate-ccw",
+    "prefix": "ri:import:fi:rotate-ccw",
     "body": "import { FiRotateCcw } from 'react-icons/fi';",
     "description": "Import FiRotateCcw Feather icon from react-icons"
   },
   "Import FiRotateCcw (Feather) from all-files": {
-    "prefix": "ri:fi:import:rotate-ccw:all-files",
+    "prefix": "ri:import:fi:rotate-ccw:all-files",
     "body": "import { FiRotateCcw } from '@react-icons/all-files/fi/FiRotateCcw';",
     "description": "Import FiRotateCcw Feather icon from @react-icons/all-files/fi/FiRotateCcw"
   },
@@ -3264,12 +3264,12 @@
   },
 
   "Import FiRotateCw (Feather)": {
-    "prefix": "ri:fi:import:rotate-cw",
+    "prefix": "ri:import:fi:rotate-cw",
     "body": "import { FiRotateCw } from 'react-icons/fi';",
     "description": "Import FiRotateCw Feather icon from react-icons"
   },
   "Import FiRotateCw (Feather) from all-files": {
-    "prefix": "ri:fi:import:rotate-cw:all-files",
+    "prefix": "ri:import:fi:rotate-cw:all-files",
     "body": "import { FiRotateCw } from '@react-icons/all-files/fi/FiRotateCw';",
     "description": "Import FiRotateCw Feather icon from @react-icons/all-files/fi/FiRotateCw"
   },
@@ -3280,12 +3280,12 @@
   },
 
   "Import FiRss (Feather)": {
-    "prefix": "ri:fi:import:rss",
+    "prefix": "ri:import:fi:rss",
     "body": "import { FiRss } from 'react-icons/fi';",
     "description": "Import FiRss Feather icon from react-icons"
   },
   "Import FiRss (Feather) from all-files": {
-    "prefix": "ri:fi:import:rss:all-files",
+    "prefix": "ri:import:fi:rss:all-files",
     "body": "import { FiRss } from '@react-icons/all-files/fi/FiRss';",
     "description": "Import FiRss Feather icon from @react-icons/all-files/fi/FiRss"
   },
@@ -3296,12 +3296,12 @@
   },
 
   "Import FiSave (Feather)": {
-    "prefix": "ri:fi:import:save",
+    "prefix": "ri:import:fi:save",
     "body": "import { FiSave } from 'react-icons/fi';",
     "description": "Import FiSave Feather icon from react-icons"
   },
   "Import FiSave (Feather) from all-files": {
-    "prefix": "ri:fi:import:save:all-files",
+    "prefix": "ri:import:fi:save:all-files",
     "body": "import { FiSave } from '@react-icons/all-files/fi/FiSave';",
     "description": "Import FiSave Feather icon from @react-icons/all-files/fi/FiSave"
   },
@@ -3312,12 +3312,12 @@
   },
 
   "Import FiScissors (Feather)": {
-    "prefix": "ri:fi:import:scissors",
+    "prefix": "ri:import:fi:scissors",
     "body": "import { FiScissors } from 'react-icons/fi';",
     "description": "Import FiScissors Feather icon from react-icons"
   },
   "Import FiScissors (Feather) from all-files": {
-    "prefix": "ri:fi:import:scissors:all-files",
+    "prefix": "ri:import:fi:scissors:all-files",
     "body": "import { FiScissors } from '@react-icons/all-files/fi/FiScissors';",
     "description": "Import FiScissors Feather icon from @react-icons/all-files/fi/FiScissors"
   },
@@ -3328,12 +3328,12 @@
   },
 
   "Import FiSearch (Feather)": {
-    "prefix": "ri:fi:import:search",
+    "prefix": "ri:import:fi:search",
     "body": "import { FiSearch } from 'react-icons/fi';",
     "description": "Import FiSearch Feather icon from react-icons"
   },
   "Import FiSearch (Feather) from all-files": {
-    "prefix": "ri:fi:import:search:all-files",
+    "prefix": "ri:import:fi:search:all-files",
     "body": "import { FiSearch } from '@react-icons/all-files/fi/FiSearch';",
     "description": "Import FiSearch Feather icon from @react-icons/all-files/fi/FiSearch"
   },
@@ -3344,12 +3344,12 @@
   },
 
   "Import FiSend (Feather)": {
-    "prefix": "ri:fi:import:send",
+    "prefix": "ri:import:fi:send",
     "body": "import { FiSend } from 'react-icons/fi';",
     "description": "Import FiSend Feather icon from react-icons"
   },
   "Import FiSend (Feather) from all-files": {
-    "prefix": "ri:fi:import:send:all-files",
+    "prefix": "ri:import:fi:send:all-files",
     "body": "import { FiSend } from '@react-icons/all-files/fi/FiSend';",
     "description": "Import FiSend Feather icon from @react-icons/all-files/fi/FiSend"
   },
@@ -3360,12 +3360,12 @@
   },
 
   "Import FiServer (Feather)": {
-    "prefix": "ri:fi:import:server",
+    "prefix": "ri:import:fi:server",
     "body": "import { FiServer } from 'react-icons/fi';",
     "description": "Import FiServer Feather icon from react-icons"
   },
   "Import FiServer (Feather) from all-files": {
-    "prefix": "ri:fi:import:server:all-files",
+    "prefix": "ri:import:fi:server:all-files",
     "body": "import { FiServer } from '@react-icons/all-files/fi/FiServer';",
     "description": "Import FiServer Feather icon from @react-icons/all-files/fi/FiServer"
   },
@@ -3376,12 +3376,12 @@
   },
 
   "Import FiSettings (Feather)": {
-    "prefix": "ri:fi:import:settings",
+    "prefix": "ri:import:fi:settings",
     "body": "import { FiSettings } from 'react-icons/fi';",
     "description": "Import FiSettings Feather icon from react-icons"
   },
   "Import FiSettings (Feather) from all-files": {
-    "prefix": "ri:fi:import:settings:all-files",
+    "prefix": "ri:import:fi:settings:all-files",
     "body": "import { FiSettings } from '@react-icons/all-files/fi/FiSettings';",
     "description": "Import FiSettings Feather icon from @react-icons/all-files/fi/FiSettings"
   },
@@ -3392,12 +3392,12 @@
   },
 
   "Import FiShare2 (Feather)": {
-    "prefix": "ri:fi:import:share-2",
+    "prefix": "ri:import:fi:share-2",
     "body": "import { FiShare2 } from 'react-icons/fi';",
     "description": "Import FiShare2 Feather icon from react-icons"
   },
   "Import FiShare2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:share-2:all-files",
+    "prefix": "ri:import:fi:share-2:all-files",
     "body": "import { FiShare2 } from '@react-icons/all-files/fi/FiShare2';",
     "description": "Import FiShare2 Feather icon from @react-icons/all-files/fi/FiShare2"
   },
@@ -3408,12 +3408,12 @@
   },
 
   "Import FiShare (Feather)": {
-    "prefix": "ri:fi:import:share",
+    "prefix": "ri:import:fi:share",
     "body": "import { FiShare } from 'react-icons/fi';",
     "description": "Import FiShare Feather icon from react-icons"
   },
   "Import FiShare (Feather) from all-files": {
-    "prefix": "ri:fi:import:share:all-files",
+    "prefix": "ri:import:fi:share:all-files",
     "body": "import { FiShare } from '@react-icons/all-files/fi/FiShare';",
     "description": "Import FiShare Feather icon from @react-icons/all-files/fi/FiShare"
   },
@@ -3424,12 +3424,12 @@
   },
 
   "Import FiShieldOff (Feather)": {
-    "prefix": "ri:fi:import:shield-off",
+    "prefix": "ri:import:fi:shield-off",
     "body": "import { FiShieldOff } from 'react-icons/fi';",
     "description": "Import FiShieldOff Feather icon from react-icons"
   },
   "Import FiShieldOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:shield-off:all-files",
+    "prefix": "ri:import:fi:shield-off:all-files",
     "body": "import { FiShieldOff } from '@react-icons/all-files/fi/FiShieldOff';",
     "description": "Import FiShieldOff Feather icon from @react-icons/all-files/fi/FiShieldOff"
   },
@@ -3440,12 +3440,12 @@
   },
 
   "Import FiShield (Feather)": {
-    "prefix": "ri:fi:import:shield",
+    "prefix": "ri:import:fi:shield",
     "body": "import { FiShield } from 'react-icons/fi';",
     "description": "Import FiShield Feather icon from react-icons"
   },
   "Import FiShield (Feather) from all-files": {
-    "prefix": "ri:fi:import:shield:all-files",
+    "prefix": "ri:import:fi:shield:all-files",
     "body": "import { FiShield } from '@react-icons/all-files/fi/FiShield';",
     "description": "Import FiShield Feather icon from @react-icons/all-files/fi/FiShield"
   },
@@ -3456,12 +3456,12 @@
   },
 
   "Import FiShoppingBag (Feather)": {
-    "prefix": "ri:fi:import:shopping-bag",
+    "prefix": "ri:import:fi:shopping-bag",
     "body": "import { FiShoppingBag } from 'react-icons/fi';",
     "description": "Import FiShoppingBag Feather icon from react-icons"
   },
   "Import FiShoppingBag (Feather) from all-files": {
-    "prefix": "ri:fi:import:shopping-bag:all-files",
+    "prefix": "ri:import:fi:shopping-bag:all-files",
     "body": "import { FiShoppingBag } from '@react-icons/all-files/fi/FiShoppingBag';",
     "description": "Import FiShoppingBag Feather icon from @react-icons/all-files/fi/FiShoppingBag"
   },
@@ -3472,12 +3472,12 @@
   },
 
   "Import FiShoppingCart (Feather)": {
-    "prefix": "ri:fi:import:shopping-cart",
+    "prefix": "ri:import:fi:shopping-cart",
     "body": "import { FiShoppingCart } from 'react-icons/fi';",
     "description": "Import FiShoppingCart Feather icon from react-icons"
   },
   "Import FiShoppingCart (Feather) from all-files": {
-    "prefix": "ri:fi:import:shopping-cart:all-files",
+    "prefix": "ri:import:fi:shopping-cart:all-files",
     "body": "import { FiShoppingCart } from '@react-icons/all-files/fi/FiShoppingCart';",
     "description": "Import FiShoppingCart Feather icon from @react-icons/all-files/fi/FiShoppingCart"
   },
@@ -3488,12 +3488,12 @@
   },
 
   "Import FiShuffle (Feather)": {
-    "prefix": "ri:fi:import:shuffle",
+    "prefix": "ri:import:fi:shuffle",
     "body": "import { FiShuffle } from 'react-icons/fi';",
     "description": "Import FiShuffle Feather icon from react-icons"
   },
   "Import FiShuffle (Feather) from all-files": {
-    "prefix": "ri:fi:import:shuffle:all-files",
+    "prefix": "ri:import:fi:shuffle:all-files",
     "body": "import { FiShuffle } from '@react-icons/all-files/fi/FiShuffle';",
     "description": "Import FiShuffle Feather icon from @react-icons/all-files/fi/FiShuffle"
   },
@@ -3504,12 +3504,12 @@
   },
 
   "Import FiSidebar (Feather)": {
-    "prefix": "ri:fi:import:sidebar",
+    "prefix": "ri:import:fi:sidebar",
     "body": "import { FiSidebar } from 'react-icons/fi';",
     "description": "Import FiSidebar Feather icon from react-icons"
   },
   "Import FiSidebar (Feather) from all-files": {
-    "prefix": "ri:fi:import:sidebar:all-files",
+    "prefix": "ri:import:fi:sidebar:all-files",
     "body": "import { FiSidebar } from '@react-icons/all-files/fi/FiSidebar';",
     "description": "Import FiSidebar Feather icon from @react-icons/all-files/fi/FiSidebar"
   },
@@ -3520,12 +3520,12 @@
   },
 
   "Import FiSkipBack (Feather)": {
-    "prefix": "ri:fi:import:skip-back",
+    "prefix": "ri:import:fi:skip-back",
     "body": "import { FiSkipBack } from 'react-icons/fi';",
     "description": "Import FiSkipBack Feather icon from react-icons"
   },
   "Import FiSkipBack (Feather) from all-files": {
-    "prefix": "ri:fi:import:skip-back:all-files",
+    "prefix": "ri:import:fi:skip-back:all-files",
     "body": "import { FiSkipBack } from '@react-icons/all-files/fi/FiSkipBack';",
     "description": "Import FiSkipBack Feather icon from @react-icons/all-files/fi/FiSkipBack"
   },
@@ -3536,12 +3536,12 @@
   },
 
   "Import FiSkipForward (Feather)": {
-    "prefix": "ri:fi:import:skip-forward",
+    "prefix": "ri:import:fi:skip-forward",
     "body": "import { FiSkipForward } from 'react-icons/fi';",
     "description": "Import FiSkipForward Feather icon from react-icons"
   },
   "Import FiSkipForward (Feather) from all-files": {
-    "prefix": "ri:fi:import:skip-forward:all-files",
+    "prefix": "ri:import:fi:skip-forward:all-files",
     "body": "import { FiSkipForward } from '@react-icons/all-files/fi/FiSkipForward';",
     "description": "Import FiSkipForward Feather icon from @react-icons/all-files/fi/FiSkipForward"
   },
@@ -3552,12 +3552,12 @@
   },
 
   "Import FiSlack (Feather)": {
-    "prefix": "ri:fi:import:slack",
+    "prefix": "ri:import:fi:slack",
     "body": "import { FiSlack } from 'react-icons/fi';",
     "description": "Import FiSlack Feather icon from react-icons"
   },
   "Import FiSlack (Feather) from all-files": {
-    "prefix": "ri:fi:import:slack:all-files",
+    "prefix": "ri:import:fi:slack:all-files",
     "body": "import { FiSlack } from '@react-icons/all-files/fi/FiSlack';",
     "description": "Import FiSlack Feather icon from @react-icons/all-files/fi/FiSlack"
   },
@@ -3568,12 +3568,12 @@
   },
 
   "Import FiSlash (Feather)": {
-    "prefix": "ri:fi:import:slash",
+    "prefix": "ri:import:fi:slash",
     "body": "import { FiSlash } from 'react-icons/fi';",
     "description": "Import FiSlash Feather icon from react-icons"
   },
   "Import FiSlash (Feather) from all-files": {
-    "prefix": "ri:fi:import:slash:all-files",
+    "prefix": "ri:import:fi:slash:all-files",
     "body": "import { FiSlash } from '@react-icons/all-files/fi/FiSlash';",
     "description": "Import FiSlash Feather icon from @react-icons/all-files/fi/FiSlash"
   },
@@ -3584,12 +3584,12 @@
   },
 
   "Import FiSliders (Feather)": {
-    "prefix": "ri:fi:import:sliders",
+    "prefix": "ri:import:fi:sliders",
     "body": "import { FiSliders } from 'react-icons/fi';",
     "description": "Import FiSliders Feather icon from react-icons"
   },
   "Import FiSliders (Feather) from all-files": {
-    "prefix": "ri:fi:import:sliders:all-files",
+    "prefix": "ri:import:fi:sliders:all-files",
     "body": "import { FiSliders } from '@react-icons/all-files/fi/FiSliders';",
     "description": "Import FiSliders Feather icon from @react-icons/all-files/fi/FiSliders"
   },
@@ -3600,12 +3600,12 @@
   },
 
   "Import FiSmartphone (Feather)": {
-    "prefix": "ri:fi:import:smartphone",
+    "prefix": "ri:import:fi:smartphone",
     "body": "import { FiSmartphone } from 'react-icons/fi';",
     "description": "Import FiSmartphone Feather icon from react-icons"
   },
   "Import FiSmartphone (Feather) from all-files": {
-    "prefix": "ri:fi:import:smartphone:all-files",
+    "prefix": "ri:import:fi:smartphone:all-files",
     "body": "import { FiSmartphone } from '@react-icons/all-files/fi/FiSmartphone';",
     "description": "Import FiSmartphone Feather icon from @react-icons/all-files/fi/FiSmartphone"
   },
@@ -3616,12 +3616,12 @@
   },
 
   "Import FiSmile (Feather)": {
-    "prefix": "ri:fi:import:smile",
+    "prefix": "ri:import:fi:smile",
     "body": "import { FiSmile } from 'react-icons/fi';",
     "description": "Import FiSmile Feather icon from react-icons"
   },
   "Import FiSmile (Feather) from all-files": {
-    "prefix": "ri:fi:import:smile:all-files",
+    "prefix": "ri:import:fi:smile:all-files",
     "body": "import { FiSmile } from '@react-icons/all-files/fi/FiSmile';",
     "description": "Import FiSmile Feather icon from @react-icons/all-files/fi/FiSmile"
   },
@@ -3632,12 +3632,12 @@
   },
 
   "Import FiSpeaker (Feather)": {
-    "prefix": "ri:fi:import:speaker",
+    "prefix": "ri:import:fi:speaker",
     "body": "import { FiSpeaker } from 'react-icons/fi';",
     "description": "Import FiSpeaker Feather icon from react-icons"
   },
   "Import FiSpeaker (Feather) from all-files": {
-    "prefix": "ri:fi:import:speaker:all-files",
+    "prefix": "ri:import:fi:speaker:all-files",
     "body": "import { FiSpeaker } from '@react-icons/all-files/fi/FiSpeaker';",
     "description": "Import FiSpeaker Feather icon from @react-icons/all-files/fi/FiSpeaker"
   },
@@ -3648,12 +3648,12 @@
   },
 
   "Import FiSquare (Feather)": {
-    "prefix": "ri:fi:import:square",
+    "prefix": "ri:import:fi:square",
     "body": "import { FiSquare } from 'react-icons/fi';",
     "description": "Import FiSquare Feather icon from react-icons"
   },
   "Import FiSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:square:all-files",
+    "prefix": "ri:import:fi:square:all-files",
     "body": "import { FiSquare } from '@react-icons/all-files/fi/FiSquare';",
     "description": "Import FiSquare Feather icon from @react-icons/all-files/fi/FiSquare"
   },
@@ -3664,12 +3664,12 @@
   },
 
   "Import FiStar (Feather)": {
-    "prefix": "ri:fi:import:star",
+    "prefix": "ri:import:fi:star",
     "body": "import { FiStar } from 'react-icons/fi';",
     "description": "Import FiStar Feather icon from react-icons"
   },
   "Import FiStar (Feather) from all-files": {
-    "prefix": "ri:fi:import:star:all-files",
+    "prefix": "ri:import:fi:star:all-files",
     "body": "import { FiStar } from '@react-icons/all-files/fi/FiStar';",
     "description": "Import FiStar Feather icon from @react-icons/all-files/fi/FiStar"
   },
@@ -3680,12 +3680,12 @@
   },
 
   "Import FiStopCircle (Feather)": {
-    "prefix": "ri:fi:import:stop-circle",
+    "prefix": "ri:import:fi:stop-circle",
     "body": "import { FiStopCircle } from 'react-icons/fi';",
     "description": "Import FiStopCircle Feather icon from react-icons"
   },
   "Import FiStopCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:stop-circle:all-files",
+    "prefix": "ri:import:fi:stop-circle:all-files",
     "body": "import { FiStopCircle } from '@react-icons/all-files/fi/FiStopCircle';",
     "description": "Import FiStopCircle Feather icon from @react-icons/all-files/fi/FiStopCircle"
   },
@@ -3696,12 +3696,12 @@
   },
 
   "Import FiSun (Feather)": {
-    "prefix": "ri:fi:import:sun",
+    "prefix": "ri:import:fi:sun",
     "body": "import { FiSun } from 'react-icons/fi';",
     "description": "Import FiSun Feather icon from react-icons"
   },
   "Import FiSun (Feather) from all-files": {
-    "prefix": "ri:fi:import:sun:all-files",
+    "prefix": "ri:import:fi:sun:all-files",
     "body": "import { FiSun } from '@react-icons/all-files/fi/FiSun';",
     "description": "Import FiSun Feather icon from @react-icons/all-files/fi/FiSun"
   },
@@ -3712,12 +3712,12 @@
   },
 
   "Import FiSunrise (Feather)": {
-    "prefix": "ri:fi:import:sunrise",
+    "prefix": "ri:import:fi:sunrise",
     "body": "import { FiSunrise } from 'react-icons/fi';",
     "description": "Import FiSunrise Feather icon from react-icons"
   },
   "Import FiSunrise (Feather) from all-files": {
-    "prefix": "ri:fi:import:sunrise:all-files",
+    "prefix": "ri:import:fi:sunrise:all-files",
     "body": "import { FiSunrise } from '@react-icons/all-files/fi/FiSunrise';",
     "description": "Import FiSunrise Feather icon from @react-icons/all-files/fi/FiSunrise"
   },
@@ -3728,12 +3728,12 @@
   },
 
   "Import FiSunset (Feather)": {
-    "prefix": "ri:fi:import:sunset",
+    "prefix": "ri:import:fi:sunset",
     "body": "import { FiSunset } from 'react-icons/fi';",
     "description": "Import FiSunset Feather icon from react-icons"
   },
   "Import FiSunset (Feather) from all-files": {
-    "prefix": "ri:fi:import:sunset:all-files",
+    "prefix": "ri:import:fi:sunset:all-files",
     "body": "import { FiSunset } from '@react-icons/all-files/fi/FiSunset';",
     "description": "Import FiSunset Feather icon from @react-icons/all-files/fi/FiSunset"
   },
@@ -3744,12 +3744,12 @@
   },
 
   "Import FiTablet (Feather)": {
-    "prefix": "ri:fi:import:tablet",
+    "prefix": "ri:import:fi:tablet",
     "body": "import { FiTablet } from 'react-icons/fi';",
     "description": "Import FiTablet Feather icon from react-icons"
   },
   "Import FiTablet (Feather) from all-files": {
-    "prefix": "ri:fi:import:tablet:all-files",
+    "prefix": "ri:import:fi:tablet:all-files",
     "body": "import { FiTablet } from '@react-icons/all-files/fi/FiTablet';",
     "description": "Import FiTablet Feather icon from @react-icons/all-files/fi/FiTablet"
   },
@@ -3760,12 +3760,12 @@
   },
 
   "Import FiTag (Feather)": {
-    "prefix": "ri:fi:import:tag",
+    "prefix": "ri:import:fi:tag",
     "body": "import { FiTag } from 'react-icons/fi';",
     "description": "Import FiTag Feather icon from react-icons"
   },
   "Import FiTag (Feather) from all-files": {
-    "prefix": "ri:fi:import:tag:all-files",
+    "prefix": "ri:import:fi:tag:all-files",
     "body": "import { FiTag } from '@react-icons/all-files/fi/FiTag';",
     "description": "Import FiTag Feather icon from @react-icons/all-files/fi/FiTag"
   },
@@ -3776,12 +3776,12 @@
   },
 
   "Import FiTarget (Feather)": {
-    "prefix": "ri:fi:import:target",
+    "prefix": "ri:import:fi:target",
     "body": "import { FiTarget } from 'react-icons/fi';",
     "description": "Import FiTarget Feather icon from react-icons"
   },
   "Import FiTarget (Feather) from all-files": {
-    "prefix": "ri:fi:import:target:all-files",
+    "prefix": "ri:import:fi:target:all-files",
     "body": "import { FiTarget } from '@react-icons/all-files/fi/FiTarget';",
     "description": "Import FiTarget Feather icon from @react-icons/all-files/fi/FiTarget"
   },
@@ -3792,12 +3792,12 @@
   },
 
   "Import FiTerminal (Feather)": {
-    "prefix": "ri:fi:import:terminal",
+    "prefix": "ri:import:fi:terminal",
     "body": "import { FiTerminal } from 'react-icons/fi';",
     "description": "Import FiTerminal Feather icon from react-icons"
   },
   "Import FiTerminal (Feather) from all-files": {
-    "prefix": "ri:fi:import:terminal:all-files",
+    "prefix": "ri:import:fi:terminal:all-files",
     "body": "import { FiTerminal } from '@react-icons/all-files/fi/FiTerminal';",
     "description": "Import FiTerminal Feather icon from @react-icons/all-files/fi/FiTerminal"
   },
@@ -3808,12 +3808,12 @@
   },
 
   "Import FiThermometer (Feather)": {
-    "prefix": "ri:fi:import:thermometer",
+    "prefix": "ri:import:fi:thermometer",
     "body": "import { FiThermometer } from 'react-icons/fi';",
     "description": "Import FiThermometer Feather icon from react-icons"
   },
   "Import FiThermometer (Feather) from all-files": {
-    "prefix": "ri:fi:import:thermometer:all-files",
+    "prefix": "ri:import:fi:thermometer:all-files",
     "body": "import { FiThermometer } from '@react-icons/all-files/fi/FiThermometer';",
     "description": "Import FiThermometer Feather icon from @react-icons/all-files/fi/FiThermometer"
   },
@@ -3824,12 +3824,12 @@
   },
 
   "Import FiThumbsDown (Feather)": {
-    "prefix": "ri:fi:import:thumbs-down",
+    "prefix": "ri:import:fi:thumbs-down",
     "body": "import { FiThumbsDown } from 'react-icons/fi';",
     "description": "Import FiThumbsDown Feather icon from react-icons"
   },
   "Import FiThumbsDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:thumbs-down:all-files",
+    "prefix": "ri:import:fi:thumbs-down:all-files",
     "body": "import { FiThumbsDown } from '@react-icons/all-files/fi/FiThumbsDown';",
     "description": "Import FiThumbsDown Feather icon from @react-icons/all-files/fi/FiThumbsDown"
   },
@@ -3840,12 +3840,12 @@
   },
 
   "Import FiThumbsUp (Feather)": {
-    "prefix": "ri:fi:import:thumbs-up",
+    "prefix": "ri:import:fi:thumbs-up",
     "body": "import { FiThumbsUp } from 'react-icons/fi';",
     "description": "Import FiThumbsUp Feather icon from react-icons"
   },
   "Import FiThumbsUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:thumbs-up:all-files",
+    "prefix": "ri:import:fi:thumbs-up:all-files",
     "body": "import { FiThumbsUp } from '@react-icons/all-files/fi/FiThumbsUp';",
     "description": "Import FiThumbsUp Feather icon from @react-icons/all-files/fi/FiThumbsUp"
   },
@@ -3856,12 +3856,12 @@
   },
 
   "Import FiToggleLeft (Feather)": {
-    "prefix": "ri:fi:import:toggle-left",
+    "prefix": "ri:import:fi:toggle-left",
     "body": "import { FiToggleLeft } from 'react-icons/fi';",
     "description": "Import FiToggleLeft Feather icon from react-icons"
   },
   "Import FiToggleLeft (Feather) from all-files": {
-    "prefix": "ri:fi:import:toggle-left:all-files",
+    "prefix": "ri:import:fi:toggle-left:all-files",
     "body": "import { FiToggleLeft } from '@react-icons/all-files/fi/FiToggleLeft';",
     "description": "Import FiToggleLeft Feather icon from @react-icons/all-files/fi/FiToggleLeft"
   },
@@ -3872,12 +3872,12 @@
   },
 
   "Import FiToggleRight (Feather)": {
-    "prefix": "ri:fi:import:toggle-right",
+    "prefix": "ri:import:fi:toggle-right",
     "body": "import { FiToggleRight } from 'react-icons/fi';",
     "description": "Import FiToggleRight Feather icon from react-icons"
   },
   "Import FiToggleRight (Feather) from all-files": {
-    "prefix": "ri:fi:import:toggle-right:all-files",
+    "prefix": "ri:import:fi:toggle-right:all-files",
     "body": "import { FiToggleRight } from '@react-icons/all-files/fi/FiToggleRight';",
     "description": "Import FiToggleRight Feather icon from @react-icons/all-files/fi/FiToggleRight"
   },
@@ -3888,12 +3888,12 @@
   },
 
   "Import FiTool (Feather)": {
-    "prefix": "ri:fi:import:tool",
+    "prefix": "ri:import:fi:tool",
     "body": "import { FiTool } from 'react-icons/fi';",
     "description": "Import FiTool Feather icon from react-icons"
   },
   "Import FiTool (Feather) from all-files": {
-    "prefix": "ri:fi:import:tool:all-files",
+    "prefix": "ri:import:fi:tool:all-files",
     "body": "import { FiTool } from '@react-icons/all-files/fi/FiTool';",
     "description": "Import FiTool Feather icon from @react-icons/all-files/fi/FiTool"
   },
@@ -3904,12 +3904,12 @@
   },
 
   "Import FiTrash2 (Feather)": {
-    "prefix": "ri:fi:import:trash-2",
+    "prefix": "ri:import:fi:trash-2",
     "body": "import { FiTrash2 } from 'react-icons/fi';",
     "description": "Import FiTrash2 Feather icon from react-icons"
   },
   "Import FiTrash2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:trash-2:all-files",
+    "prefix": "ri:import:fi:trash-2:all-files",
     "body": "import { FiTrash2 } from '@react-icons/all-files/fi/FiTrash2';",
     "description": "Import FiTrash2 Feather icon from @react-icons/all-files/fi/FiTrash2"
   },
@@ -3920,12 +3920,12 @@
   },
 
   "Import FiTrash (Feather)": {
-    "prefix": "ri:fi:import:trash",
+    "prefix": "ri:import:fi:trash",
     "body": "import { FiTrash } from 'react-icons/fi';",
     "description": "Import FiTrash Feather icon from react-icons"
   },
   "Import FiTrash (Feather) from all-files": {
-    "prefix": "ri:fi:import:trash:all-files",
+    "prefix": "ri:import:fi:trash:all-files",
     "body": "import { FiTrash } from '@react-icons/all-files/fi/FiTrash';",
     "description": "Import FiTrash Feather icon from @react-icons/all-files/fi/FiTrash"
   },
@@ -3936,12 +3936,12 @@
   },
 
   "Import FiTrello (Feather)": {
-    "prefix": "ri:fi:import:trello",
+    "prefix": "ri:import:fi:trello",
     "body": "import { FiTrello } from 'react-icons/fi';",
     "description": "Import FiTrello Feather icon from react-icons"
   },
   "Import FiTrello (Feather) from all-files": {
-    "prefix": "ri:fi:import:trello:all-files",
+    "prefix": "ri:import:fi:trello:all-files",
     "body": "import { FiTrello } from '@react-icons/all-files/fi/FiTrello';",
     "description": "Import FiTrello Feather icon from @react-icons/all-files/fi/FiTrello"
   },
@@ -3952,12 +3952,12 @@
   },
 
   "Import FiTrendingDown (Feather)": {
-    "prefix": "ri:fi:import:trending-down",
+    "prefix": "ri:import:fi:trending-down",
     "body": "import { FiTrendingDown } from 'react-icons/fi';",
     "description": "Import FiTrendingDown Feather icon from react-icons"
   },
   "Import FiTrendingDown (Feather) from all-files": {
-    "prefix": "ri:fi:import:trending-down:all-files",
+    "prefix": "ri:import:fi:trending-down:all-files",
     "body": "import { FiTrendingDown } from '@react-icons/all-files/fi/FiTrendingDown';",
     "description": "Import FiTrendingDown Feather icon from @react-icons/all-files/fi/FiTrendingDown"
   },
@@ -3968,12 +3968,12 @@
   },
 
   "Import FiTrendingUp (Feather)": {
-    "prefix": "ri:fi:import:trending-up",
+    "prefix": "ri:import:fi:trending-up",
     "body": "import { FiTrendingUp } from 'react-icons/fi';",
     "description": "Import FiTrendingUp Feather icon from react-icons"
   },
   "Import FiTrendingUp (Feather) from all-files": {
-    "prefix": "ri:fi:import:trending-up:all-files",
+    "prefix": "ri:import:fi:trending-up:all-files",
     "body": "import { FiTrendingUp } from '@react-icons/all-files/fi/FiTrendingUp';",
     "description": "Import FiTrendingUp Feather icon from @react-icons/all-files/fi/FiTrendingUp"
   },
@@ -3984,12 +3984,12 @@
   },
 
   "Import FiTriangle (Feather)": {
-    "prefix": "ri:fi:import:triangle",
+    "prefix": "ri:import:fi:triangle",
     "body": "import { FiTriangle } from 'react-icons/fi';",
     "description": "Import FiTriangle Feather icon from react-icons"
   },
   "Import FiTriangle (Feather) from all-files": {
-    "prefix": "ri:fi:import:triangle:all-files",
+    "prefix": "ri:import:fi:triangle:all-files",
     "body": "import { FiTriangle } from '@react-icons/all-files/fi/FiTriangle';",
     "description": "Import FiTriangle Feather icon from @react-icons/all-files/fi/FiTriangle"
   },
@@ -4000,12 +4000,12 @@
   },
 
   "Import FiTruck (Feather)": {
-    "prefix": "ri:fi:import:truck",
+    "prefix": "ri:import:fi:truck",
     "body": "import { FiTruck } from 'react-icons/fi';",
     "description": "Import FiTruck Feather icon from react-icons"
   },
   "Import FiTruck (Feather) from all-files": {
-    "prefix": "ri:fi:import:truck:all-files",
+    "prefix": "ri:import:fi:truck:all-files",
     "body": "import { FiTruck } from '@react-icons/all-files/fi/FiTruck';",
     "description": "Import FiTruck Feather icon from @react-icons/all-files/fi/FiTruck"
   },
@@ -4016,12 +4016,12 @@
   },
 
   "Import FiTv (Feather)": {
-    "prefix": "ri:fi:import:tv",
+    "prefix": "ri:import:fi:tv",
     "body": "import { FiTv } from 'react-icons/fi';",
     "description": "Import FiTv Feather icon from react-icons"
   },
   "Import FiTv (Feather) from all-files": {
-    "prefix": "ri:fi:import:tv:all-files",
+    "prefix": "ri:import:fi:tv:all-files",
     "body": "import { FiTv } from '@react-icons/all-files/fi/FiTv';",
     "description": "Import FiTv Feather icon from @react-icons/all-files/fi/FiTv"
   },
@@ -4032,12 +4032,12 @@
   },
 
   "Import FiTwitch (Feather)": {
-    "prefix": "ri:fi:import:twitch",
+    "prefix": "ri:import:fi:twitch",
     "body": "import { FiTwitch } from 'react-icons/fi';",
     "description": "Import FiTwitch Feather icon from react-icons"
   },
   "Import FiTwitch (Feather) from all-files": {
-    "prefix": "ri:fi:import:twitch:all-files",
+    "prefix": "ri:import:fi:twitch:all-files",
     "body": "import { FiTwitch } from '@react-icons/all-files/fi/FiTwitch';",
     "description": "Import FiTwitch Feather icon from @react-icons/all-files/fi/FiTwitch"
   },
@@ -4048,12 +4048,12 @@
   },
 
   "Import FiTwitter (Feather)": {
-    "prefix": "ri:fi:import:twitter",
+    "prefix": "ri:import:fi:twitter",
     "body": "import { FiTwitter } from 'react-icons/fi';",
     "description": "Import FiTwitter Feather icon from react-icons"
   },
   "Import FiTwitter (Feather) from all-files": {
-    "prefix": "ri:fi:import:twitter:all-files",
+    "prefix": "ri:import:fi:twitter:all-files",
     "body": "import { FiTwitter } from '@react-icons/all-files/fi/FiTwitter';",
     "description": "Import FiTwitter Feather icon from @react-icons/all-files/fi/FiTwitter"
   },
@@ -4064,12 +4064,12 @@
   },
 
   "Import FiType (Feather)": {
-    "prefix": "ri:fi:import:type",
+    "prefix": "ri:import:fi:type",
     "body": "import { FiType } from 'react-icons/fi';",
     "description": "Import FiType Feather icon from react-icons"
   },
   "Import FiType (Feather) from all-files": {
-    "prefix": "ri:fi:import:type:all-files",
+    "prefix": "ri:import:fi:type:all-files",
     "body": "import { FiType } from '@react-icons/all-files/fi/FiType';",
     "description": "Import FiType Feather icon from @react-icons/all-files/fi/FiType"
   },
@@ -4080,12 +4080,12 @@
   },
 
   "Import FiUmbrella (Feather)": {
-    "prefix": "ri:fi:import:umbrella",
+    "prefix": "ri:import:fi:umbrella",
     "body": "import { FiUmbrella } from 'react-icons/fi';",
     "description": "Import FiUmbrella Feather icon from react-icons"
   },
   "Import FiUmbrella (Feather) from all-files": {
-    "prefix": "ri:fi:import:umbrella:all-files",
+    "prefix": "ri:import:fi:umbrella:all-files",
     "body": "import { FiUmbrella } from '@react-icons/all-files/fi/FiUmbrella';",
     "description": "Import FiUmbrella Feather icon from @react-icons/all-files/fi/FiUmbrella"
   },
@@ -4096,12 +4096,12 @@
   },
 
   "Import FiUnderline (Feather)": {
-    "prefix": "ri:fi:import:underline",
+    "prefix": "ri:import:fi:underline",
     "body": "import { FiUnderline } from 'react-icons/fi';",
     "description": "Import FiUnderline Feather icon from react-icons"
   },
   "Import FiUnderline (Feather) from all-files": {
-    "prefix": "ri:fi:import:underline:all-files",
+    "prefix": "ri:import:fi:underline:all-files",
     "body": "import { FiUnderline } from '@react-icons/all-files/fi/FiUnderline';",
     "description": "Import FiUnderline Feather icon from @react-icons/all-files/fi/FiUnderline"
   },
@@ -4112,12 +4112,12 @@
   },
 
   "Import FiUnlock (Feather)": {
-    "prefix": "ri:fi:import:unlock",
+    "prefix": "ri:import:fi:unlock",
     "body": "import { FiUnlock } from 'react-icons/fi';",
     "description": "Import FiUnlock Feather icon from react-icons"
   },
   "Import FiUnlock (Feather) from all-files": {
-    "prefix": "ri:fi:import:unlock:all-files",
+    "prefix": "ri:import:fi:unlock:all-files",
     "body": "import { FiUnlock } from '@react-icons/all-files/fi/FiUnlock';",
     "description": "Import FiUnlock Feather icon from @react-icons/all-files/fi/FiUnlock"
   },
@@ -4128,12 +4128,12 @@
   },
 
   "Import FiUploadCloud (Feather)": {
-    "prefix": "ri:fi:import:upload-cloud",
+    "prefix": "ri:import:fi:upload-cloud",
     "body": "import { FiUploadCloud } from 'react-icons/fi';",
     "description": "Import FiUploadCloud Feather icon from react-icons"
   },
   "Import FiUploadCloud (Feather) from all-files": {
-    "prefix": "ri:fi:import:upload-cloud:all-files",
+    "prefix": "ri:import:fi:upload-cloud:all-files",
     "body": "import { FiUploadCloud } from '@react-icons/all-files/fi/FiUploadCloud';",
     "description": "Import FiUploadCloud Feather icon from @react-icons/all-files/fi/FiUploadCloud"
   },
@@ -4144,12 +4144,12 @@
   },
 
   "Import FiUpload (Feather)": {
-    "prefix": "ri:fi:import:upload",
+    "prefix": "ri:import:fi:upload",
     "body": "import { FiUpload } from 'react-icons/fi';",
     "description": "Import FiUpload Feather icon from react-icons"
   },
   "Import FiUpload (Feather) from all-files": {
-    "prefix": "ri:fi:import:upload:all-files",
+    "prefix": "ri:import:fi:upload:all-files",
     "body": "import { FiUpload } from '@react-icons/all-files/fi/FiUpload';",
     "description": "Import FiUpload Feather icon from @react-icons/all-files/fi/FiUpload"
   },
@@ -4160,12 +4160,12 @@
   },
 
   "Import FiUserCheck (Feather)": {
-    "prefix": "ri:fi:import:user-check",
+    "prefix": "ri:import:fi:user-check",
     "body": "import { FiUserCheck } from 'react-icons/fi';",
     "description": "Import FiUserCheck Feather icon from react-icons"
   },
   "Import FiUserCheck (Feather) from all-files": {
-    "prefix": "ri:fi:import:user-check:all-files",
+    "prefix": "ri:import:fi:user-check:all-files",
     "body": "import { FiUserCheck } from '@react-icons/all-files/fi/FiUserCheck';",
     "description": "Import FiUserCheck Feather icon from @react-icons/all-files/fi/FiUserCheck"
   },
@@ -4176,12 +4176,12 @@
   },
 
   "Import FiUserMinus (Feather)": {
-    "prefix": "ri:fi:import:user-minus",
+    "prefix": "ri:import:fi:user-minus",
     "body": "import { FiUserMinus } from 'react-icons/fi';",
     "description": "Import FiUserMinus Feather icon from react-icons"
   },
   "Import FiUserMinus (Feather) from all-files": {
-    "prefix": "ri:fi:import:user-minus:all-files",
+    "prefix": "ri:import:fi:user-minus:all-files",
     "body": "import { FiUserMinus } from '@react-icons/all-files/fi/FiUserMinus';",
     "description": "Import FiUserMinus Feather icon from @react-icons/all-files/fi/FiUserMinus"
   },
@@ -4192,12 +4192,12 @@
   },
 
   "Import FiUserPlus (Feather)": {
-    "prefix": "ri:fi:import:user-plus",
+    "prefix": "ri:import:fi:user-plus",
     "body": "import { FiUserPlus } from 'react-icons/fi';",
     "description": "Import FiUserPlus Feather icon from react-icons"
   },
   "Import FiUserPlus (Feather) from all-files": {
-    "prefix": "ri:fi:import:user-plus:all-files",
+    "prefix": "ri:import:fi:user-plus:all-files",
     "body": "import { FiUserPlus } from '@react-icons/all-files/fi/FiUserPlus';",
     "description": "Import FiUserPlus Feather icon from @react-icons/all-files/fi/FiUserPlus"
   },
@@ -4208,12 +4208,12 @@
   },
 
   "Import FiUserX (Feather)": {
-    "prefix": "ri:fi:import:user-x",
+    "prefix": "ri:import:fi:user-x",
     "body": "import { FiUserX } from 'react-icons/fi';",
     "description": "Import FiUserX Feather icon from react-icons"
   },
   "Import FiUserX (Feather) from all-files": {
-    "prefix": "ri:fi:import:user-x:all-files",
+    "prefix": "ri:import:fi:user-x:all-files",
     "body": "import { FiUserX } from '@react-icons/all-files/fi/FiUserX';",
     "description": "Import FiUserX Feather icon from @react-icons/all-files/fi/FiUserX"
   },
@@ -4224,12 +4224,12 @@
   },
 
   "Import FiUser (Feather)": {
-    "prefix": "ri:fi:import:user",
+    "prefix": "ri:import:fi:user",
     "body": "import { FiUser } from 'react-icons/fi';",
     "description": "Import FiUser Feather icon from react-icons"
   },
   "Import FiUser (Feather) from all-files": {
-    "prefix": "ri:fi:import:user:all-files",
+    "prefix": "ri:import:fi:user:all-files",
     "body": "import { FiUser } from '@react-icons/all-files/fi/FiUser';",
     "description": "Import FiUser Feather icon from @react-icons/all-files/fi/FiUser"
   },
@@ -4240,12 +4240,12 @@
   },
 
   "Import FiUsers (Feather)": {
-    "prefix": "ri:fi:import:users",
+    "prefix": "ri:import:fi:users",
     "body": "import { FiUsers } from 'react-icons/fi';",
     "description": "Import FiUsers Feather icon from react-icons"
   },
   "Import FiUsers (Feather) from all-files": {
-    "prefix": "ri:fi:import:users:all-files",
+    "prefix": "ri:import:fi:users:all-files",
     "body": "import { FiUsers } from '@react-icons/all-files/fi/FiUsers';",
     "description": "Import FiUsers Feather icon from @react-icons/all-files/fi/FiUsers"
   },
@@ -4256,12 +4256,12 @@
   },
 
   "Import FiVideoOff (Feather)": {
-    "prefix": "ri:fi:import:video-off",
+    "prefix": "ri:import:fi:video-off",
     "body": "import { FiVideoOff } from 'react-icons/fi';",
     "description": "Import FiVideoOff Feather icon from react-icons"
   },
   "Import FiVideoOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:video-off:all-files",
+    "prefix": "ri:import:fi:video-off:all-files",
     "body": "import { FiVideoOff } from '@react-icons/all-files/fi/FiVideoOff';",
     "description": "Import FiVideoOff Feather icon from @react-icons/all-files/fi/FiVideoOff"
   },
@@ -4272,12 +4272,12 @@
   },
 
   "Import FiVideo (Feather)": {
-    "prefix": "ri:fi:import:video",
+    "prefix": "ri:import:fi:video",
     "body": "import { FiVideo } from 'react-icons/fi';",
     "description": "Import FiVideo Feather icon from react-icons"
   },
   "Import FiVideo (Feather) from all-files": {
-    "prefix": "ri:fi:import:video:all-files",
+    "prefix": "ri:import:fi:video:all-files",
     "body": "import { FiVideo } from '@react-icons/all-files/fi/FiVideo';",
     "description": "Import FiVideo Feather icon from @react-icons/all-files/fi/FiVideo"
   },
@@ -4288,12 +4288,12 @@
   },
 
   "Import FiVoicemail (Feather)": {
-    "prefix": "ri:fi:import:voicemail",
+    "prefix": "ri:import:fi:voicemail",
     "body": "import { FiVoicemail } from 'react-icons/fi';",
     "description": "Import FiVoicemail Feather icon from react-icons"
   },
   "Import FiVoicemail (Feather) from all-files": {
-    "prefix": "ri:fi:import:voicemail:all-files",
+    "prefix": "ri:import:fi:voicemail:all-files",
     "body": "import { FiVoicemail } from '@react-icons/all-files/fi/FiVoicemail';",
     "description": "Import FiVoicemail Feather icon from @react-icons/all-files/fi/FiVoicemail"
   },
@@ -4304,12 +4304,12 @@
   },
 
   "Import FiVolume1 (Feather)": {
-    "prefix": "ri:fi:import:volume-1",
+    "prefix": "ri:import:fi:volume-1",
     "body": "import { FiVolume1 } from 'react-icons/fi';",
     "description": "Import FiVolume1 Feather icon from react-icons"
   },
   "Import FiVolume1 (Feather) from all-files": {
-    "prefix": "ri:fi:import:volume-1:all-files",
+    "prefix": "ri:import:fi:volume-1:all-files",
     "body": "import { FiVolume1 } from '@react-icons/all-files/fi/FiVolume1';",
     "description": "Import FiVolume1 Feather icon from @react-icons/all-files/fi/FiVolume1"
   },
@@ -4320,12 +4320,12 @@
   },
 
   "Import FiVolume2 (Feather)": {
-    "prefix": "ri:fi:import:volume-2",
+    "prefix": "ri:import:fi:volume-2",
     "body": "import { FiVolume2 } from 'react-icons/fi';",
     "description": "Import FiVolume2 Feather icon from react-icons"
   },
   "Import FiVolume2 (Feather) from all-files": {
-    "prefix": "ri:fi:import:volume-2:all-files",
+    "prefix": "ri:import:fi:volume-2:all-files",
     "body": "import { FiVolume2 } from '@react-icons/all-files/fi/FiVolume2';",
     "description": "Import FiVolume2 Feather icon from @react-icons/all-files/fi/FiVolume2"
   },
@@ -4336,12 +4336,12 @@
   },
 
   "Import FiVolumeX (Feather)": {
-    "prefix": "ri:fi:import:volume-x",
+    "prefix": "ri:import:fi:volume-x",
     "body": "import { FiVolumeX } from 'react-icons/fi';",
     "description": "Import FiVolumeX Feather icon from react-icons"
   },
   "Import FiVolumeX (Feather) from all-files": {
-    "prefix": "ri:fi:import:volume-x:all-files",
+    "prefix": "ri:import:fi:volume-x:all-files",
     "body": "import { FiVolumeX } from '@react-icons/all-files/fi/FiVolumeX';",
     "description": "Import FiVolumeX Feather icon from @react-icons/all-files/fi/FiVolumeX"
   },
@@ -4352,12 +4352,12 @@
   },
 
   "Import FiVolume (Feather)": {
-    "prefix": "ri:fi:import:volume",
+    "prefix": "ri:import:fi:volume",
     "body": "import { FiVolume } from 'react-icons/fi';",
     "description": "Import FiVolume Feather icon from react-icons"
   },
   "Import FiVolume (Feather) from all-files": {
-    "prefix": "ri:fi:import:volume:all-files",
+    "prefix": "ri:import:fi:volume:all-files",
     "body": "import { FiVolume } from '@react-icons/all-files/fi/FiVolume';",
     "description": "Import FiVolume Feather icon from @react-icons/all-files/fi/FiVolume"
   },
@@ -4368,12 +4368,12 @@
   },
 
   "Import FiWatch (Feather)": {
-    "prefix": "ri:fi:import:watch",
+    "prefix": "ri:import:fi:watch",
     "body": "import { FiWatch } from 'react-icons/fi';",
     "description": "Import FiWatch Feather icon from react-icons"
   },
   "Import FiWatch (Feather) from all-files": {
-    "prefix": "ri:fi:import:watch:all-files",
+    "prefix": "ri:import:fi:watch:all-files",
     "body": "import { FiWatch } from '@react-icons/all-files/fi/FiWatch';",
     "description": "Import FiWatch Feather icon from @react-icons/all-files/fi/FiWatch"
   },
@@ -4384,12 +4384,12 @@
   },
 
   "Import FiWifiOff (Feather)": {
-    "prefix": "ri:fi:import:wifi-off",
+    "prefix": "ri:import:fi:wifi-off",
     "body": "import { FiWifiOff } from 'react-icons/fi';",
     "description": "Import FiWifiOff Feather icon from react-icons"
   },
   "Import FiWifiOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:wifi-off:all-files",
+    "prefix": "ri:import:fi:wifi-off:all-files",
     "body": "import { FiWifiOff } from '@react-icons/all-files/fi/FiWifiOff';",
     "description": "Import FiWifiOff Feather icon from @react-icons/all-files/fi/FiWifiOff"
   },
@@ -4400,12 +4400,12 @@
   },
 
   "Import FiWifi (Feather)": {
-    "prefix": "ri:fi:import:wifi",
+    "prefix": "ri:import:fi:wifi",
     "body": "import { FiWifi } from 'react-icons/fi';",
     "description": "Import FiWifi Feather icon from react-icons"
   },
   "Import FiWifi (Feather) from all-files": {
-    "prefix": "ri:fi:import:wifi:all-files",
+    "prefix": "ri:import:fi:wifi:all-files",
     "body": "import { FiWifi } from '@react-icons/all-files/fi/FiWifi';",
     "description": "Import FiWifi Feather icon from @react-icons/all-files/fi/FiWifi"
   },
@@ -4416,12 +4416,12 @@
   },
 
   "Import FiWind (Feather)": {
-    "prefix": "ri:fi:import:wind",
+    "prefix": "ri:import:fi:wind",
     "body": "import { FiWind } from 'react-icons/fi';",
     "description": "Import FiWind Feather icon from react-icons"
   },
   "Import FiWind (Feather) from all-files": {
-    "prefix": "ri:fi:import:wind:all-files",
+    "prefix": "ri:import:fi:wind:all-files",
     "body": "import { FiWind } from '@react-icons/all-files/fi/FiWind';",
     "description": "Import FiWind Feather icon from @react-icons/all-files/fi/FiWind"
   },
@@ -4432,12 +4432,12 @@
   },
 
   "Import FiXCircle (Feather)": {
-    "prefix": "ri:fi:import:x-circle",
+    "prefix": "ri:import:fi:x-circle",
     "body": "import { FiXCircle } from 'react-icons/fi';",
     "description": "Import FiXCircle Feather icon from react-icons"
   },
   "Import FiXCircle (Feather) from all-files": {
-    "prefix": "ri:fi:import:x-circle:all-files",
+    "prefix": "ri:import:fi:x-circle:all-files",
     "body": "import { FiXCircle } from '@react-icons/all-files/fi/FiXCircle';",
     "description": "Import FiXCircle Feather icon from @react-icons/all-files/fi/FiXCircle"
   },
@@ -4448,12 +4448,12 @@
   },
 
   "Import FiXOctagon (Feather)": {
-    "prefix": "ri:fi:import:x-octagon",
+    "prefix": "ri:import:fi:x-octagon",
     "body": "import { FiXOctagon } from 'react-icons/fi';",
     "description": "Import FiXOctagon Feather icon from react-icons"
   },
   "Import FiXOctagon (Feather) from all-files": {
-    "prefix": "ri:fi:import:x-octagon:all-files",
+    "prefix": "ri:import:fi:x-octagon:all-files",
     "body": "import { FiXOctagon } from '@react-icons/all-files/fi/FiXOctagon';",
     "description": "Import FiXOctagon Feather icon from @react-icons/all-files/fi/FiXOctagon"
   },
@@ -4464,12 +4464,12 @@
   },
 
   "Import FiXSquare (Feather)": {
-    "prefix": "ri:fi:import:x-square",
+    "prefix": "ri:import:fi:x-square",
     "body": "import { FiXSquare } from 'react-icons/fi';",
     "description": "Import FiXSquare Feather icon from react-icons"
   },
   "Import FiXSquare (Feather) from all-files": {
-    "prefix": "ri:fi:import:x-square:all-files",
+    "prefix": "ri:import:fi:x-square:all-files",
     "body": "import { FiXSquare } from '@react-icons/all-files/fi/FiXSquare';",
     "description": "Import FiXSquare Feather icon from @react-icons/all-files/fi/FiXSquare"
   },
@@ -4480,12 +4480,12 @@
   },
 
   "Import FiX (Feather)": {
-    "prefix": "ri:fi:import:x",
+    "prefix": "ri:import:fi:x",
     "body": "import { FiX } from 'react-icons/fi';",
     "description": "Import FiX Feather icon from react-icons"
   },
   "Import FiX (Feather) from all-files": {
-    "prefix": "ri:fi:import:x:all-files",
+    "prefix": "ri:import:fi:x:all-files",
     "body": "import { FiX } from '@react-icons/all-files/fi/FiX';",
     "description": "Import FiX Feather icon from @react-icons/all-files/fi/FiX"
   },
@@ -4496,12 +4496,12 @@
   },
 
   "Import FiYoutube (Feather)": {
-    "prefix": "ri:fi:import:youtube",
+    "prefix": "ri:import:fi:youtube",
     "body": "import { FiYoutube } from 'react-icons/fi';",
     "description": "Import FiYoutube Feather icon from react-icons"
   },
   "Import FiYoutube (Feather) from all-files": {
-    "prefix": "ri:fi:import:youtube:all-files",
+    "prefix": "ri:import:fi:youtube:all-files",
     "body": "import { FiYoutube } from '@react-icons/all-files/fi/FiYoutube';",
     "description": "Import FiYoutube Feather icon from @react-icons/all-files/fi/FiYoutube"
   },
@@ -4512,12 +4512,12 @@
   },
 
   "Import FiZapOff (Feather)": {
-    "prefix": "ri:fi:import:zap-off",
+    "prefix": "ri:import:fi:zap-off",
     "body": "import { FiZapOff } from 'react-icons/fi';",
     "description": "Import FiZapOff Feather icon from react-icons"
   },
   "Import FiZapOff (Feather) from all-files": {
-    "prefix": "ri:fi:import:zap-off:all-files",
+    "prefix": "ri:import:fi:zap-off:all-files",
     "body": "import { FiZapOff } from '@react-icons/all-files/fi/FiZapOff';",
     "description": "Import FiZapOff Feather icon from @react-icons/all-files/fi/FiZapOff"
   },
@@ -4528,12 +4528,12 @@
   },
 
   "Import FiZap (Feather)": {
-    "prefix": "ri:fi:import:zap",
+    "prefix": "ri:import:fi:zap",
     "body": "import { FiZap } from 'react-icons/fi';",
     "description": "Import FiZap Feather icon from react-icons"
   },
   "Import FiZap (Feather) from all-files": {
-    "prefix": "ri:fi:import:zap:all-files",
+    "prefix": "ri:import:fi:zap:all-files",
     "body": "import { FiZap } from '@react-icons/all-files/fi/FiZap';",
     "description": "Import FiZap Feather icon from @react-icons/all-files/fi/FiZap"
   },
@@ -4544,12 +4544,12 @@
   },
 
   "Import FiZoomIn (Feather)": {
-    "prefix": "ri:fi:import:zoom-in",
+    "prefix": "ri:import:fi:zoom-in",
     "body": "import { FiZoomIn } from 'react-icons/fi';",
     "description": "Import FiZoomIn Feather icon from react-icons"
   },
   "Import FiZoomIn (Feather) from all-files": {
-    "prefix": "ri:fi:import:zoom-in:all-files",
+    "prefix": "ri:import:fi:zoom-in:all-files",
     "body": "import { FiZoomIn } from '@react-icons/all-files/fi/FiZoomIn';",
     "description": "Import FiZoomIn Feather icon from @react-icons/all-files/fi/FiZoomIn"
   },
@@ -4560,12 +4560,12 @@
   },
 
   "Import FiZoomOut (Feather)": {
-    "prefix": "ri:fi:import:zoom-out",
+    "prefix": "ri:import:fi:zoom-out",
     "body": "import { FiZoomOut } from 'react-icons/fi';",
     "description": "Import FiZoomOut Feather icon from react-icons"
   },
   "Import FiZoomOut (Feather) from all-files": {
-    "prefix": "ri:fi:import:zoom-out:all-files",
+    "prefix": "ri:import:fi:zoom-out:all-files",
     "body": "import { FiZoomOut } from '@react-icons/all-files/fi/FiZoomOut';",
     "description": "Import FiZoomOut Feather icon from @react-icons/all-files/fi/FiZoomOut"
   },

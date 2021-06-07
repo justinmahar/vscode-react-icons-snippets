@@ -17,3 +17,7 @@ All notable changes to the "react-icons-snippets" extension will be documented i
 ### [1.0.3] - 2021-06-07
 
 - Update gifs, description, and docs.
+
+### [1.0.4] - 2021-06-07
+
+- Update docs.

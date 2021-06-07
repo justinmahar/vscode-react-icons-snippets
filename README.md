@@ -115,3 +115,7 @@ Happy coding 🖖
 ### [1.0.3] - 2021-06-07
 
 - Update gifs, description, and docs.
+
+### [1.0.4] - 2021-06-07
+
+- Update docs.

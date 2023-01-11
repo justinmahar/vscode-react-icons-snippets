@@ -21,3 +21,7 @@ All notable changes to the "react-icons-snippets" extension will be documented i
 ### [1.0.4] - 2021-06-07
 
 - Update docs.
+
+### [1.0.5] - 2023-01-11
+
+- Extension deprecated and no longer being maintained.

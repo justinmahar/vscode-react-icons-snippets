@@ -1,6 +1,8 @@
-# React-Icons Snippets
+# ⛔ DEPRECATION NOTICE
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/justinmahar.react-icons-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-icons-snippets)
+### ⛔ This extension has been deprecated and is no longer being maintained.
+
+## React-Icons Snippets
 
 This extension includes 54,168 [React-Icons](https://react-icons.github.io/react-icons) snippets for VS Code. 
 
@@ -19,8 +21,6 @@ Use a library prefix to filter by library. For example, `ri:fa:book`, `ri:im:use
 ![Demo](./images/demo.gif)
 
 Read below for more information.
-
-> Loving it? **[Rate it here!](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-icons-snippets&ssr=false#review-details)**
 
 ## 📚 Supported languages (file extensions)
 - JavaScript (.js)
@@ -84,16 +84,6 @@ For example, `ri:import:fa:book:all-files` will import `FaBook` from Font Awesom
 
 ![Imports](./images/imports.gif)
 
-## A Note To You, The Developer
-
-My goal was to make this one of the best snippets extensions available to you. As such, I spent countless hours making this as great as I could, and I truly hope you find it useful.
-
-That being said, if you find a bug or see a way to improve this extension, please feel free to [open an issue](https://github.com/justinmahar/vscode-react-icons-snippets/issues) or submit a [pull request to the project](https://github.com/justinmahar/vscode-react-icons-snippets).
-
-If you found this extension helpful, consider **[rating it](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-icons-snippets&ssr=false#review-details)** and **[give it a star](https://github.com/justinmahar/vscode-react-icons-snippets)** so others can find it.
-
-Happy coding 🖖
-
 ## You Might Also Like...
 
 - [React-Bootstrap Snippets](https://marketplace.visualstudio.com/items?itemName=justinmahar.react-bootstrap-snippets) - Code snippets for React-Bootstrap
@@ -119,3 +109,7 @@ Happy coding 🖖
 ### [1.0.4] - 2021-06-07
 
 - Update docs.
+
+### [1.0.5] - 2023-01-11
+
+- Extension deprecated and no longer being maintained.
